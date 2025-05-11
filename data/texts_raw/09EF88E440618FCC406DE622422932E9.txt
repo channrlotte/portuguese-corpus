@@ -1,0 +1,1623 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+A definição de Deus na Ética de Spinoza
+
+
+        
+            
+                
+            
+        
+
+    
+
+
+
+A
+definição de Deus na Ética de Spinoza
+
+
+ 
+
+
+Emanuel
+Angelo da Rocha Fragoso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introdução
+
+
+1 A
+estrutura da Ética3
+
+
+1.1 A
+estrutura interna das partes da Ética
+
+
+2 Os
+fundamentos da parte 1 da Ética
+
+
+2.1 As
+definições da parte 1 da Ética
+
+
+2.2 A
+natureza das definições
+
+
+2.3 A
+classificação das definições da parte 1
+
+
+2.4 A lógica
+das definições da parte 1
+
+
+2.5 A
+definição inicial: Causa Sui
+
+
+2.6 A
+definição de Deus
+
+
+2.6.1 Do
+Pluralismo ao Monismo substancial
+
+
+2.6.2 O
+Monismo substancial
+
+
+2.6.3 Do
+Monismo substancial ao Monismo Absoluto
+
+
+2.6.3.1 Deus
+como a única substância
+
+
+2.6.3.2 Deus
+como causa imanente de tudo o que existe
+
+
+2.7 Deus
+como Natureza Naturante
+
+
+2.7.1
+Relação Substância-Atributo
+
+
+2.8 Deus
+como Natureza Naturada
+
+
+Referências
+Bibliográficas
+
+
+Notas
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Introdução
+
+
+A obra magna de Benedictus de Spinoza, a Ética1 – Demonstrada em ordem Geométrica
+não é um livro puramente teórico. Como o próprio título sugere, ela tem também
+uma vertente prática: a liberdade ou a beatitude da mente. Na verdade, esta
+obra não é mais do que a descrição ou prescrição do longo e árduo percurso do
+ser humano em busca da sua verdadeira liberdade, pois, trata-se da passagem, ou
+da superação a partir do conhecimento, de um estado cotidiano de submissão às
+paixões, ou de escravo das paixões, a um estado de felicidade contínua e
+suprema, ou seja, à beatitude. Esta por sua vez, mais do que um fim a se
+atingir, é um fim que vale por si próprio e não a recompensa por alguma ação
+virtuosa. Sobre aquela afirmativa e esta última, escreve Spinoza, respectivamente,
+na proposição 42 da parte 5 da Ética: “A beatitude não é o prêmio da
+virtude, mas a própria virtude; [...]” (E5P42)2;
+e no prólogo do TIE: “[...] investigar se existia algo que fosse um bem
+verdadeiro e capaz de comunicar-se, e de tal natureza que, por si só,
+rechaçados todos os demais, afetar o ânimo; mais
+ainda, se existia algo que, achado e adquirido, me desse para sempre o gozo
+de uma alegria contínua e suprema.” (TIE, § 1, grifo nosso). E é pela noção
+de virtude, dada na definição 8, da parte 4 da Ética: “[...] a virtude,
+enquanto se refere ao homem, é a própria essência ou natureza do homem,
+enquanto tem o poder de fazer algumas coisas que só podem ser compreendidas
+pelas leis da própria natureza.” (E4Def8), que a divisão entre a teoria e a
+prática é anulada: é o conhecimento do vínculo que me une de modo intemporal
+com a natureza e com tudo o que existe que constitui a virtude suprema, ou
+seja, minha consciência da necessidade universal.
+
+
+Podemos compreender melhor isto a partir de um esboço geral
+da composição da Ética e das partes que a compõem.
+
+
+
+
+
+
+
+1
+A estrutura da Ética3
+
+
+A Ética como a conhecemos hoje foi publicada em Latim
+nas Opera Posthuma (OP) e em holandês nas Nagelate Schriften
+(NS), organizadas por seus amigos, vindo à
+luz no final do ano de 1677. Esta obra está dividida em cinco partes,
+sistematicamente articuladas entre elas, conforme o título geral posto no
+início: In quinque Partes distincta (SO2, p. 43). Para Pierre
+Macherey, o emprego do termo partes não foi uma escolha aleatória de Spinoza,
+mas tal escolha, além de remeter aos Elementos de Euclides, “[...] exprime a
+necessária integração entre os diferentes momentos do raciocínio seguido por
+Spinoza na organização global de um projeto unificado, [...]” (1997a, p. 17).
+
+
+A primeira parte da Ética é denominada simplesmente De Deo (De Deus); a segunda, De Natura &
+Origine Mentis (Da natureza e da origem da
+Mente); a terceira, De Origine & Natura Affectuum (Da natureza e da
+origem dos Afetos); a quarta, De Servitute Humana, seu de Affectuum Viribus
+(Da servidão humana ou da força dos Afetos); e finalmente a quinta, De
+Potentia Intellectus, seu de Libertate Humana (Da potência do Intelecto ou
+da liberdade humana).
+
+
+Na primeira parte, De Deo, trata-se de estabelecer os fundamentos ou os primeiros
+princípios do conhecimento, afirmando Deus como causa única e primeira. Mas o
+uso do termo Deus não é em absoluto empregado com o mesmo sentido em que é
+utilizado na tradição teológica judaico-cristã, pois não se trata aqui de
+afirmar o conceito ou os fundamentos de uma nova teologia, e sim de afirmar
+“[...] o verdadeiro conhecimento de Deus [...]” (E1P15S), “[...] manifestamente
+em ruptura com as representações tradicionais do divino, das quais Spinoza não
+se cansa de denunciar a ininteligibilidade.” (MACHEREY, 1998a, p. 9-10).
+
+
+Na segunda parte, De Natura & Origine Mentis,
+segundo explica o próprio autor numa breve Introdução, trata-se de explicar as
+coisas que deverão seguir-se necessariamente da essência de Deus, explicada na
+primeira parte. Entretanto, nem todas essas coisas serão objeto de explicação
+por parte do autor, mas tão somente aquelas que podem nos conduzir ao
+conhecimento da mente [mentis] humana e da sua beatitude suprema
+(E2Pref). Segundo Macherey (1998b, p. 5), esta parte “[...] é consagrada ao
+estudo das condições de funcionamento do regime mental considerado em geral,
+sem referência explícita, ao menos inicialmente, à natureza específica do
+homem, enquanto este regime mental é objetivamente determinado pelas leis que
+definem a ordem da realidade própria à coisa pensante em geral.”.
+
+
+Na terceira parte, De Origine & Natura Affectuum,
+um aspecto específico desse funcionamento é desenvolvido, aquele que
+corresponde ao domínio da afetividade propriamente dita, sem a vantagem
+referente ao contexto especial da existência humana, ou, como escreve Spinoza:
+“[...] determinar a natureza e a força dos afetos e, inversamente, o que pode a
+mente [mens] para orientá-las.” (E3Pref). Macherey (1998b, p. 5-6)
+ressalta a importância desta parte, ou melhor, sua necessidade, porque o homem
+não está fora da natureza e, enquanto pertencente à natureza, ele é afetado; é
+então necessário compreender como os afetos e as afecções se ordenam no homem,
+segundo a ordem natural e necessária. 
+
+
+Na quarta parte, De Servitute Humana, seu de Affectuum
+Viribus, trata-se de demonstrar a causa da servidão humana, definida muito
+mais em termos de impotência do submetido, do que em termos de potência do
+afeto, caracterizando os afetos, mostrando o que há de bom ou de mau neles. Por
+esta caracterização podem ser determinados quais são os afetos bons que devem
+ser cultivados e quais são os afetos que, ao contrário, devem ser
+transformados. 
+
+
+A quinta parte, De Potentia Intellectus, seu de Libertate
+Humana, é uma espécie de explicação final, ápice de tudo o que a precedeu,
+segundo os preceitos da Ordine geometrica demonstrata. Para Macherey
+(1997a, p. 26-27), esta parte expõe as condições da questão ética fundamental:
+a reconciliação do racional e do afetivo.
+
+
+1.1 A estrutura interna das
+partes da Ética
+
+
+A parte 1 da Ética está organizada em oito definições, sete axiomas
+e trinta e seis proposições, com suas respectivas demonstrações, escólios e
+corolários (quando presentes), além de um apêndice ao final, no qual Spinoza
+descreve a gênese e faz a crítica da ilusão finalista e das representações
+inadequadas da ordem das coisas que a acompanham.
+
+
+As definições desta
+parte versam sobre a causa de si ou causa sui (definição 1), a coisa finita em seu gênero
+(definição 2), a substância (definição 3), o atributo (definição 4), os modos
+(definição 5), Deus como absolutamente infinito (definição 6), a coisa livre ou
+a liberdade (definição 7) e a eternidade (definição 8). Os axiomas por sua vez,
+versam sobre o real ou tudo o que existe (axioma 1), concebido por si ou em
+outro (axioma 2), a necessidade de um efeito de uma dada causa (axioma 3), o
+conhecimento do efeito como dependendo do conhecimento da causa (axioma 4), só
+se pode compreender coisas que têm algo de comum ente si (axioma 5), a ideia
+verdadeira concorda com seu ideato (axioma 6) e a essência de uma coisa
+inexistente não envolve a existência (axioma 7).
+
+
+Considerando apenas o
+conteúdo posterior às definições e aos axiomas, Martial Gueroult (1997, v. 1,
+p. 19) divide esta primeira parte em três. A primeira divisão (proposições 1 a 15) é consagrada à construção da essência de Deus. E se subdivide em duas seções,
+sendo que a primeira (proposições 1 a 8) trata da dedução dos elementos da
+essência de Deus: a substância de um só atributo; e a segunda (proposições 9 a 15) constrói a essência de Deus por integração das substâncias a um só atributo em uma substância
+constituída de uma infinidade de atributos, existentes por si, indivisíveis e
+únicos. A segunda divisão (proposições 16 a 29) é consagrada à dedução da potência de Deus. Esta divisão, por sua vez, é igualmente subdividida em duas
+seções, compreendendo a primeira (proposições 16 a 20) a dedução de Deus como causa ou natureza Naturante e a segunda (proposições 21 a 29), a dedução de Deus como efeito ou natureza Naturada. A terceira e última divisão da parte 1
+(proposições 30 a 36), que é o seu ponto culminante, deduz Deus como identidade
+de sua essência e de sua potência, e a necessidade subsequente tanto de seus
+efeitos, quanto do modo de sua produção. 
+
+
+Para Macherey (1998a, p.
+271-275), o De Deo não necessita ser dividido em três partes,
+podendo ser perfeitamente dividida em duas. A primeira (proposições 1 a 15) versa sobre a natureza divina (que
+Deus é e aquilo que ele é), e se subdivide em duas partes: a primeira (proposições 1 a 10), versando sobre a substância e os atributos; a segunda (proposições
+ 11 a 15), versando sobre as propriedades (ou próprios) da natureza divina. A
+segunda divisão (proposições 16 a 36) versa sobre a potência divina (aquilo que Deus faz sendo dado o que ele é) e se subdivide em
+três seções. A primeira (proposições 16 a 20) versa sobre a natureza Naturante; a
+segunda (proposições 21 a 29) versa sobre a natureza Naturada; e, por fim, a terceira (proposições 30 a 36) versa sobre a identidade da natureza Naturante e da natureza Naturada que define a ordem das
+coisas: é a necessidade absoluta da ação divina cuja potência não pode se
+exercer de forma diferente da que é exercida. 
+
+
+A parte 2 da Ética está organizada em sete definições, cinco
+axiomas e quarenta e nove proposições, com suas respectivas demonstrações,
+escólios e corolários (quando presentes), bem como uma breve introdução antes
+das definições. A estas partes são acrescidos outros axiomas, em número de
+cinco, sete lemas, uma definição e seis postulados (intercalados entre as
+proposições 13 e 14).
+
+
+As definições iniciais
+desta parte 2 versam sobre os corpos (definição 1), a essência de uma coisa
+(definição 2), a ideia (definição 3), a ideia adequada (definição 4), a duração
+(definição 5), a realidade (definição 6) e as coisas singulares (definição 7).
+Os cinco axiomas iniciais descrevem as principais características do ser
+humano. Os axiomas, os lemas, a definição e os postulados intercalados entre a
+proposição 13 e a 14 não serão considerados em separado por Gueroult e nem por
+Macherey.
+
+
+Sem considerar as
+definições e axiomas iniciais, Gueroult (1997, v. 2, p. 12-13) identifica sete
+momentos principais nesta parte da Ética. O primeiro (proposições 1 a 13) consiste na dedução da essência do
+homem; o segundo (do escólio da proposição 13 até a proposição 23), na dedução
+da imaginação ou conhecimento do primeiro gênero; o terceiro (proposições 24 a 31), na dedução da natureza não adequada e confusa de todo conhecimento imaginativo; o quarto
+(proposições 32 a 36), na dedução da natureza do verdadeiro e do falso; o
+quinto (proposições 37 a 44), na dedução da razão ou conhecimento do segundo
+gênero (primeiro grau do conhecimento adequado); o sexto (proposições 45 a 47), na dedução da ciência intuitiva, ou conhecimento do terceiro gênero (segundo grau do
+conhecimento adequado); o sétimo e último (proposições 48 a 49), na dedução da vontade como potência de afirmação própria da ideia. 
+
+
+Macherey (1997c,
+p. 409-417) irá dividir o De
+Natura & Origine Mentis em apenas
+duas partes: a primeira (proposições 1 a 13) trata da mente (âme) enquanto ideia do corpo. Por sua vez,
+esta parte se subdivide em duas seções, sendo que a primeira (proposições 1 a 13) trata da natureza da mente, explicada a partir de sua origem, que é o pensamento como
+atributo de Deus; e a segunda (axiomas, lemas, definição e postulados
+intercalados entre as proposições 13 e 14) trata da natureza dos corpos em
+geral, e aquela do corpo humano em particular, explicados, a partir das
+determinações próprias da extensão (um resumo de física e de fisiologia). A
+segunda divisão desta parte 2, versando sobre as formas da atividade pensante,
+se subdivide em três partes: a primeira (proposições 14 a 31), versando sobre o conhecimento imediato; a segunda (proposições 32 a 47), sobre o conhecimento racional; e a terceira, proposições 48 (corolário) e 49 (corolário e
+escólio), sobre a passagem do conhecimento à ação: querer e compreender. 
+
+
+A parte 3 da Ética está organizada em três definições, dois
+postulados e cinquenta e nove proposições, com suas respectivas demonstrações,
+escólios e corolários (quando presentes). Além destas, tem como acréscimo um
+prefácio, um catálogo geral dos afetos (definições 1 a 48) e uma definição geral dos afetos ou recapitulação geral. No prefácio Spinoza explica que a
+afetividade, como sendo um fenômeno completamente natural, assim como todos os
+outros fenômenos naturais, deve ser explicada por suas causas. As definições
+versam sobre a causa adequada e causa inadequada (definição 1), agir e sofrer
+uma ação (definição 2) e afeto como as afecções do corpo (definição 3). Os dois
+postulados versam sobre as maneiras como pode o corpo humano ser afetado.
+
+
+Macherey (1998b,
+p. 407-414) vai dividi-la em seis partes: a
+primeira (proposições 1 a 11) trata da atividade e da passividade; a segunda
+(proposições 12 a 20), dos complexos afetivos e da formação da relação
+do objeto; a terceira (proposições 21 a 34), das figuras interpessoais da
+afetividade e o mimetismo afetivo; a quarta (proposições 35 a 47), dos conflitos afetivos; a quinta (proposições 48 a 57), dos
+acidentes e das variações da vida afetiva; por último, a sexta (proposições 58 a 59), dos afetos ativos. 
+
+
+A quarta parte da Ética está organizada em oito definições, um axioma e
+setenta e três proposições, além de um prefácio e um apêndice com trinta e dois
+capítulos, que para satisfazer as exigências da
+prática, recapitulam o conjunto de questões tratadas nesta parte 4, em função
+dos constrangimentos teóricos impostos pela ordem demonstrativa. As definições
+versam sobre o Bem (definição 1), o Mal (definição 2), o contingente (definição
+3), o possível (definição 4), os afetos contrários que arrastam o homem para
+direções diferentes, não por natureza, mas sim por acidente (definição 5), os
+afetos para com uma coisa futura, presente ou passada (definição 6), o apetite
+enquanto aquilo por cuja causa fazemos alguma coisa (definição 7) e virtude e
+potência (definição 8). O axioma versa sobre a potência de uma coisa singular
+sempre estar limitada por outra mais potente do que ela. No prefácio Spinoza
+define a servidão humana e analisa o Bem e o Mal, a perfeição e a imperfeição,
+bem como suas condições fixadas não pela razão, mas sim pela imaginação. 
+
+
+Macherey (1997b,
+p. 433-440) vai dividi-la em duas partes.
+Destas, a primeira (proposições 1 a 37) irá considerar os homens tais quais
+eles são, subdivida em três seções, versando a primeira (proposições 1 a 18) sobre as forças dos afetos; a segunda (proposições 19 a 28) versa sobre o fundamento natural da virtude; e a
+terceira (proposições 29 a 37) versará sobre o útil que é próprio ou adequado
+ao útil comum: a gênese da sociedade. A segunda divisão desta parte
+(proposições 38 a 73), que versa sobre as condições de uma racionalização da
+existência humana, também se divide em três seções: a primeira (proposições 38 a 58) versa sobre a avaliação comparada dos afetos humanos em função de sua utilidade, isto é, do
+grau de alegria e de tristeza que acompanha seu desenvolvimento; a segunda
+(proposições 59 a 66), sobre o controle racional dos apetites humanos; e, por
+fim, a terceira (proposições 67 a 73), sobre a vida dos homens livres. 
+
+
+A quinta parte da Ética está organizada em dois axiomas e quarenta e
+duas proposições, acrescidas de um prefácio. Os axiomas versam sobre a mudança
+que necessariamente ocorre com ações contrárias suscitadas num mesmo sujeito
+(axioma 1) e sobre a potência de um efeito ser necessariamente definida pela
+potência da causa, pois a essência do efeito é explicada pela essência da sua
+causa (axioma 2). No prefácio desta parte Spinoza trata do caminho que conduz à
+liberdade ou da potência da razão, define a liberdade ou a beatitude da mente e
+mostra qual é o poder da razão sobre os afetos.
+
+
+Macherey (1997a,
+p. 227-230) vai dividi-la em duas partes, a
+primeira (proposições 1 a 20), na qual trata dos remédios aos afetos, e a
+segunda (proposições 21 a 42), na qual trata da beatitude suprema. Estas partes
+serão por sua vez subdivididas em duas e quatro seções, respectivamente. A
+primeira delas (proposições 1 a 10) versa sobre a terapia psicofisiológica; a
+segunda (proposições 11 a 20), sobre uma nova arte de amar: o amor que tem Deus
+por objeto. Já a primeira seção da segunda divisão (proposições 21 a 31) trata da ciência intuitiva e o ponto de vista da eternidade; a segunda (proposições 32 a 37) trata do amor intelectual de Deus; a terceira (proposições 38 a 40) trata da liberação do espírito; e, por fim, a quarta e última (proposições 41 a 42) trata da ética no cotidiano. 
+
+
+
+
+
+
+
+2 Os fundamentos da parte 1 da Ética
+
+
+Por
+ser a parte fundante do sistema spinozista, iremos agora analisar mais
+detidamente os elementos que fundamentam o De Deo e, em última instância,
+toda a Ética, ou seja, as definições iniciais de todo o sistema.
+Iniciaremos nossa análise conceituando a definição, ou seja, o que Spinoza
+considera uma definição. A seguir iremos considerar a natureza, a classificação
+e a lógica das definições da parte 1. Na sequência faremos uma análise mais
+detida da definição que abre a Ética, a definição de causa sui ou
+causa de si e da sexta definição da parte 1, ou a definição de Deus. Por fim
+iremos expor e tecer considerações sobre Deus como Natureza Naturante e deus
+como Natureza Naturada, ou seja, Deus enquanto causa e Deus enquanto efeito.  
+
+
+
+
+
+
+
+2.1 As definições da parte 1 da Ética
+
+
+A parte 1 inicia-se com oito definições. São elas, a
+definição de causa sui (1), a de coisa finita em seu gênero (2), a de
+substância (3), a de atributo (4), a de modo (5), a de Deus (6), a de coisa
+livre (7) e a de eternidade (8), respectivamente. Dentre as definições, sete
+foram escritas como notae per se, isto é, princípios universalmente
+aceitos, evidentes e indemonstráveis que podem ser considerados a base de nosso
+raciocínio. Destas sete definições notae per se, três definem os
+critérios da substancialidade (definição 3), do atributo (definição 4) e do
+modo (definição 5); as quatro restantes deste grupo definem as propriedades: causa
+sui (definição 1), finitude em seu gênero (definição 2), eternidade
+(definição 8) e liberdade (definição 7). 
+
+
+Considerando o subtítulo da Ética, Ordine
+geometrico demonstrata, Maria Carmen Casillas Guisado afirma que o método
+empregado na obra é dedutivo. A definição, enquanto um dos constituintes dos
+sistemas dedutivos deve determinar “[...] o significado de novos termos com
+ajuda dos termos primitivos ou de outras expressões já definidas.” (1999, p.
+202), e “[...] devem aclarar por completo o sentido dos conceitos definidos,
+estabelecendo o seu significado.” (Ibid., p. 202). Além disso, a definição
+consiste em enunciar o que caracteriza essencialmente uma coisa, o que faz a
+coisa ser definida a ser o que ela é; ou, como escreve Spinoza: “[...] a verdadeira
+definição de cada coisa não envolve e não exprime senão a natureza da coisa
+definida.” (E1P8S2).
+
+
+Na Carta 9, endereçada a Simon de Vries, Spinoza
+distingue dois gêneros de definição: “[...] a definição que serve para explicar
+uma coisa, da qual só se busca a essência, pois somente desta se duvida, e uma
+definição proposta para ser somente examinada.” (Ep 9, SO4, p. 42). O primeiro
+gênero “[...] explica a coisa tal como é fora do entendimento, [...]” (Ibid.,
+p. 43), e o segundo “[...] explica as coisas tais como são concebidas ou podem
+ser concebidas por nós, [...]” (Ibid., p. 43-44). Enquanto das definições do
+primeiro gênero, por serem representações de coisas determinadas, pode-se
+predicar “[...] a verdade ou a falsidade, e para que seja uma boa definição há
+de ser verdadeira; é o denominado ‘critério de correspondência’, entre o que
+diz uma sentença e o que ocorre na realidade deve existir uma relação de
+adequação ou satisfação.” (GUISADO, 1999, p. 206), das definições do segundo
+gênero, por serem simples modos do pensamento sem correspondência exterior,
+neste gênero de definições não é posta em questão a verdade ou não do que foi
+concebido, ou seja, não se pode exigir “[...] a verdade como correspondência,
+mas sim que seja concebível a definição e o objeto definido [...]” (Ibid., p.
+206). Em outros termos: no primeiro gênero, as definições são representações, e
+como tais têm um objeto determinado, cuja “[...] concebibilidade, agora, não
+concerne mais simplesmente à coerência interior de nosso pensamento, mas à
+possibilidade intrínseca da coisa representada.” (GUEROULT, 1997, v. 1, p. 23).
+E, no segundo gênero, por não serem representações, as definições são apenas
+concepções internas ao pensamento sem correspondência exterior, a
+concebibilidade “[...] é puramente subjetiva, ela concerne somente a
+não-contradição interna de nosso pensamento, [...]” (Ibid., p. 23).
+
+
+Nesta mesma Carta, Spinoza cita e analisa o exemplo
+de uma “má Definição”, a definição de Borelli: “[...] alguém disse que duas
+linhas retas que encerram um espaço são ditas figuráveis.” (Ep 9, SO4, p. 44).
+Se nesta definição os termos “linhas retas” estão sendo empregados no sentido
+usado habitualmente pelos geômetras, teremos uma má definição porque ela
+estaria atribuindo uma natureza inconcebível em si mesma à coisa: o espaço
+encerrado entre duas retas. Ora, de acordo com os conceitos acordes pela
+Geometria, duas retas podem fazer um ângulo qualquer, caso se cruze, mas nunca
+encerrarão um espaço. Além de ser uma má definição, ela seria, também, necessariamente
+falsa, visto não poder ser conforme a natureza da coisa definida. Explicitando
+estas duas razões, pode-se afirmar que a definição é formulada com termos de
+sentido diverso do sentido usual em que estes termos são utilizados (má
+denominação) e se aplica a algo que é inconcebível, caso seja observado o
+sentido usual dos termos empregados: um espaço encerrado por duas retas
+(inconcebibilidade real), ou seja, segundo Gueroult, é uma má definição “[...]
+porque a estrutura essencial que ela atribui à coisa é ela mesma inconcebível;
+e, desse fato, ela é falsa, visto ela não ser e não poder ser conforme a
+natureza de seu objeto.” (1997, v. 1, p. 24).
+
+
+Na hipótese de convencionarmos que substituiremos os termos
+“linhas retas” por “linhas curvas”, e sempre que nos referirmos àqueles,
+escreveremos estes últimos, poderíamos esclarecer o sentido dos termos
+empregados por Borelli. Por meio desta convenção, a definição se tornaria
+concebível porque eliminaríamos as duas razões que a tornam uma má definição, seja
+na perspectiva do sentido dos termos (má denominação), seja na perspectiva da
+possibilidade intrínseca do seu objeto (inconcebibilidade real), isto é, a
+definição agora se torna concebível porque versa sobre um objeto possível: o
+espaço encerrado entre duas linhas curvas. Assim convencionada, a definição não
+será mais necessariamente falsa e poderemos introduzir a questão dela ser ou
+não verdadeira: no caso de ser conforme a natureza do objeto definido ela será
+uma definição verdadeira; em caso contrário, ela será falsa.
+
+
+Portanto, uma boa definição para Spinoza deve cumprir duas
+exigências básicas: em primeiro lugar, deve ser formulada, utilizando os termos
+em seu sentido usual, ou definindo o seu novo sentido, se os utilizarmos em
+sentido diverso; em segundo lugar, a estrutura essencial atribuída ao objeto
+deve ela mesma ser concebível no caso das definições do primeiro gênero (que se
+referem aos objetos exteriores ao entendimento); no caso das definições do
+segundo gênero (que não se referem às coisas exteriores ao entendimento), devem
+apenas ser concebíveis internamente. Se qualquer uma destas duas exigências não
+for cumprida, teremos uma “má“ definição, à semelhança da definição de Borelli.
+Observe-se que estas condições de Spinoza concernentes às definições são em
+tudo semelhantes às condições gerais de validade das definições do método
+dedutivo em geral, conforme a citação supra de Guisado (1999, p. 202).
+
+
+
+
+
+
+
+2.2 A natureza das definições
+
+
+Não obstante a explicação de Spinoza na Carta 9 sobre
+as definições, como a Ética foi escrita ordine geometrico demonstrata,
+ou, conforme Guisado (1999, p. 202), dedutivamente, torna-se necessário
+examinarmos a natureza de suas definições. Tal necessidade advém, por um lado,
+da consideração do sistema spinozista como dedutivo, no qual as definições
+devem cumprir determinadas condições para serem consideradas adequadas, como,
+por exemplo, eliminar a ambiguidade dos termos definidos, que implica na
+verificação das condições de adequação requeridas (Ibid., p. 203). Por outro lado,
+a considerar a análise de Victor Delbos (1987, p. 7) e Martial Gueroult (1997,
+v. 1, p. 36), o sistema spinozista, considerado como geométrico, implica na
+verificação das condições de inteligibilidade de suas definições, que devem ser
+as mesmas das definições geométricas iniciais, que excluem necessariamente
+qualquer questionamento estranho ao conteúdo precedentemente posto ou qualquer
+noção que não seja diretamente exigível pelas afirmativas, isto é, se as
+definições são imediatamente evidentes ou se necessitam de algo mais além delas
+mesma para terem a “certeza da verdade”.
+
+
+Entretanto, cumpre ressaltar a distinção entre os objetos
+temáticos da Geometria e da Metafísica: quanto à primeira, seu objeto de estudo
+é os seres de razão (as essências das coisas que não tem existência exterior a
+nós); quanto à segunda, seu objeto temático é os seres fisicamente reais (as
+essências das coisas que têm existência exterior a nós sejam na duração ou na
+eternidade). É desta distinção dos objetos temáticos que advém a importância da
+natureza das definições metafísicas, pois elas versam sobre as essências de
+coisas exteriores a nós constituindo um conjunto de noções fundamentais no
+sistema spinozista. Para Gueroult (Ibid., p. 27), ao contrário da Geometria, a
+admissão da verdade destas noções deve necessariamente ultrapassar a mera
+concebibilidade interna ao entendimento. As definições metafísicas, ou os
+“[...] pressupostos da Philosophia são investidos de uma evidência ao
+menos igual àquela dos pressupostos da Geometria, [...]” (Ibid., p. 36), ou
+seja, elas devem poder sustentar apenas por si a “certeza da verdade”
+preconizada por Spinoza em sua definição de método, para que possam ser o
+fundamento de toda a Ética. Ou, como escreve Louis Meyer, no Præfatio
+dos PPC, “Pois, como todo conhecimento certo e seguro de uma coisa desconhecida
+somente pode ser extraído e derivado de coisas previamente conhecidas com
+certeza, é necessário assentar antes estas na base, para levantar depois sobre
+elas, como um fundamento sólido, todo o edifício do conhecimento humano, sem
+risco deste se abater por si mesmo ou de desabar ao menor choque.” (SO1, p.
+127, grifo nosso).
+
+
+Pelo exposto, evidencia-se a necessidade das definições da Ética
+serem consideradas como pertencentes ao primeiro gênero citado por Spinoza na Carta
+9, referindo-se às coisas exteriores ao pensamento, definindo-as
+verdadeiramente, ou seja, como definições de coisas externas ao nosso
+entendimento e correspondentes a elas. Todavia, cumpre examinarmos se seria
+lícito considerá-las em tal sentido forte, ou, em caso contrário, a despeito de
+sua necessidade de certeza, as definições devem ser consideradas num sentido
+mais fraco, incluindo-se no segundo gênero, ao lado das noções internas ao
+pensamento, sem nenhuma correspondência exterior. Ou, ainda, apesar de remota,
+numa terceira hipótese: a de que as definições seriam uma mera convenção
+verbal, restringindo-se a assinalar o significado desta ou daquela palavra.
+
+
+Nesta última hipótese, as definições seriam apenas nominais,
+cuja função dentro do sistema seria única e necessariamente a de nomear as
+coisas; ou, como escreve Gueroult, ao analisar esta hipótese: “[...] elas se
+contentariam em explicar os nomes pelos quais nos convém designar tal ou tal
+coisa, e seu enunciado não acarreta, como aquele dos axiomas, nosso
+assentimento necessário.” (1997, v. 1, p. 20, grifo do autor). Neste caso, não
+seria lícito considerar as definições como noções fundamentais na Ética,
+pois estaríamos tratando de convenções verbais; e, como tais, a única pretensão
+de evidência que poderiam ter seria a consensual. Assinale-se aqui que não é a
+hipótese das definições serem nominais o que lhes interdita a função de noções
+fundamentais, mas sim a hipótese de que esta seja a sua única função dentro da Ética.
+Como vimos acima, no exemplo dado por Spinoza de uma má definição, nomear
+corretamente as coisas é fundamental para a concebibilidade das definições, e,
+por conseguinte, para a garantia de suas funções na obra. Com efeito, a
+importância da designação correta das coisas é explicitamente sustentada por
+Spinoza na parte 2 da Ética, ao escrever que “[...] a maioria dos erros
+consiste apenas em que não aplicamos corretamente os nomes às coisas.”
+(E2P47S).
+
+
+Se considerarmos as definições spinozistas no sentido mais fraco,
+como simples modos do pensamento sem correspondência exterior a este, não se
+poderia indagar acerca da verdade ou não das definições, pois, como vimos
+acima, uma definição verdadeira em relação aos seres fisicamente reais é aquela
+que está conforme com a natureza da coisa definida. Ora, neste caso, as
+definições não seriam representações de objetos exteriores ao entendimento, o
+que nos interditaria de considerar as definições como conformes ou não à
+natureza de um objeto, visto não haver nenhum representado. Neste caso, a única
+necessidade das definições seria a da concebibilidade interna. Se não podemos
+questionar a conformidade aos objetos ou não das definições deste gênero, elas
+não podem ser consideradas como definições de seres fisicamente reais e, muito
+menos, como indubitavelmente certas pela Metafísica; por consequência, as
+definições deste gênero estão excluídas como noções fundamentais da Ética.
+
+
+Por fim, resta-nos considerar as definições da Ética
+como pertencentes ao primeiro gênero citado por Spinoza na Carta 9 ou,
+no sentido forte: as definições são representações de objetos exteriores ao
+pensamento que convém ou devem convir a estes mesmos objetos, definindo-os
+verdadeiramente. A licitude como noções fundamentais do sistema spinozista das definições
+assim consideradas repousa sobre um paralelo entre a Geometria e a Metafísica,
+pois Spinoza confere ao ordine geometrico, ou às Matemáticas (Mathesis),
+a função de elevar o entendimento finito à inteligibilidade do que é racional;
+ou como escreve no Apêndice à parte 1 da Ética, após descrever o
+prejuízo das causas finais: “Isto só por si seria causa bastante para que a
+verdade ficasse para sempre oculta ao gênero humano, se a Matemática, que não
+se ocupa de finalidades, mas apenas da essência das figuras e respectivas
+propriedades, não desse a conhecer aos homens outra norma de verdade.” (E1A,
+SO2, p. 79).
+
+
+Segundo Gueroult, a legitimidade das definições Metafísicas
+resulta da identificação da Metafísica com a Geometria, de tal modo que a
+potência de verdade pela qual devam ser concebidos os seres fisicamente reais
+não possa ser outra que aquela pela qual são concebidos os seres de razão. O
+que funda este paralelo é o fato de que a revelação do entendimento como
+potência de verdade é dada ao homem pela Geometria, porque é somente nesta que
+o homem “[...] apreende em ato a produção espontânea de ideias pelo seu
+pensamento, e vendo a verdade destas ideias se imporem a ele do fato que, as
+produzindo ele mesmo, ele as apreende interiormente em sua gênese.” (Ibid., p.
+28), ou seja, os seres de razão da Geometria, ou seres geométricos, têm uma
+especificidade que os outros seres de razão não têm: nós podemos
+determinar-lhes uma causa adequada, enquanto que os outros seres de razão
+implicam a ignorância das verdadeiras causas. De fato, a definição específica
+de uma figura Geométrica pode ser substituída por uma definição genética (que
+explica a gênese da figura), ainda que a figura na natureza não seja engendrada
+como foi descrita nesta definição. Entretanto, mesmo sendo fictícia, segundo
+Gilles Deleuze – que se fundamenta nos §§ 73, 75 e 76 do TIE – esta causa pode
+ser utilizada como um “[...] bom ponto de partida, caso a utilizemos para
+conhecer a nossa potência de compreender, como um trampolim para atingir a
+ideia de Deus (determinando Deus o movimento da linha ou do semicírculo).”
+(2002, p. 54-55).
+
+
+Para Gueroult, (Ibid., p. 28), se a Metafísica é possível
+como ciência, ela deve poder utilizar esta potência de verdade de modo que o
+entendimento possa produzir espontaneamente as ideias dos seres reais, à
+semelhança da Geometria que produz espontaneamente as ideias dos seres de
+razão. De fato, ao expor as propriedades do entendimento, no que se refere à
+produção das ideias, Spinoza considera que esta se dá por duas vias: o
+entendimento “[...] forma certas ideias absolutamente, e algumas a partir de
+outras.” (TIE, § 108). O exemplo utilizado para as ideias que se formam
+absolutamente é extraído da Geometria: “Assim é que forma a ideia da quantidade
+absolutamente, sem referência a outros conhecimentos, [...]” (Ibid., § 108,
+grifo nosso). Portanto, apesar das distinções temáticas, a fonte produtora das
+ideias fundamentais da Geometria e da Metafísica é a mesma: o entendimento
+finito enquanto parte do entendimento infinito, ou seja, o entendimento como
+potência de verdade.
+
+
+
+
+
+
+
+2.3
+A classificação das definições da parte 1
+
+
+Das oito definições da parte 1 da Ética, sete foram
+escritas como notae per se, pois não serão demonstradas ulteriormente.
+Somente a sexta (a definição de Deus) será demonstrada nas proposições
+seguintes desta parte. Entretanto, a necessidade de demonstrá-la não implica a
+sua exclusão das notions communes, isto é, princípios universalmente
+aceitos, evidentes, indemonstráveis e indispensáveis que estão na base de nosso
+raciocínio. O motivo citado por Spinoza para esta necessidade demonstrativa é
+devido à falta de atenção dos homens que não atentam na natureza da substância
+e somente por isto hesitam em considerá-la como axioma ou noção comum, porque
+não fazem “[...] distinção entre as modificações das substâncias e as próprias
+substâncias e não saberem como são produzidas as coisas.” (E1P8S2), donde,
+“[...] confundem a natureza divina com a natureza humana [...]” (E1P8S2); ou
+então porque os homens não estão livres de preconceitos (E2P40S1), que também
+fazem com que eles não atentem na natureza da substância, ocasionado a mesma
+hesitação em considerá-la como axioma ou noção comum.
+
+
+
+
+
+
+
+2.4
+A lógica das definições da parte 1
+
+
+Segundo Guisado, “Os termos primitivos de uma teoria
+dedutiva são aqueles que se aceitam sem necessidade de se explicar seu
+significado e cuja propriedade é a independência lógica, [...]” (1999, p. 199,
+grifo do autor). É com a ajuda dos termos primitivos que as definições vão
+determinar o significado de novos termos, denominados derivados, que, por sua
+vez, irão compor-se com os primitivos para definirem outros termos. Para
+Guisado (Ibid., p. 200), Spinoza vai utilizar os termos primitivos denominados
+próprios, em suas definições, como, por exemplo, essência, existência,
+o limitado e causa; e os termos primitivos denominados impróprios
+ou lógicos, como por exemplo, implicar, conceber e a negação.
+Assim, as noções de causa sui (E1Def1), livre (E1Def7) e eternidade
+(E1Def8) são definidas pelos termos primitivos próprios essência e existência
+e pelos termos primitivos lógicos implicar e conceber. Já a noção
+de finitude em seu gênero (E1Def2) é definida pelos termos primitivos próprios o
+limitado e essência. O termo substância (E1Def3) é derivado
+do termo primitivo próprio existência e dos primitivos lógicos conceber
+e a negação. O termo atributo (E1Def4) deriva do termo primitivo
+próprio essência e do derivado substância. O termo modo
+(E1Def5) deriva do primitivo próprio existência, do primitivo lógico conceber
+e do derivado substância. O termo Deus (E1Def6) deriva dos termos
+primitivos próprios essência, existência e o limitado, do
+primitivo lógico a negação e dos derivados substância, atributo,
+eterno (E1Def8) e infinito (definido na própria E1Def6). O termo necessária
+(E1Def7) foi definido a partir do termo primitivo próprio existência.
+
+
+Podemos observar que dentre as sete definições notæ per
+se, as três que definem o critério da substancialidade (E1Def3), do
+atributo (E1Def4) e do modo (E1Def5) dependem dos termos primitivos próprios existência
+e essência. Das quatro restantes deste grupo, que definem as
+propriedades, causa sui (E1Def1), eternidade (E1Def8), livre (E1Def7) e
+finitude em seu gênero (E1Def2), as três primeiras dependem unicamente de termos
+primitivos, os próprios essência e existência e os lógicos implicar
+e conceber. Já a quarta definição de propriedade, deriva dos termos
+primitivos próprios essência e o limitado. Donde os termos
+primitivos próprios existência e essência estão na base de toda a
+Ética. Ora, estes termos estão reunidos em uma única definição, a
+definição de causa sui.
+
+
+
+
+
+
+
+2.5
+A definição inicial: Causa Sui
+
+
+A definição de causa sui tem a seguinte redação: “Por
+causa de si entendo aquilo cuja essência envolve a existência; ou isto, aquilo
+cuja natureza não pode ser concebida senão como existente”. (E1Def1)4. É com esta definição notum per se que
+Spinoza inicia a Ética. Apesar de não estar definindo nenhuma coisa e
+sim uma propriedade, esta é uma das definições fundamentais do sistema
+spinozista por postular a identidade entre aquilo que é e aquilo que é
+concebido, ou seja, é a definição que funda a ontologia spinozista porque
+possibilita que aquilo que o entendimento finito (por ser parte do entendimento
+infinito) concebe da coisa e o que a coisa é em si sejam postos como idênticos.
+Segundo Deleuze (2002, p. 62), Spinoza inverte a tradição que empregava a noção
+de causa sui em analogia com a causalidade eficiente, como causa de um
+efeito distinto, ou, num sentido apenas derivado, no qual a noção de causa
+sui significaria tão somente como por uma causa, fazendo da causa sui
+o arquétipo de toda a causalidade, no seu sentido originário e exaustivo.
+
+
+Como vimos acima, as definições em Spinoza podem ser de dois
+gêneros: o primeiro explica a coisa tal como é fora do entendimento, e o
+segundo explica a coisa tal como é concebida ou pode ser concebida por nós.
+Ora, apesar da necessidade que as definições da Ética têm de pertencerem
+ao primeiro gênero, pelo fato da definição de causa sui – uma
+propriedade, e como tal, considerada pela tradição um conceito derivado e
+sempre in alio –, estar antecedendo a definição de substância –
+considerada como um conceito primitivo, e sempre in se –, não estaríamos
+inclinados a considerar esta definição como uma exceção, e, por conseguinte,
+incluí-la no segundo gênero citado?
+
+
+Ademais, se considerarmos o que Spinoza escreve na Carta
+ 60, a Tschirnhaus: “[...] julgo que basta observar o seguinte, cumpre
+averiguar aquela ideia da qual possa se deduzir todas, [...]” (Ep 60, SO4, p.
+271), constataríamos que a definição de substância está mais acorde com esta
+condição do que a de causa sui, ou seja, a definição de substância seria
+mais adequada a uma introdução ao sistema, pois esta nos assemelha mais
+primitiva do que uma definição de propriedade (da substância). Além disso,
+podemos também indagar o porquê da definição de causa sui estar
+definindo a propriedade de algo (a substância) ser a causa de si mesmo, sem que
+se tenha antes definido este algo ou sequer postulado a sua existência.
+
+
+Quanto à primeira questão, devemos considerar a importância
+da causa sui como propriedade necessária e fundamental da substância
+absolutamente infinita ou Deus. Vimos anteriormente que devido à falta de atenção
+ou por preconceito dos homens, a definição sexta (ou de Deus) necessita ser
+ulteriormente demonstrada. Ora, a propriedade de ser causa de si mesmo deve
+necessariamente pertencer ao ser absolutamente infinito, ou seja, sem a causa
+sui definida, Spinoza não poderia provar a existência divina e nem sequer
+postular a sua existência. No dizer de Gueroult, a causa sui é um
+importante “[...] meio de prova, porque ela é a propriedade decisiva da
+substância que vai permitir estabelecer a existência de Deus.” (Ibid., p. 41).
+A utilização da propriedade de algo ser a causa de si mesmo, ou a causa sui
+como meio de prova para a existência de Deus, pode ser mais bem evidenciada se
+examinarmos a forma das duas provas que utilizam o argumento ontológico: a
+primeira e a última dentre as quatro provas apresentadas por Spinoza
+fundamentam-se no argumento ontológico de forma distinta, sendo esta
+fundamentação indireta na primeira, através da demonstração pelo absurdo e na
+última a fundamentação é direta. A utilização da definição de causa sui
+nestas provas é indispensável, porque na primeira é ela que interdita negar que
+a essência divina não envolve a existência (E1P7D e E1P8S2), sob pena de
+incorrermos em um absurdo (E1P11D), isto é, concebermos um ser absolutamente
+infinito que não é capaz de se autoproduzir; e na segunda ela é afirmada como
+uma propriedade necessária de um ente absolutamente infinito, isto é, Deus
+(E1P11S).
+
+
+Quanto à segunda questão, em Geometria o entendimento produz
+espontaneamente as ideias dos seres de razão sem postular a existência externa
+ou não de tais seres, podendo “[...] definir certa propriedade separadamente,
+sem saber se alguma figura possa possuí-la.” (GUEROULT, 1997, v. 1, p. 40).
+Donde surge o problema: “[...] procurar a figura que possua tal propriedade ou,
+se for o caso, demonstrar que ela não pode existir em nenhuma.” (Ibid., p. 40),
+pois “Para cada coisa deve poder designar-se a causa, ou razão, pela qual a
+coisa existe ou não existe.” (E1P11D2). Na Metafísica ocorre o mesmo, pode-se
+definir a propriedade de uma coisa sem que seja necessário, simultaneamente,
+postularmos a existência ou não desta coisa. De fato, se a fonte produtora das
+ideias fundamentais da Metafísica é a mesma da Geometria, ou seja, o
+entendimento finito enquanto parte do entendimento infinito, não haveria porque
+postularmos um estatuto diferente para as noções fundamentais da Metafísica,
+ainda que os objetos temáticos sejam distintos.
+
+
+
+
+
+
+
+2.6 A definição de Deus
+
+
+A definição 6, ou a definição de Deus, tem a seguinte
+redação: “Por Deus entendo o ente absolutamente infinito, isto é, a substância
+que consta de infinitos atributos, cada um dos quais exprime a essência eterna
+e infinita.” (Id6). Considerada sob o ponto de vista racional, a necessidade de
+se demonstrar a definição de Deus deve-se ao fato desta ser uma noção complexa
+cuja definição genética supõe os elementos mais simples que necessitam ter sua
+natureza e propriedades definidos previamente. Esta necessidade de definir inicialmente
+os elementos que a compõem, justifica por sua vez, a ordem da definição de
+Deus: ela é a sexta definição da parte 1. Deus só pode ser definido após ser
+deduzido o elemento que possibilitará sua construção e as propriedades deste
+elemento. Tal elemento é a substância de um só atributo. Por isto as primeiras
+definições da Ética, a causa sui, coisa finita em seu gênero,
+substância, atributo e modo expõem as noções que permitirão deduzir as
+propriedades fundantes e necessárias da substância de um só atributo. É o
+método more geometrico: construir o complexo a partir do simples5.
+
+
+O percurso spinozista de comprovação da substância como
+única, infinita, causa sui, eterna e composta de infinitos atributos (ou
+seja, Deus), inicia-se com a consideração do pluralismo substancial, isto é,
+Spinoza aceita como hipótese provável a existência de duas ou mais substâncias;
+deste pluralismo; sua análise evolui até o monismo substancial, pela própria
+necessidade das premissas anteriormente postas pelo sistema spinozista. Deste monismo
+substancial, Spinoza evolui até o monismo absoluto, isto é, da consideração da
+existência de uma única substância na natureza (monismo) e não duas ou mais
+(pluralismo), Spinoza conclui que apenas a substância única existe, ela é a
+própria Natureza mesma e tudo o mais que existe são afecções desta substância
+única (monismo absoluto); ou seja, a afirmação da unidade e da infinitude da
+Natureza faz com que Spinoza a identifique com Deus [...] aquele ente eterno
+e infinito a que chamamos Deus ou Natureza [...] (parte IV, prefácio).
+Vejamos isto por partes.
+
+
+2.6.1 Do Pluralismo ao Monismo
+substancial
+
+
+Ainda considerando o pluralismo substancial, Spinoza vai
+expor e demonstrar nas oito primeiras proposições da parte 1 da Ética a
+essência de Deus, isto é, as substâncias de um único atributo como sendo causa
+sui (autocausadas) e necessariamente infinitas. As teses fundamentais desta
+primeira parte são:
+
+
+1ª. Na natureza não pode ser dada duas ou mais substâncias
+com a mesma natureza ou atributo, porque se fossem dadas várias substâncias distintas,
+a distinção entre elas seria pela diversidade dos atributos ou pela diversidade
+das afecções. Se a distinção for feita pela diversidade dos atributos, de fato
+só existiria uma substância do mesmo atributo; se forem distintas pela
+diversidade das afecções, no caso de despojarmos a substância destas, visto a
+substância ser anterior às afecções, não poderíamos distingui-las entre si.
+Logo, não podem ocorrer várias substâncias com um mesmo atributo, mas somente
+uma (Ip5). 
+
+
+2ª. Uma substância não pode produzir outra substância (Ip6)
+porque duas ou mais substâncias não têm nada de comum entre si, pois têm
+atributos diversos (Ip2), visto na natureza não poderem-se dar duas ou mais
+substâncias com o mesmo atributo (Ip5). Logo, uma não poderá ser a causa da
+outra. Ora, um axioma implícito a todo o Racionalismo e citado por Spinoza
+(Ia3) é o de que todo ser tem causa. Logo, à natureza da substância
+pertence o existir (Ip7), a substância é causa sui ou causa de si mesma.
+
+
+3ª. Toda substância é necessariamente infinita (Ip8), visto
+a substância de um só atributo necessariamente existir como única (Ip5) e a sua
+natureza pertence o existir (Ip7). Se ela existe como finita ou infinita, será
+pela sua própria natureza. Ora, ela não pode ser finita, pois deveria ser
+limitada por outra da mesma natureza; a qual também deveria existir necessariamente
+(Ip7); sendo assim, ocorreriam duas substâncias do mesmo atributo, o que foi
+demonstrado ser absurdo (Ip5). Logo, ela existe como infinita.
+
+
+2.6.2 O Monismo substancial
+
+
+Da proposição 9 até a proposição 15 da mesma parte 1,
+Spinoza passa a considerar o monismo substancial, para de este evoluir ao
+monismo absoluto (proposição 14 e 18); ou seja, ele vai expor e demonstrar a
+essência de Deus como substância constituída de infinitos atributos. A tese
+fundamental desta transição para o monismo substancial encontra-se na
+proposição 9. Vamos analisá-la mais detidamente.
+
+
+A proposição 9 ao afirmar que Quanto mais realidade ou
+ser uma coisa tem, tanto mais atributos lhe são próprios, possibilita a
+Spinoza fazer a transição do pluralismo substancial para o monismo substancial
+através da relação desta proposição com a definição de Deus citada acima: se um
+ente ou uma substância possui infinitos atributos e se na natureza não pode ser
+dada duas ou mais substâncias com a mesma natureza ou atributo, necessariamente
+vamos concluir que só existe uma substância; ou seja, as substâncias de um
+único atributo analisadas por Spinoza nas oito primeiras proposições da parte 1
+da Ética são na realidade uma única substância por absoluta necessidade
+lógica do sistema.
+
+
+2.6.3 Do Monismo substancial ao Monismo Absoluto
+
+
+A transição do monismo substancialista para o monismo
+absoluto, isto é, a doutrina spinozista de Deus, segundo Delbos, é
+eminentemente representada (dentre outras) por duas proposições na parte 1 da Ética:
+a proposição 14 e a proposição 18. A primeira afirma Deus como a única
+substância que existe e que pode ser concebida; a segunda afirma Deus como a
+causa imanente de todas as coisas que existem6.
+
+
+2.6.3.1
+Deus como a única substância
+
+
+A proposição 14 da parte 1: “Afora Deus, não pode ser dada
+nem ser concebida nenhuma substância.” é fundamentada pela existência necessária
+da substância única ou Deus e na incompatibilidade da existência e até mesmo de
+se conceber duas substâncias com o mesmo atributo. A demonstração spinozista da
+existência necessária de Deus baseia-se em:
+
+
+1º. A definição de Deus (Id6) afirma-o como o ser
+absolutamente infinito que se opõe quanto à finitude aos atributos que são
+apenas infinitos em seu gênero e do qual não pode ser negado qualquer atributo
+que exprima a essência da substância; ou seja, segue-se desta definição que
+Deus não pode ser limitado em seu gênero, pois ele é substância única (tese 1ª
+e 2ª da primeira parte exposta acima);
+
+
+2º. Deus tem existência necessária pela aplicação do
+argumento ontológico em sua expressão positiva ou quarta prova da existência de
+Deus (Ip11s): quanto mais realidade é própria da natureza de alguma coisa tanto
+mais potencialidade ela tem em si mesma para existir. Ora, Deus é o ente
+absolutamente infinito do qual não pode ser negado qualquer atributo que
+exprima a essência da substância; logo, Deus tem em si mesmo o poder
+absolutamente infinito de existir.
+
+
+A demonstração de Spinoza da incompatibilidade da existência
+e impossibilidade de se conceber duas substâncias com o mesmo atributo fundamenta-se
+em:
+
+
+1º. Se existisse qualquer outra substância, afora Deus, ela
+deveria ser explicada por algum atributo de Deus e assim existiriam duas
+substâncias do mesmo atributo. Ora, Spinoza demonstrou o absurdo desta
+afirmativa (tese 1ª da primeira parte exposta acima).
+
+
+2º. Se pudesse ser concebida qualquer outra substância,
+afora Deus, ela necessariamente existiria e deveria necessariamente ser
+explicada por algum atributo de Deus (pela própria definição de substância e
+pelo argumento ontológico apresentado na tese 2º desta parte exposta acima).
+Ora, isto foi interdito pela demonstração spinozista da impossibilidade da
+existência de duas ou mais substâncias compartilhando o mesmo atributo.
+
+
+2.6.3.2
+Deus como causa imanente de tudo o que existe
+
+
+A proposição 18 da parte 1: “Deus é a causa imanente, não
+[causa] transitiva, de todas as coisas.” é fundamentada na afirmação de que
+Deus é a causa pela qual é concebido e existe tudo o que nele existe e na
+impossibilidade de existir qualquer outra coisa afora Deus.
+
+
+A primeira afirmação que demonstra esta proposição
+fundamenta-se na proposição 14 de forma indireta (Deus é causa da concepção e
+da existência de tudo o que nele existe) com o seguinte encaminhamento:
+
+
+1ª. A afirmação de que Tudo o que existe, existe em Deus e
+sem Deus nada pode existir nem ser concebido (Ip15). Se afora Deus não pode ser
+dada e nem ser concebida nenhuma substância (Ip14) ou uma coisa que é em si e
+por si concebida (Id3), os modos que não podem existir e nem ser concebido sem
+uma substância (Id5) devem à substância divina sua existência e concepção. Ao
+subordinar os modos à substância divina, Spinoza está subordinando toda a
+realidade, pois fora das substâncias e dos modos nada é dado (Ia1).
+
+
+2ª. A afirmação de que Deus é causa eficiente de todas as
+coisas que podem cair sob um intelecto divino (Ip16c1). Se da definição
+dada de uma coisa qualquer o intelecto conclui várias propriedades, que são
+efetivamente sequência necessária da mesma definição ou essência da coisa e
+conclui tanto mais quanto à essência da coisa envolva mais realidade; se a
+Natureza divina possui absolutamente infinitos atributos, cada um dos quais
+exprime a essência infinita no seu gênero, segue-se que da necessidade do ser
+absolutamente infinito resultam necessariamente infinitas coisas de infinitos
+modos ou tudo o que pode cair sob um intelecto infinito.
+
+
+A segunda afirmação que demonstra esta proposição (a
+impossibilidade de existir qualquer outra coisa afora Deus) recorre diretamente
+à proposição 14: a afirmação de que fora de Deus não pode haver substância
+alguma (Ip14), isto é, nenhuma coisa que seja em si e por si concebida (Id3).
+
+
+
+
+
+
+
+2.7 Deus como Natureza Naturante
+
+
+Uma vez demonstrada a definição 6, Spinoza vai agora demonstrar
+Deus como causa, ou como Natureza Naturante. Esta é definida no escólio da
+proposição 24 da parte 1 da Ética, como [...] o que existe em si e é
+concebido por si, ou dito de outra forma, aqueles atributos da substância que
+exprimem a essência eterna e infinita, ou ainda, Deus enquanto é considerado
+como causa livre. Ou seja, Natureza Naturante é Deus ou a Natureza
+considerada em seu aspecto dinâmico causal. Como vimos acima, Deus é a única
+substância que existe e que pode ser concebida, é causa de si mesmo e causa
+imanente de todas as coisas que existem. Vimos também que tudo o que existe,
+existe em Deus e afora Deus nada pode ser dado. Portanto, a Natureza Naturante
+é Deus enquanto causa imanente de si mesmo e de todas as coisas que existem e
+podem ser concebidas.
+
+
+Deleuze interpreta a Natureza Naturante (substância e causa)
+e Natureza Naturada (modo e efeito), como compartilhando uma imanência (a causa
+permanece em si mesma para produzir e o efeito permanece na causa) e como
+unívocos em três níveis: a univocidade da causa, da modalidade e dos atributos.
+Interpretar a causalidade como unívoca entre a Natureza Naturante e a Natureza
+Naturada significa dizer que Deus produz exatamente como existe; ou ainda, ele
+é a causa de todas as coisas no mesmo sentido em que é causa de si (Ip25s),
+isto é, Deus é dito causa de si mesmo como gênese da Natureza Naturante
+no mesmo sentido em que ele é dito causa de todas as coisas como gênese
+da Natureza Naturada. Quanto à univocidade da modalidade, se a existência,
+seja do que for, resulta necessariamente ou da respectiva essência e definição,
+ou de uma dada causa eficiente [...] (Ip33s1), segue-se que o necessário é
+a única modalidade daquilo que existe: tudo o que existe é necessário, seja
+devido a si mesmo como causa ou devido à sua causa eficiente. Deleuze
+interpreta a necessidade como a univocidade da modalidade porque é o necessário
+que qualifica a organização da Natureza Naturante e a ordem da natureza
+Naturada. Quanto aos atributos, porque constituem sob uma mesma forma a
+essência de Deus como Natureza Naturante e contém as essências de modos como
+Natureza Naturada, são também afirmados como unívocos7.
+
+
+2.7.1 Relação
+Substância-Atributo
+
+
+Entretanto, algumas questões se impõem, tais como: em qual
+sentido é dito que os atributos “constituem sob uma mesma forma a essência de
+Deus”? Ou, qual o princípio que nos autoriza conceber a essência da substância
+absoluta como constituída por “atributos” (no plural); ou mais precisamente,
+por “infinitos atributos”? E neste caso, não serão os atributos que constituem
+a essência de Deus, substâncias eles mesmos; e qual a distinção dos atributos
+entre si; e por que, dos infinitos atributos que constituem a essência de Deus,
+só podemos conhecer dois: o atributo extensão e o atributo pensamento? Ou
+ainda, no caso de ser lícita esta “constituição”, sob qual estatuto ela pode
+ser subsumida, isto é, qual a relação dos atributos com a substância única? E
+neste caso, qual é a situação dos atributos considerados isoladamente, em sua
+“constituição” da Natureza Naturante, perdem eles sua heterogeneidade, isto é,
+os atributos se mesclam, se agregam ou permanecem heterogêneos na substância
+única?
+
+
+Estas questões são clássicas no spinozismo e desde há muito
+tempo que veem suscitando várias respostas e interpretações por parte dos
+intérpretes de Spinoza. Neste estudo, não temos a pretensão de responder em
+definitivo a todas estas questões, ou até mesmo a expor todas as
+interpretações. Todavia, do conjunto de interpretações analisadas e sem nenhuma
+pretensão de esgotarmos o assunto, vamos expor aquelas que forem mais
+pertinentes com o nosso tema e que nos pareça mais coerente com o texto de
+Spinoza.
+
+
+Em algumas passagens da Ética e em várias de suas Cartas8, Spinoza utiliza exatamente os mesmos termos
+para definir substância e atributos. Como por exemplo, na Carta 9 (a Simon de
+Vries):
+
+
+Por substância, eu entendo
+o que é em si e é concebido por si, isto é, aquilo cujo conceito não envolve o
+conceito de outra coisa. Por atributo, eu entendo exatamente a mesma coisa, com
+esta só diferença, que o atributo é assim dito por relação ao entendimento que
+atribui à substância tal natureza definida [grifo nosso]9.
+
+
+A demonstração de Spinoza acerca da significação dos
+atributos é devido a sua significação substantiva e não qualificativa
+(portanto, distinguindo-se dos próprios ou propriedades), eles constituem a
+substância ou a essência pela qual a substância é efetivamente uma substância e
+é reconhecida como tal pelo entendimento. Ora, para Spinoza, a realidade e a
+inteligibilidade se fundem na substância (IIp7); logo, entre a substância e os
+atributos não pode haver nenhuma distinção real, mas tão somente uma distinção
+de razão10. Por conseguinte, os
+atributos constituem a essência da substância no sentido em que eles são a própria
+substância.
+
+
+Spinoza afirma expressamente na proposição 9 da parte 1 da Ética
+que quanto mais realidade ou ser uma coisa tem, tanto mais atributos lhe são
+próprios. A demonstração desta proposição remete à definição 4 também da
+parte 1 ou a definição dos atributos como o que o intelecto percebe da
+substância [ou Deus] como constituindo a sua essência. Ora, um
+axioma racionalista muito citado por Descartes e certamente conhecido por
+Spinoza é o de que o nada não pode ter atributos; logo, uma substância
+absolutamente infinita como Deus deve ter infinitos atributos11.
+
+
+Ainda que nossa análise anterior tenha concluído que a
+distinção entre os atributos e a substância seja uma distinção de razão, cabe
+aqui explicitarmos a condição ontológica dos atributos considerados em relação
+uns com os outros, visto todos os infinitos atributos constituírem a essência
+da substância única ou Deus. Spinoza afirma os atributos como eternos (Ip19),
+infinitos em seu gênero (Ip16d e Ip21), causa sui, ou concebidos por si
+(Ip10d). Ora, o critério da distinção real reside na causa sui; logo, os
+atributos são realmente distintos entre si. Mas, cada atributo exprime a
+essência infinita da substância única como sua razão formal ou sua quididade,
+isto é, os atributos são razões formais ou quididade; segue-se que eles também
+são distintos entre si quididativamente ou formalmente12. Portanto, a distinção dos atributos entre
+si é uma distinção real-formal. Entretanto, por serem distintos realmente e
+formalmente entre si e possuírem todas as características substanciais
+(concebidos por si, infinitos, etc.) não devemos considerá-los como
+ontologicamente separados da substância; ou seja, como substâncias distintas.
+Sobre isto nos adverte o próprio Spinoza:
+
+
+[...] embora dois
+atributos sejam concebidos como realmente distintos, isto é, um sem o
+contributo do outro, nem por isso se pode concluir que constituam dois entes,
+isto é, duas substâncias diferentes, por ser da natureza da substância que cada
+um dos seus atributos seja concebido por si; [...] [grifo nosso] (Ip10s).
+
+
+Dos infinitos atributos que constituem a essência de Deus,
+nós só podemos conhecer dois: o atributo pensamento e o atributo extensão. A
+mente humana, sendo ideia do corpo, só pode ter conhecimento do que envolve a
+ideia do corpo existente em ato ou do que se pode concluir desta ideia; e como
+todo atributo é por si concebido, um não pode ser deduzido do outro, donde, dos
+dois únicos atributos conhecidos, nós não podemos deduzir nenhum outro. No
+dizer de Deleuze: “Apenas conhecemos dois porque só podemos conceber como
+infinitas as qualidades que envolvem à nossa essência, o pensamento enquanto
+somos espírito e a extensão enquanto somos corpo.” (IIp1 e IIp2)13.
+
+
+Vimos que a distinção entre a substância e os atributos é de
+razão e que a distinção dos atributos entre si é real-formal; resta-nos
+analisar a relação dos atributos considerados em sua infinidade com a
+substância única e absolutamente infinita; ou seja, a multiplicidade realmente
+e formalmente distinta entre si dos atributos, ainda que não separada ontologicamente
+da substância absoluta, com a unidade absoluta de Deus; bem como a situação de
+cada atributo isoladamente nesta “unidade absoluta”.
+
+
+Em Spinoza, a distinção entre o entendimento humano e o
+entendimento infinito ocorre apenas no aspecto quantitativo, não havendo
+distinções no aspecto qualitativo; como ocorre, por exemplo, no sistema
+cartesiano. Esta semelhança qualitativa entre os entendimentos é devida às
+diferentes considerações acerca da natureza da causa: Deus é transcendente na
+Filosofia de Descartes e imanente na Filosofia de Spinoza. Por ser a causa
+imanente, no spinozismo o entendimento humano é uma parte do entendimento
+divino, ainda que se mantenha a distinção quantitativa entre os entendimentos:
+o entendimento divino (que tudo entende) tudo conhece e o entendimento humano
+(que recai apenas sobre as coisas e os eventos que lhe são dados) não pode e
+nunca poderá conhecer tudo o que Deus conhece; ou seja, a distinção no aspecto
+quantitativo é apenas na capacidade de possuir ideias adequadas, que é limitada
+no homem e infinita em Deus. Se considerarmos o entendimento infinito enquanto
+se explica [explicatur] pela natureza da mente humana (IIp11c
+e IIp43dem), o entendimento humano (enquanto percebe as coisas verdadeiramente)
+é uma parte do entendimento infinito de Deus, sendo idêntico a ele e conhecendo
+as coisas como Deus as conhece, ou seja, o entendimento finito é uma parte do
+entendimento infinito que seria o todo14.
+
+
+Esta relação entre o todo e as partes, permite que o
+entendimento finito conheça as coisas como Deus as conhece, tendo como única
+distinção entre eles a extensão: o entendimento finito não conhece todas as
+coisas que Deus, enquanto entendimento infinito conhece. Esta relação entre os
+entendimentos pode nos sugerir um modelo para a relação entre a substância e
+seus atributos; e de fato, alguns intérpretes caminharam nesta linha. 
+
+
+Porém, ao compararmos os elementos que compõem as duas
+relações, notamos que as características dos elementos envolvidos são
+distintas: por um lado, o entendimento finito não tem uma identidade própria,
+no sentido de uma distinção real, isto é, ele não se distingue realmente em
+nada do entendimento infinito a não ser na extensão. Além disto, o entendimento
+finito, considerado em sua natureza, é um só e não infinitos. Por outro lado,
+os atributos são por natureza infinitos e são realmente distintos entre si; são
+também formalmente distintos entre si; não se contradizem e nem se limitam;
+podemos mesmo afirmar que os atributos mantém sua heterogeneidade na unidade
+absoluta. Ademais, Spinoza afirma a impossibilidade de se conceber qualquer atributo
+que possa ocasionar a divisão da substância absolutamente infinita. A
+demonstração spinozista intenta mostrar que caso fosse concebido tal atributo,
+ou ele conservaria a natureza da substância ou não a conservaria. No primeiro
+caso, de uma única substância poderiam constituir-se várias substâncias; no
+segundo caso, quando toda a substância estivesse dividida em partes, ela
+perderia sua natureza substancial e deixaria de existir (Ip12d). Portanto, a
+relação todo-parte não é o que tem em mente Spinoza ao conceber a relação
+substância-atributos.
+
+
+A identidade desta relação tampouco pode ser buscada numa
+mescla dos elementos que a compõem, pois neste caso os atributos perderiam suas
+condições substanciais (causa sui, infinitude, etc.), deixando de serem
+atributos no sentido spinozista; e a substância se tornaria uma fusão de alguma
+coisa, seja do que for, mas muito certamente não seria de atributos no sentido
+spinozista do termo.
+
+
+A identidade da relação substância-atributo também não pode
+ser buscada num mero agregamento de atributos; pois neste caso, da mesma maneira
+que eles se agregaram, realizando a operação inversa eles podem se desagregar,
+donde a substância seria divisível; isto Spinoza interditou ao afirmar a total
+indivisibilidade da substância absolutamente infinita, com uma demonstração
+similar à da proposição 12 da parte 1 da Ética (Ip13).
+
+
+Deleuze intenta uma solução a partir da consideração dos
+atributos como razão formal e distintos entre si formalmente: segundo
+conceituou Duns Scot e Spinoza restaurou (dando-lhe um aspecto que ela não teve
+em Scot), a distinção formal é uma distinção real não numérica, isto é, não
+implica em divisão alguma na substância. O estatuto dos atributos, considerados
+como razão formal é: ontologicamente um, formalmente diversos. Ou no dizer mesmo
+de Deleuze: “É a distinção formal que fornece um conceito absolutamente
+coerente da unidade da substância e da pluralidade dos atributos, é ela que
+fornece à distinção real uma nova lógica.”15.
+
+
+
+
+
+
+
+2.8 Deus como Natureza Naturada
+
+
+Nosso estudo não estaria completo se não considerássemos a
+Natureza Naturada ou Deus como Efeito. Esta é definida no escólio da proposição
+24 da parte 1 da Ética, como [...] tudo aquilo que resulta da
+necessidade da natureza de Deus, ou dito de outra forma, de qualquer dos
+atributos de Deus, isto é, todos os modos dos atributos de Deus, enquanto são
+considerados como coisas que existem em Deus e não podem existir nem ser
+concebidas sem Deus.
+
+
+A transição da Natureza Naturante para a Natureza Naturada é
+afirmada por Spinoza a partir do necessário poder causal da primeira, isto é,
+Deus necessariamente produz. Donde, a Natureza Naturada se constitui dos
+efeitos necessários que se seguem do poder causal de Deus.
+
+
+Podemos destacar dois tipos de relação entre a substância
+absoluta e os modos: uma relação lógica de inerência e uma relação causal.
+Quanto à primeira, a relação lógica de inerência vai do todo à parte regendo
+por um lado, as conexões entre o atributo e o modo, não sob a forma causal, mas
+de partilha de uma propriedade comum não divisível. Como exemplo podemos citar
+a extensão enquanto indivisível, que é comum tanto ao atributo quanto aos modos
+deste atributo, sendo a propriedade comum dos corpos que se encontra tanto no
+todo quanto nas partes, visto haver sempre extensão, quer de um modo
+determinado, quer de um modo indeterminado. Por outro lado, regendo as conexões
+entre os modos infinitos e os modos finitos, sendo aqueles o todo e estes as
+partes. Como exemplo: Deus é causa das ideias e do entendimento infinito; de
+Deus às ideias e ao seu entendimento, há uma conexão de causa e efeito; entre
+as ideias produzidas e o entendimento também produzido existe uma conexão do
+todo às partes de tal modo que o entendimento infinito está indivisível em cada
+ideia, tal como o todo está nas partes e reciprocamente. Quanto à segunda, a
+relação causal ou de causa e efeito é concebida segundo o modelo matemático
+essência-propriedades: da essência (ou de uma definição) derivam necessariamente
+propriedades que são como consequências da definição; por exemplo, da própria
+natureza do círculo segue-se que não existe um círculo quadrado, por envolver
+expressa contradição (Ip11dem2). Esta relação causal introduz no ser uma diferença
+real de grau de poder ou grau de perfeição, sendo mais perfeito ou com um grau
+maior de perfeição tudo aquilo que está mais próximo da causa, e menos perfeito
+ou com um grau menor de perfeição o que está mais afastado16.
+
+
+
+
+
+
+
+
+
+
+
+Referências Bibliográficas
+
+
+ 
+
+
+DELBOS, Victor. Le Spinozisme. 5. ed.
+Paris: J. Vrin, 1987.
+
+
+DELEUZE, Gilles. Espinosa: Filosofia
+Prática. Tradução de Daniel Lins e Fabien Pascal Lins. Revisão
+técnica de Eduardo D. B. de Menezes. São Paulo: Escuta, 2002.
+
+
+______. Spinoza et le Probléme de l'Expression.
+Paris: Minuit, 1985. (Arguments).
+
+
+GUEROULT, Martial. Spinoza. v. 1 (Dieu) e
+v. 2 (L’Âme). Paris: Aubier-Montaigne, 1997. (Analyse
+et Raisons).
+
+
+GUISADO, Maria Carmen Casillas. “Algunas Observaciones sobre el Método Deductivo en Spinoza”.
+In: BLANCO-ECHAURI, Jesús. (org.). Espinosa: Ética e Política - Encontro Hispano-Portugués de
+Filosofía. Santiago de Compostela, 5-7 de abril de 1997. Santiago
+de Compostela: Universidade, 1999. p. 199-210.
+
+
+MACHEREY, Pierre. Introduction à l’Éhique de
+Spinoza. La cinquiéme partie: les voies de la libération. 2. ed. Paris:
+Presses Universitaires de France, 1997a. (Les grands livres de la Philosophie).
+
+
+______. Introduction à l’Éhique de Spinoza. La
+première partie: la nature des choses. Paris: Presses Universitaires
+de France, 1998a. (Les grands livres de la Philosophie).
+
+
+______. Introduction à l’Éhique de Spinoza. La
+quatriéme partie: la condition humaine. Paris: Presses Universitaires de
+France, 1997b. (Les grands livres de la Philosophie).
+
+
+______. Introduction à l’Éhique de Spinoza. La
+secondie partie: la réalité mentale. Paris: Presses Universitaires
+de France, 1997c. (Les grands livres de la Philosophie).
+
+
+______. Introduction à l’Éhique de Spinoza. La
+troisiéme partie: la vie affective. 2. ed. Paris: Presses
+Universitaires de France, 1998b. (Les grands livres de la Philosophie).
+
+
+SCHAUB, M. Espinosa ou uma Filosofia Política Galilaica.
+In: CHÂTELET, F. (Org.). História da Filosofia. v. 2. Tradução de
+Alexandre Gaspar et al. Lisboa: Dom Quixote, 1981. 4 v. 
+
+
+SPINOZA, Benedictus de. B. D. S. Opera Posthuma –
+Amsterdam 1677. Riproduzione fotografica integrale. A cura de
+Pina Totaro. Prefazione di Filippo Mignini. Macerata: Quodlibet, 2008.
+
+
+______. B. D. S. Opera Posthuma.  [S. l.: s. n.],
+MDCLXXVII [1677].
+
+
+______. Correspondência (Cartas 2, 4, 12, 21, 32, 34
+e 50). Tradução e notas de Marilena de Souza Chauí. In: ______. Espinosa.
+ Seleção de textos de Marilena Chauí; traduções por Marilena Chauí et al. 3.
+ed. São Paulo: Abril Cultural, 1983. p. 365-391. (Os Pensadores).
+
+
+______. Correspondencia. Introducción, traducción, notas y
+índice de Atilano Domínguez. Madri: Alianza, 1988.
+
+
+______. Court Traité sur Dieu, L’Homme et la
+Béatitude. Traduit pour la premiére fois en français et précédé
+d’une introduction par Paul Janet. Paris: Germer Baillière et Cie.,
+1878.
+
+
+______. De Nagelate Schriften van B. D. S.
+[S. l.]: Gedrukt in ‘t Jaar, MDCLXXVII [1677].
+
+
+______. Ethica/Ética. Edição bilíngue
+Latim-Português. Tradução e Notas de Tomaz Tadeu. Belo Horizonte:
+Autêntica, 2007.
+
+
+______. Éthique. Texte Latin,
+traduction Nouvelle avec notice et notes par Charles Appuhn. Paris: J. Vrin,
+1983. 2 v. em 1. (Bibliotéque des Textes Philosophiques).
+
+
+______. Éthique: Présenté et
+traduit par Bernard Pautrat. Paris: Éditions Du Seuil, 1999.
+
+
+______. Ética. Introdução de
+Huberto Rohden e tradução de Jean Melville. São Paulo: Martin Claret, 2002. (A
+Obra-Prima de Cada Autor – Série Ouro).
+
+
+______. Ética. Introdução e notas de Joaquim de
+Carvalho. Tradução e notas da parte 1 de Joaquim de Carvalho, tradução das
+partes II e III de Joaquim Ferreira Gomes, tradução das partes IV e V de
+António Simões. Lisboa: Relógio D’Água, 1992.
+
+
+______. Ética. Prefácio e tradução de Lívio
+Xavier. São Paulo: Atena, 1. ed. 1957, 4. ed. 1960. (Biblioteca Clássica).
+
+
+______. Ética. Tradução e notas da parte 1 de
+Joaquim de Carvalho, tradução das partes II e III de Joaquim Ferreira Gomes,
+tradução das partes IV e V de Antônio Simões. In: ______. Espinosa.
+Seleção de textos de Marilena Chauí; traduções por Marilena Chauí et al. 3. ed.
+São Paulo: Abril Cultural, 1983. p. 69-299. (Os Pensadores).
+
+
+______. Princípios
+de la Filosofia Cartesiana. Pensamientos Metafísicos. Introducción, traducción y notas de Atilano Domínguez. Madri: Alianza, 1988b. (Inclui TIE).
+
+
+______. Spinoza Opera. Im Auftrag der Heidelberger Akademie der Wissenschaften herausgegeben
+von Carl Gebhardt. Heildelberg: Carl Winter, 1925; 2. Auflage 1972, 4v.
+
+
+______. Spinoza: Tratado Breve. Traducción, prólogo y notas de Atilano Domínguez. Madri: Alianza, 1990.
+
+
+______. Spinoza’s Short Treatise on God,
+Man, & his well-being. Translated and edited with an
+introduction and commentary and
+a Life of Spinoza by A. Wolf. London: Adam and Charles Black, 1910.
+
+
+______. Tratado da Reforma do Entendimento. Tradução por
+Abilio Queirós. Lisboa: Edições 70, 1987. 111 p. (Textos
+Filosóficos, 14). Tradução de: Tractatus de Intellectus Emendatione.
+
+
+______. Tratado de la Reforma del Entendimiento. Introducción,
+traducción y notas de Atilano Domínguez. Madri: Alianza, 1988b. (inclui
+PPC e CM).
+
+
+______. Tratado Político. Tradução, introdução e notas
+de Diogo Pires Aurélio. Revisão de Homero Santiago. São Paulo: Martins Fontes,
+2009.
+
+
+______. Tratado Teológico-Político. Tradução, introdução
+e notas de Diogo Pires Aurélio. São Paulo: Martins Fontes, 2003.
+
+
+
+
+
+
+
+
+
+
+
+Notas
+
+
+1 As
+referências para a Ética foram feitas a partir da tradução de Tomaz Tadeu. Os números em
+algarismo romano (I, II, III, IV e V) referem-se às respectivas partes da
+Ética.
+
+
+2 Para a
+citação das obras de Spinoza, utilizaremos as siglas PPC, para os Princípios de
+Filosofia Cartesiana; TIE para o Tratado da Reforma do Entendimento; Ep para as
+Cartas e E para a Ética. Quanto às citações referentes às divisões internas da
+Ética ou dos Princípios de Filosofia Cartesiana, indicaremos a parte citada em
+algarismos arábicos, seguida da letra correspondente para indicar as definições
+(d), axiomas (a), proposições (p), prefácios (Pref), corolários (c) e escólios
+(s), com seus respectivos números. Quando necessário, citaremos o original em latim
+da edição de Carl Gebhardt, cuja sigla será SO, seguida do número
+correspondente ao volume (1 a 4), em algarismo arábico e o número da página.
+Nos poucos casos em que a obra de Spinoza não consta da edição de Gebhardt,
+como ocorre com algumas Cartas, ou da numeração dos parágrafos do Tratado da
+Reforma do Entendimento, a partir da edição de Bruder, utilizaremos as
+respectivas traduções de Atilano Domínguez para o primeiro caso e a tradução de
+Abílio Queirós para o segundo.
+
+
+3 Nossa
+análise da estrutura da Ética se fundamentará em Martial Gueroult (1997, v. 1 e v. 2) e Pierre Macherey (1997a, 1998a, 1997b, 1997c e 1998b).
+
+
+4 Cf. o
+original: “Per causam sui intelligo id cujus essentia involvit existentiam
+sive id cujus natura non potest concipi nisi existens.” (E1Def1,
+SO2, p. 45).
+
+
+5
+GUEROULT, M. Spinoza, 1997, v. 1 (Dieu), p. 37.
+
+
+6
+DELBOS, V. Le Spinozisme, 1987, p. 14.
+
+
+7 DELEUZE,
+Gilles. Espinosa: Filosofia Prática, 2002, p. 94. Relativo à univocidade
+da causa, ver também do mesmo autor, Spinoza et le Probléme de l'Expression,
+1985, p. 58.
+
+
+8 Ver
+também SPINOZA, B. de. Lettres. In: Œuvres. Tradução, notícias e
+notas por Charles Appuhn. Paris: GF Flamarion, 1964. 4 v. v.
+4, Lettre II, p. 123 e Lettre IV, p.
+129 e SPINOZA, B. de. Éthique. Texto introdutório e tradução por Charles
+Appuhn. Paris: J. Vrin, 1983. 2 v. em 1. (Bibliotéque des Textes
+Philosophiques). Tradução de: Ethica. v. 1, Parte I (De Dieu),
+Proposição IV, Demonstração, p. 23 a 25 e Proposição XX, Demonstração e
+Corolário II, p. 67.
+
+
+9
+SPINOZA, B. de. Lettres. In: Œuvres,  v. 4, Lettre IX, p.
+151.
+
+
+10
+DELBOS, V. op. cit., p. 43.
+
+
+11
+Idem, p. 38-39.
+
+
+12
+DELEUZE, G. Spinoza et le probléme de l'expression, p. 56.
+
+
+13 DELEUZE,
+G. Espinosa: Filosofia Prática, 2002, p. 59 e DELBOS, V. op. cit., p. 45
+e 46.
+
+
+14
+GUEROULT, M. op. cit., p. 32.
+
+
+15
+DELEUZE, G. Spinoza et le probléme de l'expression, p. 56 a 58.
+
+
+16 SCHAUB,
+M. Espinosa ou uma Filosofia Política Galilaica, 1981, p. 152.
+
+
+
+
+
+
+

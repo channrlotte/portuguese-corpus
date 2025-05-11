@@ -1,0 +1,1003 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PDL – Projeto Democratização da Leitura
+
+
+Apresenta:
+
+
+O Médico Doente
+Drauzio Varella
+
+Companhia Das Letras
+
+Copyright © 2007 by Drauzio Varella
+
+CAPA E PROJETO GRÁFICO
+
+WARRAK LOUREIRO
+
+PREPARAÇÃO
+
+MÁRCIA COPOLA
+
+REVISÃO
+
+MARISE S. LEAL
+
+ANA MARIA BARBOA
+
+DIGITALIZAÇÃO
+
+newton – PDL
+
+Dados Internacionais de Catalogação na Publicação (CIP)
+
+(Câmara Brasileira do Livro, SP, Brasil)
+
+________________________________________________________________________________________________
+
+Varella, Drauzio, 1943-,
+
+O médico doente / Drauzio Varella, - São Paulo:
+
+Companhia das Letras, 2007.
+
+ISBN 978-85-359-1149-7
+
+1.Febre amarela 2. Médicos – Doenças 3. Varella, Drauzio,
+
+1943 I. Título
+
+CDD-616.9280092
+
+07-9508                                                                                                             NLM-WC 530
+
+________________________________________________________________________________________________
+Índice para catálogo sistemático:
+
+1. Febre amarela: Pacientes: Relatos: Medicina
+
+616.9280092
+
+[2008]
+
+TODOS OS DIREITOS DESTA EDIÇÃO RESERVADOS À
+
+EDITORA SCHWARCZ LTDA.
+
+RUA BANDEIRA PAULISTA, 702, CJ, 32
+
+04532-002 – SÃO PAULO – SP
+
+TELEFONE (11) 3707-3500
+
+FAX (11) 3707-3501
+
+WWW.COMPANHIADASLETRAS.COM.BR
+
+E que a hora esperada não seja vil, manchada de medo,
+
+submissão ou cálculo. Bem sei, um elemento de dor
+
+rói sua base. Será rígida, sinistra, deserta,
+
+mas não a quero negando as outras horas nem as palavras
+
+ditas antes com voz firme, os pensamentos
+
+maduramente pensados, os atos
+
+que atrás de si deixaram situações.
+
+"OS ÚLTIMOS DIAS", CARLOS DRUMMOND DE ANDRADE
+
+CAP I
+
+Cheguei domingo às oito da manhã, pé ante pé para não acordar minha mulher. Apesar do vôo, que saíra de Manaus às três da madrugada, estava disposto: havia dormido algumas horas no barco-escola e durante toda a viagem, até aterrissarmos em São Paulo.
+
+Desfiz a mala, providência adotada desde que comecei a viajar feito cigano e sem a qual não sinto haver chegado a lugar nenhum, e fui correr no Minhocão.
+
+"Alegria de paulista", disse uma amiga carioca quando contei que aproveitava a interdição do tráfego aos domingos para correr na pista elevada que faz parte da ligação leste—oeste da cidade, excrescência do urbanismo paulistano acessível a quinhentos metros de casa, no centro.
+
+Minha amiga tem razão, talvez seja programa de quem vive numa cidade cinzenta, congestionada, gigantesca, na qual, para enxergar uma nesga de céu, é preciso correr risco de morte debruçado na janela. Compreendo o encanto de morar em meio a paisagens paradisíacas ou em cidades bucólicas onde todos se conhecem, mas para os neuróticos, fascinados pela velocidade do cotidiano, pelo convívio com a diversidade étnica e com as manifestações de criatividade que emergem nos aglomerados humanos, correr domingo de manhãzinha na altura do segundo andar dos prédios da avenida São João é um prazer.
+
+No interior dos apartamentos o olhar bisbilhoteiro entrevê mobílias escuras, guarda-roupas pesados, estantes improvisadas e, claro, o televisor.
+
+Logo cedo, os craqueiros recolhem seus pertences nas rampas laterais para dar espaço aos primeiros corredores, ciclistas e andarilhos, e caminham na direção da Estação da Luz com o cobertorzinho ordinário nos ombros. Parecem morcegos afugentados pela claridade.
+
+Duvido que exista paisagem dominical mais urbana. A mulher de camisola florida e cabelo desgrenhado abre a cortina e boceja, despudorada; o senhor de pijama leva a gaiola do passarinho para o terraço espremido; o homem de abdômen avantajado escova os dentes distraído na janela; o de barba branca com gorro de lã, a cara do Bin Laden, empilha os móveis para a faxina da semana.
+
+Havia planejado completar vinte e quatro quilômetros, mas, depois de percorrer seis vezes os três quilômetros de extensão da referida excrescência, sucumbi ao peso da noite maldormida. Tomei água-de-coco, comprei pão e subi pela escada até o décimo quarto andar do prédio onde moro, exercício aprendido com um de meus pacientes, que aos setenta e seis anos subia dez vezes por dia doze andares. E, não satisfeito com a intensidade do esforço, fazia-o vestido com um blusão repleto de bolsos, nos quais distribuía vinte quilos de chumbo.
+
+Meu domingo seguiu a rotina: fui ao hospital, telefonei para alguns doentes, tomei uma dose de cachaça mineira, visitei minha netinha, escrevi durante a tarde e assisti ao terceiro episódio de uma série sobre obesidade apresentada por mim, na televisão.
+
+CAP II
+
+Às quatro da madrugada acordei. Entrava um vento cortante pela janela do banheiro. Quando voltei para a cama, meu corpo estava congelado. Achei estranho: Regina, eternamente mais agasalhada do que eu, dormia com uma colcha leve.
+
+Peguei o cobertor, mas tremia tanto que ela acordou e foi buscar uma manta grossa.
+
+A crise durou minutos. Fiquei encolhido, trêmulo, com a testa gelada, o corpo retesado, os músculos das costas contraídos e a boca cerrada para não bater os dentes, à espera do calor que as cobertas não traziam.
+
+Só consegui lembrar-me de tanto frio em duas ocasiões. Num 2 de janeiro, em Londres, a dez graus abaixo de zero, quando corri dois quarteirões com o rosto anestesiado para me abrigar numa lanchonete em cuja mirada uma moça quase albina sapateava e chorava de dor nos pés congelados. Outra vez, em Cleveland, sob a neve, sofrimento idêntico porque menosprezei o vento e a distância que me separava da porta do hospital. Nas duas experiências, entretanto, o impacto era causado pelo frio que vinha do exterior; dessa vez, o gelo brotava da medula óssea.
+
+Os calafrios me trouxeram as imagens de um filme de Akira Kurosawa em que dois personagens são surpreendidos pela chegada da noite durante uma tempestade de neve, antes de avistar o acampamento — na verdade situado a pequena distância do local onde caíram exaustos. Quase invisíveis em meio à revoada de flocos, enquanto um deles fazia de tudo para impedir que o amigo desfalecesse, surgia a morte encarnada na figura evanescente de uma mulher de rosto encoberto, a convidá-los para acompanhá-la.
+
+O termômetro marcou 40,2 graus. Os calafrios eram o prenúncio de uma doença que por pouco não me levou desta para outra melhor, como diria minha avó.
+
+Tomei um comprimido de dipirona e dormi novamente. As sete, levantei indisposto, com o corpo moído e as pernas combalidas, para ir a uma reunião na faculdade de medicina.
+
+Foi uma luta para não pegar no sono no meio da discussão. Bem fazem meus colegas japoneses, que se dão o direito de cochilar em rodízio durante as reuniões científicas, sem recriminações mútuas. No jardim da faculdade, a caminho da rua, achei prudente voltar para casa. Um pouco de repouso me deixaria em condições de ir à Penitenciária do Estado depois do almoço, para o atendimento aos presos, atividade iniciada nesse presídio após a implosão do Carandiru.
+
+Apesar da intenção, não consegui sair. Passei a tarde qual cachorro decrépito, caindo em cima do computador enquanto tentava escrever minha coluna de jornal. Afora a falta de energia, no entanto, nenhum sintoma de gripe, resfriado ou outra enfermidade.
+
+À noitinha a febre retornou alta, acompanhada dos mesmos calafrios e de dor nas costas. Tentei fazer o que muitas vezes aconselhei a meus pacientes nessas crises: respirar fundo e relaxar. Não sei onde aprendi recomendação tão inútil para quem não é monge budista nem vive nas montanhas do Tibete. Relaxar, com o corpo tremendo feito vara verde? Na febre alta, as toxinas cravam as garras nos músculos e entorpecem o cérebro. O pensamento fica fragmentado, fugidio, em estado de introspecção autista. A astenia deixa o corpo avesso aos mínimos esforços.
+
+Encolhido sob três cobertores incompetentes para derreter o iglu em que se transformara meu esqueleto, empenhado em dar à minha mulher a impressão de que tudo não passava de uma gripe forte, evento banal a que estava sujeito qualquer um, caí naquela fase inicial do sono, na qual o cérebro ainda mantém resquícios de comando sobre a motricidade suficientes para fazer o corpo reagir em sobressalto ao sonho ameaçador, quando surgiu nublada a imagem da negra do manjar.
+
+Emergiu do passado com vestido de organdi e renda branca, colar de contas coloridas, cavalete na mão e um turbante sobre o qual equilibrava o tabuleiro com os manjares. Sorriu para mim, olhou para a garotada que se aglomerava na calçada da fábrica em frente à casa onde morávamos com a avó espanhola, minha segunda mãe, abriu o cavalete e sobre ele apoiou o tabuleiro coberto com uma toalha de filó. Parou tão perto que pude admirar a sensualidade da pele reluzente, o colo farto, o vigor dos braços nus, e reconhecer a fragrância do Cashmere Bouquet.
+
+O sorriso da negra, neta de escravos, as crianças descalças ao redor dos manjares trêmulos, o cenário da rua cinzenta com casas coletivas de janelas altas e as torres da igreja de Santo Antônio pertenciam à infância no bairro operário do Brás, mas meu olhar era atual, tão fascinado pela aparição, que duas vezes fechei os olhos e fiz força para voltar ao sonho.
+
+Em que sótão aquelas memórias se esconderam por tantos anos, para vir à tona em meio a calafrios?
+
+CAP III
+
+Quando a temperatura baixou, tomei um banho e procurei assumir o controle da situação. Expliquei a Regina que os sintomas eram sugestivos de uma das febres causadas por vírus, contra as quais não existem medicamentos além dos antitérmicos que já tomava.
+
+         Tinha argumentos razoáveis para justificar a suposição: febre alta ao voltar da floresta amazônica fazia pensar em malária, prevalente às margens do rio Cuieiras, local onde dois botânicos de nossa equipe contraíram mais de uma vez a doença. Mas, entre a manhã de sexta-feira da semana anterior, quando o barco de pesquisas Escola da Natureza aportara no igarapé, e a madrugada de segunda, ao ocorrer o primeiro pico febril, não haviam se passado sequer setenta e duas horas, tempo insuficiente para a manifestação de uma enfermidade que tem incubação mais prolongada.
+
+Dengue, sim, poderia ser, virose de período de incubação curto. Ainda mais que uma semana antes eu havia feito uma viagem inusitada para passar seis dias em Corumbau, no sul da Bahia, convencido pela obstinação de Regina em repetir que considerava absurdo um homem ficar trinta anos sem férias e que numa praia deserta sobraria tempo para estudar, escrever e terminar a leitura do Dom Quixote.
+
+Não tive dúvida de que fora picado pelo mosquito da dengue na Bahia, anátema divino pelo fato de haver me afastado dos pacientes para me entregar à lassidão tropical.
+
+Nas duas manhãs seguintes acordei com o corpo em frangalhos e me lembrei das palavras de seu Luiz Coelho, o mateiro de nosso projeto de pesquisa, ao descrever a dengue adquirida em Manaus poucos meses antes: "O infeliz fica tão acabado que até respirar cansa".
+
+O velho botânico tinha razão. Quarta-feira, quando olhei para a cama antes de sair de casa, fui tomado pela autopiedade que assalta o espírito humano nos momentos de fragilidade: "Não posso acreditar que só à noite vou deitar outra vez".
+
+Apesar de o corpo suplicar uma cadeira pelo amor de Deus, consegui ir ao consultório e cumprir a rotina. Os pacientes estranharam minha palidez, o ritmo mais lento e, sobretudo, o ar de desânimo, que fui obrigado a atribuir às noites maldormidas em virtude da suposta dengue. Doentes com câncer invariavelmente interpretam o estado de ânimo de um médico cabisbaixo como evidência de que as coisas vão mal com eles. Nessas circunstâncias, é preciso ser enfático, não deixar dúvida de que o abatimento e a tristeza têm causa concreta e pessoal, independente de qualquer impressão negativa sobre a evolução dos males que os afligem.
+
+No trabalho, passei os dois dias em briga de foice contra a astenia e o sono. Às vezes, era forçado a pedir desculpas por ficar em pé durante as consultas, até as costas latejarem. Existe frustração maior do que relatar suas queixas a um médico que cochila na cadeira?
+
+Nesses dias voltei mais cedo para casa, de carona com meus colegas de clínica, Narciso Escaleira e Rafael Possik, que há muitos anos dividem comigo o atendimento diário. No caminho insistiram que consideravam absurda minha teimosia em ir à clínica, mas argumentei que as consultas marcadas para quinta-feira seriam as últimas e que haveria tempo para me recuperar no fim de semana. Além disso, a febre tinha ritmo, atacava só depois das seis da tarde. 
+Mas, quando atacava...
+
+A fraqueza subia pelas pernas, tomava conta do corpo e espalhava um mal-estar indefinido. A cabeça pesava, e surgia um incômodo nas costas que num instante se transformava em espasmo, como se um alicate gigante esmagasse os músculos contra a coluna vertebral. Nos picos febris, os calafrios faziam a cama tremer igual a caixa de ressonância.
+
+Na quarta-feira à noite, cansado de tanto sofrimento e do efeito fugaz dos analgésicos, tomei um comprimido de morfina.
+
+Que bênção. Bem-aventurados os descobridores desta droga que há mais de cem anos alivia as dores da humanidade com eficácia sem igual. Que descoberta em medicina seria mais merecedora do prêmio Nobel?
+
+Com a tranqüilidade trazida pela benfazeja morfina, consegui jantar; pouco, é verdade, mas um banquete nababesco se comparado às refeições que estavam por vir.
+
+Na quinta-feira, acordei às seis horas para receber o técnico de laboratório que veio colher os exames de sangue solicitados por mim mesmo, na véspera. Estava bem pior, enjoado, enfraquecido, empenhado em descobrir de onde surgiriam as forças que me levariam ao consultório.
+
+Abandonei a xícara pela metade por causa do gosto metálico do café, até então companheiro insubstituível das manhãs. O banho de chuveiro que havia me posto em condições de sair nos dias anteriores só serviu para me deixar mais cansado.
+
+Na clínica, aprendi a valorizar quadros com essas características: quando um paciente se queixa de terminar o banho da manhã tão arrasado que precisa voltar para a cama, é bom levar a doença a sério.
+
+Não apenas deitei de novo, dormi por duas horas. Acordei de ressaca, suado, tomei o segundo banho exaustivo e me vesti em câmera lenta. Quando sentei para calçar os sapatos, Regina apareceu à porta e me intimou a olhar-me no espelho.
+
+A despeito da inabalável complacência masculina com a auto-imagem, reconheci não estar em meus momentos mais esplendorosos: as olheiras simulavam um soco em cada olho; a pele pálida e o olhar baço do pugilista prestes a beijar a lona conferiam-me a aparência dos figurantes de um filme de terror em preto-e-branco estrelado por Bela Lugosi, a que assisti morto de medo no Cine Piratininga, na Rangel Pestana, o maior cinema da América Latina naquela época. Malvadeza cruzar com alguma criancinha no elevador.
+
+Depois de muito argumentar, de prometer que iria à clínica só para dar uma olhada nos doentes em tratamento e jurar que estaria em casa para o almoço, consegui que ela saísse do quarto aparentemente conformada. Até calcei os sapatos.
+
+Ridículo, um homem vivido menosprezar a persistência feminina: ela apareceu com o telefone na mão e Rafael na linha. O tom era o da voz de meu pai emitida do outro mundo: "Se fosse um de nossos doentes, você deixaria trabalhar? Já combinei com o Narciso: você entra no consultório, nós saímos pela outra porta. Quer bancar o machão, fica sozinho".
+
+Vesti novamente o pijama. Basta cair doente para que todos se considerem no direito de dar ordens: "Já para a cima"; "Não saia no sereno"; "Vista o agasalho".
+
+O mais humilhante é obedecer com docilidade, porque a doença tem o dom de nos fazer regressar ao tempo em que nos entregávamos indefesos aos cuidados maternos. Na cadeia, vi muito assaltante de renome chamar pela mamãezinha na hora da dor.
+
+Despertei algumas vezes e dei graças a Deus por estar em casa, o esforço de sair teria sido insuportável.
+
+A febre alta veio inclemente, precedida pelo alicate nas costas, acompanhada do frio polar e de uma sensação de irrealidade, como se o corpo estivesse no quarto e ausente ao mesmo tempo.
+
+No meio da tarde, acordei com a impressão de ter visto Regina em pé à cabeceira, ao lado de Esper Kallás, infectologista que veio trabalhar na clínica na década de 80, recém-formado, para ajudar no atendimento dos pacientes com AIDS.
+
+Ambos fizeram a gentileza de aguardar em silêncio por meu retorno ao mundo dos vivos.
+
+Ele se debruçou sobre a cama e me examinou. Ao terminar, estava sério:
+
+—O exame físico é irrelevante. Nenhum linfonodo aumentado, fígado e baço de dimensões normais. Dores musculares, febre alta, toxemia...
+
+—Toxemia? — interrompi, surpreso. Apesar de todas as evidências, não me imaginava nesse estado. Ainda insisti:
+
+—Estive na Amazônia e no litoral da Bahia, você não acha que pode ser dengue?
+
+—Acho que não é. Acabei de acessar pela internet os exames colhidos de manhã: o hemograma não sugere, e as provas de função hepática estão bastante alteradas. É melhor a gente te internar por dois ou três dias.
+
+A simples referência ao hospital teve o dom de me reduzir à insignificância. Existe ingenuidade mais humilhante do que encampar de imediato a hipótese mais otimista quando se trata de si mesmo, sem levar em conta que febre alta, calafrios, dores musculares e toxemia são sintomas comuns a uma infinidade de patologias infecciosas? Jamais teria sido tão crédulo no caso de um paciente que me relatasse queixas semelhantes, especialmente porque o tratamento do câncer é um exercício permanente de avaliação das possibilidades mais pessimistas e improváveis.
+
+Ainda assim, perguntei se a internação era mesmo imprescindível. Como cancelar as consultas na clínica, interromper as gravações da série em exibição na TV, escrever a coluna do sábado seguinte no jornal, deixar de ir ao congresso de câncer de mama no Texas, dali a dez dias, depois de haver pago a inscrição e reservado hotel?
+
+Ele não se condoeu com o rosário de obrigações. 
+— É — respondeu, seco.
+
+CAP IV
+
+Desde 1970, quando internei pela primeira vez um paciente no prédio antigo, se cheguei a ficar uma semana sem ir ao Hospital Sírio-Libanês, foi por motivo de viagem. Minha carreira caminhou em paralelo com o crescimento da instituição; a vida pessoal, também. Lá, convivo com ex-professores e ex-colegas da faculdade; conheço as enfermeiras desde mocinhas, os funcionários e as instalações. Em seus leitos estiveram muitos de meus familiares, faleceram meu pai, meu sogro e meu irmão mais novo.
+
+Apesar da familiaridade, cruzar a porta de entrada na 11 lição de paciente foi inusitado. Do porteiro ao ascensorisla, incluindo os médicos e funcionários que passavam pelo saguão, todos vieram falar comigo. Pode ser exagero, talvez nem fossem todos, mas eram muitos; estranhavam meu ar abatido, minha mulher a meu lado e a escolta de seu Iswaldo, o funcionário mais antigo da portaria. Faziam perguntas técnicas e não aceitavam evasivas, exigiam detalhes: a quanto chegavam os picos febris? A que horas surgiam? Para onde eu tinha viajado? Não seria malária? Fui salvo por minha mulher, que me puxou para dentro do elevador.
+
+Que alívio fazer o que mais desejava: deitar na cama e me cobrir com a colcha branca de algodão, com relevo em arabescos, fresquinha ao contato, idêntica às usadas na casa da avó Aurélia, onde fui morar aos quatro anos com meu pai e meus irmãos, depois da morte de minha mãe. Nem liguei para o aspecto grotesco que meu corpo magro de um metro e oitenta e cinco adquiriu ao vestir a camisola hospitalar de amarrar nas costas, cortada para quem mede no máximo um metro e trinta.
+
+Mal fechei os olhos, o quarto foi invadido por um batalhão de enfermeiras e auxiliares perguntando-me se apresentava alguma alergia, queixa cardíaca, pulmonar, urinária ou digestiva. Enquanto respondia a uma delas, outra instalava o aparelho de pressão em meu braço, e uma terceira colocava o termômetro e enlaçava a pulseira de identidade. Um técnico do laboratório passou um garrote para colher sangue e ligar o frasco de soro: "Vou dar uma picadinha".
+
+Foi o primeiro de uma série infindável de diminutivos que viriam a ser pronunciados. Achei graça porque me lembrei de meu sogro, engenheiro agrônomo que se orgulhava de ter passado a vida a abrir fazendas e a desbravar rincões longínquos. Quando esse homem à moda antiga saiu do centro cirúrgico depois de uma operação de catarata e lhe perguntei se havia sentido dor, respondeu: "Dor é o de menos; duro é ouvir 'Abre o olhinho', 'Fecha o olhinho', e ser obrigado a ficar quieto".
+
+O emprego do diminutivo infantiliza o cidadão. Deitado de camisola e pulseirinha, sem forças para agir por conta própria, cercado de gente que diz: "Vamos tomar um remedinho"; "Abre a boquinha"; "Levanta a perninha"... há maturidade que resista?
+
+Pelos dois litros de sangue que o rapaz do laboratório colheu de minha veia, tive certeza de que Esper não fazia a menor idéia do diagnóstico. Imaginei que fosse pedir sorologia até para brucelose, enfermidade de curso imprevisível causada por uma bactéria transmitida pelo gado; exame que os infectologistas solicitam infrutiferamente nos casos mais escabrosos de febre de origem indeterminada.
+
+Mas a febre e seu cortejo de sintomas não demoraram a retornar, comprometendo a racionalidade dessa análise e meu interesse pelo mundo.
+
+No auge dos calafrios chegaram Ronaldo Kairala e Daniel Deheinzelin, pneumologistas, com quem mantenho amizade fraterna e parceria profissional permanente desde os anos 80, quando haviam acabado de sair da faculdade. Auscultaram meus pulmões e verificaram que apesar da febre alta meu coração batia apenas quarenta e quatro vezes por minuto, contrariando um princípio básico da fisiologia, no qual prevê aceleração da freqüência cardíaca em resposta do aumento da temperatura. Diante do achado, perguntei se o miocárdio não estaria comprometido pelo mesmo agente que me torturava os músculos lombares. A resposta veio imediata: "Você é corredor de maratona; atletas mantêm pulso lento mesmo em idades avançadas".
+
+Há uma regra empírica que prevê um acréscimo de dez batimentos cardíacos por minuto para cada grau de aumento da temperatura corpórea. Se em repouso, graças ao exercício, meu coração costumava bater cinqüenta vezes por minuto, com trinta e nove graus a freqüência deveria atingir pelo menos setenta, ritmo acelerado para mim mas ainda na faixa de normalidade dos sedentários. Cair para quarenta não fazia sentido, a menos que o coração estivesse de fato afetado.
+
+Achei melhor sorrir da referência à idade do que discutir a lógica da conclusão, porque pressenti ser aquela a primeira das justificativas otimistas e de pensamentos mágicos empregadas pelos médicos com a intenção de poupar os pacientes da suposta angústia que experimentariam caso fossem postos a par das incertezas e da gravidade de seus males. Trêmulo de frio e preocupado com a lentidão cardíaca, tomei consciência de que meu estado me aleijara do seio da corporação profissional: dali em diante seria considerado café-com-leite, condição de neutralidade imposta pelos garotos mais velhos ao pequeno que teima em participar da brincadeira.
+
+Assim que os dois saíram, chegaram minhas filhas: Mariana, a mais velha, tradutora, casada, mãe de uma menina de seis meses que encantava a família inteira, e Letícia, médica-residente num hospital da zona leste de São Paulo.
+Os pais de meninos que me desculpem, mas nada é comparável às filhas numa hora dessas: seguram nossa mão, beijam e acariciam nosso rosto, ajeitam as cobertas e o travesseiro, chamam-nos de paizinho e dizem que somos lindos. Não que os homens sejam indiferentes ou deixem de demonstrar solidariedade com o pai acamado, mas, convenhamos, são mais contidos, para dizer o mínimo. Mal se aproximam do leito, já avisam que compromissos inadiáveis reclamam a presença deles. Não é por acaso que ao lado de um homem hospitalizado existe sempre uma mulher.
+
+Regina esticou os lençóis num sofá a meu lado, e Letícia deitou na ante-sala, indiferentes aos argumentos que eu uni para convencê-las a irem dormir em casa. A consciência de que por minha causa as duas passariam a noite mal acomodadas, quando a um toque de campainha eu teria a enfermeira do andar à disposição, não foi agradável. Criado sem os préstimos maternos, por um pai auto-suficiente eu menosprezava homens dependentes da servidão feminina, incapazes de fritar um ovo ou de buscar um copo d'água na cozinha com as próprias pernas, conforme repetia, desde a infância fico acabrunhado ao aceitar favores e a proteção de areeiros. Na adolescência, ao ver as mães de meus colegas de escola feito sombra no encalço deles para guardar objetos espalhados pelos quatro cantos, lavar a louça empilhada na pia e até separar-lhes a roupa de vestir, tinha a impressão de que meus amigos eram retardados mentais.
+
+Com as luzes apagadas, não consegui dormir por causa da dor nas costas, companheira infame daquela semana febril, mas resisti porque, se chamasse a enfermagem, acordaria todo mundo. Lembrei-me da sabedoria de um professor de canto lírico, portador de câncer avançado, viúvo, sempre disposto a explorar o lado irônico dos acontecimentos graves, que me proibiu de avisar os filhos quando foi internado, com o argumento de que estava muito doente para se dar ao luxo de velar o sono de acompanhantes que precisavam trabalhar no dia seguinte.
+
+As dores, entretanto, foram mais fortes do que a relutância do órfão independente, e as duas acordaram quando o enfermeiro entrou com o comprimido de morfina solicitado. Com ar profissional, ele mediu a pressão, a temperatura, instalou um oxímetro em meu dedo para avaliar os níveis sanguíneos de oxigênio, contou o pulso, a frequência respiratória, mas não comunicou os resultados ao maior interessado neles; limitou-se a desejar boa noite e a levantar as grades da cama, para meu espanto.
+
+Tentei explicar que não havia razão para que me mantivessem contido, um simples comprimido de morfina não me faria perder a lucidez, e as grades me obrigariam a pedir ajuda quando precisasse ir ao banheiro, mas não consegui demovê-lo. "Desculpe, não posso fazer nada", respondeu.
+
+Não são poucas as semelhanças entre hospitais, cadeias, manicômios, clínicas para recuperação de dependentes químicos, spas para tratamento da obesidade e outras instituições que restringem a liberdade humana.
+
+No Carandiru, os presos recém-chegados desciam dos camburões num pátio central, a Divinéia, e seguiam para identificação no Pavilhão Dois, onde entregavam objetos pessoais e a roupa do corpo para receber a calça bege, uniforme obrigatório, e cortar o cabelo nas têmporas, ficando apenas com um tufo achatado na parte de cima da cabeça. Desse momento em diante, eram chamados indistintamente de "triagens", da mesma forma que eu na camisola insólita, pulseira de identificação, enjaulado no leito, fora reduzido à condição despersonalizada de paciente.
+
+Não fosse conhecido ou estivesse num hospital público, talvez os médicos e residentes me chamassem de "o febre de origem indeterminada" ou, por simplicidade, "o FOI", sigla nem um pouco alvissareira naquela situação.
+
+CAP V
+
+Ao acordar na manhã de sexta-feira, tive a oportunidade de compreender a essência do significado da expressão "mal-estar geral", tantas vezes anotada nas evoluções médicas para caracterizar estados em que as questões são múltiplas e indefinidas. Mal-estar quer dizer exatamente o quê: dor, enjôo, fraqueza, tontura, indisposição?
+
+Sempre atribuí a dificuldade de descrever sintomas à falta de objetividade da maioria das pessoas ao falar da própria saúde. Parte considerável das consultas médicas é desperdiçada com relatos de acontecimentos irrelevantes, descritos nos mínimos detalhes. Por exemplo, a relação temporal entre sinais e sintomas, fundamental para o médico, para o doente pode parecer fútil. Ao perguntar quando surgiu determinado achaque, não é raro ouvir que foi no dia do casamento da sobrinha ou do batizado do neto mais novo. Isso quando marido e mulher não chegam às vias de fato, porque ela está certa de que foi no dia do casamento enquanto ele teima que aconteceu na manhã do batismo.
+
+Tive um doente que se enfezou com a esposa ao ser corrigido pela terceira vez: "Se é você que sabe o que se passa comigo, fala com o médico, eu fico calado". E assim passou o resto da consulta.
+
+Na cadeia, então, ambiente em que o ócio torna os dias indistinguíveis, esse tipo de informação é impossível de colher. Perguntar há quanto tempo surgiu determinada queixa é ouvir invariavelmente: "Faz uns dias, já".
+
+Outra fonte inesgotável de irrelevância é a opinião manifestada por terceiros a respeito da natureza dos problemas que acometem o enfermo. Alguns repetem ipsis litteris os pareceres proferidos pela mais variada plêiade de amigos, curiosos, curandeiros e por todos os médicos porventura consultados: "Minha mulher achou minha doença igual à do nosso cunhado, que também acordou com o pé inchado e o doutor diagnosticou flebite. Coitado, precisou tomar injeção na barriga durante seis meses para o sangue não coagular; qualquer cortinho sangrava o dia inteiro. Então ela telefonou: 'Pereira, teu cunhado está ardendo em febre, e com os pés inchados igualzinho aos teus na flebite'. Mas o Pereira achou que o caso dele foi outro: deu febre e dor, mas inchou a perna de um lado só. Ele me aconselhou a procurar um médico que tem consultório naquela travessa que vai dar na avenida Angélica. O senhor conhece? Nem me examinou direito, já falou que flebite não era: podia ser falha no coração, mau funcionamento dos rins, excesso de sal na comida ou uma doença de nome esquisito que não lembro mais".
+
+Depois da lista de suposições equivocadas do primeiro facultativo, vêm as hipóteses levantadas pelo segundo, pelo terceiro e por quantos mais houver.
+
+Mas voltemos à questão do mal-estar geral e à incapacidade de defini-lo com clareza, limitação por mim considerada até então como falta de objetividade.
+
+Há vinte anos divido o espaço da clínica com um grupo de colegas hepatologistas. Talvez porque meus exames mostrassem provas de função hepática alteradas, na manhã de sexta-feira três deles foram me visitar: Flair  Larrilho e Aytan Sipahi, atuais professores de gastroenterologia da Universidade de São Paulo, e Luiz Caetano da Silva, professor de todos nós, um dos precursores da hepatologia brasileira.
+
+Quando me perguntaram o que sentia, respondi que
+
+Por causa das dores havia tomado duas doses de morfina e estava muito indisposto.
+
+Indisposto de que forma? É um mal-estar geral. Como assim? — insistiram.
+
+Tentei ser mais explícito, disse que era um desconforto gástrico com perversão do paladar, dor persistente nas costas. Dificuldade de encontrar posição na cama, fraqueza, queixas que eles consideraram vagas demais. 
+
+A chamada sensação de mal-estar, na verdade, é resultante da conjunção de vários sintomas menores que conduzem a um estado final mais desagradável que a somatória das partes. O fato de ser médico há tanto tempo não me qualificava sequer para fornecer informações claras que pudessem auxiliar meus colegas a chegar ao diagnóstico. O sofrimento físico tem o dom de igualar estudiosos e iletrados.
+
+Quando perguntei se as condições de meu fígado justificavam a visita de três ilustres especialistas, responderam que estavam juntos por coincidência mas que a infecção, de fato, havia alterado de modo substancial as provas de função do fígado. As transaminases, enzimas que as células hepáticas destruídas liberam na circulação, estavam ao redor de quatrocentos, níveis geralmente atingidos nos casos de hepatite viral, o que não era o caso, uma vez que os resultados dos exames para diagnóstico das hepatites A, B, C e E tinham sido negativos. Parecia evidente que se tratava de uma doença provocada por um vírus que agredia o fígado, a musculatura da coluna vertebral e, até, o coração. Mas que vírus seria?
+
+Meu bisavô materno era professor de escola primária. Vivia com a mulher e dois filhos numa aldeia de Trás-os-Montes, norte de Portugal, próximo à fronteira com a Espanha. Quando o mais velho completou dezesseis anos, ele chamou a esposa: "Vamos para o Brasil. Mais um pouco, os meninos serão convocados pelo exército para servir nas colônias africanas. Já ouviste falar das febres que os soldados pegam por lá? Em dois dias derrubam e em uma semana matam um homem. Não os criamos para morrer de febre no meio do mato".
+
+Toda vez que meu avô narrava aos netos a história da decisão paterna de emigrar, acrescentava em tom dramático que nas matas de Angola e Moçambique, na ponta da lança de um guerreiro ou pela picada de um mosquito transmissor de doenças desconhecidas, a morte era certa. O irmão e ele deviam a vida à clarividência do pai.
+
+Que diria esse meu bisavô se soubesse que um de seus bisnetos, formado médico em tempos de paz no Brasil, haveria de embrenhar-se numa floresta tropical por livre e espontânea iniciativa e contrair uma das febres misteriosas que ele temia para os filhos a ponto de ir embora de Portugal, cem anos atrás?
+
+No café-da-manhã ainda consegui engolir uma fatia de mamão e um pedaço de queijo, mas no almoço nem toquei na bandeja: a simples visão da comida ameaçava virar o estômago pelo avesso. Aproveitei a oportunidade para explicar a Regina e Mariana que tentar comer seria sacrifício inútil com aquelas náuseas; ficaria ainda mais espoliado com os vômitos que viriam em seguida. Uma vez que a internação provavelmente seria mais demorada e a inapetência não desapareceria de uma hora para outra, pedi a elas que me defendessem da legião de bem-intencionados sempre dispostos a forçar o doente a comer alguma coisinha.
+
+O pedido foi justo, porque procuro proteger meus pacientes dos familiares que os atocham de comida, como se a falta de apetite fosse a causa de todos os males. Existe martírio mais atroz do que sentar à mesa com o estômago revirado, diante de um prato cheio, apenas para atender a vontade dos outros e não ser obrigado a ouvir frases do tipo: "Saco vazio não pára em pé" ou "Se quiser ficar bom, precisa comer"? Ou as chantagens dramáticas: "Experimenta só um pouquinho para a mamãe não ficar triste"?
+
+A previsão de uma estada mais longa motivou minha mulher a ir comprar pijamas; bem-humorada, disse que não queria ver o marido dando moleza com aquela camisolinha sexy no meio de tanta enfermeira bonita.
+
+Em seguida, vieram me buscar para fazer um ecocardiograma, com o objetivo de analisar as condições funcionais do coração. Desci de cadeira de rodas, enrolado em dois cobertores, despertando a atenção dos transeuntes, com a consciência clara de que tinha mesmo virado café-com-leite: no dia anterior, não era o feliz proprietário de um coração atlético que se dava ao luxo de bater em descompasso com o termômetro?
+
+Mas por que me preocupar? Estava debilitado, indisposto, internado num hospital que dispunha de tecnologia avançada, sob os cuidados de um corpo de enfermagem de boa qualidade e de oito médicos competentes, companheiros de trabalho há tantos anos, que me queriam bem e agora se reuniam para me ajudar a sair vivo daquele conflito. Quantos podiam contar com tamanho privilégio?
+
+Passei a tarde sonolento e febril, fazendo esforço para conversar com minhas filhas e minha irmã mais velha na tentativa inglória de disfarçar a toxemia que me cerrava os olhos, como se um ser minúsculo se pendurasse em cada pálpebra no meio da frase.
+
+Quando Regina chegou entusiasmada com as compras, foi um sacrifício tirar a camisola para vestir o pijama que ela, com a benevolência atávica das mulheres para com a beleza masculina, achou lindo no marido, talvez porque combinasse tom sobre tom com o esverdeado de minha pele ictérica.
+
+A noitinha tive febre com calafrios prolongados e muita dor nas costas. Sob o efeito da morfina, caí num estado letárgico, entre o sono e a vigília, no qual a negra do manjar apareceu pela segunda vez.
+
+Agora de contornos mais nítidos, exuberante, sentada no banquinho atrás do tabuleiro contra o muro da fábrica, com o vestido branco, os balangandãs, o turbante e o sorriso sensual. Agora não havia crianças em volta dela, apenas eu, de calça curta, tão cansado e desprotegido que me ajoelhei na calçada e encostei o rosto em seu braço quente. Ela acariciou minha cabeça de menino, amparou-me no peito acolhedor e murmurou: "Dorme, meu filho".
+
+CAP VI
+
+Quando o enfermeiro entrou para trocar o frasco de soro, acordei com as costas em petição de miséria. Que hábitos mórbidos os daquela dor: passava o dia cerimoniosa à espera da calada da noite para tomar posse da coluna vertebral e engendrar a crueldade de desaparecer de imediato, assim que o corpo mudava de posição na cama, para retornar com toda a intensidade em menos de dez segundos.
+
+Pelo número de vezes que despertei para ajeitar a bolsa de água quente nas costas, imaginei que já estivesse a clarear. Apesar do cuidado, fiz barulho ao abaixar a grade da cama com a intenção de chegar ao banheiro, resultado: Regina e Letícia ouviram, levei uma descompostura por não haver pedido ajuda e ainda fiquei com remorso de tê-las acordado. Quando olhei o relógio, era pouco mais de onze horas, não pude acreditar que o dia demorasse tanto. A quietude da noite torna o sofrimento mais difícil de suportar.
+
+Conjuntura esdrúxula aquela: sem sono, com vontade de acender a luz para tentar ler ou fazer qualquer coisa que me distraísse da dor, e não poder por causa da filha, que começaria a trabalhar às sete horas, e da mulher, que cancelara todos os compromissos para ficar ao lado do marido esverdeado, magrelo, impotente e mal-agradecido, que agora sonhava estar sozinho.
+
+No escuro, fiz um balanço do primeiro dia de internação: o resultado foi desalentador. Na véspera tinha conseguido tomar banho para ir trabalhar — é verdade que não fui, mas com esforço poderia tê-lo feito; vinte e quatro horas mais tarde, para me recuperar do esforço despendido na cadeira de rodas para fazer o ecocardiograma, precisei dormir mais de uma hora. A sonolência, a febre, a ausência completa de apetite, as náuseas, o vai e vem dos calafrios, as dores sádicas, nenhum sintoma havia arrefecido, pelo contrário.
+
+Os médicos sabem que na vigência de uma doença de etimologia não identificada, quando acontece de um dia ser mais difícil que o anterior, nada garante que o seguinte trará alívio. Nessas circunstâncias, o tradicional "Amanhã você estará melhor" tem tanto valor preditivo quanto o "Se Deus quiser".
+
+Assim se passou: depois de uma noite interminável, o sábado amanheceu pior.
+
+Começou pela balança, que acusou dois quilos a mais, fato que o auxiliar de enfermagem considerou bom sinal mas a mim não iludiu. Com o equilíbrio energético do organismo não existe trapaça: quem fica sem comer e ganha peso é porque reteve líquido.
+
+Isso queria dizer que, além do fígado, do coração e da musculatura, o invasor agora agredia os rins. O vírus deve ter se alojado em todos os órgãos, pensei. Talvez por esse motivo a respiração estivesse mais pesada, dando a impressão de que os pulmões eram incapazes de expandir-se em toda a plenitude por maior que fosse o esforço empregado na inspiração, como acontecia nas gripes fortes dos meus tempos de fumante.
+
+Haver atribuído ao vírus o pequeno desconforto respiratório instalado durante a noite pela primeira vez me deixou preocupado com a possibilidade concreta de uma evolução com complicações mais graves. Infecções que acometem os pulmões são imprevisíveis, porque a respiração é função fisiológica singular: enquanto as demais nos dão liberdade de passarmos horas, meses ou anos sem exercê-las, cinco minutos sem respirar levam à perda irreversível da condição humana.
+
+Pouco mais tarde, o enfermeiro que havia trazido a balança retornou com duas toalhas na mão: "Vamos tomar banho?".
+
+Com os frascos de soro pendurados no suporte móvel com músculos mais doloridos do que se eu tivesse atravessado o Saara em lombo de camelo, foi penoso descer do leito e chegar ao banheiro. Quando comecei a fechar a porta de correr, ele atalhou com gentileza: "Não se preocupe, vou entrar com o senhor".
+
+Era só o que faltava. Criado nas ruas do Brás, com treze anos de pós-graduação no Carandiru e dois na Penitenciária do Estado, ser obrigado a enfrentar a humilhação de precisar de um homem para me dar banho... Imaginei o que diriam meus amigos, agentes penitenciários e agregados com quem me reunia a cada duas semanas para tomar cerveja e relembrar histórias de cadeia: Valdemar, Araújo, Mavi, Sombra, Irani, Guilherme, seu Manoel, Paulo Preto e os outros. Que perguntas e comentários maldosos não fariam aquelas mentes pérfidas? Aceitar a ajuda era dar munição ao inimigo, uma reputação construída ao longo de sessenta anos não seria atirada aos lobos a troco de um mísero banho de chuveiro.
+
+Em tom conciliatório, procurei dissuadi-lo com argumentos técnicos: a pressão estava normal, eu não tinha tonturas nem falta de coordenação motora. Mas o rapaz havia recebido ordens claras da enfermeira-chefe: não me deixar sozinho no banheiro, de jeito nenhum.
+
+A custo consegui negociar uma solução intermediária: ele ficaria à soleira da porta de modo a me socorrer em caso de um improvável mal-estar. O trato foi aceito desde que a chefe não fosse informada da desobediência. Nunca imaginei resignar-me com tamanha passividade a posição tão subalterna na hierarquia hospitalar.
+
+Paguei caro a insolência. Com o braço direito posto fora de combate pelo soro dependurado e com dificuldade de dobrar o tronco por causa da dor ao me abaixar e da fraqueza para me reerguer, a ginástica de ensaboar as pernas foi um tormento; por duas ou três vezes estive à beira de desistir. Ao terminar, com o pensamento fixo na cama à espera, não ousei recusar a ajuda para me enxugar.
+
+Quando retornei ao quarto, dei de cara com Regina. Estava linda com os cabelos molhados do banho, mas os olhos de águas-marinhas haviam perdido o brilho sedutor: o que vi foi um olhar de compaixão, desconhecido. Juntei forças para um sorriso sensual, mas, com pernas e braços esquálidos, longilíneo, rosto encovado, o resultado foi desalentador. Eu estava mais para arremedo do cavaleiro da triste figura.
+
+Ao sentar no leito, fui tomado por um daqueles sonos da infância que dão vontade de chorar de preguiça de vestir o pijama.
+
+Acordei com a visita do infectologista. Os testes laboratoriais realizados na internação excluíam as doenças infecciosas mais comuns, sem confirmar nenhuma outra. Aguardávamos agora os resultados dos exames solicitados ao Instituto Adolfo Lutz, especializado em doenças transmissíveis. O sangue colhido naquela manhã mostrava queda mais acentuada do número de glóbulos brancos e de plaquetas, bem como piora da função hepática. Quando perguntei o valor das transaminases, ele disse: "Ao redor di quatro mil", e baixou os olhos.
+
+Lembrei-me de imediato que dois dias antes elas andavam pelos quatrocentos. A hesitação era evidência de que ele estava assustado com o aumento rápido, reflexo da agressividade do vírus na destruição do fígado.
+
+Só para dar idéia numérica: nas hepatites comuns as transaminases costumam chegar a seiscentos ou setecentos , mas podem atingir mil e quinhentos ou dois mil sem representar gravidade maior. Nos casos mais raros em que chegam a três mil, os médicos ficam preocupados.
+
+Não fiz mais perguntas, limitei-me a responder às que me foram dirigidas; de que adiantaria despejar sobre ele minhas inquietações se não tínhamos sequer o diagnóstico? O que me interessava saber era quanto sofrimento haveria pela frente e se o desfecho poderia ser trágico, dúvidas que só serviriam para angustiá-lo porque não podiam ser esclarecidas sem conhecimento da natureza da infecção. Ele acabaria tentado a lançar mão das fórmulas que nós, médicos, usamos para acalmar ansiosos e aflitos: "O pior já passou"; "Sua aparência está melhor"; "Vai dar tudo certo"; "Um pouco de paciência".
+
+Senti pena dele. Não é cômoda a posição do médico mais jovem a conduzir o caso do companheiro de clínica, mais velho e mais conhecido, amigo pessoal, portador de uma doença possivelmente grave que àquela altura já devia ser objeto da atenção e de comentários de muitos colegas. Embora outros profissionais mais experientes também participassem do caso, a responsabilidade maior estava com o infectologista; cabia a ele fazer o diagnóstico e conduzir o tratamento específico, caso este existisse.
+
+Pouco mais tarde, chegou o professor Luiz Caetano. Talvez para disfarçar a surpresa que sua expressão refletia diante da precariedade de meu estado físico, disse que não me preocupasse com os quatro mil das transaminases: em seus mais de cinqüenta anos de experiência com as hepatites A, B e C ele havia encontrado valores de até sete mil.
+
+Durante a conversa, notei que involuntariamente eu deixava um pequeno intervalo de tempo antes de responder, porque o cérebro exigia alguns segundos mais para processar a informação. Entendia com clareza as palavras, o sentido da pergunta, articulava a resposta de forma imediata e coerente, mas a fala era precedida por esses lapsos silenciosos, igual aos carros de meus tios, cujo motor precisava esquentar antes de partirmos para os piqueniques na Praia Grande.
+
+Achei que a alteração era sutil, talvez imperceptível, mas fiquei apreensivo: não era bom sinal aquela sonolência associada a alterações na fala. Quando ele saiu, multipliquei de cabeça 27 por 49 e recitei um trecho do Navio Mario Santos decorado no colegial, para me certificar de que não começava a perder o controle das funções cognitivas.
+
+CAP VII
+
+À tarde, acordei com vozes me pedindo que sentasse. Achei que a situação podia estar mais grave do que eu imaginava: "Cada vez que abro os olhos, vejo um médico".
+
+Eles riram: dessa vez eram os dois pneumologistas. Auscultaram ao mesmo tempo os pulmões, movendo os estetoscópios para cima e para baixo alternadamente, de ambos os lados, até localizarem uma área nas costas, à direita, na qual se detiveram; primeiro um, depois o outro.
+
+Pelos olhares que trocaram, tive certeza de que encontraram alguma alteração mais séria naquele local, mas não fiz perguntas. Havia necessidade?
+
+Quinze minutos depois chegava a cadeira de rodas para me levar à Tomografia. Minhas filhas desceram comigo. Letícia tinha o cenho carregado; Mariana parecia menos preocupada que a irmã. Armei uma das caretas dos tempos em que eram crianças e consegui fazê-las sorrir.
+
+Assim que o exame terminou, Daniel entrou na sala para avisar que estava tudo bem, exceto numa pequena área do pulmão direito, provável foco de uma complicação bacteriana. Estava tudo bem?
+
+De volta ao quarto, procurei tranqüilizar Regina: alguns dias de antibiótico seriam suficientes para controlar a infecção secundária, mas acho que não fui convincente por causa do sono irresistível que se abateu sobre mim já na passagem da cadeira de rodas para a cama e pela lentidão com que os pensamentos se organizavam em frases.
+
+Que sono brutal. Ao contrário do sono rotineiro, que faz visitas sutis durante o dia e se insinua com delicadeza antes de tornar-se impositivo à noite, o dos estados toxêmicos é ditatorial. Intoxica o cérebro, leva os músculos à exaustão e rouba a consciência; dá-se ao direito de cortar no meio a palavra que está sendo proferida; falar ou simplesmente abrir os olhos para resistir a ele requer esforço supremo, possível apenas por alguns minutos. É um sono paradoxal, que se alimenta das próprias entranhas; quanto mais tempo passamos envoltos em sua névoa obscura, maior o desejo de nos abandonarmos em seus domínios.
+
+Pouco depois, minhas filhas entraram acompanhadas dos dois pneumologistas e da enfermeira-chefe, que trazia uma máscara de respiração do tipo CPAP, através da qual o oxigênio é inalado sob pressão. Com ar de naturalidade, Daniel explicou que o oxímetro instalado em meu dedo indicador mostrava níveis inadequados de oxigenação do sangue, apesar do cateter de oxigênio nas narinas; o CPAP corrigiria a deficiência.
+
+A explicação foi dada a elas; o médico olhou para mim apenas no final, rapidamente. Para me poupar, evitou dizer que a infecção tinha provocado um quadro de insuficiência respiratória aguda.
+
+Instalada a máscara, Letícia saiu do quarto antes dos outros. Quando voltou, percebi que havia chorado. Deve ter pensado o mesmo que o pai: começa com o CPAP, depois entra em fadiga respiratória, desce para a UTI e termina com uma sonda traqueal ligada ao aparelho de ventilação. Daí em diante, quem pode saber?
+
+Regina, entretanto, comentou animadamente: "Que bom. Agora, com a máscara de oxigênio os pulmões se expandem, e tudo vai melhorar".
+
+A observação desanuviou o ar carregado de Letícia. A racionalidade da médica se curvava ante a força persuasiva da primeira previsão otimista.
+
+Uma hora respirando com auxílio do CPAP reforçou minha impressão de que nós, médicos, na medida do possível, deveríamos testar previamente em nosso corpo os procedimentos que tantas vezes indicamos para terceiros. Com a ação da máscara, os níveis sanguíneos de oxigênio podem ter aumentado, mas o ar sob pressão engolido inadvertidamente distendia o estômago e incomodava muito. Quando percuti o abdômen, tive a sensação de que havia almoçado um surdo de escola de samba.
+
+Que tarde tumultuada, dividido entre os benefícios fisiológicos da respiração assistida e a necessidade imperiosa de arrancar do rosto aquela geringonça que insuflava meu estômago como se fosse balão de festa infantil.
+
+Quanto desassossego: nem bem pedia que a desligassem, já me sentia culpado por não suportar a distensão abdominal.
+
+E o torpor por trás de tudo, sorrateiro a me tentar: "Deixa pra lá, esses médicos sedentários não conhecem a reserva pulmonar dos maratonistas. Joga fora essa máscara e dorme, só mais um pouquinho". Quando caía em tentação, logo acordava, assustado com a possibilidade de entrar em anoxia, perder os sentidos durante o sono e acabar na UTI.
+
+Naquele mal-estar não era fácil conviver com a romaria dos colegas que invadiam o quarto sem a menor cerimônia. Quando se tratava de amigos próximos, que faziam visitas rápidas, nada de mais, mas, quando eram simples conhecidos que vinham com interrogatório médico e hipóteses diagnosticas, que suplício.
+
+Existe constrangimento maior do que passar mal na presença de pessoas com quem não temos intimidade?
+
+As visitas estavam tão freqüentes que minha mulher decidiu montar guarda na porta: "No seu estado, não tem cabimento ser obrigado a fazer sala para visitantes".
+
+Ainda assim, num raro momento em que ela se descuidou, entrou um colega que encontro pelos corredores do hospital há muitos anos e de quem jamais ouvi uma frase que não fosse pontuada por lugares-comuns nem a expressão de um pensamento sequer que corresse o risco da complexidade. Ele descreveu a hepatite que o havia acometido na infância. Levou as mãos à cabeça para imitar o gesto de sua mãe ao vê-lo ictérico naquela manhã; repetiu o diálogo entre a mãe e o pai, a quem ela chamava de paizinho; mencionou a suposição feita pela mãezinha, de que aquilo só podia ser uma intoxicação causada por um guaraná sem gelo que o menino tomara no parque de diversões recém-chegado à cidade; falou dos quarenta dias de repouso guardados no leito, e só interrompeu a enumeração dos chás hepatoprotetores receitados pelas senhoras da vizinhança porque fingi pegar no sono.
+
+CAP VIII
+
+Ao cair da tarde, ouvi vozes que de tão distantes pareciam irreais. Depois de duas ou três tentativas de despertar, percebi que vinham da saleta anexa ao quarto, de onde Regina chegou sorrindo:
+
+—Tenho uma boa notícia. Descobriram o que você tem: febre amarela.
+
+—Isso é grave — foi o que pude dizer.
+
+Para ela, o diagnóstico trazia o fim das incertezas; para mim, o risco de morte.
+
+Em seguida, entraram Esper e minhas filhas. Ele se aproximou:
+
+—Você não tomou vacina contra a febre amarela?
+
+—Deve estar vencida há vinte anos — respondi. Ele sorriu, sem graça:
+
+—Vieram os resultados do Adolfo Lutz: a sorologia foi positiva.
+
+ —Há alguma dúvida?
+
+—Nenhuma.
+
+É povoada de contradições a prática da medicina: na voz do médico havia um misto de lamento pela gravidade do diagnóstico e uma ponta de orgulho por ter chegado a ele. Razão não lhe faltava, poucos se atreveriam a pensar numa doença fora de moda como aquela.
+
+Apático, ouvi o veredicto com a sensação de fatalidade com que teria aceitado qualquer outro. Apenas perguntei se ele já tinha visto algum caso.
+
+—Você é o primeiro.
+
+—E o Flair e o resto do pessoal?
+
+—Ninguém viu.
+
+Mal consegui prestar atenção nas recomendações e nas medidas adotadas a partir daquele momento. Entendi que seriam mantidos os analgésicos, o soro para hidratação e o uso do CPAP, enquanto suportável. Quanto ao prognóstico, nenhuma palavra. Melhor assim; prever a evolução de uma doença rara para a qual não existem medicamentos específicos, sem ter visto um único doente?
+
+Febre amarela para mim não trazia apenas lembranças de epidemias do passado, de mosquitos, da companhia de ópera que perdeu metade dos componentes no Rio de Janeiro, de Oswaldo Cruz e das campanhas para matar mosquitos, da Revolta da Vacina, do surto letal na Hospedaria de Imigrantes de São Paulo, da Louisiana que os franceses venderam para os americanos a preço de banana por causa dela. Lembrava também uma história trágica de um sábado de plantão na enfermaria de Moléstias Infecciosas nos tempos do internato no Hospital das Clínicas.
+
+Ao passar os casos para a equipe que chegava domingo de manhã, descrevi o horror daquela noite, em que assistira à agonia final de um garoto de doze anos mordido por um cão raivoso na Vila Guarani, zona sul da cidade. Quando terminei, o residente mais velho que nos substituiria comentou: "É porque vocês não viram morte por febre amarela. Tivemos um sargento na enfermaria, no ano passado. O vírus causa hepatite fulminante e acaba com os fatores de coagulação. É hemorragia por todos os lados. Até pelos olhos escorria sangue".
+
+CAP IX
+
+Antigos navegadores que visitaram as costas da África relatavam casos de uma doença misteriosa que evoluía com febre alta, calafrios, delírios e vômitos negros capazes de levar o forasteiro à morte em poucos dias.
+
+Essas primeiras descrições fazem acreditar que a febre amarela teve sua origem no continente africano, suposição consistente com o fato de o Aedes aegypti, um dos mosquitos transmissores do arbovírus causador da enfermidade, provir da África.
+
+Hoje sabemos que existem duas formas de transmissão desse vírus: a urbana clássica, em que o mosquito se infecta ao picar seres humanos (ciclo homem-mosquito-homem), e a forma silvestre, na qual o mosquito adquire a infecção quando pica animais na mata, sobretudo macacos (ciclo macaco-mosquito-homem).
+
+ As características clínicas da febre amarela urbana são idênticas às da silvestre; a única diferença está nos vetores que transmitem a infecção ao homem: Aedes aegypti, responsável pela transmissão urbana, e mosquitos do gênero Haemagogus, pela silvestre.
+
+Na natureza, a interação entre um agente infeccioso e seu hospedeiro é regida por um princípio, válido para a maioria das eventualidades, segundo o qual a virulência do germe diminui com o passar dos anos, ao mesmo tempo que as defesas imunológicas inatas do hospedeiro se tornam mais competentes para combatê-lo.
+
+Theodor Dobzhansky, um dos geneticistas mais influentes do século xx, afirmou que em biologia nada tem sentido se não for analisado à luz da seleção natural. A interação citada não foge à regra. Como os germes de alta virulência destroem o organismo do hospedeiro pego de surpresa, acabam levando desvantagem evolutiva: gente morta não anda por aí transmitindo infecções para os outros. Com o tempo, no entanto, podem surgir mutantes menos agressivos, capazes de conviver com o hospedeiro em relativa harmonia, criando condições mais propícias para a transmissão inter-humana.
+
+Por outro lado, quando um microorganismo altamente letal se dissemina numa população infantil, as crianças incapazes de resistir a ele não deixam descendentes, enquanto as demais transmitem aos seus as características imunológicas responsáveis pela sobrevivência. Assim, depois de algumas gerações, a maioria dos indivíduos terá herdado dos ancestrais a habilidade de se defender do agressor.
+
+Os vírus do resfriado comum, causadores de pandemias em que milhões de pessoas são acometidas sem maior gravidade, e o vírus Ebola, que é altamente letal mas não consegue infectar mais que algumas dezenas de indivíduos em cada surto, são exemplos prototípicos das duas formas de interação.
+
+E muito provável que a coexistência de longo tempo dos africanos com o agente da febre amarela tenha oferecido ao vírus condições de convivência relativamente pacífica com seus hospedeiros, que tenham surgido formas menos virulentas de infecção e que a enfermidade tenha sido incorporada ao grupo de doenças infecciosas de baixa letalidade, adquiridas na infância.
+
+A escravidão e os navios negreiros romperam esse equilíbrio ecológico. A partir do século XVI, o Aedes aegypti emigrou repetidas vezes da África para as Américas no interior dessas embarcações, em promiscuidade com mulheres e homens portadores de formas pouco sintomáticas da doença. Nos barris de água potável e nas coleções de água empoçada as fêmeas acharam o meio ideal para incubar seus ovos, dos quais eclodiram larvas que, ao atingir a vida adulta, infectavam-se picando portadores da doença, entretendo-a em vários ciclos reprodutivos até alcançar as Américas.
+
+Ao desembarcar, o vírus da febre amarela deparou-se com hospedeiros virgens de contato e ausência de saneamento básico: condições ideais para a propagação da tragédia epidêmica que chegaria ao século XX, e até mim, incauto em meio à beleza da floresta amazônica às margens do rio Cuieiras, quatrocentos anos mais tarde.
+
+CAP X
+
+Conhecida no passado como febre hemorrágica viral, a febre amarela causa febre alta, prostração, danos hepáticos, renais, cerebrais, cardíacos, hemorragias, choque e morte. Suas taxas de mortalidade são tão altas quanto as do vírus Ebola.
+
+Didaticamente, a evolução costuma ser dividida em cinco períodos: incubação, infecção, remissão, intoxicação e convalescença.
+
+Contado a partir da picada do mosquito infectado, o período de incubação é curto: de três a seis dias.
+
+O período de infecção dura mais três ou quatro dias. Marcam essa etapa a multiplicação rápida do vírus, sua disseminação por todos os órgãos e a instalação abrupta dos sintomas: febre de trinta e nove a quarenta graus, calafrios, mal-estar, cefaléia, dores lombares fortes, dores musculares generalizadas, náuseas e tonturas.
+
+Dois ou três dias depois dos primeiros sintomas, como reflexo da destruição de células hepáticas, as transaminases aumentam significativamente, mas ainda não se nota a icterícia, a qual dá aos olhos o colorido que designa a doença.
+
+Curiosamente, é comum seguir-se um período de remissão com duração de vinte e quatro a quarenta e oito horas, em que a febre pode desaparecer. E nessa fase que a infecção traça seu destino: regredir gradativamente ou pôr a vida em risco.
+
+De cada quatro infectados, cerca de três experimentam regressão gradual da sintomatologia e evoluem para a cura definitiva. Na maioria das vezes, jamais saberão que um dia tiveram febre amarela.
+
+Em contrapartida, em vinte a vinte e cinco por cento dos casos a doença se agrava e entra no período de intoxicação: febre com calafrios, vômitos, dores musculares mais intensas, desconforto abdominal, icterícia progressiva, hemorragias, insuficiência renal, miocardite (acometimento da musculatura do coração) e encefalopatia (acometimento difuso e generalizado do tecido cerebral).
+
+Os exames laboratoriais revelam aumento das transaminases proporcional à gravidade do quadro. Nos casos mais benignos os valores dessas enzimas ficam abaixo de mil unidades, enquanto nos mais graves ultrapassam o dobro ou o triplo desse valor. Um estudo demonstrou que, quando ultrapassam cinco mil, a mortalidade atinge oitenta por cento.
+
+Ocorre perda de proteínas pela urina, conseqüência do acometimento dos rins, que pode levar à insuficiência renal a ponto de exigir diálise. Como resultado da agressão imposta pelo vírus ao miocárdio, o pulso se torna fino e lento, surgem arritmias e risco de parada cardíaca. No cérebro, podem ocorrer hemorragias microscópicas e edema, responsáveis pela sonolência, obnubilação e distúrbios de consciência.
+
+O acometimento do fígado provoca anormalidades na produção de proteínas essenciais à coagulação do sangue. As manifestações hemorrágicas mais comuns acontecem de forma súbita na pele, gengivas, mucosa nasal, aparelho digestivo e vias urinárias. Os sangramentos mais temidos são os cerebrais e os digestivos, responsáveis pelo nome de "vômito-negro" atribuído à doença no passado.
+
+Cerca de cinqüenta a sessenta por cento dos que chegam a esse estágio evoluem com queda da pressão arterial, sangramentos, agitação, delírio, estupor, coma e alterações metabólicas irreversíveis. A morte costuma acontecer sete a dez dias depois do primeiro episódio de febre.
+
+Nos sobreviventes, a fase aguda da doença dura em média dezoito dias. O período de convalescença é dominado pela icterícia com prurido intenso, náuseas, alterações do trânsito intestinal, arritmias cardíacas, fraqueza muscular e fadiga, que persistem por várias semanas.
+
+Em mais ou menos seis meses as provas de função hepática retornam ao normal, e o organismo se restabelece integralmente.
+
+O vírus não deixa seqüelas. A imunidade que levou à cura é definitiva.
+
+CAP XI
+
+De um lado, esclarecer o diagnóstico trouxe alívio: nada é pior do que lidar com o desconhecido. De outro, não foi agradável saber que se tratava de uma virose para a qual não existe tratamento e que evoluiria para a cura ou o óbito sem que eu nada pudesse fazer, além de encontrar forças para enfrentá-la.
+
+Não me ocorria nenhuma medida prática, atitude ou reação pessoal capaz de mudar o curso dos acontecimentos.
+
+Lógico que seria possível partir do princípio de que tudo terminaria bem, adotar o que muitos chamam de pensamento positivo. Porém, diante dos resultados dos exames e da debilidade física, um médico acostumado a tratar de doentes graves conseguiria deixar de analisar com isenção a hipótese contrária?
+
+Talvez em virtude da febre alta que se instalou naquele fim de tarde e do impacto cerebral provocado por ela, encarei a realidade com fatalismo. Apesar das dores, da respiração pesada, das náuseas, do desconforto, da lentidão em articular as palavras, sentia que o corpo ainda dispunha de um resto de energia, embora estivesse muito enfraquecido. Enquanto continuasse assim, eu sobreviveria.
+
+Aceitei com resignação mesmo a irresponsabilidade de penetrar a floresta — habitada por mosquitos e macacos infectados — sem tomar a vacina, procedimento inadmissível para qualquer pessoa esclarecida, e muito mais para mim, envolvido até os ossos em programas de educação em saúde pública veiculados pelo rádio, pela TV e pela internet. A justificativa de haver feito mais de cinqüenta viagens ao rio Negro sem ter ouvido falar de um só caso de febre amarela por lá não servia de consolo. Mas fazer o quê, chorar sobre o leite derramado? Amaldiçoar a sorte? Acrescentar o martírio da culpa às dores que sentia?
+
+O único remorso foi o de dar trabalho à família, causar angústia em pessoas queridas e fazê-las sofrer, por desleixo com uma medida preventiva tão elementar.
+
+É possível que o arrependimento pelo mal passivamente ocasionado a mim mesmo não tenha me atormentado porque aprendi a jamais cair na tentação moralista que nos acompanha desde os primórdios da civilização: atribuir ao enfermo a culpa de seus males. Não se dizia que ficavam doentes aqueles que descontentavam os deuses nesta encarnação ou em encarnações anteriores? Os que eram tomados por espíritos diabólicos em conseqüência de suas ações?
+
+Que adquiriam lepra os ímpios, tuberculose os devassos, AIDS os promíscuos e câncer os neuróticos? Quantos séculos foram necessários para a ciência demonstrar que as doenças associadas aos preconceitos mais odiosos da história da humanidade são causadas por bactérias, vírus e outros agentes insensíveis às virtudes e aos defeitos de seus hospedeiros?
+
+Para usar exemplos atuais, de que adianta dizer a uma pessoa com enfisema ou câncer de pulmão que a culpa foi do cigarro? Sentir-se culpada vai ajudá-la a enfrentar as crises de dispnéia? Todas as vezes que alguém se queixou de estar infeliz por haver adquirido uma enfermidade em virtude do fumo, do sexo, da obesidade, da vida sedentária ou por ter deixado de fazer exames preventivos, procurei insistir para que afastasse tais pensamentos, dizendo que viver é assumir riscos, que esses erros são cometidos sob o manto protetor da onipotência, condição ambígua do espírito humano capaz de inspirar feitos heróicos e de desencadear as piores tragédias.
+
+A noite do sábado veio com febre, a famigerada dor nas costas e dois comprimidos de morfina. Que privilégio poder decidir o momento de solicitar um analgésico suficientemente forte. Quanto sofrimento os milhões de portadores de febre amarela nas epidemias do passado devem ter enfrentado a sangue-frio, até encontrar a morte no final.
+
+Apesar do susto com o diagnóstico e dos percalços daquele sábado, graças à morfina dormi bem; só não foi melhor por culpa da máscara de oxigênio obcecada em insuflar meu estômago e do técnico do laboratório que chegou para colher sangue às seis da manhã, envolto numa nuvem de perfume inebriante escolhido a dedo para visitar pacientes nauseados.
+
+Na hora do banho tive que agarrar com as duas mãos o braço do enfermeiro para conseguir sentar na cama. Constatei no corpo a brutalidade do vírus: no domingo anterior havia corrido dezoito quilômetros e subido catorze andares; sete dias mais tarde necessitava de ajuda para ser erguido do leito. A doença infecciosa tem o poder de expor a fragilidade do corpo humano como nenhuma outra.
+
+O banho foi uma tortura à qual só resisti motivado pela esperança de algum conforto no final. Comparado ao esforço sob o chuveiro e ao sacrifício para voltar à cama, entretanto, o bem-estar que experimentei foi insignificante.
+
+Percebi que o domingo era de sol apenas quando Rafael, meu colega de consultório, abriu a janela:
+
+—São dez horas, chega de vagabundagem.
+
+Mas o ar brincalhão desapareceu no momento em que ele puxou minha pálpebra inferior para examinar a conjuntiva, àquela altura bem mais amarela. Perguntei se já estavam disponíveis os resultados das transaminases colhidas naquela manhã:
+
+—Elas pioraram um pouquinho.
+
+O olhar baixo e o diminutivo na resposta entregavam a decepção.
+
+—Pioraram quanto?
+
+— Chegaram a seis mil, mas não se preocupe, você está com uma cara melhor.
+
+Era mentira. Nós nos conhecemos nos bancos do cursinho, na faculdade estudamos na mesma turma, trabalhamos juntos no Hospital do Câncer durante duas décadas, além de convivermos diariamente no consultório nos últimos anos. Impossível me iludir com o elogio piedoso.
+
+Não obstante as transaminases ainda aquém do limite de sete mil estabelecido pelo professor Luiz Caetano, razões para ficar cismado não faltavam. Nos exames colhidos na quinta-feira de manhã, em casa, os valores se mantinham ao redor de quatrocentos, três dias mais tarde atingiam seis mil. Ficava evidente que, apesar de o vírus ter acometido pulmões, cérebro, rins, aparelho digestivo e os músculos, a batalha final pela sobrevivência seria travada no fígado. Estávamos muito próximos do estágio em que a insuficiência hepática tornaria o órgão incapaz de produzir os fatores essenciais para a coagulação do sangue.
+
+Embora a imagem do sargento que sangrava pelos olhos retornasse em flashes recorrentes, consegui preservar a racionalidade: se nada podia ser feito para evitar uma eventual hemorragia, que bem traria o medo antecipado? "Não sofrer por antecipação" foi conselho que cansei de repetir para meus pacientes e seus familiares.
+
+Não tenho dúvida de que o trabalho com doentes com câncer me ajudou nessa fase. No começo da profissão, o fato de saber que estava diante de alguém incurável fazia baixar uma sombra em meu espírito, a qual se projetava definitivamente em nossos contatos e me impedia de ficar feliz mesmo quando o tratamento levava à remissão dos sintomas por muitos meses.
+
+A convivência me ensinou, todavia, que a pessoa tecnicamente considerada incurável às vezes vai ao enterro do cônjuge inicialmente em perfeitas condições de saúde ou ao velório do médico que a deu como caso perdido; outros, ainda, sobrevivem tantos anos que parecem curados.
+
+Hoje procuro seguir à risca e transmitir às famílias um princípio que minha avó enunciava à exaustão: "O futuro a Deus pertence". Se num determinado dia o doente está bem, se está feliz, otimista, é você que vai contaminá-lo com seus maus presságios?
+
+CAP XII
+
+Costumeira ao cair da tarde, a febre veio alta pela manhã. Estava prostrado, com ânsia de vômito, quando entrou a nutricionista cheia de animação: "Como vai esse menino? Vamos almoçar frango, lasanha ou bife role com batata corada?".
+
+Menino? Eu era um homem de noventa anos que nem sentar no leito conseguia. Um ser largado em cima de um colchão feito massa disforme.
+
+Foi um sacrifício convencê-la de que não iria almoçar de jeito nenhum, que só de pensar em comida meu estômago revirava e que, apesar de me recusar a comer, eu queria me curar, sim senhora.
+
+Meus três enteados, Nina e Gabriel, filhos do primeiro casamento de Regina, e Luciano, médico, filho de minha primeira mulher, criados desde pequenos em minha companhia, vieram me visitar. Nina, fisioterapeuta, fez uma massagem que me aliviou o peso nas costas. Gostei de vê-los e me esforcei para conversar, mas tive que desistir por causa da sonolência e da lentidão em articular as palavras, claramente mais acentuada que na véspera.
+
+O sono invencível criava um abismo entre o mundo e mim. Dormir se transformara numa exigência despótica, que só podia ser contrariada por um ato de vontade férrea cada vez mais penoso. Por que não dar ao organismo o repouso solicitado? Ou seria esse o caminho do coma hepático, da perda de consciência iminente, contra a qual é preciso reagir para escapar com vida ou simplesmente para usufruir os momentos que restam? Mas de que forma manter a pretensão de permanecer alerta naquela apatia?
+
+Os gestos tensos, as expressões faciais dissimuladas, a falta de naturalidade incabível entre velhos amigos e as evasivas de meus colegas, que entravam e saíam do quarto a cada meia hora em pleno domingo, traziam a certeza de que não tinham coragem de voltar para casa porque meu estado se agravava.
+
+Entretanto, toda vez que despertava, eu me sentia suficientemente lúcido, a ponto de reconhecer e analisar essas reações individuais. Menos mal, enquanto continuasse assim, haveria esperança.
+
+A meu lado, Regina, Mariana e minha irmã mais velha aparentavam preocupação, mas sem idéia clara do perigo. O problema era o olhar assustado de Letícia. Talvez devesse tentar consolá-la, mas dizer o quê, sem parecer superficial nem dramático?
+
+No começo da noite Regina ligou a televisão para assistirmos ao quarto episódio da série sobre obesidade.
+
+Fiz o possível para acompanhar as imagens, mas, estranhamente, não senti emoção alguma. E pensar que dias antes havia me empenhado com tanta energia para gravá-las. Aliás, nem meu rosto nem minha voz na TV tinham significado, aquele corpo projetado na tela dava a impressão de nada ter em comum com o meu, deitado. Um trabalho em que acreditei muito, realizado por anos a fio com a intenção de levar conhecimentos sobre medicina preventiva para regiões remotas, perdera todo o sentido e a razão de ser em apenas três dias.
+
+Quando o programa terminou, notei que a sensação de alheamento não se restringia àquele trabalho, a própria medicina que desde a formatura exerci com paixão deixara de ter interesse. O consultório, meus pacientes, as pesquisas na Amazônia, o atendimento nas cadeias, os livros escritos, os artigos no jornal, os prêmios, as campanhas de saúde pública, nada mais me dizia respeito.
+
+O homem que havia corrido para cima e para baixo no exercício dessas atividades não passava de um personagem desligado daquele com febre amarela no hospital.
+
+Os bens materiais adquiridos às custas do trabalho iniciado como professor de cursinho aos dezoito anos, então, era como se pertencessem a outras pessoas ou jamais tivessem existido. Pensei nas camisas de que mais gosto; na calça de estimação, estampada com um desenho miúdo imitando palha de assento de cadeira, conservada com esmero por mais de vinte anos; num sapato clássico de couro marrom e camurça clara, o mais bonito que já tive, comprado numa tarde de inverno no aeroporto de Copenhague, e não senti o menor apego.
+
+Num tango antigo, Carlos Gardel cantava: "Cuando manjes que a tu lado se prueban la ropa que vas a dejar...". Para mim essa estrofe representava a metáfora mais impiedosa da desilusão de um homem que chega ao fim. Estava enganado, não fazia a menor diferença que provassem ou deixassem de provar minhas roupas.
+
+Nunca imaginei que a aproximação do desfecho impusesse tanto desprendimento.
+
+Por sorte, minhas filhas foram para casa e Regina pôde dormir na sala ao lado sem ser despertada pelo entra-e-sai das enfermeiras, porque passei a noite muito agitado; virava para um lado, a dor nas costas desaparecia por segundos, para voltar numa intensidade crescente que em poucos minutos me obrigava a procurar nova posição. Cheguei a tomar três ou quatro comprimidos de morfina, que ressecaram minha boca como se eu tivesse mastigado um pacote de farinha de trigo.
+
+Quando criei ânimo para alcançar o copo d'água na prateleira ao lado, o braço pesava tanto que quase desisti no meio do percurso. A mão trêmula pelo esforço fez o copo tilintar contra os dentes. Incrível estar debilitado a ponto de mal sustentar o peso do braço, em tão pouco tempo.
+
+A luta para tomar água por conta própria foi inglória: assim que o líquido caiu no estômago, a boca ficou inundada de saliva e as náuseas vieram, incontroláveis. Apertei a campainha. Uma voz calma de mulher perguntou pelo alto-falante se eu precisava de ajuda. Procurei dar uma resposta que exprimisse da maneira mais sucinta a urgência do socorro: "Vou vomitar".
+
+Em segundos ela estava do meu lado, com a bacia de plástico e uma toalha grossa. Senti vergonha de me expor, durante aflição tão prosaica, aos olhos de uma moça delicada e desconhecida, mas agradeci a providência, porque não teria dado tempo de chegar ao banheiro.
+
+A cor clara do líquido na bacia branca me tranqüilizou.
+
+Mesmo sem ter bebido água nem ter comido nada nas últimas setenta e duas horas, estava tão acabado e vomitei tantas vezes antes de o dia amanhecer, que comecei a tratar a enfermeira com a intimidade de um amigo de infância e a aguardar com fatalismo a possibilidade de tingir a bacia de vermelho no episódio seguinte. A impressão era que a infecção seguia seu curso trágico de vômitos de repetição até romper os vasos do estômago e do esôfago.
+
+Por causa das dores, dos calafrios, da boca seca e do estômago revolto passei a noite em claro. Às seis da manhã, entrou o técnico para colher sangue, logo depois caí num sono entrecortado.
+
+CAP XIII
+
+Acordei com o quarto na penumbra. Pelo barulho de água, Regina devia estar no banho; pelo silêncio nos corredores, imaginei que fosse cedo. A neblina que baixara em minha mente nos dias anteriores havia se adensado, e os pensamentos se achavam embotados como se os comprimidos de morfina ingeridos durante a noite houvessem tramado fazer efeito ao mesmo tempo.
+
+Ronaldo foi o primeiro médico a passar. Quando percebi sua presença, ele já auscultava meus pulmões, e desconversou: "Que ressaca, meu!".
+
+A maioria dos doentes que perdi foi por complicações pulmonares. Na UTI, independentemente da patologia de base, falência respiratória é a principal causa de óbito. Se o pior acontecesse, se ficasse inviável controlar a evolução sem prescindir da tecnologia só disponível na unidade de cuidados intensivos, se a inconsciência ou o coma me tirassem de órbita, poderia contar com médicos competentes para escolher as alternativas mais sensatas.
+
+Profissão generosa a medicina. O mecânico pode ter facilidade para consertar o carro da família; o arquiteto, para construir a casa própria; o advogado, para defender seus direitos; mas o médico é privilegiado na hora de proteger o bem maior que a seleção natural foi capaz de conduzir até nós: o próprio corpo, acontecimento fortuito da evolução das espécies. Estrutura resultante de eventos tão aleatórios quanto aquele ocorrido há trezentos e setenta milhões de anos: o nascimento de um peixe com coluna vertebral rígida e articulações nas nadadeiras, imperfeitas para nadar mas utilíssimas para locomoção em terra. Ou a queda do meteorito na península de Yucatán que há sessenta e cinco milhões de anos, segundo dizem, exterminou os dinossauros, na presença dos quais os mamíferos estariam até hoje limitados a poucas famílias de roedores noturnos assustados com a presença daqueles brutamontes.
+
+No relato dos sintomas, notei que o intervalo de tempo entre pensar e pronunciar as palavras era bem maior do que no dia anterior. Por duas vezes, quando iniciei a resposta, Ronaldo já repetia a pergunta. Tratei de explicar que apesar da morosidade estava perfeitamente lúcido, porque fiquei com medo de que me julgassem rebaixado intelectualmente, portanto à margem dos acontecimentos, e começassem a tomar decisões por mim. Quantas vezes não assisti a essa cena? Quantas vezes não fui o protagonista a decidir pelos outros?
+
+Talvez muitos considerassem uma bênção ignorar o perigo da situação, o prognóstico sombrio, os dados numéricos, e um privilégio depositar minha própria sorte em mãos de pessoas confiáveis, que me queriam bem, mas a alienação era recurso fora de meu alcance, seria necessário fingir que não era médico. Analisar as reações dos colegas, acompanhar os resultados dos exames e a conduta adotada com base neles era inevitável; a única forma de me sentir seguro.
+
+Depois, quando Esper passou, fiquei com a impressão de haver adormecido mais de uma vez enquanto conversávamos. Ao notar que a lentidão em falar se intensificara, e agora se fazia acompanhar de um tom de voz em falsete que me obrigava a um esforço para emitir os sons, ele decidiu pedir uma ressonância magnética do cérebro para avaliar sinais de uma eventual encefalite.
+
+A solicitação do exame me levou a supor que ele não queria apenas estudar a extensão do comprometimento ocasionado pela encefalite, mas tomava a precaução de afastar a presença de sangramento no cérebro. Ingenuamente, minhas preocupações estavam voltadas para o fígado e a hemorragia digestiva (a imagem do vômito negro), mas claro que outras artérias poderiam sangrar. Fazia diferença? Muita, porque sangramentos digestivos em geral são insidiosos, é possível receber transfusões e lutar contra eles pelo menos por algum tempo, enquanto os cerebrais roubam de imediato a consciência.
+
+Esper estava de saída quando perguntei sobre os resultados das transaminases. Como Rafael na véspera, ele baixou o olhar: "Chegaram a dez mil. Já pedi para repetir, deve estar errado".
+
+Permaneceu imóvel, de avental e óculos, junto à porta. De minha parte, não encontrei o que dizer. Forçá-lo a alguma previsão? Deixá-lo ainda mais agoniado?
+
+Mal fiquei só, a febre e os calafrios voltaram. No auge dela, imaginei o que pensaria se fosse o médico de alguém naquelas condições. Consegui fazê-lo com tal realismo que tive a impressão febril de estar em pé, de camisa de colarinho e gravata, olhando para mim, deitado, de pijama, trêmulo de frio, com náuseas, os olhos amarelos, o fígado aumentado, a voz fraca, a fala entremeada de silêncios involuntários, e as transaminases num valor alto como o professor Luiz Caetano jamais vira em meio século de hepatologia. Olhava para mim mesmo, ora de baixo para cima, da perspectiva do paciente que se entrega nas mãos do médico, ora no sentido oposto, com a postura daquele que analisa as evidências clínicas na tentativa de prever a evolução.
+
+Do confronto entre os dois personagens, o médico concluiu que não existia saída. Embora ele pudesse encontrar razões para otimismo na persistência da lucidez, na ausência de hemorragias e nos resquícios de força física, a morte seria a conseqüência mais provável. Os dados laboratoriais eram irrefutáveis: em quatro dias as transaminases, marcadores sensíveis do grau de destruição das células do fígado, tinham subido de quatrocentos para dez mil. Em relação às da véspera, quase duplicaram. Que valores atingiriam no dia seguinte? Um doente como aquele entraria em coma hepático nas próximas horas. Era de estranhar que isso ainda não tivesse acontecido.
+
+Ou será que não me aperceber de que já estava na fase inicial do coma fazia parte intrínseca do quadro? Se para o médico nem sempre é fácil identificar a transição da sonolência para o estado comatoso, imagine para quem se encontra nesse limiar. 
+Ao olhar para mim em pé a meu lado, achei que os olhos do médico evitaram os meus. Senti vontade de perguntar se não havia saída, mas recuei, porque o induziria a mentir. A expressão constrangida que toma conta de mim no momento em que pressinto o final de meus doentes estava estampada em meu rosto. Impossível enganar a mim mesmo.
+
+A despeito de tudo, opunha-se a essa constatação um fiapo de confiança subjetiva na capacidade de resistência de meu corpo de corredor. Levantei da cama devagar, desconectei do suporte o frasco de soro e caminhei com ele para o banheiro. Apesar da tontura e da fraqueza, consegui chegar até o espelho: os olhos estavam amarelos, sem brilho, o rosto pálido e marcado, mas não reconheci a aparência de um homem prestes a deixar a vida.
+
+Quando me deitei novamente, estava ofegante, mais tonto e dolorido, porém calmo, convencido de que, se não houvesse sangramento ou outro evento catastrófico, ainda seria possível resistir.
+
+Pensei em chamar minha mulher e minhas filhas para conversarmos sobre nossos bens, no entanto hesitei. Talvez fosse a última oportunidade, mas existiria diálogo mais triste? Regina e Mariana davam a impressão de não cogitar a possibilidade de tudo acabar mal: contar-lhes a verdade seria mais razoável do que encarregar a evolução dos fatos de fazê-lo? Além disso, como cancerologista assistira a tantas desavenças e mesquinharias familiares nas discussões de partilha, que havia tomado o cuidado de deixar a vida material bem organizada. Se tudo estava em ordem, qual a finalidade da conversa?
+
+Uma necessidade imperiosa de dormir resolveu o impasse.
+
+Acordei com o quarto cheio de gente. Dois enfermeiros me ajudaram a passar para a maca ao lado da cama e desci para fazer a ressonância.
+
+Dois dias antes, ficar exposto à curiosidade pública ao circular de cadeira de rodas pelos corredores para ir à Radiologia me deixara encabulado. Agora, numa situação bem pior, ictérico sob dois cobertores em dia de verão, não experimentei o menor acanhamento, apenas fechei os olhos para não ser forçado a falar com ninguém.
+
+A sala da Ressonância estava quase às escuras; em seu interior, os técnicos de branco preparavam em voz baixa o material e se movimentavam com passos surdos, como figuras fantasmagóricas. Entrei naquele tubo comprido — que aterroriza os claustrofóbicos a ponto de ser preciso anestesiá-los para realizar o exame — com a naturalidade com que deitaria na cama de casa. O ruído forte que a máquina repete em ciclos incessantes não foi suficiente para me manter acordado.
+
+Assim que o exame terminou, Letícia entrou radiante para contar que os sinais de encefalopatia eram discretos. Com o aperto do alicate nas costas ameaçando retornar, não tive alegria para comemorar o resultado, apenas pedi que me levassem logo para o quarto. Tomar o comprimido de morfina antes que a dor aumentasse era só o que interessava.
+
+Deitado na cama, dei as mãos para minhas filhas, e ficamos em silêncio.
+CAP XIV
+
+No leito de morte os religiosos talvez levem vantagem: podem rezar, fazer promessas, pedir que Jesus deles se apiede, que lhes conceda a glória da vida eterna, ou agarrar-se a outro pensamento mágico que torne a realidade menos inclemente. Mas nem todos são bem-aventurados, conheci alguns que se revoltaram contra o Deus em quem depositaram tantas esperanças, por havê-los abandonado. Tratei de um pastor protestante que fumava dois maços de cigarro por dia, mas, quando teve um câncer de pulmão aos cinqüenta anos, ficou tão indignado que só se referia a Deus como "o ingrato".
+
+De minha parte, nunca fui religioso, nem haveria de converter-me por arrependimento, covardia ou iluminação.
+
+Não terá sido por falta de formação católica: quando dei conta de mim, já haviam me ensinado a rezar. Uma das poucas imagens que guardo de minha mãe em nossa casa no Brás é a de uma tia rezando com ela, para que Deus lhe devolvesse a saúde. Minha avó paterna não ia para a cama sem passar em meu quarto para me cobrir e recomendar que não esquecesse das preces pela mamãe e para Deus proteger nossa família, conselho que apesar da preguiça era seguido à risca, de medo que por minha culpa a alma materna fosse maltratada no céu.
+
+O pior era quando eu dormia na casa dos avós portugueses. Que martírio acompanhar avó Ana, em voz alta, nas dezenas de ave-marias e pai-nossos pelas almas de tia Cândida, prima Adelina, avó Joaquina e um rosário de parentes mortos em Portugal no decorrer dos séculos XVII e XIX. Que alívio quando começava a salve-rainha, mãe de misericórdia, prece derradeira da reza noturna.
+
+Aos dez anos ganhei um terno de linho branco para receber a primeira comunhão, na capela do Liceu Pasteur. Na sexta-feira da semana seguinte voltei a confessar. Precisei inventar pecados não cometidos, pois o padre, de mau humor atrás do reticulado do confessionário, deixava cair silêncios que me embaraçavam para depois insistir em saber se eu havia pecado contra a castidade sozinho ou acompanhado. Naquele dia, confessei porque estava com o propósito firme de fazer na missa de bodas de prata de tio Constantino e tia Leonor o que não tivera coragem de fazer no dia da primeira comunhão por receio de sujar o terninho branco: morder a hóstia.
+
+Tudo porque a professora das aulas de catecismo que antecederam à comunhão tinha recomendado com insistência que jamais cometêssemos tal sacrilégio, já que na hóstia se achava encerrado o corpo de Jesus Cristo. Para dar ênfase, contou que certa vez um menino numa aldeia do norte da França assim havia agido e ficara com a boca cheia de sangue.
+
+A missa aconteceu sábado à noite na igreja de Santo Antônio, onde meus avós, meus pais, tias e tios se casaram e batizaram os filhos. Considerei o cenário ideal para o teste porque estávamos em família: em caso de sangramento eu seria acudido.
+
+Na hora da comunhão as mulheres com véu na cabeça e os homens de terno escuro se dirigiram para o altar. Ajoelhei na primeira fila. O coroinha segurava uma bandeja de ouro sob o queixo de cada um, enquanto o padre desenhava uma cruz imaginária com a hóstia antes de depositá-la na língua dos fiéis. Ao senti-la na boca, fiz o sinal-da-cruz, levantei com as mãos entrelaçadas no peito, o corpo de Jesus grudado no palato, e voltei para meu assento com o ar mais piedoso que pude assumir.
+
+Tive trabalho com a ponta da língua para desgrudá-lo delicadamente do céu da boca antes que se tornasse uma massa amorfa. Quando consegui, com movimentos sutis dos maxilares cravei-lhe várias vezes os dentes sem que jorrasse uma só gota de sangue sagrado.
+
+Fui comungar novamente apenas aos cinqüenta e cinco anos, quando entrei por acaso numa igreja em Dublin no momento exato da comunhão. As mulheres usavam os véus de minha infância, e os homens tinham o mesmo ar de beatitude. O padre e o sacristão repetiam o ritual com a bandeja dourada e o gesto da cruz imaginária. Ajoelhei-me à beira do altar e recebi a hóstia, mas o fiz desprovido de qualquer convicção religiosa, somente para reviver uma sensação infantil que aquele gosto, de fato, trouxe de volta.
+
+A frustração com o fato de o corpo de Nosso Senhor não ter sangrado me levou a buscar lógica em tudo o que os religiosos pregavam, a suspeitar do que parecia fantasioso ou impossível de comprovar e a desconfiar dos dogmas. Isto é, sem intenção, havia começado a trilhar o caminho oposto ao da religiosidade, que pressupõe crença fervorosa em acontecimentos improváveis e em desígnios misteriosos.
+
+Meu pai se dizia católico, mas professava a fé espírita: freqüentava sessões, falava de comunicações com pessoas falecidas, da existência de espíritos de luz e de espíritos das trevas e em reencarnações, com a naturalidade de quem afirma que um dia encontraremos a morte. Por respeito, jamais ousei contestar suas crendices, mas ficava chocado: como um homem daqueles, determinado, com princípios claros, que enfrentava as adversidades sem arredar um milímetro do caminho previamente traçado para conduzir a família, podia ser ingênuo a ponto de acreditar que uma garrafa d'água benzida por um médium tivesse o dom de proteger o corpo contra doenças ou que certa pessoa fosse Helena de Tróia reencarnada.
+
+Assim que cheguei à puberdade, meu irmão mais novo, aluno do Colégio Coração de Jesus, volta e meia repetia o jargão dos padres salesianos e descrevia milagres praticados pelos santos. Para deixar claro que era mais velho e mais sabido, eu o provocava com comentários irreverentes.
+
+Quando estava para completar o antigo ginásio, fui matriculado no Colégio Arquidiocesano, dos irmãos maristas. Era tudo o que eu não queria, gostava do Liceu Pasteur; e ainda mais agora, no colegial, que as classes seriam mistas, ir para uma escola só de homens, em que a maioria dos alunos vivia em regime de internato!
+
+O tom da justificativa paterna não admitia contestação: "Você precisa de formação religiosa. Não quero filho ateu aos catorze anos".
+
+No que concernia aos nossos estudos, mover a estátua do Cristo Redentor seria mais fácil do que fazê-lo recuar de uma decisão. A vida que ele levava, dividido entre dois empregos que lhe exigiam trabalhar das oito da manhã à meia-noite, só encontrava significado se fosse para conduzir os filhos à faculdade. Acreditava nesse propósito com tanta convicção que conseguiu incuti-lo em nós: jamais cogitamos abandonar os estudos antes do diploma universitário.
+
+No Arquidiocesano havia mais disciplina formal, fazíamos filas silenciosas para entrar na sala de aula, quase todos os professores eram irmãos maristas que nos conheciam pelo nome e cobravam com rigor as lições de casa. A primeira aula do dia era a de religião, que começava com os alunos perfilados nos corredores entre as carteiras, com o terço nas mãos para rezado de ponta a ponta diante do irmão que se postava no estrado, de frente para nós, puxando as orações com um olho nas contas do terço e o outro implacável contra o primeiro folgado que ousasse encostar o corpo nas carteiras.
+
+O colégio tinha vários campos de futebol e incentivava as práticas esportivas. Na primeira semana, quando terminou a aula de educação física, demorei um pouco mais para entrar no banho só para ver como os outros se portavam, porque no Liceu Pasteur estávamos habituados a entrar juntos no chuveiro coletivo anexo ao vestiário, enquanto lá os chuveiros eram individuais. Observei que os alunos saíam do banho enrolados na toalha e fiz o mesmo. Ao chegar ao vestiário, derrubei a toalha, pisei em cima e abri o armário para pegar as roupas.
+
+Distraído, custei a perceber que alguns colegas ao redor riam nervosamente e outros me faziam sinais confusos. De repente, um berro assustador atrás de mim. Ao me virar, dei de cara com o irmão apelidado de Zé Pequeno, de batina preta, rosto pegando fogo, possesso: "Cubra essas vergonhas, já!".
+
+Na nudez desengonçada dos catorze anos, fiquei paralisado, sem entender o motivo daquele ódio, enquanto o irmão, cada vez mais apoplético diante de minha imobilidade, subia e descia da ponta dos pés a vociferar contra a exposição das tais vergonhas.
+
+Precisou meu vizinho de armário me chacoalhar pelo braço e entregar uma toalha para que eu entendesse a razão do escândalo.
+
+Apesar desses percalços devo muito ao colégio, que me incutiu interesse pela ciência, disciplina para estudar, essencial para os exames vestibulares, e, sobretudo, porque me apresentou a Charles Darwin e à seleção natural.
+
+Não que os maristas daquele tempo fossem adeptos do darwinismo, pelo contrário: no final da década de 50, cem anos depois da publicação do livro A origem das espécies, ainda consideravam blasfêmia imaginar que o homem descendesse de primatas arbóreos. De que forma conciliar essa visão naturalista com os dogmas de que fomos construídos à imagem e semelhança de Deus e de que Ele criou todas as espécies de uma única vez?
+
+Obstinados em provar que as proposições de Darwin não passavam de heresias materialistas, dedicavam grande parte das aulas de religião do primeiro colegial a nos fazer decorar as diferenças anatômicas entre o homem e os macacos, bem como as razões por que a perfeição da natureza só podia resultar da vontade divina.
+
+Para contradizer a seleção natural, no entanto, era necessário enunciá-la, ainda que resumidamente.
+
+Apesar dos argumentos contrários, as explicações do naturalista inglês para a evolução das espécies me pareceram tão interessantes e coerentes, que fui atrás de um pequeno livro: A teoria de Darwin ao alcance de você.
+
+Li o livrinho com a mesma voracidade com que tinha devorado o amante de lady Chatterley e o crime do padre Amaro.
+
+Ao terminar, entendi que não havia a menor necessidade de interferência divina para explicar o aparecimento da vida na Terra. Ela surgiu por acaso há bilhões de anos e chegou até nós graças a uma cadeia de eventos desprovidos de qualquer objetivo transcendental. Dado que inexistem dois seres geneticamente idênticos e os recursos naturais são limitados, haverá obrigatoriamente competição e seleção natural: a sobrevivência dos mais aptos e a eliminação impiedosa dos fracos.
+
+Essa foi a idéia filosófica mais radical que a imaginação humana teve o atrevimento de conceber. A única capaz de unificar os caminhos seguidos pela vida de seres tão díspares quanto bactérias, samambaias, tubarões, passarinhos e o Homo sapiens, primata pretensioso construído à imagem e semelhança de seus parentes mais próximos: chimpanzés, gorilas, orangotangos e bonobos.
+
+O ceticismo confuso e contestatório que nascera com o episódio da hóstia foi substituído por um ateísmo que se consolidou e adquiriu mais racionalidade com o passar dos anos.
+
+Imaginar que, ao sentir a vida ameaçada, seria possível o reencontro com o Deus da primeira infância estava fora de meu alcance. Era negar tudo o que aprendera sobre biologia, sobre as leis da física e as que regem as reações químicas. Rezar para que um ser abstrato se dispusesse a restaurar meu fígado destruído por um vírus tinha tanto sentido quanto rezar para que o estetoscópio à cabeceira se transformasse numa princesa das Mil e uma noites.
+
+CAP XV
+
+Quando acordei, minhas filhas conversavam em voz baixa com Regina na sala ao lado. Não discernia nem estava interessado em entender o que diziam, mas os sons tinham uma familiaridade agradável. Que bom, ainda conseguia sentir outro prazer além daquele de me abandonar às trevas.
+
+Como tantos médicos que atendem doentes graves, muitas vezes me deparei com o dilema de insistir na adoção de medidas heróicas ou de desistir delas. Para quem olha de fora, parece evidente que o médico deva cruzar os braços para não causar sofrimento inútil nos casos em que não há esperança, mas para nós esses momentos são repletos de incertezas e angústias. Por mais sabedoria que os anos de estudo e a atividade clínica possam trazer, nem os livros nem as experiências prévias asseguram que sejamos capazes de escolher a hora ideal para desistirmos de tudo, porque na iminência da morte a variabilidade das reações individuais é aleatória e surpreendente. Existe remorso mais acachapante do que ficar com a impressão de haver desistido cedo demais e assim contribuído para abreviar a vida de alguém ainda em condições de usufruir dela, por minutos que fosse? Ou, ao contrário, arrependimento mais doloroso que a certeza de que passamos do ponto e, em lugar de trazer alívio, causamos padecimentos vãos?
+
+Preservar a vida ou prolongar o sofrimento? Essa é a questão, como já foi dito noutro contexto.
+
+O critério que sempre me orientou na escolha do caminho mais sensato nessas ocasiões foi o de estar atento às manifestações de prazer do doente. Enquanto houver prazer, vale a pena existir.
+
+A intensidade e a duração dele não vem ao caso. Não interessa se é conseqüência de haver descoberto o sentido da vida, de ter sentido a presença de Deus, de viver a alegria da visita da filha que chegou de viagem ou de experimentar o alívio prosaico ao esvaziar a bexiga distendida. Porque, ao apagar das luzes, o corpo humano pode tornar-se um fardo insuportável, fonte permanente de dor e desconforto.
+
+Julgar agradável a musicalidade da conversa indecifrável das três na sala ao lado trouxe a convicção de que o coma hepático não havia se instalado. Apesar da mente turva, ainda restava alguma disponibilidade para o prazer intelectual.
+
+Levei a mão ao sexo, mas encontrei-o morto; da mesma forma que o paladar, submerso em náuseas, ou o olfato, impermeável aos odores inebriantes porém abusivamente afetado por qualquer perfume forte, como aquele emanado da figura de Paulo Preto, que veio me visitar.
+
+Paulo Xavier tinha sido auxiliar de enfermagem no pronto-socorro do Hospital das Clínicas, cargo que deixou para ir trabalhar no Sírio-Libanês, onde adotou o pseudônimo de "Doutor Paulo Preto", corruptela irreverente do nome do dr. Paulo Branco, professor de cirurgia na USP. O sorriso aberto, a ingenuidade, a solicitude com os pacientes e o corintianismo falsamente fanático fizeram dele o personagem mais popular do hospital. Não havia quem não o conhecesse.
+
+Uma tarde, quando nos encontramos num dos corredores, ele fez várias perguntas sobre meu trabalho na Casa de Detenção. Contou que conhecera a cadeia quando menino, ao visitar um parente preso, e se ofereceu para me ajudar na função de enfermeiro. Procurei demovê-lo da intenção, explicando que o atendimento tomava muitas horas, que eu era médico e podia me dar ao luxo de ficar sem remuneração um dia por semana, mas Paulo não arredou pé.
+
+Trabalhamos juntos até o dia em que o presídio foi implodido, em 2002. Depois, fomos para a Penitenciária do Estado. Eu fazia o exame físico e ditava a prescrição, que ele anotava para explicar ao paciente enquanto entrava o caso seguinte. Conseguimos tanta eficiência, que chegávamos a atender sessenta e até setenta presos numa tarde. Estarmos juntos nas enfermarias dos pavilhões, nas galerias lúgubres do Amarelo, setor de segurança que isolava os condenados à morte pelas leis do Crime, apenas nós dois e os ladrões, criou um sentimento de fraternidade entre nós igual àquele descrito pelos soldados em tempo de guerra. Paulo era um desses poucos amigos incondicionais, de quem não precisamos temer julgamentos e com quem sentimos poder contar nas horas incertas. Sua personalidade singela despertava o ímpeto de protegê-lo. Embora fosse somente treze anos mais jovem que eu, diferença que a superioridade da pele negra acentuava, ele me ouvia com o respeito de um filho bem-educado.
+
+Numa fase em que começou a exagerar no uísque, vários amigos me pediram que o advertisse. Quando me convenci de que era realmente necessário, tivemos uma conversa que terminou com uma recomendação recolhida nos anais da melhor psicologia de botequim:
+
+—Paulo, uísque é bebida de alcoólatra. Se você continuar, não fala mais comigo.
+
+—Prometo largar — respondeu, de agora em diante é só na cerveja. Vou virar alemão.
+
+Não tenho certeza se longe de mim a promessa foi cumprida, mas em minha presença ele a seguiu à risca.
+
+O único visitante da noite que minha mulher, cão de guarda à porta do quarto, permitiu entrar foi ele, que chegou precedido pela nuvem de perfume adocicado. Ao vê-lo, perguntei, com a voz que mal saía:
+
+—E aí, Paulo, não tinha nada de bom para fazer domingo à noite?
+
+Ele abaixou a cabeça e começou a chorar. Fiquei dividido entre a vontade de mandar embora o miserável usuário da fragrância que me deixava mareado e a de consolar o amigo querido que sofria por minha causa.
+
+Optei pela segunda alternativa:
+
+—Paulão, economiza as lágrimas, ainda estou vivo.
+
+—O senhor não pode morrer antes de mim.
+
+—Do jeito que anda meu fígado, se você continuar encostado na cama com esse perfume comprado em camelô coreano, não posso garantir.
+
+(Dois anos mais tarde, o telefone me acordaria no meio da madrugada: "Doutor, aqui é a irmã do Paulo Preto para dar uma notícia triste: o Paulo acabou de ter um ataque cardíaco fulminante".)
+
+Nem o aroma enjoativo evitou que eu cochilasse enquanto ele dava notícias detalhadas de nossos amigos da cadeia, preocupados comigo. Fiquei especialmente sensibilizado quando contou que Valdemar Gonçalves, encarregado do departamento de esportes na Detenção, funcionário de barba branca que angariou popularidade e respeito entre os presos por exercer sua função com um sentido de justiça e solidariedade, companheiro de trabalho e de mesa de bar depois do expediente, havia prometido parar de beber e manter a abstinência pelo tempo que os médicos me recomendassem assim permanecer.
+
+A promessa tinha valor inestimável. Valdemar, que vivia com o irmão mais velho, solteirão empedernido como ele, cercado de patos, galinhas, coelhos e pássaros numa casa com quintal arborizado, na Casa Verde, era apreciador contumaz. Ao menos três vezes por ano, quando conseguia carona na Kombi do vizinho, ia a um alambique em Bragança Paulista, a noventa quilômetros da capital, para comprar cachaça. Trazia a bagatela de duzentos litros a cada visita, distribuídos em três barris de plástico de cinqüenta litros de capacidade e em dez garrafões de cinco litros. Uma ocasião, na porta de casa, ao descarregar a mercadoria preciosa, o irmão deixou quebrar um dos garrafões. Valdemar ficou cinco dias sem trocar uma palavra com ele.
+
+Acordei diversas vezes, sem noção clara do tempo decorrido; em certos momentos, com a impressão de ter cochilado dez minutos quando haviam se passado duas horas, noutros com a sensação contrária.
+
+Num desses despertares, Regina se preparava para dormir. Perguntei pelas meninas. Tinham ido para casa.
+
+—Saíram sem se despedir?
+
+—Elas te beijaram. Você não viu?
+
+Não lembrava. A luz mortiça da cabeceira, o fluxo e refluxo do oxigênio na máscara, o movimento dos lençóis que ela esticava no sofá e o ranger da maca no corredor compunham um cenário em que meu corpo estava presente com dor nas costas e, ao mesmo tempo, vagava entre pensamentos desconexos e instantes de lucidez.
+
+Lamentei a falia de consciência por ocasião da despedida das meninas. Teria perdido a última oportunidade de estar com elas?
+
+CAP XVI
+
+Pouco mais tarde, escutei a voz de Letícia, que voltava para dormir na saleta ao lado, depois de ter levado a irmã para casa. Pedi que me desse um beijo de boa noite e recebi meia dúzia deles.
+
+O sono foi entrecortado; assim que eu despertava por causa dos calafrios, do mal-estar e da boca ressecada pela morfina, era subjugado por ele. Manter os olhos abertos tornava-se muito penoso; nem sequer a convicção de viver os últimos momentos de lucidez servia de motivação para reagir. Conversar, fazer a menor observação de caráter existencial ou a mais irrelevante reflexão sobre os caprichos do destino, então, nem pensar. O cérebro submergia, inundado por um fluido espesso que embaçava o horizonte e desviava os pensamentos de seu curso lógico.
+
+Que diferença das cenas melodramáticas dos filmes em que o personagem, no leito de morte, reúne as pessoas queridas para balbuciar desejos, declarar amores secretos e enunciar conceitos definitivos sobre o significado da existência.
+
+Lembrei-me do olhar apagado de meu pai em minha direção pouco antes de os batimentos cardíacos desaparecerem da tela do monitor da UTI, e da impressão de que ele queria me dizer alguma coisa. E provável que não quisesse dizer nada; talvez nem percebesse minha presença naquele instante.
+
+A lembrança da imagem paterna deve ter sido responsável pela evocação da negra do manjar, dessa vez sem vestido branco, sem colar nem tabuleiro. Ao contrário da figura sorridente das aparições anteriores, ela trajava a roupa escura das viúvas antigas, tinha o rosto apreensivo, o olhar perscrutador, e me convidava para acompanhá-la. A cena era idêntica à dos meus sete anos.
+
+Quando faltava um mês para entrar na escola, acordei com os olhos inchados. Minha avó se assustou, e meu pai me levou ao pediatra, pela primeira vez. Subimos uma escada mal iluminada para chegar ao consultório do dr. Isaac Mielnik, numa travessa da rua Bresser. Ele nos recebeu em pé atrás da escrivaninha e não titubeou: glomerulonefrite difusa aguda. Depois me examinou e disse a meu pai, sem olhar para mim: "Essa doença é grave. Já vi criança morrer. O menino vai ficar seis dias sem comer e os três primeiros também sem beber, nada, para deixar os rins em repouso absoluto. Molhar a boca com um algodão úmido pode, de vez em quando. Passados os três primeiros dias, um cálice de suco de laranja de seis em seis horas. A partir do sétimo dia, arroz cozido com mel; depois do décimo, pode comer batata e chuchu cozidos na água sem nenhum sal".
+
+Já estávamos na porta quando finalmente se dirigiu a mim: "E tem mais, rapazinho: vai tomar injeções de penicilina sem chorar e fazer repouso absoluto no leito, deitado de costas, sem se mexer".
+
+Que absurda a medicina daquele tempo, empírica, baseada em ideologias, dogmas e princípios jamais comprovados, praticada sem nenhum respeito às evidências experimentais. Deixar uma criança três dias sem tomar água e seis sem comer, só porque um médico alemão aventara a hipótese de que seria bom para os rins inflamados permanecer em inatividade. Não era à toa que o dr. Isaac tinha visto crianças perderem a vida por causa de uma doença da qual ninguém mais morre.
+
+Com minha avó Aurélia de óculos e o tricô na cadeira a meu lado, no terceiro dia fui dominado pela fraqueza e pelo tormento da sede. A mucosa da garganta rachou de tanta secura, esqueci-me da fome, fiquei sonolento e comecei a delirar.
+
+Na madrugada desse dia, na cama de molas em que eu dormia com meu pai, a negra do manjar apareceu sem o tabuleiro, com um vestido escuro idêntico ao que trajava agora e o mesmo ar enigmático. Só que, naquela ocasião, em vez de me convidar para segui-la, ela me ofereceu um copo de água, o qual se espatifou no chão quando eu estava quase a alcançá-lo. Acordei chorando, meu pai molhou um algodão na xícara em cima do criado-mudo e umedeceu meus lábios.
+
+Na aparição atual, a mulher permanecia imóvel à distância, com os braços soltos ao longo do corpo, sobrancelhas arqueadas para insinuar com um movimento discreto que eu devia acompanhá-la, convite que me atraía e amedrontava.
+
+CAP XVII
+
+A noite foi tumultuada pelas dores musculares, pelo estado infeccioso que deformava as imagens ao redor e pelo entra-e-sai do pessoal da enfermagem. Especialmente de Ruth, enfermeira-chefe dos plantões noturnos, com quem eu tivera pouco contato profissional mas que, no decorrer da internação, me deixou impressionado com tanto zelo.
+
+O ofício da enfermagem exige mais altruísmo que o nosso. Por mais atenção que dediquemos aos pacientes, quanto tempo passamos com eles? Nossas visitas duram minutos, enquanto esses profissionais ficam encarregados de administrar-lhes os medicamentos prescritos, puncionar veias invisíveis, fazer curativos, cuidar da higiene, ouvir reclamações, incitá-los a reagir e a enfrentar o desconforto, consolá-los, orientar e amparar os familiares, tarefas que requerem competência profissional, empatia e desprendimento.
+
+O vaivém certamente se devia ao agravamento do quadro. No silêncio da madrugada, ouvi a voz distante de Ruth no posto de enfermagem, no telefone: "Está lúcido, mas muito fraco e demorando demais para responder".
+
+Depois de uma pausa, acrescentou: "Entendi. Se ficar confuso ou tiver sangramento, telefono outra vez".
+
+Ela se preocupava a ponto de acordar o médico àquela hora, enquanto para mim era como se falassem de um problema burocrático. Estava ensimesmado, enclausurado no poço de sensações desagradáveis em que se transformara meu organismo, inapto à mais leve atividade física e ao menor esforço intelectual. Nunca havia me sentido tão depauperado; força de vontade nenhuma teria o poder de me tirar daquela inércia.
+
+Ao perceber os primeiros sinais de claridade, fiquei aliviado; a obrigação de dormir torna especialmente difícil suportar a doença.
+
+Quando o auxiliar de enfermagem chegou com duas toalhas, expliquei que seria impossível ir até o chuveiro, mesmo que carregado. Não obstante a voz de taquara rachada, devo ter sido convincente, porque ele chamou um colega para ajudá-lo a me dar banho no leito.
+
+O banho foi tão exaustivo quanto escalar o pico da Neblina; senti vontade de chorar quando terminou. Só não o fiz por ainda ter um resquício de hombridade pelo qual zelar.
+
+As visitas de meus colegas foram de poucas palavras. Talvez por antecipar a monotonia das respostas que receberiam e pelo fato de não ser possível esconder o agravamento das condições clínicas, já não se animavam a conversar, nem eu a inquiri-los. O desalento e a perplexidade indisfarçáveis em seus rostos transmitiam a impressão de jogo acabado, que em tantas circunstâncias vivi com meus pacientes.
+
+A constatação, no entanto, não me deixou triste nem revoltado, muito menos com medo; continuei inerte. Quando um inimigo com aquela virulência aperta o cerco final, toma a precaução de esgotar previamente as forças que a ele possam se opor.
+
+O último a passar pela manhã foi Flair. Disse que eu não parecia tão mal quanto os exames sugeriam, e colheu sangue para testes de coagulação que mais tarde seriam publicados num tratado de hepatologia. Foi o único médico que encontrou um aspecto positivo para reforçar.
+
+Perguntei se os resultados dos exames haviam chegado. "Pioraram um pouquinho", respondeu.
+
+Não fiz questão de saber os números. Se já eram péssimos no dia anterior...
+
+Quando ele saiu, caí num estado letárgico em que perdi completamente a noção de tempo, a curiosidade pelo que acontecia, comigo e com os outros, e o desejo de me comunicar com quem quer que fosse.
+
+Acordei com os soluços de Hector Babenco, que chorava a meu lado, com as mãos no rosto. Paulo Preto, agora ele, o ar desesperançado de meus colegas e o contraste da colcha branca com a palidez amarelada do braço magro: minha aparência devia estar para lá de deplorável.
+
+Como Paulo, provavelmente ele jamais tivesse imaginado que eu poderia morrer antes. Para ser sincero, eu também não. Posso contar por que razões, sem violar princípios éticos, pois ele já se referiu diversas vezes a seus problemas de saúde, em público.
+
+         Nós nos conhecemos em 1984, no dia do resultado da biópsia de um gânglio que crescera em seu pescoço. Tratava-se de uma neoplasia que se caracteriza por evoluir de forma muito lenta nas fases iniciais e por se tornar agressiva com o passar dos anos. Na época, na falta de tratamento curativo, a estratégia mais adotada era a da simples observação clínica até que a progressão se convertesse em ameaça. Foi o que fizemos.
+
+Babenco havia acabado de filmar O beijo da mulher aranha, depois de ter dirigido dois filmes de impacto: Pixote e Lúcio Flávio.
+
+Em mais de vinte anos de convivência nós nos tornamos amigos inseparáveis. Aprendi muito com ele. Acompanhei-o de perto quando dirigiu Ironweed, filmado no inverno de Albany, no estado de Nova York, e quando comandou a operação de guerra para rodar Brincando nos campos do Senhor, em plena floresta amazônica com uma equipe de mais de duzentos profissionais, tarefa que lhe roubou parte substancial da saúde.
+
+Dez anos depois da primeira manifestação, a doença exibiu sua face perversa. O processo se disseminou com tanta virulência, que todos os colegas com quem discuti as alternativas acharam que ele iria morrer. A única tentativa heróica com uma chance pequena de curá-lo seria um transplante de células da medula óssea, caso houvesse doador compatível.
+
+Havia, por sorte, um irmão mais novo. O transplante foi feito num centro em Seattle, dirigido pelo prêmio Nobel de medicina que introduziu essa técnica na prática médica.
+
+Fui visitá-lo três vezes no decorrer da internação. Mesmo nos primeiros dias, depois de receber doses letais de quimioterapia e radioterapia, seguidas do transplante, ele controlava o gotejamento do soro, o horário dos antibióticos, a troca de turno da enfermagem e os resultados dos exames colhidos. Da internação à alta hospitalar, acompanhou tudo com o mesmo rigor com que dirigiu seus filmes. O oposto de mim, entregue àquela toxemia avassaladora.
+
+Tendo retornado ao Brasil, ficou meses em recuperação. Os efeitos colaterais do transplante e suas conseqüências tardias debilitaram-no a tal ponto que mal podia andar, passava os dias da cama para a poltrona da sala, maltratado pelo sofrimento físico e infernizado pela inatividade, porém seguro de que voltaria a filmar, contra todas as evidências.
+
+Enquanto ele percorria o calvário, eu estava tomado pelo trabalho voluntário na Casa de Detenção. A vida na cadeia despertou em mim tanto fascínio, que eu evitava falar do tema, por respeito aos amigos avessos a ele. Hector constituía exceção. Nas visitas médicas, não era raro notá-lo ansioso para conversarmos sobre o presídio. As histórias da marginalidade tinham o poder de trazer-lhe de volta aos olhos a luz que a enfermidade apagara. Era o interlocutor perfeito.
+
+Seis meses antes da picada do mosquito amazônico, Carandiru foi exibido no Festival de Cannes. Assistimos ao filme com nossas mulheres e um grupo de atores e atrizes naquele salão famoso com tapete vermelho na entrada. Quando terminou a projeção, estourou uma salva de palmas que durou vários minutos, e nós nos abraçamos. Ver os personagens das histórias que recolhi no exercício da medicina nos porões da cidade onde nasci emocionarem uma platéia internacional com aquelas características, num filme dirigido por um amigo fraterno que nem em sonho poderia supor um dia levar à tela o livro do médico que ajudaria a curá-lo de uma doença maligna, tinha o gosto de um grito de aleluia à imprevisibilidade da inteligência humana.
+
+Agora, nossos papéis se apresentavam invertidos. Cumprimentei-o. Ele conteve o choro, debruçou-se sobre a cama, deu um beijo em minha testa e saiu do quarto sem olhar para trás.
+
+CAP XVIII
+
+A despedida não me trouxe tristeza. Mais inerme do que nunca, minha mente foi invadida por imagens caleidoscópicas, exibidas em câmera lenta, entre as quais o pensamento vagava. Tentei fazer a multiplicação de dois números com dois algarismos e me confundi no meio da operação. No fundo, devia contar com a improvável ressurreição das cinzas que vez ou outra presenciei na medicina, mas não me sentia motivado a lutar por ela nem ao menos em teoria. Aliás, lutar significaria exatamente o quê, naquela hora? Pular da cama aos gritos de guerra? Dar murros em moinhos?
+
+Muitas vezes ouvi que certa pessoa se curou graças à vontade de viver. Embora reconheça que na falta desta nem sequer tomamos o café-da-manhã — que dirá nadar até a praia em caso de naufrágio, observações desse tipo são ingênuas e pretensiosas.
+
+São ingênuas porque se referem a acontecimentos analisados a posteriori: avaliamos a conduta prévia do sobrevivente e atribuímos à determinação de permanecer na companhia dos mortais a razão da sobrevivência. E como admirar o vôo de uma andorinha e supor que a única explicação para a existência de tanta graça seja a vontade de Deus, esquecidos de que, antes que a primeira delas sonhasse em bater asas para fazer verão, houve bilhões de anos de seleção natural, no decorrer dos quais foram extintos sabe-se lá quantos de seus ancestrais, talvez até mais graciosos.
+
+E são pretensiosas porque atribuem à mente um poder de interferir na vida e na morte que ela não possui, lamentavelmente. Quando dizemos que alguém sobreviveu graças ao desejo fervoroso de viver, partimos do princípio de que a morte é apanágio dos covardes?
+
+"Há doenças que são para morrer", disse, para consolar o neto, um pedreiro português iletrado, enquanto eu preenchia o atestado de óbito da esposa, companheira de mais de cinqüenta anos.
+
+Objetivamente, não existia justificativa alguma para desistir, para mim a vida tinha sido uma festa. Entre os múltiplos privilégios, pudera constituir família numerosa, receber mais que o necessário para sobreviver, fazer tantos amigos íntimos que as horas não me permitiram desfrutar da sua companhia, conhecer boa parte do mundo e — bênção suprema — ganhar o sustento com trabalhos que pagaria para realizar: professor de cursinho, médico, escritor, naturalista-aprendiz e educador, envolvido em campanhas de prevenção através da comunicação de massa.
+
+Imerso nessas atividades, talvez tenha me faltado tempo para momentos de tristeza duradoura. Para ser sincero, nunca fiquei deprimido por mais de duas horas. Por índole, minha tendência foi a de considerar a vida uma experiência grandiosa, da qual jamais pensei abdicar.
+
+Minto, uma vez pensei, aos dez anos de idade.
+
+Seis anos após a morte de minha mãe, meu pai casou de novo e nos mudamos para a Vila Mariana, bairro de classe média, de hábitos e convivências estranhas para um menino criado em liberdade pelas ruas do Brás. Já no dia do casamento, meus irmãos e eu começamos a chamar nossa madrasta de mãe e a imaginar que finalmente levaríamos uma vida familiar igual à de todos. Em nenhum momento passou pela cabeça de qualquer um de nós a idéia de manifestar, ainda que da maneira mais discreta, algum descontentamento; primeiro, porque às crianças daquele tempo esse direito era negado com tal veemência que elas nem sequer suspeitavam da existência dele; depois, porque a condição de órfão permite que os adultos assumam atitudes autoritárias que jamais ousariam assumir caso a mãe estivesse por perto. Como regra, crianças pequenas podem perder o pai; a mãe, nunca. Dele, sentirão a ausência, é lógico, enfrentarão problemas financeiros, mas não lhes faltará o carinho e a proteção materna, bens insubstituíveis.
+
+A boa vontade pouco valeu. Logo ficou evidente que estávamos sob o jugo de uma mulher dominadora e que a casa nova era uma prisão cheia de normas, códigos de comportamentos obrigatórios e exigências de submissão absoluta.
+
+Numa tarde do tempo em que garoava em São Paulo, voltei do Liceu Pasteur sozinho, a pé, pelo canteiro central da Domingos de Morais, por onde trafegavam os bondes, com o espírito refém da nostalgia pelo futebol na calçada da fábrica, pela vizinhança com meus primos e, mais que tudo, da liberdade perdida. A perspectiva da vida nova, com meu pai no trabalho dia e noite e nós sob a autoridade da madrasta, era tão assustadora que duas vezes estive para me jogar debaixo do bonde. A primeira não passou de um impulso contido pelo pavor da aproximação; mas, na segunda, cheguei tão perto que pude ver o ar de espanto do motorneiro de boné e bigode. Ele brecou forte, as rodas rangeram, metálicas, e o bonde parou lá na frente. Quando desceu e veio em minha direção, de uniforme contra a chuva fina, atravessei a rua correndo, ainda a tempo de ouvi-lo gritar: "Você está louco, menino?".
+CAP XIX
+
+À tarde, o quarto ficou cinzento. Fui acordado pelos médicos, que conversavam com Regina, minhas filhas e minha irmã. Manter os olhos abertos era um sacrifício. Ronaldo se aproximou, tocou meu ombro e disse com a voz mais calma do mundo:
+
+—Vamos levar você para a UTI.
+
+Exceto pelo esforço de passar do leito para a maca de transporte, para mim não fazia diferença alguma, mas pensei nas quatro mulheres, que ficariam impedidas de estar comigo.
+
+— Por quê? Estou no décimo andar, se houver emergência será por sangramento, arritmia cardíaca ou hipotensão, em cinco minutos desço para a UTI. Ou já estou tão grave, que dá medo me deixar no quarto?
+
+Responderam que não, aquelas seriam de fato as ocorrências mais perigosas.
+
+Quando se retiraram, olhei para as quatro, sentadas no sofá, quase em silêncio, à esquerda do leito. As quatro pessoas mais próximas de mim, de quem eu morria de saudades ao me afastar por poucos dias que fosse, haviam perdido o significado afetivo. Não que tivessem se tornado estranhas, continuavam íntimas, mas os laços emocionais que me ligavam a elas já não existiam.
+
+Tinha visto pacientes dar a impressão de que se desligavam dos familiares nos dias que antecedem a morte. Um deles descreveu com ênfase esse alheamento: "Meus filhos não significam mais nada. Meus netos, parece que nunca existiram".
+
+Fiquei chocado ao ouvi-lo. Julguei haver uma frieza nas relações familiares daquele homem, muito diversa do amor e da intimidade que caracterizavam as minhas. No lugar dele, imaginei que não suportaria a dor da separação iminente.
+
+Julgamento equivocado. Para mim, também, minha neta Manoela era uma figura abstrata.
+
+No entanto, quando a vi chegar ao mundo!
+
+Mariana na sala de parto com a irmã, médica, à cabeceira. Que emoção forte ver a engrenagem dar a primeira volta sem minha interferência direta. Ainda que eu tivesse morrido há anos, aquela criança nasceria. Se a vida reduzida à essência é o eterno "crescei e muitiplicai-vos", o nascimento da filha de minha filha trouxe a evidência de que eu me tornava biologicamente supérfluo.
+
+Na cadeia, no auge da epidemia de AIDS, época em que chegavam a morrer três ou quatro presos por semana, ao passar visita na ala dos doentes terminais, achei ter me deparado com a visão mais expressiva da solidão: a do homem à morte trancado numa cela. Apesar da tragédia pessoal, o que os distinguia dos demais pacientes internados na enfermaria, reivindicadores por natureza, era a aceitação passiva da própria sorte, o olhar resignado. O mesmo que devia estar em meu rosto agora.
+
+Nada mais tinha importância. Nada mais me ligava a ninguém. Nem meu destino me interessava.
+
+Morrer é tão fácil, concluí.
+
+CAP XX
+
+Se de fato somos aquilo que lembramos, devo ter sido nada naquela noite. Minha existência foi envolvida por um manto negro como provavelmente convém à chegada da indesejável senhora, com a diferença de que acordei às seis da manhã com a picada de uma agulha no antebraço e a pergunta do enfermeiro: "O senhor descansou?".
+
+Depois de uma semana ribanceira abaixo, meu corpo experimentava um não-sei-quê de bem-estar; mínimo, quase insignificante, até difícil de definir. Deveria ter dado a resposta que ouvi de Letícia aos dois anos de idade numa noite de febre alta que, finalmente, diminuíra após a segunda dose de antitérmico: "Estou muito mal e um pouco bem".
+
+As dez da manhã, entrou Esper, com uma fisionomia que nada tinha a ver com a dos dias anteriores: "As transaminases pararam de subir. Até caíram um pouco. Você vai escapar". 
+
+Era uma quarta-feira ensolarada. Eu estava afebril e quase sem dor nas costas. Que alívio virar na cama sem despertar a ira do alicate-carrasco. Só consegue dar valor ao corpo sadio quem passou pela angústia da dor continuada, dizia um de meus professores.
+
+Enjôo, fraqueza, voz esganiçada e inapetência ainda estavam presentes, mas o sono era menos arrebatador, com esforço eu poderia controlá-lo.
+
+Se pudesse ter antevisto que, numa manhã de dezembro de 2004, estaria na pele do homem que acaba de vislumbrar a possibilidade concreta de sobreviver a uma doença que o levara à beira da morte, imaginaria viver nesse instante a maior alegria.
+
+Não foi o que aconteceu. Depois de tudo, é lógico que achei bom ter melhorado e gostei de ver meu médico otimista pela primeira vez, mas, se disser que recebi a visita da felicidade, vou mentir. Se conformado aceitei a inexorabilidade do destino final, da mesma forma me mantive diante da perspectiva de sobreviver.
+
+Meus colegas que passaram mais tarde eram efusivos e descontraídos. Diferença da água para o vinho; demonstração cabal de que não estivera equivocado ao interpretar, como indicações tácitas de que temiam o pior, seus cenhos carregados, os olhares fugidios, os disfarces e as frases lacônicas por ocasião das visitas anteriores.
+
+Esper contaria depois que no segundo dia de minha internação, ao ler um artigo sobre febre amarela publicado na revista The Lancet, teve certeza de que a evolução seria implacável. E que se convenceu da gravidade ao notar que eu havia perdido o senso de humor.
+
+Realmente, descontadas a careta para desanuviar o semblante de minhas filhas quando desci de cadeira de rodas pelo elevador e a observação feita a respeito do perfume de Paulo Preto, não me recordo de nenhuma manifestação bem-humorada. Limitação pessoal ou a perspectiva do fim conduz a um estado de espírito incompatível com a irreverência?
+
+O pessimismo não se restringiu a mim e ao infectologista. Todos os médicos que me assistiram consideraram o coma hepático seguido de óbito a hipótese mais provável. Minha filha Letícia e diversos colegas que me visitaram ou acompanharam a evolução à distância, também. Apenas Regina, Mariana e minha irmã Maria Helena deixaram de levar em conta essa eventualidade.
+
+No fim, as três que não eram médicas foram as únicas a prever o desfecho.
+
+CAP XXI
+
+Nos dias seguintes, a sonolência diminuiu, e os demais sintomas regrediram a passo de tartaruga. As náuseas e o desconforto abdominal passaram a dominar o quadro. Apesar da insistência eufórica da nutricionista em perguntar o que o menino desejava para o almoço, permaneci em jejum, ligado permanentemente ao frasco de soro durante três semanas. Beber água? Dois trabalhos: engolir e devolver.
+
+Dessa maneira, as epidemias devastavam cidades. Os que escapavam das hemorragias, das arritmias cardíacas, da insuficiência renal ou do coma hepático enfrentavam o horror da confusão mental seguida de morte lenta causada por desidratação e desequilíbrio metabólico.
+
+Na quinta-feira, tomei banho de chuveiro sem ficar destruído. Quando sentei na poltrona para descansar, o sol que entrava pela janela tocou minha pele, impacto sentido pela última vez no rio Negro, origem de todos os percalços. Fechei os olhos e joguei a cabeça para trás, com os raios solares no rosto. Foi o primeiro prazer espontâneo que meu corpo proporcionou em sete dias.
+
+Lembrei-me da ironia contida na introdução que escrevi anos atrás para o livro Florestas do rio Negro: "Se, antes de morrer, me fosse concedido o privilégio da derradeira viagem, voltaria ao rio Negro mais uma vez. Viajaria de Manaus, rio acima, até São Gabriel da Cachoeira e, se possível, mais longe, na direção da Colômbia".
+
+As transaminases caíram pela metade em três ou quatro dias, enquanto a icterícia evoluiu de forma inversamente proporcional. Os olhos adquiriram a cor de um canário, e um prurido insuportável se alastrou pelo corpo esverdeado. Por maior que fosse a tentação, era preciso resistir, porque em poucos segundos o alívio ao coçar se transformava em ardência progressiva, igual à das queimaduras. De dia, com esforço era possível conter as mãos aflitas, mas e durante o sono?
+
+O aparelho digestivo ficou paralisado. Tentar comer uma simples bolacha de água e sal produzia vômitos incoercíveis, que surpreendiam pelo volume de líquido eliminado. O intestino preso, contraditoriamente, ameaçava funcionar o tempo todo. Uma noite essa premência me obrigou a correr inutilmente para o banheiro dezoito vezes.
+
+Numa visita, o dr. Antranik Manissadjian, meu professor de pediatria na faculdade, em meio a especulações filosóficas sobre a capacidade do corpo humano de restituir as funções orgânicas à integridade depois de sofrer grandes abalos fisiológicos, comentou: "Que vozinha é essa? Fala feito homem".
+
+Eu fazia esforço para falar de forma inteligível a despeito da laringite causada pelo vírus, e ainda passava por essa humilhação? Dei uma resposta grosseira. Ele riu, e eu também. Foi a primeira risada em três semanas.
+
+Os dias de convalescença se arrastaram sem que eu conseguisse escrever uma linha, estudar medicina ou ler um livro qualquer. Do ponto de vista intelectual, nunca experimentei período tão ocioso. Embora recuperasse gradualmente o interesse pelas atividades que antes desenvolvia, era incapaz de retomá-las.
+
+Convivi com pacientes que mudaram radicalmente de vida ao senti-la ameaçada. Foi o caso de uma mulher de quarenta anos que, depois de operada de um tumor no seio, separou-se do marido, abandonou a diretoria de um banco internacional e enveredou pela fotografia, até então um simples hobby. E o de um senhor que vendeu a fábrica para viajar pelo mundo com a esposa sem o peso das obrigações.
+
+Infelizmente, em meu caso a ameaça de perder a vida não trouxe transformações filosóficas, iluminações espirituais, nem mudanças práticas significativas. Exceto uma: a decisão de começar o atendimento no consultório pela manhã, para não voltar mais para casa às nove ou dez da noite, como era usual.
+
+Das duas uma: ou me faltou sensibilidade para viver em plenitude a experiência transformadora de chegar à beira do abismo, ou a metamorfose ocorre somente com os que não levam a sério a finitude da própria existência.
+
+De minha parte, tantas vezes lidei com o fim da vida de meus pacientes que seria estupidez ter insistido na ilusão de estar imune a ele. Só aconteceria aos outros?
+
+Por outro lado, fazer força para lembrar todos os dias que sou um sobrevivente, longe de conferir uma visão mórbida à rotina diária, ajudou-me a acalmar inquietações, a aceitar limites pessoais e a procurar desenvolver discernimento para me concentrar no que considero essencial nas relações afetivas e no trabalho. Gostaria de dizer que me tornei mais sábio, mais tolerante, mais espiritualizado, mais feliz do que já era, mas, até onde consigo enxergar, não acho que me tornei melhor. Nem pior.
+
+Embora tenha sido decepcionante não ter enxergado a luz do fim do túnel, de certa forma foi uma descoberta tranquilizadora emergir da febre amarela com a consciência de que estava disposto apenas a modificar o horário de trabalho. Não pretendia trocar de mulher nem de profissão, nem abandonar o atendimento na cadeia, os programas educativos na TV, as viagens para o rio Negro e a mania obsessiva de pensar em escrever sobre tudo o que me acontece.
+
+Uma tarde, meu amigo Jovelino Mineiro apareceu no hospital com um caldo de carne concentrado, preparado segundo receita que a avó herdou dos antepassados, infalível para levantar defunto.
+
+Depois de perder sete quilos em três semanas de inanição, o caldo tradicional dos Mineiro caiu no estômago feito um bálsamo cálido que percorreu o corpo e avivou o espírito. No dia seguinte, minha mulher me levou para casa.
+
+Ao chegarmos, ela me amparou até o quarto e voltou para a sala. Sentado, tirei a roupa e levantei para vestir o pijama. Vi minha imagem nua refletida no espelho, magérrima, com o abdômen distendido pela ascite. Era Dom Quixote com a barriga de seu fiel escudeiro.
+
+Médico cancerologista há quarenta anos, Drauzio Varella convive com a morte todos os dias. A experiência ao lado de pacientes terminais está contada no livro Por um fio, uma série de relatos em que o autor de Estação Carandiru mostra como a proximidade da morte afeta o doente, seus familiares e até os profissionais responsáveis pelo tratamento.
+
+A ligação estreita com o tema, no entanto, não o preparou totalmente para viver a situação inversa, o outro lado do balcão. Em 2004, ao voltar de uma viagem à floresta amazônica — local que ele já visitara mais de cinqüenta vezes por conta do trabalho de pesquisa que desenvolve no rio Negro —, Drauzio sentiu-se mal, teve febre e, após alguns dias de teimosia obstinada, aceitou interromper o atendimento no consultório e repousar. Pouco depois, foi internado.
+
+Conforme aumentavam a febre e o mal-estar, aumentavam também as incertezas quanto ao diagnóstico. Acompanhando de perto a angústia dos colegas, o doente viu-se na desconfortável posição de entender melhor do que o paciente comum a gravidade de seu caso. E nem mesmo a descoberta de que se tratava de uma febre amarela trouxe alento: a enfermidade não tem cura, é preciso deixá-la seguir seu curso e torcer para que o corpo resista e se recupere.
+
+Enfraquecido, com a mente embaralhada pela doença e pela morfina, e vendo a piora de sua situação no semblante preocupado dos médicos, Varella passou a considerar seriamente a possibilidade de que estava com os dias contados.
+
+
+
+
+
+
+
+PAGE  
+70
+

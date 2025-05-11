@@ -1,0 +1,4533 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xadrez, truco e outras guerras - IRA
+
+
+  
+    
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      Folha de Rosto
+
+
+      José Roberto Torero
+
+
+      Xadrez, truco e outras guerras
+
+      
+
+      
+
+      
+
+      
+
+
+
+      
+
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      Créditos
+
+
+      Copyright © 1998 by José Roberto Torero
+
+      
+
+      Direitos em língua portuguesa para
+
+      o Brasil, adquiridos do autor por
+
+      EDITORA OBJETIVA LTDA.,
+rua Cosme Velho, 103
+
+      Rio de Janeiro — RJ — Cep: 22241-090
+
+      Tel.: (21) 2199-7824 — Fax: (21) 2199-7825
+
+      www.objetiva.com.br
+
+
+      Capa
+
+      Victor Burton
+
+
+      Ilustração da capa
+
+      "Ira", de Daniel Senise
+
+
+      Coordenação editorial
+
+      Isa Pessôa
+
+
+      Revisão
+
+      Damião Nascimento
+
+      Izabel Cristina Aleixo
+
+      Tereza de Fátima da Rocha
+
+
+      
+
+
+      Coordenação de e-book
+
+      Marcelo Xavier
+
+
+      Conversão para e-book
+
+      Abreu’s System Ltda.
+
+
+      
+
+
+
+      CIP-BRASIL. CATALOGAÇÃO-NA-FONTE
+
+      SINDICATO NACIONAL DOS EDITORES DE LIVROS, RJ
+
+
+      T636t
+
+
+      Torero, José Roberto
+
+
+      Xadrez, truco e outras guerras [recurso eletrônico] : ira / José Roberto Torero ; imagem Daniel Senise. - Rio de Janeiro : Objetiva, 2012.
+
+
+      recurso digital (Plenos pecados)
+
+
+      Formato: ePub
+
+
+      Requisitos do sistema: Adobe Digital Editions
+
+
+      Modo de acesso: World Wide Web
+
+
+      147 p. ISBN 978-85-390-0340-2 (recurso eletrônico)
+
+
+      1. Ficção brasileira. 2. Livros eletrônicos. I. Título. II. Série.
+
+
+      12-1501. CDD: 869.93
+
+
+      CDU: 821.134.3(81)-3
+
+
+      
+
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      Prefácio
+
+
+      Temo que es­te livro ve­nha a provocar a ira de todos os seus leitores. Os que amam a ficção acharão es­ta obra impura, pois há muitos capítulos claramente ins­pirados na Guer­ra do Paraguai; já os que gos­tam de His­tória odiarão es­te livro pela exces­siva liberdade com que recriou tão nobre capítulo da vida pátria. Os sérios dirão que nes­tas páginas há muito humor; os alegres, que o humor foi pouco.
+
+
+      Meu consolo é que algum sábio pos­sa ver que es­ta é uma obra de rara perfeição, pois não se limita apenas a descrever a ira, mas também a provocá-la. E, se chegar a es­se ponto, leitor, não se culpe. A ira é um sentimento divino. Deus não man­daria dilúvio, fogo e pes­tes se não tives­se um bom tanto de ira dentro de si.
+
+
+      Enfim, só me res­ta es­perar a ­usa. E, se realmente detestar es­tas páginas, rasgue-as em mil pedaços. Des­ta forma, o mesmo livro, que fez nascer a ira em você, lhe trará a paz.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Rei
+
+
+      – Xadrez ou truco?
+
+
+      – Truco.
+
+
+      – Já jogamos truco ontem.
+
+
+      – Que seria da vida se não pudéssemos fazer hoje o que fizemos ontem?
+
+
+      – Um bocado mais interessante.
+
+
+      – Xadrez é um jogo para damas!
+
+
+      – Protesto, Majestade, é o jogo em que mais se aguça o raciocínio.
+
+
+      – E para que aguçar o raciocínio?
+
+
+      – Para vencer na vida.
+
+
+      – Para isso não é necessário raciocínio, mas esperteza, dissimulação e sorte, como no truco.
+
+
+      – No xadrez há um rei, como vós.
+
+
+      – E no truco há o blefe, como tu.
+
+
+      – O xadrez é mais inteligente.
+
+
+      – O truco é mais divertido.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      – A inteligência é sempre a coisa mais divertida.
+
+
+      – A diversão é sempre a coisa mais inteligente.
+
+
+      – Talvez seja verdade.
+
+
+      – Verdade ou não, jogaremos o truco.
+
+
+      – Se é o vos­so desejo...
+
+
+      – É is­so ou man­do-te de volta para aquele país cinzento.
+
+
+      Sentaram-se. O próprio Rei embara­lhou as cartas e chamou dois ajudantes para formar as duplas. Ora a sorte cor­reu para o lado de uns, ora para o lado de outros, até que num momento o Rei deu um violento tapa na mesa e gritou para o Diplomata:
+
+
+      – Truco!
+
+      – Vos­sa Majes­tade me as­sus­ta com es­ses gritos.
+
+      – Tens ouvidos muito sensíveis.
+
+      – Bem, eu retruco.
+
+      – Grite!
+
+      – Não preciso gritar, apenas retruco.
+
+      – Os gritos fazem parte des­te jogo. Grite!
+
+      – Retruco.
+
+      – Mais alto!
+
+      – Retruco!
+
+      – Aceito! Mos­tra o teu jogo, patife!
+
+
+      O Rei ga­nhou. Ti­nha o naipe mais alto. Ele pas­sou a língua na carta, grudou-a na própria tes­ta, deu socos na mesa, um piparote na ore­lha do Diplomata e ficou dançan­do ao redor da mesa. Não é fácil divertir um monarca. Desde pequenos têm tudo e cedo ­lhes vem o tédio. Alguns consolam-se com pos­suir coisas, outros deliciam-se com intrigas, mas o mais comum é alegrarem-se humi­lhan­do os súditos, como era o caso do Rei. Quanto mais paciente o homem, mais ele se deleitava em provocá-lo. ODiplomata era um dos seus alvos preferidos, mas como um bom homem do Norte, jamais perdia a compos­tura. O Rei, apósvencer três jogos, perguntou:
+
+
+      – E então, imbecil, não se cansou de perder?
+
+
+      – Quer que eu seja franco?
+
+
+      – Seja, saia da rotina.
+
+
+      – Vos­sos gritos me desagradam mais que as der­rotas.
+
+
+      – Se gritas­ses também, enten­derias o es­pírito do jogo.
+
+
+      – Então há es­pírito neste jogo?
+
+
+      – O es­pírito da ira, meu caro.
+
+
+      – Este há em todos os jogos.
+
+
+      – Até no teu xadrez?
+
+
+      – Até nele, embora camuflado.
+
+
+      – As­sim não tem graça. A ira é como o mijo e a merda. Dá-nos agonia quan­do es­tá presa e alívio quan­do a libertamos.
+
+
+      – Deve haver comparações me­lhores.
+
+
+      – Tente uma.
+
+
+      – Não gos­to des­te as­sunto.
+
+
+      – Não há outro. Nascemos irados por sermos expulsos do ventre materno e mor­remos irados porque iremos servir de comida aos vermes.
+
+
+      – Falan­do em vermes, o que ides fazer com o Ditador?
+
+
+      Pequenas bolas de suor formaram-se na tes­ta verme­lha do ve­lho regente. Ele se levantou der­ruban­do a cadeira e jogou longe suas cartas. Es­se era o as­sunto que ti­nha levado o Diplomata até o palácio. Não falou antes porque primeiro queria alegrá-lo. ODiplomata se divertia observan­do as reações des­temperadas do monarca e, com o pas­sar dos anos, desenvolvera técnicas para fazê-lo explodir como a lava dos vulcões.
+
+
+      O país inteiro comentava a ousadia do Ditador, que ocupara uma cidade próxima à fronteira. É verdade que ele ti­nha lá suas razões: as ter­ras que agora invadia haviam sido tomadas à força de seu bisavô, que as havia roubado dos ín­dios, que as haviam recebido de Adão.
+
+
+      – Vos­sa Majes­tade pensa em negociar ou em partir para a guer­ra?
+
+
+      – O bom senso diz que uma cidade no fim do mun­do não vale o esforço de mobilizar as tropas.
+
+
+      – E sempre se pode pedir arbitragem internacional.
+
+
+      – Mas há a situação política.
+
+
+      – As eleições?
+
+
+      – As eleições. Se resolvo tudo com papéis, os deputados de oposição vão dizer que fui covarde e podem ga­nhar a Câmara Baixa.
+
+
+      – Sen­do as­sim, a guer­ra é certa?
+
+
+      – É. Mas não temos navios o bas­tante, nos­sos ca­nhões são ve­lhos e nos­sas baionetas es­tão enfer­rujadas.
+
+
+      – Então terão que comprar armas.
+
+
+      – Sim.
+
+
+      – Do meu país?
+
+
+      – Não há outro me­lhor nes­te as­sunto.
+
+
+      – Ven­der-vos algumas armas é sempre um prazer.
+
+
+      – E, para pagar, teremos que fazer um emprés­timo junto aos teus banqueiros.
+
+
+      – Então serão dois prazeres.
+
+
+      – Preferia que tomás­semos di­nheiro para fazer escolas e plantações.
+
+
+      – Bobagem, os juros são os mesmos.
+
+
+      O Rei então vagou pela sala e, quan­do pas­sou pelo es­pe­lho, ajeitou a coroa. Sabia que não ti­nha esco­lha. Iria à guer­ra. Não por ira aos invasores, mas por amor ao poder. O Diplomata, enquanto ajeitava as abotoaduras, teve dois pensamentos: o primeiro, que seu país lucraria com o emprés­timo e a ven­da de armas, o que talvez o ajudas­se a conseguir uma embaixada na Europa; o segundo, que depois de muitos anos naquela terra não podia deixar de ter alguma simpatia pela sua gente. Chegou a imaginar que era como se seus irmãos es­tives­sem sen­do man­dados à morte. Depois avaliou me­lhor: irmãos não, primos.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O General
+
+
+      No dia seguinte, o Rei chamou o General à sua sala. Como se tratava de entrevis­ta real, este teve que colocar todas as suas con­decorações, ou seja, a comen­da das quatro es­trelas, o hábito da Cruz, o anel dos dragões, a faixa de São Sebas­tião, a insígnia dos des­temidos, o es­padim prateado, o sinete azul, o laço tricolor, o colar dos sete grifos, o broche dos cavaleiros reais e a meda­lha da Honra Imperial. Como aquilo era muito incômodo de ves­tir, ele só aparecia completamente paramentado em raras ocasiões; mesmo as­sim, evitan­do ao máximo os percursos a pé, porque os meninos riam do baru­lho que fazia ao an­dar e o chamavam de General Choca­lho. Logo que ouviu as palavras do Rei, o General considerou tudo uma gran­dís­sima es­tupidez.
+
+
+      – Por que não fazemos um cerco apenas com as divisões do Oes­te? Aquele pequeno país não quererá invadir o nos­so, dez vezes maior e vinte vezes mais poderoso.
+
+
+      – Já nos invadiu.
+
+
+      – Uma mísera cidade. Quase uma vila. Com diplomacia recupera-se tudo.
+
+
+      – Palavras se res­pon­dem com palavras, fogo com fogo.
+
+
+      – Pense nos cus­tos des­sa marcha para o tesouro.
+
+
+      – O tesouro de um povo é sua honra.
+
+
+      – Nem sempre a honra é paga com sangue.
+
+
+      – Então é da opinião que devemos res­pon­der bran­damente a es­se insulto?
+
+
+      – Uma coisa é ser bran­do, outra é ser prudente.
+
+
+      – Muitas vezes a prudência serve de máscara à covardia.
+
+
+      – Não sou covarde!
+
+
+      – Será que tens medo de perder o apelido de Invencível?
+
+
+      – Nem es­te, nem o de In­des­trutível, nem o de Imbatível!
+
+
+      – Não é o que parece quan­do comparo o des­temido leão de ontem com o cauteloso jabuti de hoje.
+
+
+      Insinuações des­se tipo abor­reciam profun­damente o General. Ele sabia lutar contra sabres e floretes, mas não ti­nha a menor idéia de como defen­der-se dos alfinetes do es­pírito. O Rei se aproveitava de tal fraqueza. Talvez te­nha apren­dido um pouco da arte do Diplomata.
+
+
+      – Se a Pátria precisar, não fugirei ao meu dever!
+
+
+      – Ela precisa. E, além dis­so, temos eleições pela frente. O se­nhor sabe o mal que as oposições podem nos causar com es­sa ban­deira da pátria ultrajada?
+
+
+      – E por causa de uns tribunos de botequim vamos nos expor a es­sa marcha insana?
+
+
+      – Se eles conseguirem maioria terão que fazer guer­ra de todo modo, mas aí outro general co­lherá as glórias.
+
+
+      – Como as­sim?
+
+
+      – Tu serás aposentado e teu nome não ficará na memória de ninguém. Será como se nunca tives­ses exis­tido.
+
+
+      – Is­so nunca!
+
+
+      E dizen­do es­se Nunca!, o General deu um soco na mesa, como que a dizer Aceito! Raras vezes a ira nos leva a sábias decisões e es­sa também não foi uma delas. Ele deixou a sala real com pas­so decidido. Iria à guer­ra. Não por ira aos inimigos, mas por amor ao renome.
+
+
+      Chegan­do em casa, pegou tinta, papel, e travou sua primeira bata­lha, que uma guer­ra não começa com tiros, mas com des­pachos para o arsenal, convocação de praças, portarias encomen­dan­do novos uniformes, ordens de lavagem de ban­deiras, man­dos de aumento da ração dos cavalos, enfim, ni­nharias não muito heróicas. Terminado o traba­lho, pegou sua pis­tola e foi até o jardim. Lá colocou cinco latas em cima de um tronco de árvore e, de uma dis­tância de vinte pas­sos, atirou, fazen­do-as cair com apenas seis dis­paros. Não praticava há anos, mas ain­da ti­nha a pontaria que levou à sepultura centenas de inimigos e um amigo que fez versos para sua es­posa.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Coronel
+
+
+      O dia ama­nheceu frio e nublado, ao contrário da cidade, que es­tava ferven­do como nunca. Tanto os jornais de situação como os de oposição falavam da guer­ra. Os primeiros, que antes diziam que tudo deveria ser decidido pela pena e não pelo ca­nhão, agora exaltavam a bravura do Rei; os segun­dos, que ain­da ontem cobravam ação enérgica, agora falavam do sangue que iria encharcar uma ter­ra de paz e manchar o rio da tranqüilidade; mudanças que demons­tram que as­sim como há sins que não são sins mas nãos, há também nãos que não são nãos mas sins, de modo que tudo, não e sim, é, na verdade, talvez ou depen­de.
+
+
+      O Coronel, que não se aflige com es­se problema semântico, pos­to que durante toda a sua vida só dis­se sins, acordou na mesma hora de sempre, comeu o seu pão com toici­nho, bebeu seu café e depois foi dar comida aos seus cinqüenta e seis pás­saros, que cantaram alvoroçados ao avis­tar a sua gorda figura ar­ras­tan­do um galão de alpis­te.
+
+
+      Eram doze canários alaranjados, cinco periquitos amarelos, onze sa­nhaços verdes, nove cardeais de cris­ta verme­lha, sete azulões, quatro papagaios brancos e oito jaritis roxos. Era um es­pecialis­ta em plumagens. Ti­nha muitos livros, nem sempre boa literatura, mas todos de capa dura; não sabia atirar, mas ti­nha uma bela sala de armas; não jogava bi­lhar, mas pos­suía a me­lhor mesa da cidade; seu uniforme es­tava sempre impecável e sua car­ruagem era a mais bem ar­rumada da corte. Era pontual, hábil nas ques­tões de protocolo e seus relatórios eram sempre escritos com boa letra, apesar de um ou outro er­ro de ortografia. Por conta de tais qualidades, chegou a coronel.
+
+
+      Porém, is­so não ­lhe bas­tava. Queria uma nova divisa em seu ombro e logo que soube da guer­ra animou-se, anteven­do que no retorno bem poderia ser elevado a general e, se o próprio General tombas­se no campo de bata­lha, não era impos­sível que chegas­se a minis­tro das armas. Não iria à guer­ra por ira ao país vizi­nho, mas por cobiça de títulos.
+
+
+      À noite ves­tiu sua me­lhor roupa e foi ao gran­de baile, on­de es­tava presente toda a boa gente da corte, que é dizer todos os que não precisam traba­lhar. Não era um baile comum, mas uma des­pedida de heróis, por is­so as mu­lheres, numa suprema prova de nacionalismo, usaram ves­tidos com as cores da ban­deira. É verdade que muitas lamentaram secretamente não poder usar os tons da moda, mas, enfim, a guer­ra pede sacrifícios.
+
+
+      Já os homens civis, a quem não fica bem usar cores ber­rantes, davam seu apoio aos chefes militares tecen­do elogios como:
+
+
+      És um homem de coragem!,
+
+      ou:
+
+      Mor­ro de inveja des­sa tua vida!,
+
+      ou:
+
+      Voltarás cheio de meda­lhas!
+
+
+      Mas como o que se diz nem sempre é o que se pensa, a me­lhor tradução des­sas frases seria:
+
+
+      És um homem tolo, pois nes­se emprego ga­nhas mal e ain­da podes levar um balaço,
+
+      ou:
+
+      Que bom que vais lutar por mim, que ficarei seguro em mi­nha cadeira de balanço,
+
+      ou:
+
+      Voltarás coxo ou maneta, is­so se voltares.
+
+
+      O Coronel, experiente nas burocracias dos papéis mas também nas do verbo, traduzia bem os elogios que recebia e não lhes dava muita importância. Amante da conversação alegre das mulheres, naquela noite falou sobre vestidos com a esposa do Embaixador, sobre sapatos com a sobrinha do Prefeito, sobre temperos com a tia de um deputado, sobre bordados com a mãe de um juiz e sobre as últimas infidelidades com a Rainha. Só lamentou que na festa não estivesse a Condessa, tida como uma das mais bem informadas senhoras da corte, mas que, como explicou seu marido, não pôde vir por causa de uma indigestão.
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Capitão
+
+
+      Enquanto o Coronel divertia-se na fes­ta, seu subalterno, o Capitão, via-se em apuros para não es­pir­rar, não se mexer, não res­pirar fun­do, enfim, não fazer o menor baru­lho embaixo da cama de sua amante, a Con­des­sa, citada há tão poucas li­nhas. Ela e o Capitão ti­nham deixado de ir à fes­ta para um último encontro antes da partida, mas, no ins­tante em que davam o abraço-dos-apaixonados-que-se-despedem, os gonzos da porta rangeram e eles ouviram uma pas­sada forte subin­do as escadas. O Con­de voltara antes de a fes­ta acabar, atitude insensata e que deve ser evitada pelos maridos previdentes.
+
+
+      Poucos segun­dos teve o Capitão, mas como o deses­pero dá asas a quem precisa, conseguiu escon­der-se sob os mesmos colchões em que, há pouco, es­tivera sobre. A Con­des­sa ain­da deteve o marido por um ins­tante, tempo de ves­tir-se, sacudir os lençóis, recolocar a colcha, alisar os traves­seiros, ajeitar o cabelo e atirar para debaixo da cama um cinto que seu amante havia esquecido.
+
+
+      Por que demoras­te a abrir a porta?, perguntou o Con­de. Es­tava rezan­do, dis­se a Con­des­sa. Res­pos­ta es­pirituosa e que dis­sipou dúvidas, mas quase fez rir o Capitão.
+
+
+      O Con­de então sentou-se e começou a tirar os sapatos. OCapitão reco­nheceu o es­tilo do seu sapateiro e admirou-se das cos­turas, muito me­lhores que as das suas botas. Quan­do o Con­de acabou de tirá-los, o Capitão viu uns pés muito disformes, com u­nhas amareladas e gran­des joanetes. Como se is­so não bas­tas­se, o marido empur­rou o sapato e a meia para debaixo da cama, es­pa­lhan­do ali um odor de queijo ve­lho.
+
+
+      – Perdes­te um baile e tanto!
+
+
+      – A cama me fez bem.
+
+
+      – Devíamos ter mais guer­ras para que se fizes­sem outras fes­tas como es­sa.
+
+
+      – Então a guer­ra é certa?
+
+
+      – Sim.
+
+
+      – Is­so é mau.
+
+
+      – Mau para uns, bom para outros.
+
+
+      – Pode a guer­ra ser boa para alguém?
+
+
+      – Para nós.
+
+
+      – Não enten­do.
+
+
+      – Tu sabes que somos fornecedores de papel para o exército, não sabes?
+
+
+      – Sei.
+
+
+      – Numa guer­ra os soldados ficam longe de casa, não ficam?
+
+
+      – Ficam.
+
+
+      – Fican­do longe, têm saudades, não têm?
+
+
+      – Têm.
+
+
+      – Ten­do saudades, escrevem cartas, não escrevem?
+
+
+      – Escrevem.
+
+
+      – E para escrever cartas precisam de papel, não precisam?
+
+
+      – Precisam.
+
+
+      – Então.
+
+
+      – E vamos atrás deles ven­den­do papel?
+
+
+      – Não nós, doce encanto, mas um funcionário que me deve as tripas. Ele vai seguir a tropa com resmas de papel, tinta e penas de ganso.
+
+
+      – É cruel lucrar com o deses­pero dos outros.
+
+
+      – Mais cruel é uma pobre mãe ou uma saudosa es­posa ficarem sem notícias. Na verdade, acho até que mereço uma comen­da.
+
+
+      – Que hor­ror!
+
+
+      – Pensa: se dez mil soldados escrevem uma carta por semana, uma carta a uma pataca, ga­nharemos quarenta mil patacas por mês!
+
+
+      – Que hor­ror.
+
+
+      – Se a guer­ra durar um ano e o exército for reduzido à metade, ain­da as­sim ga­nharemos mais de duzentas e quarenta mil patacas!
+
+
+      – Que hor­ror...
+
+
+      – E com es­se di­nheiro vamos co­nhecer toda a Europa.
+
+
+      – Que maravi­lha!
+
+
+      O Capitão admirou-se da rápida mudança de opinião daquela mu­lher e pensou que há iras que são chamas tão pequenas que um simples sopro as apaga. Raciocinava sobre isso quan­do um súbito aumento de peso no meio do colchão quase esmagou o seu nariz. Era o marido da Con­des­sa que a havia puxado violentamente para a cama, chaman­do-a de adorável cocadi­nha.
+
+
+      Com o aperto, os cabelos do Capitão foram esfregados contra o chão, o que o desagradou ter­rivelmente, não tanto por saber que sua amada es­tava nas mãos de outro, mas porque era vaidoso e não queria ver suas madeixas empoeiradas e seu ros­to marcado. Sobre o Capitão e sob o marido, a Con­des­sa suportava es­tocadas, gru­nhidos bes­tiais e frases como Ah, jujubi­nha, Uuuuh, Tu és uma diaba, upa-upa, pocotó-pocotó e outras às quais o bom Con­de recor­ria para dar mais sabor, intensidade e conteúdo dramático ao que, feito segun­do a es­trita ordem da natureza, não neces­sita de diálogos.
+
+
+      Fin­da a cópula, ele virou para o lado e trocou os ur­ros por roncos. Ela então se levantou, abriu a porta e fez sinal ao Capitão para que saís­se. Ele veio ras­tejan­do e saiu nu, envergo­nhado e não muito satisfeito com aquilo, porque, no ar­ras­tar-se como se fos­se uma cobra, mil lascas de madeira ar­ra­nhavam sua pele. Porém, por prudência e medo de fazer baru­lho, continuou naquele serpentear até alcançar o cor­redor. Os dois desceram e cor­reram para a cozi­nha, alcançan­do a parte de trás da casa, de on­de ele pôde fugir em segurança.
+
+
+      Lá chegan­do, abraçaram-se novamente com gran­de ardor, como se fos­se a última vez que se viam, e deram-se beijos calorosos, es­talados, quase que engolin­do um ao outro. Por fim, ela puxou seus cabelos fortemente e dis­se Vai, meu guer­reiro! Ele agar­rou os cabelos dela com mais força ain­da — um tanto por paixão e outro tanto para vingar-se por ela ter puxado os seus quase a ponto de fazê-lo chorar —, beijou-a e depois montou seu cavalo. Já na rua, fez um meneio de cabeça para jogar o cabelo para trás, bateu com a es­pora na bar­riga do animal e saiu num trote acelerado a cami­nho da guer­ra, que faria não por ira aos inimigos, mas pela vaidade de ser soldado.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Tenente
+
+
+      Naquela noite, o Capitão dormiu tranqüilo, muito ao contrário do Tenente, que so­nhou com cenas de guer­ra e muitas vezes es­teve a ponto de ser morto por inimigos gran­des e as­sus­tadores, uns com quatro braços, outros com oito pernas, uns com facas em vez de dedos, outros com chifres, rabos e trombas. Tanto agitou-se na cama que a mu­lher por fim des­pertou e, depois de o­lhar para a sua cara que se contorcia, para os seus braços que tremiam e para as suas pernas que davam pinotes, resolveu acordá-lo e ir buscar um copo de água.
+
+
+      O Tenente não chegou ao exército por gos­to e convicção. Foi antes uma herança. Seu pai, que chegara a fur­riel no bata­lhão dos invencíveis coman­dado pelo General, quis que ele cedo ingres­sas­se na vida militar, esquecido do deta­lhe de que o temperamento dos fi­lhos às vezes sai ao do pai, às vezes sai ao da mãe, e que o então menino, hoje Tenente, era a cópia perfeita do modo pacífico e aca­nhado da mãe, inimigo da violência e amante das belas-artes.
+
+
+      A vida de quartel mais o entediava que entris­tecia, mas agora as coisas ficariam piores, pois teria que pegar em armas, meter-se a marchar pelo mato e bater-se com um inimigo que, bem medidas as coisas, não via razões para matar. Desde que soube que a partida es­tava decidida, entrara em es­tado de profun­da melancolia, não queren­do falar nem com sua mu­lher, jovem gordota, riso­nha e cari­nhosa que muito o amava, e nem mesmo com o fi­lho, a quem sempre presenteava com piões e jamais com es­pingardas de pau.
+
+
+      Na hora do almoço, ves­tiu seu uniforme, ar­rumou sua bolsa, limpou sua es­pada, lus­trou seu revólver, fez a barba e foi des­pedir-se da mu­lher. Ela o recebeu com os o­lhos verme­lhos e ofereceu-­lhe um prato de ar­roz, feijão, carne e couve, que ele comeu com gos­to. Depois ela deu-­lhe um beijo na tes­ta e dis­se Que Deus te proteja.
+
+
+      – Há de proteger.
+
+
+      – Promete que voltas!
+
+
+      – Como pos­so prometer?
+
+
+      – Promete e já es­tá bem.
+
+
+      – Se te sentes me­lhor, prometo.
+
+
+      – Toma is­to.
+
+
+      – O que é?
+
+
+      – Foi uma preta quem fez.
+
+
+      – E para que serve?
+
+
+      – Ela garantiu que se usas is­so no pescoço, voltas vivo para mim.
+
+
+      – Esqueces­te que somos cris­tãos?
+
+
+      – Dois deuses valem mais do que um.
+
+
+      – Pagas­te por is­so?
+
+
+      – Não.
+
+
+      – Não?
+
+
+      – Não muito.
+
+
+      – Vou usar.
+
+
+      – Faze is­to.
+
+
+      – Se eu não voltar...
+
+
+      – Vais voltar!
+
+
+      – ... na escrivani­nha há uns papéis...
+
+
+      – Não quero saber!
+
+
+      – Cuida do menino.
+
+
+      – Não comeces com des­pedidas senão eu desato a chorar.
+
+
+      – Então o que digo?
+
+
+      – Não digas nada, vai defen­der es­sa pátria maldita e volta logo!
+
+
+      O Tenente sus­pirou profun­damente, deu as cos­tas à mu­lher e foi pegar seu cavalo. Na esquina da rua teve a tentação de virar-se e dizer adeus com o chapéu, mas conteve-se. No cami­nho, muitos jovens o­lharam-no com inveja, algumas moças sus­piraram e uma criança o imitou montan­do um cavalo de pau. Es­sa breve glória consolou-o por um ins­tante, mas quan­do viu as divisões, bata­lhões, regimentos e pelotões perfilados no Campo da Misericórdia, lembrou-se de que es­tava in­do ao encontro de um morticínio e, mais uma vez, amaldiçoou seu pai.
+
+
+      A cerimônia no Campo não foi das mais breves, porque todos se sentiam na obrigação de mos­trar muita valentia nos discursos, ain­da mais os que não iriam para a frente de bata­lha. Falou Sua Majes­tade, falou o General, falou o Bis­po, falou o Prefeito, falou o Capelão da tropa, falou o Presidente da Câmara, mas ninguém ouviu nada. Seria pedir demais que dez mil homens, bem antes da invenção do microfone, pudes­sem compreen­der alguma coisa em meio aos ruídos naturais da tarde que, somados aos caprichos do vento, faziam das gran­des autoridades bonecos zangados que se mexiam, agitavam os braços, batiam na amurada, mas não conseguiam emitir um único som compreensível.
+
+
+      O Tenente, que es­tava perto do palanque, ain­da pôde apa­nhar algumas palavras, como:
+
+
+      Honra,
+
+
+      Pátria,
+
+
+      Ban­deira,
+
+
+      Inimigo,
+
+
+      Vermes,
+
+
+      Coragem,
+
+
+      Luta,
+
+
+      Morte,
+
+
+      Vitória e
+
+
+      Paz,
+
+
+      palavras que em si não cons­tituem um discurso, mas que podem vir a sê-lo, se o leitor colocar entre elas alguns verbos, uns sujeitos e uns objetos diretos e in­diretos não muito difíceis de se imaginar.
+
+
+      Acabados os discursos, o clarim deu ordem de sentido. Logo a seguir, os homens pas­saram a marchar numa exemplar sincronia, embora com os pensamentos em total discrepância. Um pensava na casa que deixou, outro na mu­lher que podia deixá-lo; um nas meda­lhas que podia ga­nhar, outro que podia mor­rer; um que teria que matar e is­so é mau, outro que teria que matar e is­so é bom; um se ar­repen­dia de ir, outro gos­taria de an­dar mais ligeiro; um pensava na própria bota e outro na formiga que via à frente; de modo que harmonia, se havia, havia só nos pés, o que, conve­nhamos, bas­tava.
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Sargento
+
+
+      A marcha ar­ras­tou-se por semanas, até que o exército chegou a uma gran­de cidade e os homens ga­nharam um dia de folga. Sem perda de tempo, a maioria lotou as tavernas. Quanto ao povo, recebeu a tropa com um mis­to de orgu­lho e desconfiança. Os homens os saudavam com alegria. As mães, sabiamente, manti­nham as fi­lhas trancadas.
+
+
+      Entre os que foram beber es­tava o Sargento, homem forte, largo de ombros, que falava alto e as­sus­tava os tímidos. Ao contrário do Tenente, não ti­nha de quem sentir saudades. Há anos morava sozi­nho numa casi­nhola de taipa, vizi­nha a um matadouro, herança do tio solteiro que o criara. Cresceu num ambiente sem risos, sem mu­lheres, apa­nhan­do muito e ven­do animais serem degolados todos os dias. Era um predes­tinado para a vida militar.
+
+
+      Es­tava beben­do no balcão quan­do um civil magro como um coqueiro se apresentou, pediu permis­são para sentar-se e puxou as­sunto.
+
+
+      – Então vão ao Oes­te?
+
+
+      – As­sim parece.
+
+
+      – Bem gos­taria de ir convosco.
+
+
+      – E por que não vens?
+
+
+      – Não nasci para o combate.
+
+
+      – Ninguém nasceu.
+
+
+      – Não te­nho boa saúde.
+
+
+      – Tua doença é covardia.
+
+
+      – Sou magro, não medroso.
+
+
+      – Os magros são alvos mais difíceis.
+
+
+      – Até o vento me der­ruba.
+
+
+      – A baioneta te servirá de âncora.
+
+
+      – Não saberia o que fazer numa guer­ra.
+
+
+      – Numa guer­ra os homens lutam e as mu­lheres cos­turam uniformes.
+
+
+      – Também não sei cos­turar.
+
+
+      – Vais fazer o quê, então?
+
+
+      – Rezar.
+
+
+      – Dez ave-marias não valem uma bala.
+
+
+      – Então rezarei onze.
+
+
+      O Sargento deu um mur­ro no balcão e o homem calou-se, as­sus­tado com aquela fúria desmedida. Enco­lhido, cruzou os braços e ficou o­lhan­do para baixo, posição já por si humi­lhante, mas o Sargento, educado para ser cruel e treinado para não ter pena, aproveitou a vantagem e começou a insultá-lo. Era, afinal, um modo de se sentir gran­de, poderoso e temido, so­nho comum de todos os homens.
+
+
+      – O­lhem para es­ta menini­nha. Imaginem se a pátria depen­des­se dela para enfrentar os soldados da outra gente. A es­ta hora nós já teríamos sido invadidos, as mu­lheres seriam putas do Ditador e ela es­taria lus­tran­do a bota de um inimigo. É as­sim que vocês vão ficar? De braci­nhos cruzados? Vão se mijar? Vão se cagar? Se é as­sim, é me­lhor pedirem baixa logo porque eu só sei traba­lhar com homem! Homem que não tem medo de homem! Levanta!
+
+
+      – Sim, se­nhor.
+
+
+      – Quero ver você marchan­do!
+
+
+      – Eu não sei marchar.
+
+
+      – Marcha, idiota!
+
+
+      O pobre não viu outra coisa a fazer a não ser pôr-se num ar­remedo de marcha, levantan­do muito as pernas e dan­do pas­sos largos, o que provocou o riso dos soldados, mesmo dos que es­tavam com pena. O Sargento es­perou que ele des­se duas voltas pelo bar e depois gritou Descansar! Então saiu pela porta ain­da com mais raiva daquele homem, que ele preferia que o tives­se enfrentado.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Soldado
+
+
+      E enfim, leitor, apenas nes­te sétimo capítulo, depois de umas tantas páginas e de tantos personagens apresentados, co­nhe­ce­remos nos­so protagonis­ta. A guer­ra já foi declarada, por ela já se fizeram jogos, emprés­timos, convocações, bailes, des­pedidas, discursos e marchas, e só agora, com in­desculpável atraso, é que aparece o Soldado.
+
+
+      Sem dúvida es­sa demora é um gran­de er­ro, pois qualquer um gos­taria de saber logo na primeira página do que trata a his­tória, co­nhecer o personagem principal, ser apresentado à amada por quem ele lutará e ao inimigo que terá que vencer.
+
+
+      O consolo é que, nes­se caso, perde-se pouco, pois o Soldado é um homem comum, nascido de pais analfabetos, pobre, sem nada que o dis­tinga, seja tique, mania, trejeito, cicatriz, tatuagem, ou mesmo uma simples ver­ruga. Como se vê, personagem em nada es­pecial, ain­da mais que vamos co­nhecê-lo numa situação prosaica, que é a de tirar remelas dos o­lhos e acordar as­sus­tado depois de ouvir um desafinado toque do clarim.
+
+
+      Ain­da era escuro e fazia frio. Como todos os seus compa­nheiros, o Soldado havia dormido de uniforme. É preciso ser previdente em tempo de guer­ra, que os tiros do inimigo podem subs­tituir o canto do galo e não há fim mais vergo­nhoso que o ser enter­rado de ceroulas, pois até a morte pede compos­tura. Ele então dobrou a manta, amar­rou-a à bolsa e ajeitou as armas, sen­do um dos primeiros a chegar ao descampado. Em menos de um quarto de hora todos es­tavam a cami­nho.
+
+
+      Quan­do o dia clareou, já marchavam em pas­so acelerado. Muitos resmungavam, mas o Soldado menos do que seus amigos, vis­to que suportava os tormentos sem pensar que os suportava, e as­sim, em vez de fazê-los duas vezes maior, cortava-os pela metade. Era um homem contente com seu des­tino e dotado de tão gran­de paciência que alguns a chamariam de es­tupidez. Talvez fosse um perfeito soldado.
+
+
+      Como nas marchas só se usam os pés, o res­to do corpo fica livre para fazer o que bem enten­de, tanto que, mesmo em pas­so acelerado, os o­lhos o­lham, o nariz cheira, os ouvidos escutam e a boca fala, como a do Preto, que falava para o Soldado:
+
+
+      – Já matas­te alguém?
+
+
+      – Só gali­nhas.
+
+
+      – E eu, pas­sari­nhos.
+
+
+      – Com es­pingarda?
+
+
+      – Com es­pingarda.
+
+
+      – Com es­pingarda é fácil, porque se mata de longe.
+
+
+      – Matar com faca deve ser ruim.
+
+
+      – Mor­rer é pior que matar.
+
+
+      – Me­lhor mor­rer que ficar aleijado.
+
+
+      – Depen­de, Preto. Uma ore­lha não faz falta.
+
+
+      – Faz para quem usa óculos.
+
+
+      – Bes­ta­lhão!
+
+
+      – Para cada um que eu matar, vou fazer um risco na mi­nha arma.
+
+
+      – Eu não quero matar muitos, me bas­tava acabar com o Ditador.
+
+
+      – Apos­to que quem mata ele sou eu.
+
+
+      – Apos­tas?
+
+
+      – Apos­to!
+
+
+      – Meu soldo contra o teu?
+
+
+      – O teu contra o meu!
+
+
+      O Preto então deu uma garga­lhada e mos­trou o revólver para o Soldado, como a dizer que aquela arma mataria o maior inimigo da nação, e o Soldado, para não ficar atrás, pegou o seu, apontou para o amigo e falou Pode dizer suas últimas palavras, se­nhor Ditador, e o Preto, pon­do duas fo­lhas no ros­to como se fos­sem as famosas suíças do Ditador, res­pon­deu, fingin­do ser o chefe inimigo, Meu último desejo é que aquele escuro ali dê cabo da mi­nha vida, que ele é o homem mais valente des­sa tropa. E os dois se divertiram mais um tempo naquela san­dice, ain­da alegres e sem consciência das coisas que virão, como, por exemplo, que uma daquelas duas armas realmente matará o Ditador.
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      As vizi­nhas
+
+
+      No fim do dia, cansados, os homens ain­da tiveram que pas­sar um rio bravo. O Soldado foi um dos primeiros a entrar na água e seguiu resoluto, tentan­do achar os pontos em que a cor­rente era menos forte. Cumpriu a traves­sia com boa des­treza, tanto que ao chegar do outro lado viu que muitos seguiam o seu cami­nho e aportavam em segurança. Menos sorte teve o Preto, que se perdeu um pouco do grupo e foi ar­ras­tado a duzentos metros do lugar on­de a tropa se reagrupou. Menos sorte ain­da teve um que ti­nha sido incumbido de car­regar uma pesada mochila de cartuchame. Quan­do chegou ao meio do rio, o pé não achou apoio, ele não conseguiu suportar o peso do chumbo e afogou-se. Foi a primeira baixa da campa­nha, morte sem muita glória nem honra, como há muitas numa guer­ra.
+
+
+      Na carta que man­dou à viúva, o Coronel dis­se que ele mor­rera bravamente em defesa da nação ultrajada. Is­so não diminuiu a dor da mu­lher, mas, pelo menos, ela pôde mos­trar a carta às vizi­nhas.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O banquete
+
+
+      Duas semanas depois o exército chegou a uma zona pantanosa. Nes­sa época apareceram as moscas. Dezenas, centenas, mi­lhares, vin­das dos povoados vizi­nhos e das matas, talvez atraídas pelo cheiro do charque, talvez pela cor das roupas dos homens, talvez adivi­nhan­do futuros cadáveres que ­lhes serviriam de desjejum.
+
+
+      O fato é que vieram e dali em diante não foi pos­sível escapar delas. Bas­tava uma pausa, um descanso, para que apareces­sem, rápidas e incansáveis. Voejavam de um lado para outro, dançavam à frente dos o­lhos, pousavam nas ore­lhas, nos pescoços, nos braços, nas pernas e até mesmo nas bocas, beijo ir­ritante e pegajoso como o da mu­lher que não se quer mais.
+
+
+      No começo, muitos tentaram es­pantá-las com tapas e gritos, mas acabaram por ren­der-se, deixan­do que pas­seas­sem à vontade sobre seus corpos, talvez pensan­do que a in­diferença da vítima diminui o apetite do algoz.
+
+
+      Quan­do se pegava uma bebida, num ins­tante elas se amontoavam nos copos. Muitos, superan­do o hor­ror, as coavam nos dentes para poder consolar-se com um pouco de água ou vi­nho. Nem mesmo a comida escapava e mal se tocava um bocado, elas o cobriam de tal forma que não se podia reco­nhecer o verme­lho da carne sob a casca preta de moscas. Os de mais coragem e os de menos paladar chegavam a dizer que elas eram um bom tempero, crocante e salgado.
+
+
+      O Soldado, que não era fidalgo mas ti­nha hábitos de limpeza, abor­receu-se muito naqueles dias. Só não chegou ao deses­pero porque trazia a comida numa gamela e depois cobria-se com uma manta para comer sem que os insetos o incomodas­sem. Oexpediente atraiu a curiosidade e muitos o imitaram, tanto que, na hora do almoço, o­lhado de longe, o acampamento mais parecia um inofensivo exército de cobertores.
+
+
+      Durante dez dias elas seguiram os homens, até que, por causa da maior umidade, ou dos ventos mais freqüentes, pas­saram a rarear. Por fim deixaram a tropa e voltaram para sua ter­ra, muito satisfeitas com o Gran­de Banquete, que as­sim seria nomeado es­se episódio se uma daquelas moscas, com dotes de memorialis­ta, um dia se metes­se a contar a his­tória do seu povo.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      A Mu­lher
+
+
+      Enfim chegaram a uma vila que merecia as­sim chamar-se e o General determinou uma parada. Sujo, cansado e farto da ração de campa­nha, o Soldado dirigiu-se a uma es­talagem, on­de comeu um prato de ar­roz com carne de porco embebida num mo­lho de tomate e pimentões, o que ­lhe fez muitís­simo bem; depois serviu-se de uma aguardente da casa e foi descansar numa das redes do alpen­dre.
+
+
+      Com o es­tômago cheio, o corpo pesado e a mente descansada, ele podia pas­sar pelo mais bem-aventurado dos homens, as­sim como um Adão nos primeiros dias do Paraíso, que se divertia batizan­do os animais, dizen­do Teu nome será cego­nha, o teu baleia e o teu porco-es­pi­nho, e não te queixes porque eu poderia chamar-te ornitor­rinco; aliás, talvez até te­nha que dar este nome, porque vocês são muitos e a mi­nha imaginação pouca.
+
+
+      Es­tava as­sim pacífica a sua vida quan­do surgiu uma Eva. Porém, des­sa vez a mu­lher não nasceu de uma cos­tela, mas de uma car­roça que acabara de es­tacionar no outro lado da rua. Para azar do Soldado, logo atrás dela veio um marido, que es­sa Eva não era solteira como a primeira, que também não ti­nha tias, primos, irmãos, avó ou mãe, bênção pela qual poucos homens podem agradecer nas suas preces.
+
+
+      Es­ses dois personagens, mu­lher e marido, nascem aqui para os teus o­lhos, leitor, porém, se tiveres boa memória, não precisarás voltar ao quarto capítulo para saberes que do marido ao menos já havias ouvido falar. Tens certeza, escritor?, perguntas tu. Te­nho, digo eu, mas como deves es­tar cabecean­do de sono, serei generoso e te pouparei o traba­lho de virar as páginas. Lembra-te da cena em que o traído marido da Con­des­sa falava de um funcionário que ­lhe devia as tripas, o qual preten­dia man­dar para o front levan­do papel e tinta para os oficiais e recrutas escreverem para seus parentes? Es­se é aquele.
+
+
+      Da es­posa, admito que nada sabes nem podes saber, mas já vês que é zelosa e dedicada, tanto que es­tá lá no Oes­te, seguin­do a tropa quan­do poderia ter ficado em casa, aten­den­do aos apelos do es­poso que dis­se Fica, meu amor, não é seguro an­dar uma ove­lha em meio a tantos lobos. Ao que ela res­pon­deu Meu lugar é on­de tu es­tiveres. Frase comum, mal copiada do livro de Ruth, cujo autor bem poderá tê-la copiado de um poema egípcio ou de um canto persa, mas que soou nobre aos ouvidos do bom marido, até porque ela o dis­se e cumpriu, não jogan­do a frase ao ar apenas pela graça do efeito sonoro.
+
+
+      Logo que a viu, o Soldado pensou Que lin­da mu­lher, julgamento não muito cor­reto, pos­to que a tal mu­lher, se não era feia, es­tava longe de ser lin­da; porém, como todo julgamento é comparação e naquela multidão havia mais mulas do que mu­lheres, aquela ­lhe pareceu quase uma divin­dade.
+
+
+      O o­lho de outra mu­lher veria um ros­to comum, de lábios muito finos, vulgares o­lhos pardos, algumas sardas na pele, braços um tanto compridos e cabelos negros e oleosos, presos por um laço puído de baeta verme­lha. Mas, seja por miopia ou sentimento, cada o­lho vê as coisas ao seu modo, e sen­do as­sim, o Soldado viu uma mu­lher de rara beleza, com lábios bem dese­nhados, pele branca e macia, braços delicados, cabelos bri­lhantes e o­lhos de uma singular cor acas­ta­nhada, quase como o mel.
+
+
+      E tantos outros belos deta­lhes percebeu que seu único pensamento era Que lin­da mu­lher! Porém, mais eloqüente que o seu cérebro foram o seu coração, que perdeu o compas­so; a sua boca, que secou; e suas mãos, que ficaram geladas. Fos­se ele um poeta, pas­saria a noite a escrever e choramingar, mas, não sen­do dado a melancolias, achou por bem buscar um remédio que curas­se, em parte, o mal do coração, e inteiramente as ânsias da boca e das mãos. As­sim, tomou o rumo da casa das putas.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      As cores
+
+
+      Ao chegar à porta de uma casa amarela, co­nhecida como Casa Verme­lha por ter sido es­sa a sua cor durante muitos anos, o Soldado deparou-se com uma ines­perada fila de recrutas. A obrigação de es­perar deixou-o abor­recido, mas pior que is­so foi saber que não poderia esco­lher a mu­lher que mais o agradas­se. No cami­nho ele as vi­nha imaginan­do perfiladas: uma loira ves­tida de mar­rom, uma ruiva de cinza, uma morena de anil, uma negra de roxo. Bem ao contrário dis­so, seria man­dado a um quarto qualquer e, uma vez lá dentro, que fos­se rápido e ligeiro, porque elas queriam ga­nhar naqueles dois dias o que não haveriam de ga­nhar num ano.
+
+
+      Ao subir a escada e entrar na segun­da porta à direita, conforme ­lhe explicou a cafetina, o Soldado encontrou uma moça deitada sobre uma colcha alaranjada. Ela não ­lhe pareceu de todo feia, embora tives­se dentes escurecidos e o­lhos de cores diferentes, um esverdeado e outro cas­ta­nho. Os peitos es­tavam firmes e ti­nham mamilos róseos, e a bun­da, se não era lá uma anca de égua, ain­da não havia desabado de todo e bem dava para o que dela se queria.
+
+
+      Depois de algumas ar­remetidas, ele começou a pensar nos maus bocados pelos quais a pobre pas­sava, com quantos se havia deitado naquele dia e em como deveria es­tar cansada de ver oficiais tiran­do aquele uniforme azul e depois atirarem-se sobre ela com os mais diferentes pesos, hálitos, ritmos e manias, sem falar na enciclopédica variedade de membros: gigantescos, engraçados, pequenos, gros­sos, circuncisos, encapuzados, disformes, chagados, tortos, pretos, pardos, brancos; enfim, entediantes, que a muita oferta acaba com o interes­se. Então acelerou o compas­so e não pensou em mais nada.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O humor
+
+
+      O Soldado voltou tranqüilo para o acampamento, que o desaperto que se dera encheu-­lhe o es­pírito de alegria e dis­posição para o riso. Quan­do foi vis­to pela sentinela, ergueu o braço numa saudação, mas o homem, por dever de ofício, não pôde fugir à pergunta Quem vem lá?, à qual o Soldado, por brincadeira, res­pon­deu Um inimigo. Réplica es­pirituosa e in­dicadora dos bons humores que cor­riam por suas veias, mas que a sentinela, pouco dada a sutilezas, enten­deu ao pé da letra. Sua tréplica foi um tiro que fez o Soldado atirar-se para o lado, in­do bater numa pedra e es­patifar o nariz. Quan­do os homens da guarda chegaram perto dele e o viram com o uniforme nacional, ele dis­se Amigo, palavra que os fez abaixarem as es­pingardas, mas que de nada adiantou para conter o sangue que jor­rava das narinas. Fez-se então um curativo às pres­sas e ele foi dormir, abor­recido por aquele fato ter es­tragado um dia quase perfeito, fican­do-­lhe como compensação o apren­dizado de que o humor deve ser coisa bem dosada, pois não adianta o termos muito se outros não o têm ne­nhum.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      Os fogos
+
+
+      Depois que o exército partiu dali, a marcha fez-se muito rapidamente, de modo que teremos que pular todas as descrições dos riachos, cachoeiras, lugarejos, ser­ras e cami­nhos pelos quais pas­saram, a fim de não nos atrasarmos e chegarmos junto com eles ao pé de um mor­ro em forma de chapéu, próximo da cidade invadida pelo Ditador.
+
+
+      Convocados pelo General, os enge­nheiros planejaram e os recrutas ergueram, da noite para o dia, um ar­remedo de vila, separan­do áreas para as bar­racas da tropa, o cur­ral dos cavalos, o lugar do gado, o sítio dos ca­nhões e o campo das sepulturas, que, por ironia ou praticidade, acabou fican­do ao lado do hos­pital.
+
+
+      No fim da tarde acabou-se de montar o acampamento. OCoronel então deu ordem para que se organizas­se uma gran­de fes­ta. Os homens quase chegaram aos tapas para ver quais dentre eles preparariam a fogueira e es­ticariam as ban­deirolas entre as ten­das. Só então o Soldado se deu conta de que es­tavam a vinte e quatro e era o São João, o que ­lhe trouxe alegres lembranças, imagens felizes de brincadeiras infantis.
+
+
+      Quan­do veio a noite, soltaram-se rojões, que um São João sem foguetório é como um Natal sem presentes, uma Páscoa sem ovos, um Finados sem flores. Com is­so aumentou o ruído geral da folia: gente gritan­do, música tocan­do e a cachor­rada latin­do até se esganar, talvez porque seja es­se o seu modo de cantar, talvez porque seus ouvidos sensíveis te­nham percebido a diferença entre os es­tampidos dos fogos e do fogo, diferença que o Soldado só compreen­derá daqui a algumas li­nhas, ocupado que es­tá em puxar a bota do Preto, que há pouco ­lhe dis­se Alguma coisa me picou. Quan­do, porém, tirou a bota e viu o pé do amigo, ficou num es­tado de deses­pero, queren­do dizer mil coisas e não conseguin­do dizer ne­nhuma, até que juntou um verbo a um subs­tantivo e gritou É bala!
+
+
+      Era mesmo uma bala que viera alojar-se no calca­nhar do Preto. Logo outra ani­nhou-se numa garganta, e outra num braço, e outra numa nádega. Todos então se deram conta de que es­tavam sen­do atacados por inimigos entocaiados na monta­nha. Ataque covarde, se virmos as coisas pelo lado dos nacionais, mas enge­nhoso se as pesarmos pela balança dos inimigos, pois é obra as­tuciosa ir ceifan­do vidas em meio a um foguetório, quan­do os rebumbos no céu encobrem o baru­lho dos dis­paros na ter­ra.
+
+
+      Foi gran­de o tempo que se perdeu na tentativa de formação das colunas e não pequeno o esforço que se fez para ouvir os toques do clarim, valiosa gramática dos tempos de guer­ra, mas que, também ela, requer um mínimo de silêncio para ser interpretada e enten­dida. Quan­do finalmente se conseguiu ficar em posição de defesa e dis­parar, os arti­lheiros inimigos já iam longe. Eram uns poucos e ti­nham cumprido sua mis­são de es­pa­lhar medo e cadáveres nas hos­tes adversárias.
+
+
+      A confusão era imensa no acampamento, atrapa­lhan­do o serviço do rapaz encar­regado de contar as baixas e que agora es­tá anotan­do em seu caderno que naquela bata­lha houve trinta e dois mortos e cinqüenta e oito feridos. Um des­tes era o Preto, que pas­sava bem, porque a bala não penetrara fun­do, poden­do ser ar­rancada com facilidade. Enquanto ele gemia, o Coronel queixava-se ao General que afiava uma faca.
+
+
+      – Meu Deus! Quantos dias precisaremos para nos recompor?
+
+
+      – Ne­nhum.
+
+
+      – Como?
+
+
+      – Atacaremos ama­nhã.
+
+
+      – Mas es­sa surpresa foi ter­rível, General!
+
+
+      – Pelo contrário, foi excelente, Coronel.
+
+
+      – Os homens es­tão perturbados!
+
+
+      – Es­tão é com ódio do inimigo.
+
+
+      – O exército que luta com ódio defen­de-se mal.
+
+
+      – Mas ataca bem.
+
+
+      – Eu preferiria que atacás­semos sem ira.
+
+
+      – Coronel, a ira é para o soldado o que o capim é para o jumento.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      Os homens
+
+
+      Como muitos des­ses ditos jumentos mor­rerão em breve, sem lápide nem mis­sa, falemos ao menos de alguns, diminuin­do a injus­tiça de que serão vítimas. Falemos do Bom Jesus, homem pio e religioso que levou ao Oes­te uma imagem de Nos­sa Se­nhora da Abadia e reza diante dela todas as ma­nhãs; falemos do Conta Almas, que deixou um emprego de guarda-livros para vir lutar e, como se is­so já não fos­se abnegação bas­tante, foi também designado para percor­rer as fileiras do exército e notificar o número de mortos após cada bata­lha; falemos do Es­tan­darte, moço de bom nascimento que foi designado para pôr em risco sua vida car­regan­do a ban­deira, só para transmitir ânimo e coragem a seus compa­nheiros; falemos do Da Botica, eficiente preparador de remédios, capaz de fazer cirurgias só com uma agu­lha e um canivete; falemos do Pena Tris­te, do Hoje Chove, do Noviço, do Cara de Sapo, do Barati­nha, do Fina Flor, do Água Benta, do Da Iolan­da, do Zóio, do Pureza, do Cabeça Pelada, do Nego Azul, do Deus ­lhe Pague, do Excelência, do Perna de Cobra, do Bocar­ra, do Fifi, do Roncador, do Ín­dio, do Barba de Mu­lher, do Seis de Copas, do Encarnação, do Zoza, do Mi­nhoca, do Esqueleto, do Choramingas e do Bela Viola, heróis que nunca entrarão nos livros de his­tória, que es­tes preferem os compridos sobrenomes aos curtos apelidos.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      Os santos
+
+
+      Difícil é resumir os pensamentos e temores da vés­pera de uma bata­lha, pois on­de há dez mil homens haverá dez mil modos de encarar aquilo que pode ter tantos nomes gloriosos, mas que é, em es­sência, ir ao encontro da morte. Uns, nervosos, pensam em como será o dia de ama­nhã: como acordarão, quan­do começarão a marchar, quan­do verão o inimigo pela primeira vez e, enfim, quan­do matarão e se, como e quan­do mor­rerão. Outros, menos inquietos, apenas dão lus­tro às armas, certos de que na hora do fogo tudo pode fa­lhar menos es­sas amigas, e tanto as­sim as consideram que alguns até ­lhes dão nomes, nomes de namoradas, nomes de irmãs, nomes de mães, nomes de es­posas, nomes de fi­lhas.
+
+
+      Mas se uns pensam e outros dão lus­tro, no que são iguais é que todos rezam, cada um para o seu santo de preferência, pedin­do ajuda para matar e proteção para não mor­rer, que nunca se deve confiar apenas em balas e baionetas, armas tão menos divinas e poderosas que a bênção de santos e beatos.
+
+
+      O General, por exemplo, rezou para São Luís, o santo rei francês que matou muitos ingleses e não menos franceses, o que mos­tra que a auréola, as­sim como a coroa, também se conquis­ta com a es­pada. O Coronel preferiu pedir favores a Santo Inácio de Loyola, que matou até os trinta anos e depois pas­sou a coman­dar os Soldados de Cris­to. O Capitão rezou a São Jorge, galante santo que, com uma es­pada reluzente e sobre um cavalo branco, acabou com um dragão que devorava virgens. O Tenente, talvez pelo ódio que ti­nha ao pai, man­dou suas orações para Hermenegildo, o santo visigodo que fez guer­ra contra o próprio genitor, sen­do por ele preso e executado; depois, já que é sempre me­lhor es­tar protegido por dois santos que por um, clamou também pela bênção de São João Maria Vianney, que foi soldado do exército de Napoleão até o dia em que desertou, preferin­do a segurança dos mos­teiros aos riscos das trincheiras; por fim, beijou o patuá que a mu­lher ­lhe dera antes de partir. O Sargento, por sua vez, rogou proteção a São João Capis­trano, que, com uma cruz na mão e gritan­do feito um louco, fez com que os soldados de Belgrado resis­tis­sem ao ataque dos turcos. E o Soldado talvez te­nha rezado para São Paulo da Cruz, que dava tes­temu­nho da sua fé cada vez que separava a cabeça de um turco de seu corpo infiel. Mas houve muitos outros santos que tiveram seus prés­timos solicitados, santos que não se batizaram nas águas do Jordão, mas no sangue dos descrentes, como São Jerônimo Emiliano, São Fabrício, Santa Joana D’Arc — que mu­lheres também matam pelo Se­nhor —, São Frederico, Santo Edgardo e São João de Deus, mercenário nas hos­tes de Carlos V que, um dia, ouviu um sermão e se converteu, dan­do tudo o que ti­nha aos pobres, pelo que foi pos­to num hos­pício, lugar on­de vão parar muitos santos, soldados e loucos, se é que vale gas­tar três palavras para definir três coisas as­sim tão seme­lhantes.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      A visão
+
+
+      A reza diminuiu o aperto que o Soldado sentia no coração, mas logo veio-­lhe outro, des­sa vez na bexiga. Cami­nhou então até um matagal e lá começou a aliviar-se. Porém, tão gran­de era a quantidade de líquido que des­pejava, que o ofício prolongou-se por alguns ins­tantes e ele, para dis­trair-se, o­lhou para a lua, para as es­trelas, para as árvores e para um rio que cor­ria uns trinta metros à sua frente. E aconteceu que, o­lhan­do para as águas, reco­nheceu a figura de uma mu­lher ba­nhan­do-se e, apertan­do bem os o­lhos, viu que es­sa era a mesma que o havia feito pensar Que bela mu­lher! algumas páginas atrás. Foi a mais lin­da visão que já teve. Ela jogava a água delicadamente sobre seus ombros nus e de seus cabelos mo­lhados pingavam lentamente pequeninas gotas que mais pareciam cris­tais. O rio es­tava calmo, tranqüilo, como que um es­pe­lho a refletir a luz da lua cheia; ao fun­do podia-se ouvir o doce murmúrio das águas e pairava no ar uma suave fragrância de azaléias. Tudo fazia daquele momento algo mágico, só não poden­do mesmo ser chamado de perfeito por es­tar o Soldado envolvido numa atividade pouco romântica, mas, enfim, tudo é imperfeição.
+
+
+      
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O sermão
+
+
+      Fazia um frio mais amigo do sono que do combate quan­do, no começo da madrugada, ouviu-se o toque de des­pertar. Todos juntaram-se no centro do acampamento e então o Capelão subiu numa car­roça e falou as­sim:
+
+
+      Meus fi­lhos, muitos de vocês devem es­tar se perguntan­do: Não é um dos man­damentos de Deus Não matarás? Não dis­se Jesus que nos amás­semos uns aos outros? Não nos ensinou ele que, quan­do fôs­semos esbofeteados, deveríamos virar a outra face para apa­nhar novamente?
+
+
+      A res­pos­ta, meus fi­lhos, é três vezes sim.
+
+
+      Então, perguntariam vocês Por que es­tamos in­do nes­sa guer­ra? Por que vamos matar e ser mortos? E por que nos ensinam todo dia a odiar nos­sos inimigos?
+
+
+      Es­tas dúvidas podem es­tar no coração de boa parte de vós, e, como a dúvida é uma porta aberta para a entrada do Diabo, te­nho que esclarecer umas poucas coisas a res­peito da suprema verdade.
+
+
+      Deus nos adverte, amados fi­lhos, a res­peito de sete gran­des pecados: a inveja, a luxúria, a gula, a avareza, a soberba, a preguiça e a ira. Todos es­tes pecados são es­sencialmente maus e con­denáveis, exceto um deles, meus amados, e este um é a ira.
+
+
+      A ira é o único dos pecados que pode ser uma virtude. Ne­nhum dos atos do Pai pode ser chamado de invejoso, preguiçoso ou avarento, nem o Fi­lho pode ser acusado de ter cometido um ato de soberba, de luxúria ou de gula, mas tanto um como outro iraram-se algumas vezes.
+
+
+      Jesus irou-se contra Judas por ter censurado a mu­lher que ­lhe lavava os pés. Deus irou-se contra Adão e Eva e expulsou-os do paraíso. Jesus irou-se contra a figueira que não dava frutos e a amaldiçoou. Deus irou-se contra a bes­tialidade e man­dou fogo dos céus sobre Sodoma e Gomor­ra. Jesus irou-se contra os mercadores que queriam transformar o templo em balcão de negócios. Deus irou-se contra a humanidade e man­dou o Dilúvio.
+
+
+      Eis a verdade, mi­nhas ove­lhas: há uma ira pecaminosa e uma ira santa, uma ira odiosa e uma ira jus­ta, uma ira do Diabo e uma ira de Deus.
+
+
+      Pecaminosa, odiosa e do Diabo é a ira do pecador contra o jus­to, do poderoso contra o fraco, do gigante contra o pequeno. Santa, jus­ta e de Deus é a ira contra as mil faces do mal.
+
+
+      Ama­nhã, meus amados, vocês es­tarão lutan­do contra o Diabo. Ele pos­suiu a alma do Ditador e o fez invadir o solo cris­tão da nos­sa ter­ra. Cada homem do exército adversário é um guer­reiro de Satanás, e quan­do vos­sas balas penetrarem nos corpos deles es­tarão, ao contrário do que parece, fazen­do uma obra jus­ta, perfeita, boa, pia e caridosa, es­tarão abrin­do janelas por on­de sairão os demônios que os pos­suíram. Es­sa ira é a ira santa, a ira que tem a bênção do céu. Avante, guer­reiros da fé!
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O lápis
+
+
+      O Capitão apareceu diante da tropa. Seu uniforme era limpo, imaculado e não ti­nha dobras nem vincos. Cus­tava a crer que um homem tão elegante fos­se lutar. Talvez se trajas­se as­sim para dar mais garbo a uma bata­lha, coisa que é só fumaça e poeira, ou pode ser que pensas­se que as­sim tornava os militares mais honrados, mas é bem provável que o tives­se feito apenas para ser admirado.
+
+
+      Partiram de madrugada, movimento que quebrou a plácida rotina dos animais, não muito acos­tumados a ver aquele es­petáculo de mi­lhares de homens baten­do os pés contra o solo, falan­do, rin­do e cantan­do; verdadeiro ter­remoto a afligir formigas, besouros e outros tantos insetos ras­teiros que mor­reram na pas­sagem daquela enorme serpente azul, embora muitos, à hora final, quase não tives­sem vis­to a cor dos uniformes, mas apenas o preto de suas solas.
+
+
+      Um pouco antes das dez horas, deu-se vis­ta da cidade. A uma ordem, todos pararam e os músicos começaram a tocar o hino. Os poucos que sabiam a letra cantavam com toda a força dos pulmões; os que não, xingavam os inimigos, que é outra forma de cantar a música da pátria. Era uma gritaria desafinada e as­sus­tadora. Es­ses rituais fizeram o Soldado sentir um nó na garganta e quase chorar, num mis­to de amor pelo país e ódio pelos contrários. Emoções são preciosas na guer­ra e é preciso pôr os homens num es­tado de nervos que seja só nervos. Mal a ban­da havia soprado a última nota, o Capitão jogou os cabelos para trás, ergueu sua es­pada de modo teatral e dis­se Pela pátria, acelerado marche!
+
+
+      Começou então a bata­lha.
+
+
+      Um grupo de infantaria tomou a dianteira e o Es­tan­darte o seguiu com a ban­deira, avançan­do no meio de um cercadi­nho formado por oito recrutas. Em seguida veio um grupo de cavalaria coman­dado pelo Tenente, e logo atrás apontou o pelotão do Sargento.
+
+
+      As­sim que começou a cor­rer, o coração do Soldado dis­parou, a garganta secou, as narinas se dilataram, as mãos ficaram suadas, os dentes rangeram de raiva e a face ficou rosada por causa do afluxo de sangue. Seria um dos primeiros a afrontar a morte. OSargento, logo atrás, gritava frases de incentivo como Vamos lá, caga­lhões! Eu quero as tripas deles na ponta do fuzil! Enfiem o sabre no pescoço deles!
+
+
+      A cerca de mil metros da entrada da cidade, porém, ele percebeu algo es­tra­nho: havia um cordão humano, talvez um bloco de infantaria, em volta das primeiras casas. Ele achou aquilo curioso e o­lhou para o Sargento, mas es­te apenas bufou de raiva e continuou a cor­rer. O Tenente, logo atrás, também lançou um o­lhar de dúvida ao Capitão, que fez um movimento com os ombros, dan­do a enten­der que só se poderia saber o que fos­se aquilo quan­do perto daquilo se es­tives­se. Dis­tante dali, o Coronel tentava decifrar o que pensava ser uma novidade es­tratégica quan­do o General, toman­do-­lhe o binóculo, viu que aquele grupo não era um bata­lhão regular, mas um amontoado de ve­lhos e mu­lheres que es­tavam presos em es­tacas, ber­ran­do alguma coisa que, de longe, não se podia enten­der.
+
+
+      Piedade!, era o que diziam. O Tenente, ao enten­der finalmente o que via e ouvia, gritou É gente nos­sa! A notícia es­pa­lhou-se e todos começaram a cor­rer mais devagar, depois pas­saram a an­dar e, por fim, pararam.
+
+
+      O General ficou por um ins­tante em dúvida sobre o que fazer. Se ar­remetes­se, mataria muitos daqueles que ti­nha vin­do salvar; se continuas­se ali parado, logo o inimigo atacaria e mor­reriam muitos dos que ti­nham vin­do matar. Mas, como já foi dito, a dúvida durou apenas um ins­tante, pois logo ordenou um toque de avançar para que o exército pas­sas­se sobre seus irmãos.
+
+
+      A princípio, nem o Soldado, nem o Preto, nem ninguém se moveu, como que não acreditan­do naquelas notas do Corneteiro, mas então o Sargento gritou Atacar, imbecis! e recomeçou a cor­reria. Os civis que serviam de escudo pas­saram a gritar ain­da mais forte, pedin­do Clemência, Compaixão, Pelo amor de Deus, Poupem-nos, Somos inocentes e outros rogos inúteis. Em verdade, os gritos funcionaram ao inverso, porque, para compensar a piedade que podia atrapa­lhar a pontaria, todos começaram a atirar feito loucos. O Sargento até mesmo mirava em alguns que ber­ravam mais alto, talvez por ódio da covardia dos inimigos, talvez por medo da sua.
+
+
+      Ven­do que sua tática havia fa­lhado, os da outra gente começaram a dis­parar e as balas começaram a zunir perto das ore­lhas dos soldados como se fossem mosquitos, mas de uma es­pécie diferente, que só voa em li­nha reta, pouca conta fazen­do se o fer­rão vai cravar-se em têmpora de homem, pescoço de cavalo, tronco de árvore ou mesmo se fará um improvável vôo sem choques, planan­do livremente até pousar na ter­ra.
+
+
+      Na tentativa de continuarem vivos, os homens pas­saram a mover-se em ziguezague, tentativa sempre vã, porque se não caís­sem ali, pelas balas, cairiam depois, pelo tempo, que es­se não tem ziguezague que des­pis­te.
+
+
+      Quan­do es­tavam a cem metros da cidade, o Sargento deu ordem para que o pelotão ocupas­se um pequeno casebre e des­se cobertura ao grupo de vanguarda. O Soldado subiu ao te­lhado com mais três compa­nheiros e logo armou o seu fuzil. Dali de cima ain­da pôde ver muitos compatriotas sen­do dizimados pela pontaria certeira dos inimigos. Admirava suas mortes heróicas e, ao mesmo tempo, agradecia a Deus por não ser um deles.
+
+
+      Logo veio a ordem de abrir fogo. O Soldado atirava com gos­to e deses­pero, prazer e pavor, que es­ses momentos são muito complicados para que se definam por apenas um adjetivo. Um arti­lheiro ve­lho e gordo foi sua primeira vítima. Talvez por seu tama­nho te­nha sido alvo mais fácil, o que prova que obesidade é um perigo à saúde. Depois vieram outros: um sargento, dois recrutas e um cabo. Para sua tris­teza, ne­nhum oficial. Do seu lado direito es­tava o Bom Jesus, que matava um homem e dizia Valei-me, Bom Jesus! Do esquerdo, o Preto, que a cada óbito dava uma risada e falava Pro inferno, fi­lho da puta! Um clamava ao céu, outro ao Demônio. Não se sabe para que reino foram aquelas almas, o certo é que suas carnes acabaram nos es­tômagos dos vermes.
+
+
+      An­dan­do para lá e para cá, o Sargento gritava pedin­do mais sangue, mais ódio, mais mortes. Ordenou então um ataque de baioneta, coisa que o Soldado e seus amigos lamentaram, pois ninguém queria deixar aquele refúgio seguro para pegar-se com inimigos em campo aberto. Agora era preciso cor­rer, cor­rer para esquentar o sangue e mis­turar ódio ao cansaço.
+
+
+      Foi a primeira vez que o Soldado viu os inimigos de perto e não pareceram muito diferentes dele. Nada de rabos, chifres ou o­lhos verme­lhos como se dizia. Em geral ti­nham a pele como a dele, um tama­nho como o dele e o­lhos negros como os dele, se bem que os seus eram menos saltados que os de um homem magro que avançou com o fuzil e tentou feri-lo na altura do peito, mas que tropeçou no cami­nho e quase caiu no chão, fican­do à mercê do golpe fatal. Se a ocasião se pres­tas­se a reações mais comuns, o Soldado teria rido do tombo do inimigo, mas preferiu trocar o riso por um golpe, enfian­do a ponta do fuzil na magra bar­riga do inimigo, tão magra que a lâmina chegou a aparecer do outro lado. Quan­do tirou a baioneta, o contrário sangrava dos dois lados. Só então, ven­do o sangue do homem esguichar pelo ventre e pelas cos­tas ao mesmo tempo, o Soldado não se conteve e deu uma pequena risada.
+
+
+      Depois des­se, lutou com um homem enorme e barbado. Nem sempre se tem a sorte de enfrentar um adversário mais fraco. OSoldado tentou feri-lo na perna, mas o homem rebateu com uma pancada violentís­sima no seu fuzil, jogan­do-o no chão. Sem saída, o Soldado puxou a es­pada e es­perou pelo pior. O primeiro golpe veio forte, na altura da garganta, e ele o rebateu com muito esforço. O segun­do, visan­do seu peito, também foi defen­dido a cus­to, com a mão umedecida e os músculos do braço tremen­do. O inimigo, incansável, não dava tempo para que ele se ar­ranjas­se. Mais três pancadas e es­tava acuado contra uma parede. Mais duas e sua es­pada era atirada longe. O golpe seguinte abriu-­lhe um ta­lho no lado da cabeça, lugar on­de moram as es­peranças e que devem ter saído todas por aquela fen­da, porque depois daquele corte o Soldado não teve mais ne­nhuma e, como já es­tava convenientemente deitado, es­perou pelo fim.
+
+
+      Ele ain­da viu o inimigo erguen­do o braço com o sabre, início do movimento que dividiria seu ros­to em duas partes, um o­lho para cada lado, dan­do-­lhe uma me­lhor visão das coisas des­se e do outro mun­do. Porém, antes que a lâmina desces­se, uma subs­tância cor-de-rosa cobriu seus o­lhos. Então perguntou-se É as­sim a morte? Sem dor nem lágrimas? E rosa é a cor do céu? Ou es­tarei no limbo? On­de es­tão os anjos? Será que receberei asas? A mão, por ins­tinto, subiu à cara e limpou o ros­to, com o que percebeu que o céu ain­da era azul. Nis­so ouviu uma voz que dizia: Levanta, monte de merda! In­dagou-se se seria Jesus Cris­to, mas logo concluiu que não poderia ser, pos­to que o Fi­lho de Deus não usaria tal vocabulário, preferin­do xingamentos mais elegantes como Raça de víboras.
+
+
+      O Soldado levantou a cabeça e percebeu que a subs­tância cor-de-rosa que cobrira os seus o­lhos era uma mis­tura do verme­lho do próprio sangue com o cinza dos pas­tosos miolos de seu adversário, que jazia tombado à sua frente. E outra vez ele ouviu aquela voz, só que agora dizen­do Vai tirar uma soneca, seu bos­ta?
+
+
+      Fazen­do um gran­de esforço para identificar as coisas, reco­nheceu a figura do Sargento. Ele havia atirado na nuca do inimigo quan­do a es­pada es­tava parada no ar, no exato ângulo de noventa graus, a meio cami­nho entre a vida e a morte.
+
+
+      Ain­da um pouco tonto, o Soldado ergueu-se, pegou a es­pada do homem que quase o matara e cor­reu para o meio de uma praça. Lá viu mu­lheres e crianças choran­do, viu seus camaradas lutan­do e empur­ran­do os inimigos para trás, viu a cavalaria avançan­do e viu o Tenente com a es­pada limpa e uma expres­são de ter­ror cor­ren­do para lá e para cá com seu cavalo. Ver era um raro deleite para quem es­tivera tão perto da cegueira eterna, mas não pôde fazê-lo por muito mais tempo, porque acabaram suas forças e ele desmaiou. E as­sim ficou es­tirado na ter­ra até que o Conta Almas, depois de chutá-lo e pôr a mão no seu peito, exclamou Ain­da vive, ao que o Preto, comovido, dis­se Não o enter­rem, e o Conta Almas res­pon­deu Muitos em me­lhores con­dições já foram para baixo da ter­ra. Mas o Bom Jesus, que também es­tava perto, falou Nós cuidamos. Foi-se então o Conta Almas, fazen­do vis­tas gros­sas ao caso, que também era amigo do Soldado, diminuin­do um na sua conta de mortos e soman­do um na dos feridos. Por via das dúvidas, anotou a lápis.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O encantador
+
+
+      O Soldado acordou em pânico, sentin­do o toque frio de outra lâmina na cabeça. Era o Da Botica ras­pan­do seu cabelo. Ele o o­lhou por um ins­tante e desmaiou de novo. Não viu que o amigo mo­lhou sua ferida com água quente e nem que fez uma gros­sa atadura na sua cabeça para es­tancar o sangue.
+
+
+      Mais tarde, diante do es­pe­lho, não pôde deixar de rir da própria cara, pois a atadura o deixava tão parecido com um in­diano que por um tempo teve que conviver com apelidos como Marajá, Ganges e Encantador, es­te por causa dos encantadores de serpentes, brincadeiras que aceitou de bom grado, que é me­lhor ser escarnecido sob o céu que louvado sob a ter­ra.
+
+
+      Ain­da naquele dia levantou-se e quis conversar, mas algumas palavras pensadas não ­lhe vi­nham à língua e outras vi­nham com a pronúncia er­rada, is­to quan­do o verbo não vi­nha antes do pronome e o complemento antes do sujeito. Es­sa maneira de falar deixava os compa­nheiros em má situação, pois tanto era difícil enten­dê-lo, quanto não rir dos es­tra­nhos sons que ele produzia. Felizmente pas­sou um oficial gritan­do Vamos ver o desfile dos prisioneiros, e seus amigos, animados, o levaram para lá.
+
+
+      Eram uns trinta a quarenta inimigos e foram colocados numa fila in­diana, fortemente amar­rados nos pu­nhos e nos pescoços. Eles pas­saram por um imenso cor­redor de homens, sen­do es­pancados, xingados e cus­pidos. O Soldado, no início, sentiu um pouco de pena, mas então começou a dar uns leves empur­rões nos prisioneiros, daí pas­sou aos tapas, dos tapas foi aos socos e depois pegou uma vara, só paran­do de açoitá-los quan­do seu braço começou a doer.
+
+
+      À noite, quan­do já se sentia me­lhor e voltara a falar normalmente, foi à ten­da do Sargento para agradecê-lo por ter prolongado seus dias na Ter­ra.
+
+
+      – Com licença, Sargento?
+
+
+      – Es­tou ocupado.
+
+
+      – Eu queria falar.
+
+
+      – Não diga!
+
+
+      – Sobre ontem.
+
+
+      – Consegues terminar uma frase?
+
+
+      – O se­nhor me salvou.
+
+
+      – Eu não.
+
+
+      – Salvou sim.
+
+
+      – Matei um inimigo.
+
+
+      – Matan­do o inimigo, salvou-me.
+
+
+      – Mirei sabiá, acertei pardal.
+
+
+      – Eu queria dizer...
+
+
+      – Se dis­seres obrigado, levas um pé na ore­lha.
+
+
+      – Devo-­lhe a vida.
+
+
+      – Então não me deves nada.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      As baionetas
+
+
+      Para a cidade voltar de vez para o mapa nacional, só faltava conquis­tar um pequeno forte, para on­de todos os da outra gente ti­nham cor­rido e em cuja amurada viam-se muitas baionetas erguidas. O General calculou o número de combatentes pelo das baionetas e preferiu não atacar imediatamente, deixan­do a manobra para o dia seguinte.
+
+
+      Naquela noite foram feitas breves cerimônias de adeus aos heróis da pátria. Cara de Sapo, Hoje Chove, Zóio e Cabeça Pelada foram mortos por uma bala na cabeça, uma adaga no peito, uma baioneta no pescoço e um sabre na bar­riga, mos­tran­do que a morte pode vir por ins­trumentos diferentes, se bem que is­so não faz muita diferença.
+
+
+      Os dez mil homens pas­saram a ser oito mil, oitocentos e oitenta e nove. Todos os mortos tiveram seus nomes bem anotados pelo Conta Almas, que em breve man­dará sua lis­ta para a corte, on­de um preguiçoso burocrata dará fé de que é verdadeira, envian­do-a em seguida aos jornais, para muitos oportunidade única de ter o nome gravado em letra de imprensa; glória duvidosa, mas qual não é?
+
+
+      Pela ma­nhã, como es­tava ferido e ain­da um pouco alienado, o Soldado não participou do ataque final ao forte e só o que pôde fazer para ajudar seus amigos enquanto avançavam para a bata­lha foi rezar uma oração que dizia as­sim:
+
+
+      Pai Nos­so que es­tais no céu, santificado seja o vos­so nome, ve­nha a nós o vos­so reino, mas que meus amigos não vão para o vos­so; seja feita a vos­sa vontade, as­sim na ter­ra como no céu, e seja ela que mor­ram muitos dos deles e poucos dos nos­sos; o tiro nos­so de cada dia nos dai hoje e perdoai as mortes que causamos as­sim como perdoamos as que nos causam a nós; não nos deixeis cair nes­ta bata­lha e livrai-nos das balas, amém.
+
+
+      O Soldado rezava embaixo de uma árvore, sua igreja; ao som de tiros, seus sinos; e de gritos, seus cânticos. Ele repetia es­sa oração sem parar e só se calou quan­do ouviu os toques de “a glória é nos­sa”.
+
+
+      A vitória, porém, veio com uma ponta de amargura, que ne­nhum inimigo foi morto. O forte, na verdade, havia sido aban­donado. As dezenas de baionetas erguidas eram apenas armas enfer­rujadas presas aos muros, sem ninguém para segurá-las. Oartifício serviu para que os últimos contrários deixas­sem a cidade sem o incômodo de uma perseguição.
+
+
+      Naturalmente, o truque não foi noticiado pela imprensa, que, copian­do o boletim oficial, referiu-se ao ocor­rido como a Gloriosa tomada de uma inexpugnável fortaleza.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      A carta
+
+
+      Por causa do ferimento, o Soldado pas­sou a marchar na ala dos es­tropiados, um grupo de mortos-vivos que se ar­ras­tava nas últimas fileiras do exército, só ten­do atrás de si os médicos e alguns comerciantes, entre eles a Mu­lher das Cartas e o Marido. O­lhar para ela era o alívio das suas dores, pois não é fácil cami­nhar ten­do ao lado um homem sem pernas, outro sem um braço, um com as carnes à vis­ta, outro sem vis­ta que ter e as­sim por diante; verdadeira procis­são de hor­rores em que a sua figura à in­diana era até das mais bonitas, quase um rei dos des­pedaçados.
+
+
+      Desde que lá chegou e pôde vê-la todos os dias, o Soldado convenceu-se de que a queria bem, e por querê-la bem, começou a querer mal a quem a ti­nha, no que se vê que a inveja é mãe da ira, mas não a única, que a ira tem muitas mães, vários pais e não poucos tios.
+
+
+      Por conta des­se sentimento, muitas vezes viu o Marido sofren­do um súbito ataque do coração, ou sen­do atingido por uma bala inimiga, ou engolido pela ter­ra que se abria repentinamente ouraptado por um demônio, que não há limites para a imaginação de quem ama. Mas a parte que mais o encantava naquela fantasia era ver-se consolan­do a pobre mu­lher e ocupan­do o lugar à frente da car­roça.
+
+
+      Porém, uma coisa é so­nhar e outra o so­nho tornar-se realidade. Naqueles dias nem o coração do homem parou, nem uma bala o atingiu, nem a ter­ra se abriu para comê-lo e nem um diabrete veio raptá-lo, o que encheu a alma do Soldado de melancolia. Cansado de es­perar pelo milagre, ele resolveu dar-se um consolo e foi até a car­roça com a desculpa de ditar uma carta.
+
+
+      Lá chegando, bateu palmas, aprumou-se e es­perou que ela saís­se com um largo sor­riso. Mas há dias em que a sorte nos falta e es­se era um daqueles, pois quem apareceu foi o Marido, car­regan­do um prato de carne na mão e mas­tigan­do ruidosamente.
+
+
+      – O que desejas, soldado?
+
+
+      – Eu?
+
+
+      – Vies­te aqui para quê?
+
+
+      – Para uma carta.
+
+
+      – Tens uma pataca?
+
+
+      – Sim.
+
+
+      – Então entra.
+
+
+      A car­roça era bem rús­tica, mas larga se comparada às que o Soldado se acos­tumara a ver na roça. A parte de trás era um retângulo coberto por um pano que formava uma es­pécie de te­lhado. Dentro, a mobília se compu­nha de dois tamboretes, um urinol, um baú médio, um pequeno es­pe­lho, uma cabaça de água, uma caixi­nha de remédios, dois balaios, uma can­deia e uma pele de novi­lho que servia de tapete.
+
+
+      – Sabes escrever?
+
+
+      – Não.
+
+
+      – Fala que eu escrevo para ti.
+
+
+      – Pos­so começar?
+
+
+      – Sou todo ouvidos.
+
+
+      Aquela frase quase fez o Soldado soltar uma risada. O homem ti­nha ore­lhas de abano enormes, coisa de uns três centímetros para fora da cabeça, e quan­do ele dis­se Sou todo ouvidos, o Soldado teve vontade de res­pon­der Is­so já sei, mas conteve-se. Ia começar a ditar a primeira carta de sua vida quan­do o Capitão gritou lá de fora Ei, encomen­da! O escrivão foi aten­der o freguês, que ­lhe dis­se Tens que me des­pachar uma carta urgentemente!
+
+
+      Então o Marido da Mu­lher das Cartas lançou um o­lhar para o Soldado, como que falan­do Volte mais tarde, ou outro dia ou nunca mais, porque o Capitão cos­tuma dar-me boas gorjetas e tu não me pagarias mais do que o preço jus­to da carta. Porém, há dias em que a sorte não nos falta e es­se era um daqueles. Quan­do o Soldado já se levantava para sair, a Mu­lher das Cartas apareceu car­regan­do um ces­to de roupa lavada. O Marido, que ti­nha mais cobiça que ciúme, dis­se Mu­lher, escreve a carta deste recruta enquanto aten­do o nos­so bom Capitão.
+
+
+      O Soldado viu na troca do escrivão pela escrivã um sinal divino, uma bênção, uma prova de que Deus es­tava o­lhan­do por ele; ou, se não Deus, pelo menos um anjo, que Deus deve cuidar apenas de reis e generais.
+
+
+      A Mu­lher das Cartas subiu à car­roça e sentou-se de cos­tas para o Soldado. Como ela trazia um lenço amar­rado na cabeça, o que ele dela via eram uns fios de cabelo que caíam pelo seu fino e suado pescoço. Não era muito, mas os apaixonados transformam miga­lhas em banquetes, e a carta, que deveria ser quase um bi­lhete, acabou por alongar-se. Se antes iria apenas dizer que es­tava vivo, agora, para es­ticar o ditado, contou da cami­nhada, das moscas, das armas, dos amigos, da primeira bata­lha e da primeira morte que cometeu, pelo que dis­se ter tido muito orgu­lho, mas pela qual pedia perdão ao pai; depois falou dos inimigos, do clima, do campo, dos so­nhos, de como é dormir ao relento e de como é marchar pela ma­nhã; falou do Preto, da sur­ra nos prisioneiros e por fim perguntou como iam a ferida da irmã, as cos­tas do pai, a gota da mãe, se a porca havia dado cria e se o mi­lho vingara. Só então des­pediu-se, rogan­do a Deus que aben­çoas­se a todos.
+
+
+      Fin­da a carta, ela colocou as fo­lhas num envelope e dis­se:
+
+
+      – O se­nhor gos­ta de cartas longas.
+
+
+      – Te­nho muito para contar.
+
+
+      – Pode-se contar muito com poucas palavras.
+
+
+      – Não te­nho es­se dom.
+
+
+      – Poucos têm.
+
+
+      – Cansei a se­nhora?
+
+
+      – É o meu serviço.
+
+
+      – Prometo falar menos da próxima vez.
+
+
+      – Não faça is­so, os pais gos­tam de cartas compridas.
+
+
+      O Soldado então pagou-­lhe, mas o fez com tanta alegria que quem o vis­se não pensaria que pagava e sim que era pago.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      A mis­sa
+
+
+      No capítulo anterior o Capitão apareceu subitamente com uma encomen­da, aparição que permitiu ao Soldado ditar sua carta não ao Marido, mas sim à Mu­lher. Para que o leitor não ache, ou te­nha certeza, de que es­te livro es­tá mal escrito, aviso que a tal encomen­da não era uma invenção usada apenas para deixar os protagonis­tas a sós. Ela realmente exis­tia e era uma lasciva carta para a Con­des­sa, transmudada em dona Eusébia. Es­sa dona Eusébia, por sua vez, também era real, e as­sim que recebia a cor­res­pon­dência, man­dava um negri­nho avisar a Con­des­sa. Então as duas encontravam-se na mis­sa das cinco e — Deus as perdoe — carta daqui, pataca de lá, pros­seguiam no acordo que trazia vida ao coração da amante e carne à mesa da alcoviteira.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      As lágrimas
+
+
+      Apesar das mais de mil mortes, os oficiais receberam cumprimentos e uma meda­lha de ouro pelos serviços pres­tados, numa cerimônia à qual todos tiveram de comparecer. O Soldado pensou que também poderia ga­nhar uma meda­lha se matas­se o Ditador. Depois lembrou da apos­ta com o Preto e ficou em dúvida sobre qual seria o me­lhor prêmio, uma meda­lha ou um soldo a mais. Chegou à conclusão de que a meda­lha seria me­lhor, pois, se fos­se preciso, ela poderia ser empe­nhada, sen­do ao mesmo tempo glória e lucro, lógica que mos­tra o er­ro dos que dizem que neste mun­do a honra não vale nada.
+
+
+      Depois da cerimônia, ele foi an­dar pela cidade e teve uma idéia da des­truição que os dois exércitos haviam feito. As casas es­tavam quase todas em pedaços e, ain­da as­sim, em me­lhor es­tado do que os que dentro delas se escon­diam. Os cavalos foram roubados todos, do gado só res­tou lembrança dos mugidos e dos homens nem is­so, pois haviam sido levados prisioneiros dias antes do primeiro ataque.
+
+
+      Enquanto os recrutas davam comida àquela gente e o Capelão consolava as mu­lheres deses­peradas com a falta de seus maridos, veio de volta uma patru­lha coman­dada pelo Sargento, dan­do conta das con­dições do cami­nho para a fronteira. O Soldado, que es­tava por ali, segurou o cavalo para que ele desapeas­se. O Sargento, mal pôs os pés no chão, foi logo dan­do as novas ao Tenente:
+
+
+      – Encontramos os homens da vila.
+
+
+      – On­de?
+
+
+      – A meia légua daqui, por aquela es­trada.
+
+
+      – E como es­tão?
+
+
+      – Não muito bem.
+
+
+      O Tenente transmitiu então a mensagem ao Capitão, que levou o informe ao Coronel para que es­te pudes­se fazer um relatório ao General. O Soldado, que não ti­nha patente, mas pos­suía bons ouvidos, quis saber como es­tavam os homens da cidade e pôs-se a an­dar. Depois de quarenta minutos de marcha encontrou uma daquelas coisas que não se esquecem, como o primeiro seio que se vê, o primeiro peixe que se pesca ou o primeiro defunto que se enter­ra.
+
+
+      Era es­sa visão um esqueleto humano apoiado numa armação de gravetos. Ti­nha o dorso dobrado, imitan­do uma mesura, e apontava, com o in­dicador esquerdo, na direção de outra pequena curva, como se fos­se um criado in­dican­do o cami­nho da sala de es­tar. Aceitan­do o convite, o Soldado foi até lá.
+
+
+      Havia ali centenas de caveiras des­troçadas e es­pa­lhadas pelo chão, forman­do um comprido tapete de crânios, fêmures, tíbias, perônios, rótulas, úmeros, clavículas, arte­lhos, omoplatas e mil outras partes que se es­ten­diam por cerca de duzentos metros, ou sete tiros de pedra, como ele dis­se mais tarde ao Preto, suprin­do com es­sa tosca comparação sua ignorância do sis­tema métrico. Aqueles os­sos eram os homens do povoado. O Soldado ajoe­lhou, benzeu-se e ficou o­lhan­do para a os­saria por um longo tempo. Então, duas lágrimas vieram até seus o­lhos: a da esquerda por ódio aos inimigos, a da direita, por pena dos mortos.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      Os zaporogas
+
+
+      No mesmo ins­tante em que o Soldado der­ramava duas lágrimas, o General abria uma bonita cor­res­pon­dência, amar­rada com um cordão prateado, que ti­nha a as­sinatura de ninguém menos que Sua Majes­tade, o Rei:
+
+
+      “Meu bravo, felicitações. O povo já te compara a Milcíades e diz que teus homens são mais valentes que os beduínos de Hedjaz e os zaporogas da Urcânia. O país es­tá contente, mas ain­da não contentado. Após longa reunião com o Conse­lho de Guer­ra, concluí que nos­sa mis­são não é apenas recuperar as ter­ras, mas também o orgu­lho pátrio. Ordeno, pois, que es­sa expedição se encer­re somente quan­do entrares na capital des­se país e puseres o pescoço do Ditador numa forca. Para is­so, man­do-te um reforço de três mil homens que te alcançará em semanas. Segue adiante e inscreve com letras douradas o teu nome no panteão dos valentes. Teu admirador, rei e se­nhor.”
+
+
+      Lá em seu palácio, gozan­do as delícias da popularidade, sen­do amado nas ruas e aplaudido nos teatros, o Rei achou que não haveria mal em prolongar a guer­ra. A glória só se alimenta de mais glória e raro é aquele que se contenta com o vinagre da obscuridade depois de provar o vi­nho da fama. Iras e guer­ras nascem, também, da vaidade.
+
+
+      Só dois homens não lamentaram aquela carta: o Soldado e o General. Este, porque queria retirar-se da vida militar com uma gran­de vitória e a invasão soava como epílogo bri­lhante. É verdade que tal decisão cus­taria algumas vidas, mas is­so se remediava com odes, monumentos e datas cívicas. Aquele, porque as­sim teria mais tempo para aproximar-se da Mu­lher das Cartas. Por ela vivia e, em troca de vê-la, chegava a achar a guer­ra uma coisa boa e feliz.
+
+
+      O res­to dos guer­reiros detes­tou a nova ordem, porque uma coisa é ir até a fronteira e outra é ar­rancar um tirano de seu trono. As­sim pelo menos pensava o Tenente, que expres­sava suas dúvidas para o Capitão enquanto lus­travam suas armas.
+
+
+      – Não sei se é boa coisa ir abor­recer o homem no seu quintal.
+
+
+      – Não há o que temer.
+
+
+      – Não é ques­tão de temer.
+
+
+      – Então do que é?
+
+
+      – De ser prudente.
+
+
+      – Somos em maior número do que eles.
+
+
+      – Mas o povo lutará contra nós.
+
+
+      – O povo fica com quem vence.
+
+
+      – Mas até vencermos...
+
+
+      – Para is­to es­tamos in­do lá.
+
+
+      – Se lá chegarmos.
+
+
+      – Sem bata­lhas não subirás de pos­to.
+
+
+      – Es­tou bem como es­tou.
+
+
+      – Não pensas em ser capitão como eu?
+
+
+      – Me­lhor tenente vivo que capitão morto.
+
+
+      – Te contentas com pouco.
+
+
+      – Não sou ambicioso.
+
+
+      – Se não fos­se a ambição, meu caro, não exis­tiriam as guer­ras.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O dragão
+
+
+      O ferimento trazia ao Soldado dores de cabeça e pesadelos, de modo que ele mal conseguia dormir. No dia em que o exército iniciaria sua viagem para dentro do país inimigo, agora país invadido e não invasor, ele se levantou às três da ma­nhã, antes mesmo do toque de des­pertar. Como suas pernas es­tavam me­lhores que sua cabeça, foi an­dar.
+
+
+      Elas o levaram até o tapete de esqueletos e ele ficou o­lhan­do para aquilo por um bom tempo. Depois an­dou sobre as caveiras e sentou-se no meio delas. Começou então a brincar com aqueles res­tos de gente, montan­do, com os os­sos, mons­tros com os quais ti­nha so­nhado:
+
+
+      homens com três braços,
+
+
+      com cinco pernas,
+
+
+      com duas cabeças,
+
+
+      com quatro mãos em cada braço,
+
+
+      com largos ombros de duas clavículas,
+
+
+      com longas pernas de três fêmures,
+
+
+      com mãos que saíam das cos­telas,
+
+
+      com pescoços compridos como girafas.
+
+
+      Es­tava nes­ta inocente diversão quan­do seus o­lhos, nariz e ouvidos foram chamados a serviço.
+
+
+      O nariz sentiu um cheiro de fumaça e a ore­lha reco­nheceu o ruído de um crepitar, mas foram os o­lhos que verdadeiramente afas­taram a dúvida, maravi­lhan­do-se com o es­petáculo do fogo arden­do no horizonte e avançan­do sobre os macegais res­sequidos. Apavorado, saiu cor­ren­do de volta à cidade. Quan­do chegou à ten­da do General, dois recrutas tentaram contê-lo, mas ele os empur­rou e entrou gritan­do, traduzin­do com a língua o que ti­nha sido vis­to, cheirado e ouvido.
+
+
+      – Se­nhor General, com licença!
+
+
+      – Quem és tu?
+
+
+      – Um soldado.
+
+
+      – Sai daqui!
+
+
+      – Vim avisar do fogo!
+
+
+      – Que fogo?
+
+
+      – Um incên­dio feito pelos inimigos!
+
+
+      – On­de o vis­te?
+
+
+      – Um pouco além das caveiras.
+
+
+      O General ergueu-se e, ain­da de ceroulas, deu ordem para que se atrelas­sem os cavalos e se armas­sem as car­roças. Naquela hora em que a noite ain­da lutava com o dia, os homens começaram a formar um aceiro para deter a marcha das labaredas. Mas não bas­tava que fos­se largo, era preciso também que fos­se comprido, porque, sem cami­nho que percor­rer à frente, o fogo o procuraria pelos lados, logo forman­do um anel em torno do exército, queiman­do a todos sem piedade. E que ninguém, apesar da muita e sincera devoção, es­peras­se ter o mesmo des­tino dos amigos de Daniel, que pas­searam com o anjo do Se­nhor em meio às chamas de uma forna­lha, que is­to foi no tempo dos milagres, quan­do Deus ain­da era jovem e gos­tava de fazer seus truques e exibir suas mágicas.
+
+
+      A retirada começou num toque alucinado de sinos e clarins. As mu­lheres e os es­tropiados seguiram nas primeiras car­roças, vin­do depois dos bois e dos homens do coman­do. Muitos choravam, muitos gritavam, muitos rezavam. Ter­rível foi a tarefa de conter o gado, insana a luta para empi­lhar os mantimentos e incontrolável o medo de que alguma faísca atingis­se a munição. Ordens eram dadas, ordens eram contrariadas, e os homens, esquecen­do-se da hierarquia, puseram-se a traba­lhar por conta própria, pois não era preciso um superior para ensiná-los a cortar capim, ar­rancar um arbus­to ou der­rubar uma árvore.
+
+
+      Sen­do um dos es­tropiados, o Soldado teria a felicidade de se pôr em marcha logo, mas lembrou-se da Mu­lher das Cartas e cor­reu como um louco até chegar perto da car­roça, on­de ela e o Marido ti­nham dificuldades. Seu cavalo corcoveava nervosamente, obrigan­do o homem a fazer rís­pidos movimentos com as rédeas e o chicote, enquanto ela, à frente, tentava acalmá-lo com um pedaço de pau.
+
+
+      O Soldado então, num movimento que só um louco ou um apaixonado poderia fazer, saltou sobre o animal. Lutan­do sem parar, foi aos poucos conseguin­do domá-lo, um tanto pela firme resis­tência sobre o lombo, outro tanto por causa dos gritos, ameaças, gru­nhidos e es­talos de língua próprios de quem pas­sou a vida em meio a cavalos. Em cinco minutos dominou-o e em seis fez com que se puses­se em marcha, seguin­do a procis­são dos deses­perados. A Mu­lher das Cartas lhe agradeceu com um sor­riso amável, e o Marido, com um sor­riso de alívio.
+
+
+      Enquanto eles começavam a fugir pela es­trada, lá atrás os homens ain­da lutavam para formar o aceiro e desviar a car­reira do fogo. O Preto, o Bom Jesus, o Sargento, o Conta Almas, o Tenente, outros tantos mil homens e até o Capitão se esfalfavam na tarefa de deixar o maior es­paço de ter­ra pos­sível entre eles e as chamas.
+
+
+      Ain­da viram a enorme labareda chegar, queimar a cidade em minutos e avançar como um dragão ameaçador sobre o lugar on­de se iniciava o aceiro, dragão que ti­nha a altura de três homens e exalava uma fumaça que ardia nos o­lhos. Por alguns ins­tantes ele tentou avançar por sobre a ter­ra, ar­remes­san­do brasas e fagu­lhas, mas enfim cansou-se e desis­tiu, buscan­do novo alimento ao Norte.
+
+
+      O inferno é aqui, dis­se o Soldado, não saben­do se o aqui queria dizer perto das chamas ou nes­te mun­do.
+
+
+      
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Marido
+
+
+      Quan­do o perigo pas­sou, todos ficaram felizes e o Capelão man­dou rezar mis­sa, agradecen­do a Deus a imensa misericórdia de os livrar das chamas, não dizen­do ne­nhuma palavra de gratidão aos homens que lutaram para contê-las.
+
+
+      Sentado à sombra, o General ouvia as santas palavras com alegria. Ele sentira a tropa desanimada para entrar no país inimigo e o fogo viera em boa hora. Mais uma vez seus homens es­tavam tomados pela verdadeira ira, sentimento com o qual é bem mais fácil um exército alcançar vitórias e um general, a glória.
+
+
+      Terminada a mis­sa, começou a invasão. A tropa pas­sou pela cidade queimada, pelo forte das baionetas, pelas os­sadas, pela fronteira e as­sim sucedeu por várias horas até que, no fim da tarde, chegaram ao ponto on­de o incên­dio começara. A simples vis­ta de campos verdejantes deu novo ânimo aos homens e o primeiro ribeirão foi bem aproveitado por todos, do General ao Soldado, para um ba­nho que, se não ­lhes lavava a alma, ao menos limpava o corpo.
+
+
+      Depois de um dia inteiro de marcha, acamparam num pequeno declive situado à beira de um riacho, sábia providência em caso de novo incên­dio. Ali armaram as bar­racas, jogaram, contaram mentiras, beberam e, mesmo cansados, ain­da fizeram uma pequena fes­ta. O Bom Jesus pegou a sanfona e pôs-se a tocar, dan­do início a uma dança de pares, pois, pela primeira vez, havia mu­lheres em quantidade, embora ne­nhuma delas es­tives­se ali por gos­to.
+
+
+      Eram as mães, viúvas e órfãs dos fi­lhos, maridos e pais descarnados na es­trada. Sem remédio de vida, pas­saram a seguir o exército e foram se ar­ranjan­do conforme a neces­sidade e a variedade de seus temperamentos. Umas iriam juntar-se informalmente — casamentos sem aliança nem papéis que o Capelão se recusou a abençoar —, outras namorariam um recruta a cada dia, muitas pas­sariam a alugar-se e algumas tentariam ficar quietas, pedin­do ao céu a impos­sível bênção de pas­sarem des­percebidas. As que lá apareceram foram as segun­das e as terceiras.
+
+
+      O Soldado divertia-se com a música e bebia, mas não quis tocar nas mu­lheres, embora duas ou três tives­sem vin­do sentar perto dele ou convidá-lo para dançar. Es­tava tão apaixonado que preferia sus­pirar de tris­teza a alegrar-se.
+
+
+      Decidiu então ir até a car­roça da Mu­lher das Cartas. Pensava em escrever de novo para seus pais, des­sa vez contan­do das os­sadas, do incên­dio e de como havia salvado muitos. Imaginava a expres­são que ela faria ao vê-lo nar­rar tantas proezas e sentia-se envaidecido, anteven­do um sor­riso de simpatia, um o­lhar de admiração ou, quem sabe, um elogio. Mas há dias em que a sorte nos falta e, quan­do ele bateu palmas, foi o Marido quem apareceu.
+
+
+      – Boa noite.
+
+
+      – Boa noite, vim para uma carta.
+
+
+      – Vamos a ela.
+
+
+      – A sua es­posa não es­tá?
+
+
+      – Eu mesmo pos­so escrevê-la.
+
+
+      – É claro...
+
+
+      – Ou o se­nhor prefere ditar para ela?
+
+
+      – De modo algum.
+
+
+      – Sei que prefere.
+
+
+      – Eu?
+
+
+      – Te­nho observado o se­nhor. Es­tá sempre por perto, o­lhan­do disfarçado para mi­nha mu­lher.
+
+
+      – Eu?
+
+
+      – Não pense que é o único, mas é o mais insis­tente.
+
+
+      – Eu?
+
+
+      – O se­nhor es­tá se repetin­do.
+
+
+      – Eu?
+
+
+      – Sim.
+
+
+      – Hoje foi bom que eu es­tives­se por perto.
+
+
+      – Ama­nhã não será.
+
+
+      – Não tive intenção...
+
+
+      – Nem te­nha.
+
+
+      – Escrevo por saudades da família.
+
+
+      – Desconfio que as saudades podem ser outras.
+
+
+      – Desconfiar não é provar.
+
+
+      – Deus o livre de eu ter alguma prova.
+
+
+      – O se­nhor não tem por que se preocupar.
+
+
+      – Só es­tou avisan­do.
+
+
+      – O aviso es­tá dado.
+
+
+      Então o Marido da Mu­lher das Cartas levou a mão à cabeça e depois pas­sou-a pela cara suada. Es­tava tremen­do um pouco, mas não parecia nervoso ou com medo.
+
+
+      – Daqui por diante eu escrevo suas cartas.
+
+
+      – Será as­sim.
+
+
+      – Então vamos.
+
+
+      – Vamos o quê?
+
+
+      – Escrever. Não veio aqui para is­so?
+
+
+      – Esqueci o que ia dizer.
+
+
+      – Então boa noite.
+
+
+      – Boa noite.
+
+
+      O Soldado saiu dali com o pas­so e o coração acelerados. Ele não queria brigar, ain­da mais porque era uma luta que não venceria: se bates­se no marido, atrairia o des­prezo dela; se apa­nhas­se, a in­diferença.
+
+
+      Resolveu então ir dançar com uma mu­lher um pouco riso­nha, muito decotada e uns dez anos mais ve­lha que ele. Da dança foram a um canto isolado, do canto isolado foram aos beijos, dos beijos às carícias – se é que se pode chamar as­sim a sôfregos apertões — e das carícias foram a uma ten­da.
+
+
+      Tudo acabado, ela começou a contar sua vida, falan­do que ti­nha sido casada com um rico fazen­deiro da cidade queimada, a quem jamais ti­nha amado mas que era bom e generoso, e sua família a obrigou a casar-se com ele. Falou que depois se apaixonara por um ajudante do marido e que planejavam fugir, mas que is­so era pas­sado, porque agora os dois, marido e ajudante, es­tavam mortos, e ela não ti­nha a segurança de um nem a paixão do outro. O Soldado comentou Que pena que não mor­reu só o seu marido. Ela concordou com a cabeça e ele pensou que todos os maridos in­desejados deviam mor­rer, e que is­so não era tão impos­sível, porque muitas são as balas perdidas numa bata­lha e às vezes cai alguém que es­tá dis­tante do confronto.
+
+
+      O baru­lho da música diminuía e a fes­ta es­tava chegan­do ao fim quan­do, o­lhan­do à sua direita, o Soldado viu pas­sar cor­ren­do ninguém menos que a própria Mu­lher das Cartas. Seus o­lhos a acompa­nharam até on­de foi pos­sível e ele ficou a perguntar-se aon­de ela es­taria in­do. Meia hora depois ela voltou. Vi­nha no mesmo pas­so e trazia na mão umas fo­lhas de guaco. Ele pensou que poderiam ser para o Marido, que talvez es­tives­se achacado. Con­denou-se então por ter tido maus pensamentos e imaginou-se a cuidar dele, limpan­do-­lhe o suor e fazen­do uma sangria, o que mos­tra que, se a mente nos leva ao pecado, também nos ergue ao céu, deixan­do-nos sempre quites com a consciência.
+
+
+      
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      As orquídeas
+
+
+      Na ma­nhã seguinte, o General deu uma ordem ao Coronel, que repas­sou-a ao Capitão, que man­dou-a ao Tenente, que contou-a ao Sargento, que mal pôde acreditar no que ouviu.
+
+
+      – É para o boba­lhão do turbante?
+
+
+      – É.
+
+
+      – Não merece.
+
+
+      – Também acho, mas ordens são para serem cumpridas.
+
+
+      – É uma cretinice!
+
+
+      – O se­nhor providencia is­so?
+
+
+      – Claro, sempre sobra para os sargentos cumprir as ordens da oficialada.
+
+
+      – Tens a língua afiada demais.
+
+
+      – Sempre é bom se nos falta a faca.
+
+
+      O Soldado es­tava sozi­nho quan­do o Sargento chegou trazen­do o des­pacho.
+
+
+      – Sabes ler, idiota?
+
+
+      – Não, Sargento.
+
+
+      – Ouvir?
+
+
+      – Is­so me ensinaram.
+
+
+      – Então escuta: “O Alto Coman­do das Forças no Oes­te determina que o Soldado do pelotão sob as ordens des­se oficial, o Sargento, receba quinze pranchadas por ter invadido a bar­raca do General, em flagrante desres­peito à hierarquia. Cumpra-se.”
+
+
+      – Quinze?
+
+
+      – Tens sorte de não serem mais.
+
+
+      – Sim, se­nhor.
+
+
+      – Sabes on­de fica o mas­tro da ban­deira?
+
+
+      – Sim, se­nhor.
+
+
+      – Vai para lá após o toque de des­pertar.
+
+
+      – Sim, se­nhor.
+
+
+      – Se tentares fugir, vou atrás de ti.
+
+
+      – Não vou fugir; só não enten­do por que es­tou sen­do punido.
+
+
+      – Ordens não são para serem enten­didas, são para serem obedecidas, enten­deste?
+
+
+      – Enten­di.
+
+
+      – Já dis­se que não é para enten­der, só para obedecer.
+
+
+      – Sim, se­nhor.
+
+
+      Mal ouviu o toque de des­pertar, o Soldado foi até a ban­deira no centro do acampamento. Lá já es­tava o Sargento, que amar­rou-o ao mas­tro pelas mãos. Então ouviu-se o toque de reunir. Os regimentos manobraram e formaram um vas­to quadrado em torno deles. Os cochichos da tropa pareciam uma revoada de gafa­nhotos. Porém, quan­do o Capitão se aproximou com uma es­pada de prancha, sem ponta nem fio, todos se calaram. Aquela seria a arma do cas­tigo e, por res­peito ou medo, o silêncio tomou conta do acampamento. O Corneteiro deu um toque solene e começaram as pranchadas.
+
+
+      Depois de receber o primeiro golpe, o Soldado pensou que a vida é uma coisa sem sentido nem jus­tiça.
+
+
+      Quan­do levou o segun­do, sentiu um desgos­to de viver;
+
+
+      ao receber o terceiro, sentiu rancor;
+
+
+      no quarto, raiva;
+
+
+      no quinto, ódio;
+
+
+      no sexto, cólera;
+
+
+      no sétimo, fúria;
+
+
+      no oitavo, ira;
+
+
+      no nono, fúria;
+
+
+      no décimo, cólera;
+
+
+      no décimo primeiro, ódio;
+
+
+      no décimo segun­do, raiva;
+
+
+      no décimo terceiro, rancor;
+
+
+      no décimo quarto, desgos­to;
+
+
+      e depois do último golpe pensou apenas que a vida é uma coisa sem sentido nem jus­tiça.
+
+
+      O leitor pode es­tra­nhar es­sa gangor­ra de emoções e talvez preferis­se que os sentimentos do Soldado fos­sem crescen­do a cada golpe até explodirem num grito de revolta. Mas a ira é, ao menos nis­so, parecida com as orquídeas, que precisam ser regadas para crescer, porém, se recebem água demais, acabam murchan­do e apodrecen­do.
+
+
+      Caso o teimoso leitor ain­da não es­teja convencido, pode lembrar-se de que, quan­do quebrou seu primeiro vaso, levou um tapa de sua mãe e sentiu-se injus­tiçado; no entanto, quan­do quebrou o segun­do e levou uma gran­de sur­ra, apenas chorou e resignou-se. Mas, enfim, talvez o leitor nunca te­nha quebrado um vaso. Voltemos então ao Soldado.
+
+
+      Sua camisa ti­nha sido feita em tiras e o sangue empapava suas cos­tas. Quan­do voltou para o pelotão, ne­nhum dos compa­nheiros falou com ele, uns para não parecerem amigos de quem ti­nha infringido regras, outros porque eram amigos e decidiram res­peitar as suas dores do corpo e da alma.
+
+
+      A Mu­lher das Cartas, ao tomar co­nhecimento do caso, achou injus­ta a punição, diferencian­do-o pela primeira vez da multidão que ia à car­roça para escrever aos seus, prova de que há males que vêm para bem, se bem que não é raro haver bens que ve­nham para mal, deixan­do empatada a eterna dis­puta.
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+    
+
+  
+
+
+  
+    
+      A moeda
+
+
+      Uma hora depois das pranchadas ouviu-se o toque de acelerado marche. Seguiram, então, a pas­so forçado, por ter­renos difíceis de percor­rer, an­dan­do por dentro de cór­regos, escalan­do montes e atraves­san­do lugares pedregosos, on­de as car­roças adernavam e os ca­nhões es­tavam sempre a ponto de cair de suas bases. Seis dias an­daram des­se modo, até que uma noite vieram os batedores com a boa notícia de que a cadeia de monta­nhas es­tava a ponto de ser deixada para trás, desembocan­do num vale largo dividido por um rio.
+
+
+      Ali chegaram no fim do sétimo dia, famintos e cansados, comen­do cada um a sua ração diária de fari­nha e carne, já pouca, fican­do o incremento por conta de raízes, legumes e frutas do local, que, no caso, eram uns poucos limões. O Soldado, talvez para não ouvir o ronco de sua bar­riga pedin­do mais comida, puxou conversa com o Preto.
+
+
+      – Nos­sa apos­ta ain­da es­tá de pé?
+
+
+      – Apos­ta?
+
+
+      – Já esqueces­te?
+
+
+      – Sobre quem vai matar o Ditador?
+
+
+      – E pode ser outra?
+
+
+      – Pensas em desis­tir?
+
+
+      – Te­nho cara de quem desis­te de apos­ta?
+
+
+      – Queres mesmo que eu te diga?
+
+
+      – Es­tás me chaman­do de covarde?
+
+
+      – Eu?
+
+
+      – Tem mais alguém aqui?
+
+
+      – Tu só sabes fazer perguntas?
+
+
+      – Is­so te incomoda?
+
+
+      – E uma pergunta pode incomodar?
+
+
+      Continuaram ain­da nes­se jogo de inter­rogações mais um tempo, até que o Soldado fez um ar in­diferente e dis­se que ia à car­roça do cor­reio ditar uma carta. Ain­da ecoavam na sua mente as ameaças do Marido da Mu­lher das Cartas e a prudência man­dava es­perar, ao menos, uma semana, mas a paixão, ou talvez a pancada, o deixava sem muito raciocínio; então ele não se conteve e foi até lá.
+
+
+      Apesar das dores nas cos­tas, o Soldado es­tava bem compos­to, de camisa nova e não usava mais a atadura na cabeça, deixan­do à mos­tra a cicatriz que o acompa­nharia pelo res­to da vida. Antes de sair pas­sou um pano nas botas e tirou marcas de bar­ro que es­tavam na sua calça há dias. Quan­do se afas­tou um pouco do Preto, ain­da penteou o cabelo com as mãos.
+
+
+      A Mu­lher das Cartas viu-o de longe e o recebeu com simpatia. Ele aproximou-se com as mãos nos bolsos, sor­riu timidamente e dis­se Eu vim para... E ela completou Uma carta, remen­dan­do a frase e até a improvável, mas pos­sível, má intenção da visita em hora inoportuna. Pois sim, vou ditá-la ao seu marido, emen­dou o Soldado, dan­do um sentido res­peitoso e tranqüilizador à conversa.
+
+
+      – Meu marido es­tá nos es­tropiados.
+
+
+      – E o que tem ele?
+
+
+      – Uma febre que não pas­sa, uns frios, uns tremores.
+
+
+      – Desde quan­do?
+
+
+      – Desde o dia do incên­dio.
+
+
+      – Pos­so fazer alguma coisa?
+
+
+      – Man­dan­do a carta já nos ajuda.
+
+
+      – Com uma pataca?
+
+
+      – E por que não?
+
+
+      Ela foi então ao fun­do da car­roça e veio de lá com uma fo­lha de papel amarelada pela umidade. Os dois foram até perto de uma can­deia, ela sentou-se num tamborete e ele começou a ditar. Contou das bata­lhas e da invasão, mas não mencionou o corte na cabeça, o incên­dio e as pranchadas, porque para os pais é me­lhor dizer que vai tudo bem e nada mal; algumas mentiras têm lá a sua dose de sentimento.
+
+
+      Terminou logo, um pouco por falta de idéias, outro tanto por falta de palavras e um terceiro tanto para não cansá-la, sabedoria que perdoava as ignorâncias anteriores. Levantou-se e, depois de pagá-la com a moeda mais bri­lhante do seu saqui­nho, partiu. AMu­lher das Cartas não era tola e percebeu que nos seus modos havia fumaças de uma paixão. Não era o único, mas ela não oferecia es­peranças aos seus aduladores.
+
+
+      Quan­do o Soldado foi dormir não pôde deixar de pensar na doença do Marido e cresceu-­lhe no coração algo parecido com o remorso, uma ira de si por sentir ira de outro, raro caso em que a ira dá à luz a si mesma.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      As cóleras
+
+
+      Ao romper da ma­nhã cor­reu a notícia de que alguns homens es­tavam com cólera. Talvez o leitor pense que is­so não é novidade e queira rasgar es­te livro em pedaços, pois se num dia comum é fácil encontrar homens coléricos, quanto mais não será no meio de uma guer­ra, quan­do o medo, a tensão e o risco da morte iminente fazem des­pertar os ins­tintos de defesa e, com eles, a cólera.
+
+
+      Calma. É preciso explicar que não se fala da cólera, subs­tantivo feminino que significa agitação raivosa ou ar­rebatamento, mas do seu homônimo subs­tantivo masculino, o cólera, também co­nhecido como cólera-morbo, doença infecciosa, contagiosa e transmitida por uma bactéria em forma de bas­tonete chamada vibrião. As­sim desfaz-se a confusão e jus­tifica-se a apreensão dos guer­reiros, acos­tumados com a primeira, temerosos da segun­da.
+
+
+      Mas se as duas cóleras são iguais na grafia, são muito diferentes nas conseqüências: a cólera des­perta a energia, nos deixa mais vivos e dis­pos­tos para o combate, o cólera nos deixa pros­trados, sem vida e abatidos; a cólera muitas vezes só se satisfaz quan­do der­rama o sangue, o cólera se satisfaz em der­ramar fezes; a cólera nos tira lágrimas, o cólera nos faz expelir suores; a cólera nos deixa em chamas, o cólera nos faz tremer de frio; a cólera nos faz querer matar, o cólera, desejar a morte.
+
+
+      
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      A fogueira
+
+
+      Em poucos dias, os doentes já eram tantos que não se podia mais, como no começo, deixá-los empi­lhados nas car­roças. Is­to forçou os homens a car­regá-los em macas, tarefa que chegou a ter voluntários no princípio, mas que depois foi sen­do aban­donada aos poucos. Os homens sabiam que o pagamento de tal generosidade poderia ser o reino dos céus, mas desis­tiram do prêmio quan­do perceberam que havia o risco de lá chegar mais cedo.
+
+
+      Foi is­to a tanto que o Coronel teve que redigir um des­pacho ordenan­do revezamentos, de forma que todos teriam que car­regar os doentes, que ti­nham sede como se es­tives­sem no verão, tremiam como se es­tives­sem no inverno e sujavam-se a cada meia hora, aumentan­do a repugnância dos que os levavam.
+
+
+      Um dos contaminados era, de fato, o Marido da Mu­lher das Cartas. Es­tava res­sequido, magro, pálido, já não ti­nha luz nos o­lhos e nem a reco­nheceu nas poucas visitas que a deixaram fazer. Es­tava sob o cuidado dos doutores, mas seria mais certo dizer que es­tava para o que Deus quises­se, porque a medicina que havia eram chás e rezas, que podiam pouco ou menos.
+
+
+      Ao cair da tarde, coube ao Soldado car­regá-lo na padiola. Aquilo pareceu uma refinada ironia, mas ele tratou de con­duzi-lo o me­lhor que pôde, evitan­do a pas­sada brusca, sen­do cuidadoso nas subidas e firme nas descidas; mis­são menos dura do que a princípio parece, pois o homem era já leve como uma múmia, quase uma caveira, quase um es­pírito.
+
+
+      Se tives­se um mínimo de consciência, o pobre poderia até agradecer por sua sorte, pois muitos foram jogados aos rios, fican­do para sempre na água que tanto pediam. Foi sem querer, explicavam-se os car­regadores, mas quem acreditaria que sucumbiram ao peso insignificante de um colérico? Foram punidos com dez pranchadas; no entanto, teriam feito o mesmo ain­da que fos­sem cem, porque suportavam me­lhor o peso do cas­tigo que o do medo.
+
+
+      Os abutres, sábios animais que se alimentam do mais farto dos pas­tos, já começavam a sobrevoar a ala dos es­tropiados quan­do o General determinou que acampas­sem. Naquela tarde as­saram trinta bois, quantidade ínfima para abas­tecer os homens que ain­da sobravam, mas era is­to ou nada, que não res­tavam muitas cabeças mais. O plano dos coman­dantes era as­saltar fazen­das da região e tomar-­lhes o gado, mas as poucas propriedades pelas quais pas­savam haviam sido esvaziadas, sem deixar para os invasores mais que o capim e as paredes das casas, coisas sabidamente in­diges­tas.
+
+
+      À noite a ração foi ain­da mais escas­sa, e, para enganar a fome, fizeram-se fogueiras para as­sar as últimas batatas e umas poucas raízes co­lhidas pelo cami­nho. Como o frio também aumentava, surgiu um impas­se: quem ficaria perto do fogo: os coléricos, que logo mor­reriam, ou os sãos, que precisavam recuperar as forças para a luta? Os que iam mor­rer ou os que iam matar? Acabaram fican­do es­tes, porque o Capitão enten­deu que não se devia gas­tar calor com quem já es­tá a cami­nho do inferno.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      Os 111
+
+
+      À meia-noite, quan­do a maioria dos homens se preparava para dormir e tentar esquecer a fome por algumas horas, o General chamou o Coronel à sua ten­da:
+
+
+      – Vamos aban­donar os coléricos.
+
+
+      – O quê!?
+
+
+      – Não me obrigue a repetir.
+
+
+      – Deixá-los aqui, sem médico nem comida?
+
+
+      – Nem munição.
+
+
+      – Mas is­so é deixá-los à morte!
+
+
+      – Se não for as­sim, seremos levados pela pes­te.
+
+
+      – Mas eles já devem pas­sar de cem!
+
+
+      – Que fos­sem duzentos. Quantos mais forem, maior a razão para deixá-los.
+
+
+      – É uma desumanidade!
+
+
+      – É uma neces­sidade.
+
+
+      O Coronel saiu da ten­da enfurecido. Porém, como a ira é coisa que se gas­ta com o tempo, pas­sados alguns minutos foi aceitan­do a decisão. Primeiro convenceu-se de que realmente era me­lhor que mor­res­sem poucos para que muitos vives­sem; depois dis­se a si mesmo que não es­tavam matan­do os compa­nheiros, mas apenas abrevian­do sua dor; e por fim percebeu que, se os doentes con­tinuas­sem a segui-los, bem podia ser que ele próprio acabas­se morto, razão que curou de vez a sua cólera.
+
+
+      Dez minutos depois man­dou que dez homens fos­sem abrir uma clareira perto do rio, on­de seriam depositados cento e onze doentes. Lá ficaram os recrutas, capinan­do e ar­rancan­do arbus­tos, traba­lho duro e cansativo, mas infinitamente me­lhor do que o que veio a seguir, es­se sim, penoso e cruel, que foi o de car­regar os moribun­dos até aquele lugar. Alguns doentes aceitaram o des­tino de bom grado, mas muitos pediram pelo amor de Deus que não os deixas­sem ali ou então que os matas­sem com um tiro, ges­to de coragem ou gentileza que ninguém conseguiu fazer.
+
+
+      O Soldado fez ques­tão de levar o Marido da Mu­lher das Cartas e deixá-lo no mais bem acomodado lugar daquela beira de rio, on­de teria sombra e não es­taria longe da água. Pode ser que te­nha feito is­to por benevolência e bran­dura, mas também é pos­sível que quises­se ter certeza de que o marido jamais voltaria para a es­posa. Não são poucas as vezes em que a bon­dade e a maldade saem a pas­sear de mãos dadas.
+
+
+        
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O silêncio
+
+
+      
+
+
+      
+
+
+      A partida na ma­nhã seguinte foi tris­te e lamentosa. Os coléricos choravam e os mais fortes até gritavam. Aqueles gemidos deixaram os que partiam sem vontade de conversar, rir ou matar. Durante todo aquele dia cami­nhou-se calado. Há palavras que não precisam ser ditas, capítulos que não precisam ser escritos.
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      As diversões
+
+
+      Depois de tantas agruras e misérias, man­dam os teóricos e es­tudiosos da arte do romance que se escreva um capítulo mais alegre para aliviar tensões, e é precisamente is­to que será feito agora, graças ao General, que não era filósofo mas ti­nha bom senso. Ele sabia que algumas vezes a tris­teza do es­pírito se cura com as alegrias da carne e, por conta dis­so, man­dou matar todos os bois que sobravam e fazer um gran­de banquete.
+
+
+      Com os es­tômagos cheios, voltaram os risos, des­sa vez com fiapos de carne entre os dentes. Pouco importava que não houves­se gado para o dia seguinte. O que se queria era matar a fome e a refeição veio em boa hora, pois muitos já es­tavam à beira de um desmaio.
+
+
+      O Es­tan­darte queixou-se de que ali não havia um piano, pois era uma boa hora para se cantar umas modi­nhas, ao que o Bom Jesus dis­se Não seja por is­so, e começou a tocar sua inseparável sanfona. Logo em seguida, improvisou-se um baile, agora homem dançan­do com homem, pois a maioria das mu­lheres ti­nha fugido pelos matos, cansadas da fome, dos calotes e dos maus-tratos, dizen­do Não é porque sou puta que hei de abdicar dos meus poucos confortos, que são comida, di­nheiro e teto, e não importa em que ter­ra is­so seja, que carne, moedas e te­lha qualquer país tem.
+
+
+      E como o as­sunto des­te capítulo são as diversões e as diversões devem ser diversas, façamos também uma visita ao Rei, que acaba de abrir uma carta do General, on­de es­tá escrito que o exército já avança país adentro e que nada o deterá no cami­nho da glória e da honra. Sua Majes­tade fez ques­tão de mos­trar a carta ao Diplomata, que o cumprimentou e dis­se:
+
+
+      – Bem se vê que o emprés­timo que fizes­tes junto ao meu país foi bem utilizado.
+
+
+      – As guer­ras ga­nham-se com di­nheiro, os emprés­timos pagam-se com o tempo.
+
+
+      – Não muito tempo, es­pero, que com os juros que aceitas­tes, es­sa guer­ra pode sair-vos pelo preço de duas.
+
+
+      – Pois seja, a guer­ra ga­nha não se o­lha o cus­to.
+
+
+      – A tudo se deve o­lhar o cus­to.
+
+
+      – Um trono não tem preço.
+
+
+      – Tem, mas outros é que pagam.
+
+
+      – Vamos jogar ou falar?
+
+
+      – Te­nho esco­lha?
+
+
+      – Não, e des­ta vez vais gritar como um bom jogador de truco.
+
+
+      – É is­so ou a forca?
+
+
+      – Is­so ou a forca.
+
+
+      – Quan­do se acabarão es­sas tiranias?
+
+
+      – Vencen­do es­sa guer­ra, só saio do trono morto.
+
+
+      – Enquanto is­so não acontece, joguemos.
+
+
+      E para dar a es­te capítulo uma terceira e última diversão, entremos na ten­da do General, que também se diverte a seu modo, torturan­do um dos prisioneiros para tirar-­lhe algumas informações, unin­do as­sim o agradável ao útil. Primeiro deu uns tapas no inimigo, depois socos, então umas pranchadas, em seguida cortou os lóbulos de suas ore­lhas e por fim fez-­lhe uns ta­lhos com a es­pada. Tudo is­to o torturado suportou sem nada revelar. Quan­do, porém, o General ia tirar-­lhe fora o o­lho direito com uma faca, não agüentou e dis­se on­de se havia de encontrar um belo riacho, explicou com deta­lhes como se chegaria a uma pequena cidade e mais diria se mais soubes­se, ou se mais vives­se, porque logo depois foi fuzilado, mor­ren­do um tanto mártir, um tanto traidor.
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O piano
+
+
+      O exército chegou ao riacho com o pôr-do-sol e ali uns pescaram e outros caçaram, encontran­do peixes uns e mamíferos outros, sen­do salgados uns, as­sados outros. Já noite, marcharam até as imediações da cidade in­dicada pelo prisioneiro e por lá acamparam, es­peran­do o sol nascer.
+
+
+      Por sorte, o inimigo é des­preparado e não ­lhes oporá gran­de resis­tência. Cons­ta a defesa de um grupo de infantaria e outro de arti­lheiros, além dos meiri­nhos e dos homens nobres da cidade, incluídos aí o alcaide, os vereadores e o padre, que, esquecido do man­damento que diz Não matarás, dis­pôs-se a lutar com um ve­lho bacamarte.
+
+
+      Apesar da desvantagem numérica, todos fingem es­tar confiantes e contam piadas para se animar. Foram tantos os risos que quem vis­se a cidade naquela noite pensaria que se preparava para uma fes­ta e não para uma bata­lha. O leitor pode ver nis­so um grão de san­dice, pos­to que os risos são sabidamente inúteis contra as balas; mas talvez aqueles homens pensas­sem que as lágrimas também de nada valem contra a morte e, se vamos nos des­pedir des­te mun­do, é menor a dor se pensamos que o que acaba é uma comédia e não uma tragédia.
+
+
+      Era ain­da de madrugada quan­do começou a inves­tida. A maioria dos moradores, inclusive o padre, dormia o sono dos jus­tos. Só foram levantar com o ribombar dos ca­nhões, cruel des­pertador que os acordou para trocarem o sono breve pelo eterno.
+
+
+      Tal ataque poderia ser contado por vários nar­radores. Os o­lhos, por exemplo, diriam que o que primeiro se viu foi o fogo dos ca­nhões, depois fumaça, então a poeira que subiu quan­do ar­remeteu a cavalaria, e aí, se não fos­sem daltônicos, falariam da infinidade de uniformes azuis cor­ren­do sobre o campo verde em direção à colina mar­rom, sen­do que alguns tombavam pelo meio do cami­nho quan­do suas roupas se manchavam de verme­lho. Fos­se o nariz a contar da cena, teríamos uma nar­rativa mais simples. Viria primeiro o cheiro do capim mo­lhado, depois o da pólvora, o do suor, aí o do sangue e, por fim, o fedor dos cadáveres em putrefação. E, se coubes­se aos ouvidos nar­rar a bata­lha, falariam dos clarins de formar e de atacar, depois do es­tron­do dos ca­nhões, do tropel da cavalaria, da batida dos pés da infantaria, das balas, dos gritos de dor, do som das baionetas entran­do nos corpos e, por fim – fos­sem eles acurados para tanto — do ruído do sangue pingan­do na ter­ra.
+
+
+      Mas es­ses três nar­radores contariam a his­tória de muitos, que é a de ninguém, e talvez seja me­lhor contar a bata­lha não por um sentido comum, mas por um personagem singular, de preferência o Soldado, que acaba de pular para dentro de uma trincheira on­de também es­tá o Bom Jesus, lugar seguro de on­de podiam ver os inimigos, de modo que resolveram fazer uma apos­ta e ver qual deles era o me­lhor atirador. Ficaram ali os dois, primeiro esco­lhen­do o inimigo e depois dis­paran­do, um de cada vez. O duelo começou empatado: o Soldado der­rubou um meiri­nho e o Bom Jesus acertou o padre. Logo, porém, o Bom Jesus se mos­trou me­lhor e abriu frente na contagem, pelo que o Soldado teve raiva dele, mais até do que a que sentia pelos que mor­riam por suas balas. A ira é sempre mais forte por quem es­tá mais perto de nós.
+
+
+      Na busca de novos alvos, ele deu uma rápida cor­rida de o­lhos pela bata­lha. Viu muitos mor­ren­do, muitos agonizan­do, muitos pedin­do socor­ro e, quan­do ia dizer ao Bom Jesus Que bom que ne­nhum co­nhecido foi baleado, avis­tou o pacato Tenente sen­do ar­ras­tado por um oficial, o o­lho esquerdo esvain­do-se em sangue, uma vis­ta de menos para enxergar a guer­ra, o que não é de todo mal. Na cidade, os inimigos começaram a perceber que a bata­lha es­tava perdida. Foi então, como se diz inutilmente, um deus-nos-acuda, porque alguns quiseram fugir — nem todos amam mais a honra que a vida —, mas os oficiais davam-­lhes pranchadas para que continuas­sem a lutar.
+
+
+      Quan­do o General viu aquele princípio de cor­reria sor­riu de felicidade, e do sor­riso quase foi à garga­lhada quan­do o­lhou para o chão e viu uma vegetação rala e seca es­pa­lhan­do-se ao Sul; em seguida, mo­lhou o dedo com saliva e calculou a direção do vento. Quan­do os inimigos começaram a deban­dar, ele dis­se ao Capitão:
+
+
+      – Mete fogo nes­sa gente.
+
+
+      O sol es­tava se pon­do quan­do o paredão de chamas agigantou-se no horizonte e foi atrás dos pobres fugitivos. O Coronel não conseguiu deixar de pensar que a cena daria um bom quadro a óleo. O vento era forte e não deixava dúvida quanto ao fato de que eles seriam alcançados e queimados. Alguns, como o Soldado, acharam aquilo uma desumanidade, mas os que o acharam, o acharam em silêncio, enquanto os que aplaudiram o fizeram com gran­de alarde.
+
+
+      Como a cidade era cercada de pomares, os armazéns es­tavam cheios e alguns fazen­deiros trocaram seu gado por sua vida, o exército pôde recompor o es­toque de mantimentos. Mais sorte ain­da teve o pelotão do Soldado, que, pelo bom comportamento no ataque, ga­nhou a honra de pernoitar na cidade, esco­lhen­do uma casa qualquer para pouso, gran­de luxo naqueles tempos de noites ao relento. A casa era gran­de e pelos buracos das balas entrava o bri­lho prateado da Lua. Todos dormiriam es­pa­lhados pelo chão, mas ao Sargento coube uma enorme cama com mosquiteiro e ele tomou para si uma meretriz; es­ta, chorosa a princípio, logo esqueceu o orgu­lho pátrio para deslumbrar-se com um quarto que antes abrigava uma moça rica e poderosa, mas agora aceitava sua humilde presença.
+
+
+      Ali havia também um ve­lho piano razoavelmente afinado, e o Es­tan­darte, moço fidalgo e de boas maneiras, pôs-se a tocar umas modi­nhas de co­nhecimento geral. Com a música, a casa des­tacou-se no meio das outras e até mesmo atraiu oficiais como o Capitão, que não podia ver baile sem pôr-se a dançar. Ele chegou acompa­nhado de duas belas irmãs gêmeas, talvez de honrada família, mas então nem mais família e muito menos honrada.
+
+
+      Grande era o desejo do Soldado de ir falar com a Mulher das Cartas, mas outros sentimentos o refreavam. Queria respeitar seu justo e honrado luto, e também tinha medo de não encontrar palavras confortadoras o bastante para lhe causar uma boa impressão. Talvez, no fundo, quisesse apenas ganhar tempo e ter a certeza de que, quando voltasse a visitá-la, a dor e a lembrança do marido não fossem maiores do que ele.
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      As cinzas
+
+
+      Todos dormiram, todos acordaram e os so­nhos foram subs­tituídos pelas faces esverdeadas dos mortos que era preciso enter­rar. O Soldado, sen­do soldado, não pôde deixar de participar das tarefas desagradáveis daquela ma­nhã, que eram abrir e encher covas. A certa altura, um recruta que ia ser atirado ao buraco ain­da ergueu a mão e balbuciou uma frase, talvez Te­nha dó, talvez Misericórdia, mas o General, que es­tava ao lado, dis­se Se tu te impres­sionas com is­so, não enter­ras ninguém.
+
+
+      Quan­do, enfim, os mortos ou quase terminaram de ser enter­rados em gran­des valas comuns, o Capelão rezou pelos cadáveres. Como eram muitos, não pôde dizer seus nomes, então falou apenas Valorosos soldados, vós ireis agora lutar nas hos­tes de Nos­so Se­nhor, exército celes­tial movido pela ira divina, em nome do qual matareis demônios, trucidareis o Diabo e esquartejareis o Mal. Vão em paz, fi­lhos de Deus! Vão em paz e matai, trucidai e esquartejai para que o amor reine no mun­do, amém.
+
+
+      Depois de escutar es­sas palavras, o Soldado foi fazer o mesmo serviço, mas agora com os defuntos inimigos, ar­rumados numa gigantesca pi­lha para uma cerimônia breve, sem lágrimas e orações. Ia-se simplesmente atear fogo aos seus corpos antes que começas­sem a se decompor e a lançar miasmas no ar e nas águas. Lá o Soldado apresentou-se ao Coronel, que es­tava ocupado em ar­rancar o os­so do antebraço descarnado de um contrário. Ajude-me aqui, ordenou. O Soldado apoiou-se no cadáver com o pé e, com um puxão, conseguiu ar­rancá-lo do conjunto. O Coronel tomou nas mãos aquele os­so e o­lhou-o como se fos­se uma jóia.
+
+
+      – Não é uma beleza?
+
+
+      – Sim, se­nhor.
+
+
+      – Sabe para o que é is­to?
+
+
+      – Não, se­nhor.
+
+
+      – Vou esculpir nes­te os­so uma peça de xadrez.
+
+
+      – Xadrez, se­nhor?
+
+
+      – É um jogo de tabuleiro.
+
+
+      – Sim, se­nhor.
+
+
+      – Faço mi­nhas peças com os os­sos dos inimigos; que achas dis­so?
+
+
+      – Eu acho o que o se­nhor acha, se­nhor.
+
+
+      – Então achas engraçado.
+
+
+      Ain­da rin­do do próprio gracejo, o Coronel ordenou que os mortos fos­sem queimados. A fogueira ardeu durante a ma­nhã inteira até que todos tives­sem virado cinzas e, empur­rados pelo vento, revoas­sem por sobre as cabeças dos soldados, sujan­do-­lhes os uniformes, cain­do-­lhes dentro das canecas d’água e entran­do-lhes por entre os fios de cabelos, der­radeira vingança de quem, ao invés de jazer em silêncio sob a ter­ra, voa.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O es­pe­lho
+
+
+      Na ma­nhã seguinte recomeçou a marcha em direção à capital. An­dan­do na vanguarda, o Soldado não pôde ouvir uma conversa que in­diretamente muito ­lhe dizia res­peito, travada entre o Capelão e a Mu­lher das Cartas.
+
+
+      – Ain­da segues conosco?
+
+
+      – Ain­da.
+
+
+      – Seria mais prudente ficar.
+
+
+      – Aqui não é a mi­nha casa.
+
+
+      – Sabes que não te darão sos­sego, não sabes?
+
+
+      – Sei.
+
+
+      – Militares são gente ruim.
+
+
+      – Até aqui res­peitaram-me.
+
+
+      – Eras casada.
+
+
+      – Ain­da sou honrada.
+
+
+      – Agora an­darão ao redor de ti como um leão faminto.
+
+
+      – Deus me protegerá.
+
+
+      – Ele tem todo es­se exército para proteger, talvez se dis­traia.
+
+
+      – Então não devia ter-me levado o marido.
+
+
+      – Deus leva a todos.
+
+
+      – Poderia es­perar que ficas­se ve­lho.
+
+
+      – Há muitos idosos pelo céu. Ele precisa de compa­nhias jovens.
+
+
+      – E eu, do que preciso?
+
+
+      – De um marido.
+
+
+      – Dá-me primeiro o tempo do luto.
+
+
+      – Não demores nes­se pranto.
+
+
+      – Há dores que demoram a pas­sar.
+
+
+      – Mas não deviam.
+
+
+      – É como somos.
+
+
+      – Se nos contentamos em ser como somos, nunca seremos o que poderíamos ser.
+
+
+      – Obrigada pelo conse­lho.
+
+
+      – Faço mi­nha obrigação.
+
+
+      – Poucos fazem.
+
+
+      – Poucos fazem muito, muitos fazem pouco. A vida sempre foi as­sim.
+
+
+      E dito is­to, ou me­lhor, ouvido is­to, que a palavra der­radeira foi a do Capelão, a Mu­lher das Cartas subiu à car­roça e foi achar seu lugar entre o comboio de munições e as car­roças de alimentos. Lá dentro, pela primeira vez desde a morte do Marido, o­lhou-se num es­pe­lho e penteou os cabelos.
+
+
+         
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Ditador
+
+
+      Outro es­pe­lho era o­lhado nes­se mesmo ins­tante. Menos feliz, es­se não refletia a Mu­lher das Cartas e sim o duro ros­to do Ditador, que penteava suas suíças, aparava seus bigodes, ajeitava seus galões e lus­trava sua pesada meda­lha de Santa Cruz para ser fotografado. O Ditador é vaidoso. Acha-se belo, corajoso e predes­tinado às gran­des vitórias. Ama sua ter­ra quase tanto quanto a si mesmo, o que não é pouco, e seu povo o adora como a um deus. Prova dis­so é que seis mil aten­deram ao seu chamado para a última bata­lha, que será travada não nas ruas da capital, como ain­da pensam seus inimigos, mas algumas léguas antes, on­de há dois pequenos montes com platôs vas­tos e desmatados. À frente deles es­praia-se uma planície de um quilômetro de comprido e dois de largo, área de vegetação rala e quase des­provida de árvores, ideal para o tiro paciente e calculado. É para es­se lugar que irão o Ditador e seus homens as­sim que ele terminar de pentear suas suíças, aparar seus bigodes, ajeitar seus galões e lus­trar sua meda­lha. Vai dis­pos­to a lutar até o fim, fim que realmente virá em forma de uma bala no coração. Mas, mesmo que soubes­se dis­so, ain­da as­sim não teria outra opção a não ser seguir para o combate com a morte, coisa que, enfim, fazemos todos todo o tempo.
+
+
+      
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      Os so­nhos
+
+
+      O General dormiu pensan­do nes­sa bata­lha e so­nha agora que es­tá às portas da capital inimiga; imagina es­tratégias, ações da cavalaria, cargas de fuzil, ca­nhoneios e todos os outros movimentos que, ordenados no seu jus­to tempo e intensidade, determinam quem é o vencedor, quem é o vencido. O Coronel também so­nha com es­tratégias, mas com as do seu jogo de xadrez, que já tem novas peças feitas com os­sos de adversários; faltam poucos peões, além das tor­res, e de uma rai­nha, para que o complete e pos­sa jogar, quem sabe na mesa do palácio do Ditador. O Capitão, alma luxuriosa, lembra-se ora das gêmeas es­trangeiras com quem pas­sou a noite, ora da Con­des­sa, comparan­do-­lhes a rijeza das bun­das, o tama­nho dos peitos, o tornear das cinturas, a forma das bocas, os gemidos que dão, o modo como beijam, e, enfim, pensa em como é superior a fé dos mouros, que permite quatro mu­lheres em vez de uma. Já o Tenente, mais do que nunca, anseia pelo fim da guer­ra que já levou-­lhe um o­lho e, com o que sobra, se antevê retirado da vida militar, viven­do de injus­ta fama, que não ama a pátria, não é corajoso e nem portou-se bravamente, embora tives­se ga­nho uma meda­lha. Quanto ao Sargento, pen­sa pela primeira vez que a guer­ra pode não ter sentido, pensamento vago, que não comunicou a ninguém, mas que o pôs num es­tado que não co­nhecia, dito dúvida.
+
+
+      Feito o relato do es­tado de es­pírito de todos, problema de quem meteu-se a esco­lher vários personagens em vez de um único, res­ta falar do Soldado, que se animou a ditar outra carta para seus pais. Encontrou a Mu­lher das Cartas ain­da acordada e pon­do algumas roupas a secar num improvisado varal que ia da borda da car­roça a um tronco de árvore. Es­tava com o ves­tido habitual, cor de ter­ra, e com um colete preto que diminuía o mau efeito da camisa encardida e ve­lha.
+
+
+      – Veio para uma carta?
+
+
+      – Vim. E também para ­lhe dar meus sentimentos.
+
+
+      – Que sentimentos?
+
+
+      – Pêsames.
+
+
+      – Já sabe que meu marido mor­reu?
+
+
+      – Fui eu que o car­reguei para perto do rio.
+
+
+      – Não sei se lhe agradeço ou lhe rogo uma praga.
+
+
+      – Faça as duas coisas, que uma anula a outra.
+
+
+      – Como es­tava ele?
+
+
+      – Mais morto do que vivo.
+
+
+      – Não tive coragem de vê-lo.
+
+
+      – Nem carecia.
+
+
+      – Eu não carecia. Ele sim.
+
+
+      – A se­nhora gos­tava dele?
+
+
+      – No começo não.
+
+
+      – Então por que casou?
+
+
+      – Por esco­lha de meu pai.
+
+
+      – Acontece.
+
+
+      – Amor também se apren­de. Agora ele me faz falta.
+
+
+      – A se­nhora segue até a capital?
+
+
+      – Sigo. Mi­nha sorte es­tá nas mãos da tropa.
+
+
+      – Mais uma razão para que eu lute.
+
+
+      – Mais uma razão para que eu reze.
+
+
+      – Se perdermos, sua vida será um inferno.
+
+
+      – Se vencerem, nada garante que ve­nha a ser um paraíso.
+
+
+      – Deve ser tris­te a viuvez.
+
+
+      – Não é alegre.
+
+
+      – Não faltará quem queira ser seu marido.
+
+
+      – Não faltará é quem queira deitar-se comigo.
+
+
+      – A se­nhora é prudente.
+
+
+      – Devo ser, não devo?
+
+
+      – Deve.
+
+
+      – Mas e a carta?
+
+
+      – Que carta?
+
+
+      – A que veio ditar para os seus pais.
+
+
+      – Já não sei mais o que ia dizer.
+
+
+      – Acontece.
+
+
+      – Te­nha uma boa noite.
+
+
+      – O se­nhor também.
+
+
+      – E se precisar...
+
+
+      – Eu o chamarei.
+
+
+      – Incomoda-se se eu tornar a visitá-la?
+
+
+      – Não.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      A bata­lha
+
+
+      Quan­do o exército partiu, o céu es­tava car­regado e ninguém ti­nha dúvidas de que a chuva os co­lheria mais cedo ou mais tarde, o que, se por um lado significava um breve refresco, por outro implicava tropeçar na lama, ar­ras­tar os ca­nhões com muito cus­to e lutar insanamente contra o vento para que a água não atingis­se a pólvora. Marcharam sob as nuvens cinzentas por três horas, até que deram entrada na gran­de planície e viram surgir no alto dos pequenos montes um pu­nhado de ban­deiras inimigas e, ao lado delas, ca­nhões, e ao lado deles, cavaleiros aprumados, e, ao lado des­tes, divisões de infantaria. O Preto o­lhou para o Soldado e dis­se Avisa ao Ditador que eu es­tou chegan­do.
+
+
+      Menos confiante es­tava o General, que o­lhava nervoso para os lados, medin­do a extensão do ter­reno, calculan­do o cami­nho dos ventos, es­tudan­do manobras, enfim, enchen­do a cabeça de planos para não se deixar abater com a idéia de que ti­nha caído numa cilada. Como depois da pequena planície haveria uma pequena escalada, ele não poderia contar com os ca­nhões e a cavalaria. Tudo depen­deria então de um bem-sucedido ataque dos seus mais humildes guer­reiros. Sua tática seria a mais primitiva pos­sível: esco­lher um ponto, avançar e forçar a pas­sagem até abrir uma fen­da nas fileiras inimigas. O problema é que, para chegar até o dito ponto e conseguir um razoável equilíbrio de forças, muitas vidas seriam perdidas; mas enfim, tudo tem seu preço e cada preço, sua moeda.
+
+
+      Tocou-se o hino, has­teou-se a ban­deira, ouviu-se mis­sa, a tropa formou e soou o toque de marche.
+
+
+      Mais uma vez os homens lançaram-se em cor­reria, des­sa vez com mais medo do que das outras, porque nunca ti­nham feito uma carga em campo tão aberto, sen­do alvos tão fáceis de se acertar. Antes, porém, que o ca­nhoneio começas­se a pas­sar por entre as suas cabeças, veio um toque de ali­nhamento e eles começaram a cor­rer quase como numa fila in­diana, movimento que confun­diu os arti­lheiros inimigos. Quan­do eles rear­rumaram os ca­nhões, novo toque para es­praiar e eles se dis­persaram, obrigan­do os atiradores a nova mudança de posição. Es­se movimento de ata e desata, une e separa, poupou algumas vidas, mas os fuzis, mais leves e fáceis de serem manobrados, faziam no varejo o que os ca­nhões não conseguiam fazer no atacado.
+
+
+      Poucas coisas poderiam evitar a der­rota do exército invasor e o mas­sacre daqueles homens, mas, então, um pequeno milagre aconteceu. O céu, que es­tava cinzento, enegreceu por completo e a gran­de tempes­tade que vi­nha se anuncian­do por fim desabou sobre o campo de bata­lha. Era mais do que o General so­nharia pedir a Deus, pois a gros­sa parede de água impedia os atiradores inimigos de verem seus alvos na cor­rida e ain­da permitia o avanço lento, mas seguro, de mais des­tacamentos e ca­nhões. Ven­do o aguaceiro cair e ajudar o exército, o Capelão não se conteve e, abrin­do os braços, dis­se à Mu­lher das Cartas:
+
+
+      – Esta chuva é uma prova de que Deus es­tá do nos­so lado.
+
+
+      – E ele tudo pode?
+
+
+      – Tudo.
+
+
+      – Se as­sim é, por que ele não man­da uma chuva de fogo para queimar os inimigos, ou então por que não os transforma em es­tátuas de sal, ou então por que não sopra um ven­daval tão medo­nho que os leve todos para longe daqui, ou então por que não faz com que suas es­pingardas se transformem em flores e suas balas de chumbo em balas de alcaçuz? Por que faz um milagre tão suave como es­te, de cair uma chuva, coisa que, dia sim, dia não, acontece?
+
+
+      O Capelão, que não ti­nha res­pos­ta, dis­se apenas A fé não faz perguntas, e com is­so deu por encer­rada a conversa.
+
+
+      Longe dali, o Soldado, um entre mi­lhares, vi­nha a todo o cor­rer das botas pelo campo enlameado. Já estava adiantado quan­do notou que alguém caiu à sua frente. Era o Es­tan­darte, cabeça em sangue, ban­deira tombada no chão. Alguém a pegou, um desco­nhecido, e continuou a levá-la. Os homens mor­rem, as ban­deiras não, ele poderia ter pensado enquanto cor­ria, mas nem is­so fez, que naquele momento ele era só pés e, ao que se sabe, os pés não pensam.
+
+
+      Bem dis­tante dos tiros e ven­do que a chuva amainava, o General man­dou os arti­lheiros sentarem o re­lho nos muares e adiantarem mais um pouco a posição dos ca­nhões. Começava um tímido bombardeio nas áreas laterais da defesa, as­sus­tan­do os inimigos e dan­do uma pequena folga para os que iam chegan­do ao platô para a luta tão desigual.
+
+
+      Mais uns metros e um balaço partiu em mil pedaços o ve­lho Bom Jesus dos tiros certeiros. Talvez, antes de mor­rer te­nha dito Ai, meu Bom Jesus!, talvez nem is­so, o que é tris­te, pois é bom dizer ins­piradas palavras finais, deixan­do para a pos­teridade uma ponta de inteligência, nobreza ou sabedoria. Ain­da avis­tou o Preto ali adiante, cor­ren­do mais que ele. Pensou que seria o próximo a mor­rer. Não foi. Os dois chegaram quase juntos ao pé do mor­rete e começaram a tentar pas­sagem. Pela primeira vez o Soldado o­lhou para cima. Era uma mortan­dade sem fim. Tiros, cargas de baioneta, gritos, lama. E ele in­do para aquele inferno, entran­do na fila, es­peran­do a vez de lutar, que até para is­so há filas.
+
+
+      Faltava pouco para chegar ao topo quan­do o Soldado viu es­ten­dido o Da Botica, o­lhos parados, boca aberta, a cabeça encaixada no meio de um amontoado de flores silves­tres, como se já tives­se uma coroa a enfeitar-­lhe o cadáver.
+
+
+      O Es­tan­darte, o Bom Jesus e o Da Botica es­tavam mortos. OEs­tan­darte, moço refinado e cheio de coisas interes­santes para falar; o Bom Jesus, caboclo curioso, de pouca fala, perfeita pontaria; o Da Botica, cirurgião de agu­lhas, médico de chás. Es­tavam mortos. Bons amigos para sempre perdidos. Res­tava-­lhe a es­perança de que tives­sem ido para o céu, mas até is­to o confun­dia, porque os que haviam mor­rido haviam também matado, e não entrava em acordo consigo sobre se seriam julgados inocentes ou culpados.
+
+
+      Tudo se mis­turou na cabeça do Soldado: a traves­sia, as moscas, os santos, a oração, os homens, a bata­lha, o corte na cabeça, a Mu­lher, os os­sos, o dragão, a fogueira, as pranchadas, os coléricos. Ele então saiu de si, ou entrou, e lutou com todo o ódio que pôde reunir. Talvez pensas­se em libertar a pátria, talvez em vingar os amigos, talvez em viver um futuro feliz ao lado da Mu­lher das Cartas, ou talvez não pensas­se em nada. Tanto atirou que suas balas acabaram e então partiu de baioneta para cima dos inimigos. Es­tava, finalmente, tomado pela ira, uma ira que enlouquece, que faz apertar os dentes até que quase se quebrem, uma ira sem controle, uma ira quase boa de se sentir. Pelos seus o­lhos saíam lágrimas, um tanto por ódio e outro tanto pela fumaça que cobria tudo. Um inimigo veio até ele e foi morto com um golpe certeiro no baço. Mas o Soldado já não se contentava em matar e então des­pedaçou o miserável em tantas partes quanto era pos­sível. Não há maior prazer do que satisfazer a ira.
+
+
+      Então uma bomba es­tourou ao seu lado.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O circo
+
+
+      Mal os homens haviam chegado ao monte, a cavalaria saiu pela planície enlameada para dar reforço aos seus pares, obrigan­do o Ditador a man­dar a campo também os seus cavaleiros. Era praticamente o fim da tática do ca­nhoneio, pois ninguém se ar­riscaria a dis­parar numa área em que amigos e inimigos, anjos e demônios, confun­diam-se na refrega.
+
+
+      Perceben­do a chance, o General man­dou avançar os res­tantes grupos de infantaria para consolidar as posições à direita, mudan­do o eixo da bata­lha e fazen­do desmoronar toda a vantagem geográfica dos inimigos. Agora cada grupo ti­nha lá o seu mor­rete, e só faltava levar para cima os ca­nhões para que tudo se quedas­se em rigoroso empate. A mis­são não era fácil e cus­tou um traba­lho insano aos sapadores, mas aos poucos foram-se fazen­do as pontes e erguen­do-se as peças, uma a uma, até que, ao cair da tarde, es­tavam quase pare­lhos com os adversários.
+
+
+      Quan­do o último ca­nhão chegou ao platô, o Soldado jazia no meio da grama mo­lhada. Não es­tava morto, mas perto dis­so, já que a explosão da bomba o havia deixado no chão. Desmaiado, es­tava à mercê dos golpes inimigos. Foi salvo primeiro por um cavalo er­radio que se interpôs entre ele e o adversário que o vi­nha matar; depois, por um es­touro de granada que afas­tou momentaneamente prováveis as­sas­sinos; então por um recruta desco­nhecido que o ar­ras­tou para longe do perigo, e enfim pelo Tenente, que o levou para o improvisado hos­pital, on­de recebeu os mínimos cuidados, que foram uma limpeza com água e uma atadura feita com os panos da própria camisa.
+
+
+      A noite já havia chegado quan­do ele acordou e voltou a si. Como o maior ferimento havia sido feito no braço, não teve dificuldade de pôr-se de pé e cami­nhar. O hos­pital, se as­sim se pode chamar um conjunto de três ten­das cheias de homens com os mais variados ferimentos, uns sem um braço, outros sem os dois, uns com apenas um buraco no nariz, outros com três, uns sem dentes, outros com duas bocas, uns sem ore­lhas, outros sem dedos. Es­sas visões e a confusão dos gemidos o teriam enlouquecido se ele já não es­tives­se um tanto fora do juízo. Foi então que, o­lhan­do em volta, reco­nheceu o Sargento. Es­tava muito sujo de sangue e com uma perna de menos, cortada dois dedos acima do joe­lho. O Soldado aproximou-se e ficou o­lhan­do para o que não mais se via.
+
+
+      – Cus­ta uma moeda, Soldado.
+
+
+      – O quê?
+
+
+      – O es­petáculo. Ou pensa que pode entrar no circo sem pagar?
+
+
+      – Desculpe.
+
+
+      – A culpa não é sua, é de algum inimigo com boa pontaria.
+
+
+      – Pelo menos o se­nhor es­tá vivo.
+
+
+      – Pelo menos.
+
+
+      – Um braço faria mais falta.
+
+
+      – Podia ter perdido as ore­lhas, as­sim não ti­nha que escutar es­se consolo es­túpido.
+
+
+      – Não sei o que dizer.
+
+
+      – Diga que economizarei sapatos ou que um par de meias vai durar o dobro do tempo.
+
+
+      – Eu não faria piada com sua perna.
+
+
+      – É só para is­so que ela serve agora.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      A visita
+
+
+      Mil e qui­nhentas vidas cus­tou aquele primeiro ataque, obviamente não contadas pelo Conta Almas, mas apenas es­timadas, no que não deve ter er­rado muito, pos­to que já era experiente no calcular defuntos. Os dois exércitos, cansados, não se animavam a novos combates e apenas davam alguns tiros de quan­do em quan­do para fazer o tempo pas­sar. Já havia planos, é verdade, principalmente da parte do General, que perdera muitos homens mas conseguira a so­nhada igualdade de con­dições topográficas. Ele sabia que, se ga­nhas­se es­sa bata­lha, a vitória seria certa, pois dali até o palácio só encontrariam heroísmos es­túpidos e guer­ri­lhas. Do lado do Ditador, os coman­dantes, que não sabiam explicar a fa­lha de sua defesa nem imaginar um novo ataque, cons­piravam uns contra os outros e culpavam-se pelo fracas­so, o que mos­tra que a vitória tem muitas mães, mas a der­rota é sempre órfã.
+
+
+      O Soldado acordou com seus pensamentos ain­da embara­lhados. Então, sem mais nem porquê, começou a an­dar. Primeiro deixou o hos­pital, depois pas­sou por uns corpos de cavalaria, por uns recrutas que descansavam, por uma divisão inteira de infantaria, por um grupo de arti­lheiros, pelo Capitão, que ­lhe perguntou Aon­de vais? e, finalmente, chegou a uma trincheira que es­tava mal cavada e aban­donada, servin­do como uma es­pécie de li­nha demarcatória do ter­reno conquis­tado pelos invasores. Pas­sou também por ela e começou a avançar em direção ao campo inimigo.
+
+
+      Quan­do viram o Soldado, os atiradores do Ditador imediatamente car­regaram suas armas e puseram-se em posição de fogo. Mas ne­nhum se dis­pôs a matá-lo e então chamaram o Alferes, e es­te, tão perplexo como seus coman­dados, dis­se Parece que vem entregar-se.
+
+
+      – Mas não tem lenço branco.
+
+
+      – Em todo caso, es­peremos.
+
+
+      Chegan­do ao acampamento dos inimigos, o Soldado foi con­duzido até a entrada duma cabana, on­de o Alferes não achou me­lhor coisa que ­lhe perguntar do que Vens entregar-te? E ele res­pon­deu Não. O Alferes então, perceben­do-­lhe a falta de juízo, apontou um banco e pediu que sentas­se. Mas o Soldado continuou de pé e dis­se Ve­nho pedir que os se­nhores se entreguem ao nos­so exército e acabem com es­sa mortan­dade. Os atiradores riram-se, mas o Alferes, com pena do seu es­tado, perguntou por que deveriam fazer is­to.
+
+
+      – Porque já mor­reram muitos dos nos­sos.
+
+
+      – Mor­reram muitos dos de cá também.
+
+
+      – Mais um motivo para que se ren­dam e acabem com tudo is­so.
+
+
+      – E por que não se ren­deriam vocês?
+
+
+      – Se falas­se is­so ao meu General, ele me enforcaria.
+
+
+      – Também temos generais por aqui.
+
+
+      – Nos­sas armas são me­lhores. Se a der­rota é inevitável, para que resis­tir?
+
+
+      – A morte também é inevitável. Para que fugir?
+
+
+      – Porque é me­lhor viver.
+
+
+      – É me­lhor mor­rer com coragem do que viver com covardia.
+
+
+      – Também há coragem em se ren­der.
+
+
+      – Somos combatentes como tu; nunca nos ren­deremos.
+
+
+      – Não deviam ter invadido nos­sas ter­ras.
+
+
+      – O invasor agora és tu.
+
+
+      – Vais matar-me?
+
+
+      – Não.
+
+
+      – Pren­der-me?
+
+
+      – Não. Volta para o teu lado e, se te perguntarem alguma coisa, diz que, enquanto houver um homem vivo do lado de cá, não nos ren­deremos.
+
+
+      Foi-se então o Soldado e tomou o cami­nho de volta no mesmo pas­so calmo com que havia deixado as seguras trincheiras do seu ar­raial. Os homens mal acreditaram quan­do o viram voltan­do sem uma ferida sequer, sem uma mancha de sangue além daquelas com as quais saíra. Ele foi recebido com vivas, abraços e tiros ao ar. Muitos pas­saram a res­peitá-lo e os mais supersticiosos até a temê-lo, pensan­do que fos­se um es­pírito, só não se sabia se do bem ou do mal, como se houves­se diferença.
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      As surpresas
+
+
+      Perto dali, outro soldado invadia outra defesa inimiga. Era um peão do Coronel que entrava por um flanco da defesa do Capitão. O jogo de xadrez ain­da não ti­nha todas as peças, mas as que faltavam es­tavam bem subs­tituídas por diferentes tipos de balas. Enquanto jogavam, falavam. O Coronel mais que o Capitão.
+
+
+      – An­da, es­tou ansioso para acabar contigo!
+
+
+      – Já vou, Coronel. Não se deve ter pres­sa numa guer­ra.
+
+
+      – Mas também não se pode ser lerdo.
+
+
+      – Não sou lerdo, apenas cuidadoso.
+
+
+      – Es­tás planejan­do alguma coisa?
+
+
+      – Se es­tives­se, não diria, que a me­lhor arma é sempre a surpresa.
+
+
+      – A me­lhor arma é es­te peão, que vai desmontar tua defesa.
+
+
+      – Não é um peão que irá me der­rotar.
+
+
+      – Ele abrirá cami­nho para os bis­pos e os cavalos.
+
+
+      – Então serei vencido por bis­pos e cavalos, não por um peão.
+
+
+      – Is­so te faz mais feliz?
+
+
+      – Faz. Ser der­rotado por um subalterno é sempre uma dupla der­rota. Já a der­rota para um superior é quase um empate, e um empate é quase uma vitória.
+
+
+      – Pois não terás nem es­sa quase vitória, Capitão.
+
+
+      – É o que veremos.
+
+
+      – É o que es­tamos ven­do, pois acabo de levar es­ta tua tor­re.
+
+
+      – Diabos!
+
+
+      – Já que tua der­rota é quase certa, te compensarei com uma boa notícia: o contingente de três mil homens que Sua Majes­tade enviou es­tá a duas léguas daqui.
+
+
+      – E como usaremos es­sa surpresa, Coronel?
+
+
+      – Eles atacarão os desgraçados pela retaguarda.
+
+
+      – Falan­do em retaguarda, deverias ter cuidado com a tua. Xeque.
+
+
+      – Acho que es­tás me fazen­do falar para que eu me dis­traia.
+
+
+      – De jeito ne­nhum. Mas conta-me, como será o ataque de ama­nhã?
+
+
+      – Começaremos com um bombardeio, depois faremos manobras com a cavalaria e as­sim gas­taremos o tempo até vir o ataque de surpresa pelas cos­tas dos inimigos. Aí, sim, nos lançaremos sobre os miseráveis e os degolaremos; ne­nhum deles terá a chance de ren­der-se.
+
+
+      – Nem vós. Xeque-mate.
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      A cicatriz
+
+
+      As­sim como dis­se o Coronel enquanto perdia sua partida de xadrez, pela ma­nhã começou um ca­nhoneio sem objetivo nem eficácia, feito mais para des­pertar os pás­saros que ain­da es­tavam dormin­do. O Soldado, o Preto e o Conta Almas pensavam que logo partiriam para cima dos inimigos, mas, ao invés dis­so, receberam ordem de permanecer em sua confortável trincheira. Dali puderam ver a cavalaria partir num ataque que, a princípio, parecia des­tinado a ar­remeter pelo centro, mas que se dividiu, apenas trocan­do alguns tiros com as posições laterais inimigas. Os coman­dantes do Ditador não se enten­deram sobre o sentido daquela manobra e ficaram à es­pera de novos movimentos. As­sim continuou durante toda a ma­nhã e até o meio da tarde, com inves­tidas absurdas, tiros sem direção, movimentos sem lógica.
+
+
+      O General, de binóculo, observava os adversários e ti­nha o sor­riso de quem parte para uma luta de socos escon­den­do uma faca. Não fazia meia hora ele havia recebido um bi­lhete dan­do conta de que os reforços iniciavam a marcha para se posicionar às cos­tas dos da outra gente. Em breve as duas forças os esmagariam como um alicate esmaga uma noz.
+
+
+      Não demorou muito e ele, ain­da o­lhan­do pelo binóculo, percebeu sinais de alvoroço nas fileiras contrárias. Mensageiros iam e vi­nham trazen­do informações aos preocupados coman­dantes. Mulas eram chicoteadas, ca­nhões eram virados, grupos de cavalaria e infantaria davam meia-volta e avançavam em marcha acelerada para cobrir posições na retaguarda. Não havia mais dúvida: os reforços ti­nham iniciado o ataque. O General, então, deu o sinal para o homem do clarim e a verdadeira e definitiva carga começou.
+
+
+      O Soldado, o Preto e o Conta Almas lançaram-se ao ataque, mas des­sa vez não no grupo de vanguarda, o que ­lhes dava uma certa tranqüilidade. Pensavam que outros iriam mor­rer antes deles, e is­so os deixava mais calmos. Quan­do chegaram às trincheiras inimigas, a maioria dos da outra gente já não era gente, mas cadáveres ou almas, depen­den­do se o leitor acredita ou não possuir algo mais que tripas. Só o que puderam fazer foi juntar armas, reco­lher feridos e reunir cavalos, coisas sem graça e emoção. Enfim, perdes­te o mas­sacre, leitor. Mas não te deses­peres, sempre há os diários.
+
+
+      Depois deles, chegou o Tenente. Só a vis­ta de tantos corpos já o fazia suar e ele sentou à beira de uma árvore para se recompor. Ao seu lado, de o­lhos ar­regalados, havia um inimigo morto. Sem forças para voltar à luta e envergo­nhado por achar-se limpo demais, enfiou a es­pada na altura do es­tômago do cadáver e embebeu-a de sangue. Depois, tingiu também o uniforme. Ele deveria agora procurar atiradores escon­didos, mas mais uma vez teve sorte e encontrou uma desculpa para voltar ao acampamento: viu o Capitão caído no chão com as duas mãos sobre o ros­to. Ele cor­reu até lá e levou-o à ten­da dos médicos.
+
+
+      O Capitão es­tava deses­perado e chorava sem parar. O ferimento não era grave, se medidas as coisas pelo lado prático: um corte longitudinal no ros­to, do tama­nho de cinco dedos, uma mácula es­tética sem risco maior para a vida. Mas o Capitão era um homem vaidoso de sua beleza e, mesmo vin­do de um duelo mortal, já considerava as coisas com os o­lhos de um freqüentador de salões.
+
+
+      – Mata-me!
+
+
+      – Calma, já chegaremos ao hos­pital.
+
+
+      – Não quero um hos­pital, quero um túmulo!
+
+
+      – No hos­pital te darão um remédio.
+
+
+      – Não há remédio para a mi­nha ferida!
+
+
+      – Ela é pequena.
+
+
+      – Sou um mons­tro!
+
+
+      – Vai fechar-se por si só.
+
+
+      – Vai ficar para sempre!
+
+
+      – Muitos têm cicatrizes.
+
+
+      – Eu sou eu, não sou muitos!
+
+
+      – Devias agradecer a Deus
+
+
+      – Pelo quê?
+
+
+      – Por es­tares vivo!
+
+
+      – O que me res­ta não merece o nome de vida.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      A apos­ta
+
+
+      A vitória já era certa quan­do o Soldado, o Preto e o Conta Almas chegaram ao centro do acampamento inimigo. O Conta Almasfoi fazer o seu serviço e os outros dois, pensan­do em roubar alguma coisa valiosa, entraram num casebre que devia ter sido um pequeno depósito de alimento ou de munição, que não deixa de ser um alimento, só que de armas.
+
+
+      Mal abriram a porta, ouviram um gemido vin­do de um canto. Os dois as­sus­taram-se e, escon­den­do-se atrás de uns caixotes, apontaram suas armas para o ponto de on­de vi­nha o baru­lho. Ven­do que nada acontecia, a não ser um murmúrio doloroso de vez em quan­do, o Soldado começou a pensar no que podia ser. Pas­sou por sua cabeça que tais sons eram:
+
+
+      um cachor­ro ferido,
+
+
+      um amigo ferido,
+
+
+      um inimigo ferido e
+
+
+      um inimigo fazen­do-se de ferido para apa­nhá-los de surpresa.
+
+
+      Es­sa última idéia ficou sen­do a definitiva. Então fez sinal ao Preto para que fos­sem se aproximan­do devagar até as caixas que es­tavam no fun­do do depósito. Meio como cobras, meio como baratas, duas pouco heróicas comparações mas que dão a exata idéia de como ambos se esgueiravam pelos cantos e fres­tas, foram se aproximan­do do ponto de on­de partia o ruído. Quase ao mesmo tempo viram que aqueles sons, quase ganidos, eram de um homem que ves­tia o uniforme dos contrários. Ele es­tava muito ferido e o sangue já fazia um pequeno ras­tro pelo chão, um fino rio verme­lho, coisa bonita de se ver, ain­da mais se a nascente era o corpo de um inimigo. O Preto então gritou Joga longe a arma, cão desgraçado!, e o Soldado completou dizen­do Se não te furamos, fi­lho-sem-pai!
+
+
+      O inimigo fez um esforço e dis­se Es­tou acabado, dá-me logo um tiro se és fi­lho de Deus.
+
+
+      Os dois, já sem medo, chegaram até ele. Es­tava imun­do e olugar não era dos mais claros, mas o Soldado reco­nheceu a barba, as suíças longas, os galões e a meda­lha da Santa Cruz. Ele já ti­nha vis­to muitos dese­nhos do tal homem e ti­nha certeza sobre quemera.
+
+
+      – É ele, Preto!
+
+
+      – Ele quem?
+
+
+      – O Ditador!
+
+
+      – Tens certeza?
+
+
+      – Toda.
+
+
+      – És o Ditador?
+
+
+      – Meu povo me chama de Salvador.
+
+
+      O homem que todos procuravam es­tava ali, in­defeso, à sua frente. A busca chegara ao fim. Também chegaria ao fim uma apos­ta começada muito antes, logo no primeiro dia de cami­nhada. O Ditador não parecia tão ter­rível quanto se falava. Não era alto como um ogro, não ti­nha os o­lhos verme­lhos como os cães do inferno e nem suas sobrance­lhas eram eriçadas como as dos demônios.
+
+
+      – Atira, Preto!
+
+
+      – Mas o homem es­tá sem armas.
+
+
+      – E daí?
+
+
+      – As­sim não consigo.
+
+
+      – É só apontar e atirar.
+
+
+      – Então atira tu.
+
+
+      – Não.
+
+
+      – An­da lá, vale um soldo!
+
+
+      – Não pos­so.
+
+
+      – Es­tás com medo?
+
+
+      – Matar quem não reage, nunca matei.
+
+
+      – Mas é o Ditador!
+
+
+      – Dêem-me a arma que me mato eu.
+
+
+      – Vamos levá-lo ao General.
+
+
+      – Is­so não!
+
+
+      – Por quê?
+
+
+      – Não quero ser prisioneiro.
+
+
+      – O que fazemos?
+
+
+      – Dêem-me a arma que eu faço vos­so serviço.
+
+
+      – Dá a tua, Preto.
+
+
+      – E se ele atira em nós?
+
+
+      – Não vai fazer is­so.
+
+
+      – Dêem-me a arma. Só quero uma morte com honra.
+
+
+      – Antes diga: por que tens ira ao nos­so povo?
+
+
+      – Não te­nho. Uma guer­ra se faz por cobiça, por gula, por soberba, por inveja, por preguiça e até por luxúria, como a de Tróia, mas nunca por ira. A ira é coisa para soldados, não para coman­dantes. Dá-me a arma.
+
+
+      O Soldado então deu seu revólver ao Ditador. Ele apontou o cano para o próprio peito e apertou o gati­lho com as duas mãos. Seus o­lhos se fecharam devagar. A apos­ta terminara sem vencedor.
+
+
+      
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      Os sonos
+
+
+      Vencida a bata­lha, não res­tava outra coisa a não ser marchar sobre a capital, e is­to mesmo se ordenou, fican­do os homens com apenas uma noite para enter­ramento dos mortos, preparação de emplas­tros, remen­do nos uniformes, reparo dos fuzis, ba­nho, ceia, e, só depois dis­so, os sonos, todos muito diferentes. Satisfeito o do General, que inscreveu seu nome na his­tória como o homem que não co­nheceu a der­rota; tranqüilo o do Coronel, que enfim completou seu jogo de xadrez; inquieto o do Capitão, sem coragem de ver o próprio ros­to no so­nho; de alívio o do Tenente, que vê próximo o fim do seu suplício; inexis­tente o do Sargento, que não se cansa de o­lhar para o seu toco de perna; e ar­repen­dido o do Soldado, que não se conforma por ter des­perdiçado a oportunidade de ser um herói, de ser o valente que matou o Ditador, de ter seu nome escrito em placas de rua. Lamentava ter perdido a chance de, quan­do se fizes­se um romance sobre aquela guer­ra, ser ele o personagem principal da his­tória, coisa que ao menos aconteceu, mas que não ­lhe serve de consolo, pois nem o nome ­lhe foi citado, descuido in­desculpável que comprova definitivamente a inutilidade des­ta obra.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      Os amores
+
+
+      Pouco depois de começada a der­radeira marcha, já saiu gente a saudar o exército na es­trada. Eram alcaides, vereadores, oficiais, médicos, religiosos, poetas, ban­das, guias, fer­reiros, palafreneiros, marceneiros, almocreves, todos pon­do à dis­posição dos vencedores os seus serviços e a sua lealdade, claro sinal de que a guer­ra havia acabado.
+
+
+      O General ia aceitan­do tudo, contente por um lado, preocupado por outro, pensan­do se aquilo não podia ser um último ardil. Observou muito, es­tudou os movimentos de todos, colocou es­pias no meio deles e aos poucos convenceu-se de que era apenas uma manifes­tação es­pontânea de submis­são, e tanto era is­to verdade que, ao fim daquele dia, recebeu um comunicado com a as­sinatura de todos os deputados e senadores, agradecen­do por livrá-los do Ditador, agora chamado de tirano cruel, dés­pota sem freios e inimigo da paz.
+
+
+      Dois dias depois chegaram à capital, sen­do recebidos por uma comis­são de notáveis que declarou vazio o trono e aberto o coração do povo, que, de boa vontade e através dos seus lídimos representantes, entregava o governo do país ao exército amigo. Num emocionado discurso, o presidente da Câmara es­ten­deu a sua mão ao General, ges­to vis­to por todos os que es­tavam perto do palanque e eternizado pelo mesmo daguer­reótipo que, dias atrás, fizera as últimas fotografias do Ditador. A ban­da, previamente ins­truída, tocou os hinos dos dois países, o dos vencedores primeiro, selan­do o pacto de perpétua amizade e cooperação, que significava, em linguagem mais simples, a anexação do ter­ritório.
+
+
+      Outras generosidades fizeram ao exército, ceden­do-­lhe ter­re­nos, doando-­lhe casas e franquean­do-­lhe o aces­so aos armazéns públicos.
+
+
+      Muitos dos que ti­nham fugido para o interior começaram a retornar. Primeiro vieram os comerciantes, que fregueses não têm ban­deiras; depois os padres, que todos são fi­lhos de Deus, e por fim tudo voltou ao normal, com conversas animadas nos botequins, cães das duas nacionalidades caçan­do comida juntos e crianças cor­ren­do pela rua, muitas vezes agitan­do a ban­deira dos que haviam matado seus pais.
+
+
+      Longe dali, uma ro­lha de champanhe es­tourava e batia no lus­tre de cris­tal do palácio do ve­lho Rei, agora contente e rejuvenescido, pois, se se lembra o leitor, ele queria apenas as­segurar maioria na eleição da Câmara Baixa. Conseguiu muito mais. Venceu uma guer­ra e atribuiu-se tantos poderes que os humoris­tas já falavam secretamente que mor­rera um ditador e nascera outro.
+
+
+      Capítulo à parte foram as mu­lheres da capital do país invadido. Umas cientes da morte de seus maridos, outras sem notícia certa de seus paradeiros, foram naturalmente entrosan­do-se com os recrutas e oficiais. O General fez-se rodear de meninas, mais para admiração que para uso. O Coronel fez amizade com algumas se­nhoras, com as quais pas­sava tardes agradáveis comen­do biscoitos amanteigados e jogan­do xadrez. O Capitão ain­da não es­tava conformado com sua cicatriz, mas já se recuperara o bas­tante para apreciar os sor­risos de uma moça, fi­lha de senador, que não ti­nha ain­da dezes­seis anos mas já pos­suía um corpo de vinte; razoável consolo, bem capaz de devolver a vaidade a quem já se via como um grifo. Co­nheceram-se no baile dado pela Câmara, convescote que uniu as impaciências dos oficiais e as es­peranças das raparigas, que compareceram armadas dos seus me­lhores ves­tidos. A própria mãe da moça apresentou-a ao Capitão e eles foram rodopiar.
+
+
+      – Não achas hor­rível este meu corte?
+
+
+      – É como se fos­se uma meda­lha.
+
+
+      – Uma meda­lha se pode tirar e pôr quan­do quiser, is­to é para sempre.
+
+
+      – Prova eterna da tua valentia.
+
+
+      – Não quero ver es­ta cicatriz todos os dias.
+
+
+      – Pois eu a veria todos os dias e todas as noites.
+
+
+      – És es­perta para tua idade.
+
+
+      – Numa guer­ra cresce-se rápido.
+
+
+      – Tu sabes sempre a res­pos­ta certa?
+
+
+      – Quase sempre.
+
+
+      – E se te perguntas­se se gos­tarias de casar comigo?
+
+
+      – Res­pon­deria que precisaria de tempo para pensar.
+
+
+      – E depois?
+
+
+      – Diria que sim.
+
+
+      Os outros também ti­nham lá as suas urgências e aquele repentino equilíbrio da lei da oferta e da procura deu margem a centenas de namoros e mesmo coisas mais sérias. Até o Sargento, que só se valia de profis­sionais, cedeu aos encantos de uma amadora. Ela não era nova nem ve­lha; nem gorda, nem magra; nem bela, nem feia. Ti­nha apenas um gran­de defeito que era também sua gran­de qualidade: nascera surda. Graças a is­so pôde suportar os des­temperos do Sargento, fican­do ao seu lado dia e noite, e ajudan­do-o a fazer tudo. Ela não era a mu­lher dos desejos dele e ele não era o homem dos so­nhos dela, mas, como dizem as Escrituras, é me­lhor serem dois do que um.
+
+
+      O Soldado an­dava com os compa­nheiros pelas ruas, admirado de ver cidade tão gran­de para os seus modes­tos padrões, com teatros, museus, salões e gente elegante descen­do de car­ruagens. Entraram numa taverna e lá encontraram o Tenente bêbado, mas finalmente com uma expres­são feliz. Es­tou escreven­do à mi­nha mu­lher, dis­se, mas não sei como ­lhe contar que agora es­tá casada com um ciclope. Os três recrutas riram, mas o Soldado não se conteve e perguntou Es­tá ain­da conosco aquela mu­lher que ven­de papel e escreve cartas? E o Tenente, sem se dar conta do bem que ­lhe fazia, não só dis­se que sim, como deu-­lhe o en­dereço de on­de ela es­tava.
+
+
+      O Soldado quis ir vê-la naquele mesmo ins­tante, mas para que de nada sus­peitas­sem, as­sis­tiu ain­da a um jogo de bi­lhar entre invasores e invadidos, temerária partida que se ar­ras­tou no limiar de um confronto, quem sabe de uma morte, pois bas­tava um comentário infeliz para fazer explodir ódios maldigeridos, posto que oes­porte é o irmão caçula da guer­ra. Venceram os invadidos por miúda diferença e tiveram a sábia atitude de não comemorar. Vários cigar­ros foram acesos para descar­rego das tensões.
+
+
+      Então saíram dali e o Preto quis ir às mu­lheres. O Conta Almas animou-se a acompa­nhá-lo, mas o Soldado, alegan­do uma in­dis­posição, dis­se que queria an­dar. Mal viu os amigos entrarem num casebre on­de explodiam altas garga­lhadas, o Soldado foi até a ensinada rua; num ve­lho hotel, es­tavam algumas das mu­lheres que vi­nham acompa­nhan­do a tropa. À porta, a ve­lha car­roça afas­tou todas as dúvidas e ele se fez anunciar como um recruta que vi­nha escrever aos pais. O homem da recepção in­dicou-­lhe o número do quarto com a mais absoluta in­diferença e então ele subiu a escada e bateu à porta. A Mu­lher das Cartas recebeu-o com um sor­riso e o convidou a entrar. Ele sentou-se numa cadeira dura e perguntou A se­nhora tem pas­sado bem?
+
+
+      – Bem, e es­tava es­peran­do pelo se­nhor.
+
+
+      – Sabia que eu não es­tava morto?
+
+
+      – Sabia.
+
+
+      – Como?
+
+
+      – Escrevo muitas cartas, sei de todos que mor­rem.
+
+
+      – Tem tido muito traba­lho?
+
+
+      – Todos gos­tam de contar as vitórias.
+
+
+      – Também vim aqui para is­so.
+
+
+      – Sua família há de gos­tar de saber que a guer­ra acabou e ain­da es­tá vivo.
+
+
+      – Tive sorte.
+
+
+      – Vai voltar para sua ter­ra?
+
+
+      – É o meu lugar.
+
+
+      – Deve ser bonita.
+
+
+      – E a se­nhora?
+
+
+      – Não sei do futuro. Não sou cartomante, só escrevo cartas.
+
+
+      – Ain­da sente falta de seu marido?
+
+
+      – As mu­lheres não são felizes sozi­nhas.
+
+
+      – Faço muitas perguntas?
+
+
+      – Não me incomodo.
+
+
+      – Tens muita paciência comigo.
+
+
+      Chegan­do aí, a conversa es­tancou. O Soldado o­lhou em redor, impaciente consigo mesmo e com o seu medo de falar. A Mu­lher das Cartas levantou-se e foi pegar uma fo­lha de papel, a pena e a tinta; por fim, sentou-se perto de uma mesa e dis­se Foi para is­to que veio, não foi?
+
+
+      – Foi.
+
+
+      – Pode falar.
+
+
+      O Soldado limpou a garganta e ficou um tempo o­lhan­do para o teto do quarto, procuran­do palavras. Queria acabar logo com aquele ditado e tentar recomeçar a conversa de um outro ponto para então acalmar-se, ga­nhar impulso e finalmente dizer algo como Sinto falta da se­nhora, Gos­to muito de ti, ou outras coisas as­sim ordinárias, infinitas vezes ditas e infinitas vezes apreciadas, que quem ouve es­sas palavras não quer saber de originalidade, mas de ser amado. Com raiva de si mesmo, res­pirava pesado, ar­ra­nhava o braço da cadeira e sacudia nervosamente a perna direita. Por fim, começou e dis­se:
+
+
+      Meu pai e mi­nha mãe, já devem saber que a guer­ra acabou. Logo es­tarei aí e es­ta deve ser a última carta que man­do. Deve ser também a última vez que vêem es­ta letra, e eu, a dona dela. Logo vocês es­tarão felizes porque verão a mim e não apenas a letra; já eu não verei mais a letra e nem sua dona, e não vou es­tar feliz como vocês. Gos­to muito da mu­lher que escreve es­tas cartas e às vezes penso que seria me­lhor que a guer­ra não acabas­se, só para continuar vin­do pas­sar algum tempo com ela. Mesmo com muitas mortes e tiros, eu gos­tava des­sa luta, porque sabia que depois de cada bata­lha, se es­tives­se vivo, voltaria a o­lhar o seu ros­to. Durante todo o tempo que pas­sei nes­se exército, tentei vê-la, ficar perto dela e protegê-la, e não quero outra coisa para os meus outros dias. Daqui a pouco, quan­do eu acabar de ditar, alguma coisa vai acontecer: ou ela vai virar e dizer que também gos­ta de mim ou então que devo sair da sua frente e nunca mais voltar. Vocês vão saber de todo jeito, porque ou chego aí com ela e feliz, ou chego sozi­nho e tris­te, para casar com outra e viver da lembrança dela.
+
+
+      A Mu­lher das Cartas terminou de escrever, es­perou a tinta secar e dobrou o papel. Só então virou e dis­se Vais mesmo man­dar es­ta carta?, e o Soldado res­pon­deu Não, não era para eles. Os dois então, ficaram um tempo sem coragem de dizer mais nada. Ela pas­sou a mirar o chão, e ele o­lhava a parede. Se depen­des­se da iniciativa de um e de outro, teriam ficado ali pelo res­to da eternidade, mas foram salvos por uma desco­nhecida que bateu à porta e dis­se que queria escrever ao fi­lho. A Mu­lher das Cartas res­pon­deu Es­se homem começou uma carta muito longa; se não se importa, escrevo a sua ama­nhã. A outra saiu sem abor­reci­mentos e deixou-os com aquela ponta de res­pos­ta no ar.
+
+
+      O Soldado então res­pirou fun­do e dis­se Te­nho muita vergo­nha dos meus sentimentos. E a Mu­lher das Cartas res­pon­deu E eu dos meus. Depois ela começou outro as­sunto, o que ele aceitou de bom grado. E seguiram as­sim, cheios de cuidados, fazen­do-se familiares, mudan­do de lugar aos poucos, aproximan­do-se, ro­çan­do o braço, a perna, até o fatal momento de um primeiro e curto beijo com o coração em dis­parada. Depois deitaram-se, tiraram as próprias roupas e puseram-se debaixo de uma colcha. Terminaram logo e logo abraçaram-se, rin­do de leve, pensan­do em falar coisas cari­nhosas, mas não conseguin­do dizer palavra ne­nhuma.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Soldado
+
+
+      Naquela mesma noite, o General pensou que deveria celebrar de alguma forma a última e gloriosa vitória de sua car­reira. Aprimeira idéia foi uma simples mis­sa de ação de graças, mas ele logo desis­tiu, sob o argumento de que a igreja não era o palco ideal para coroar o resultado de uma guer­ra. Depois animou-se com um jantar aos poderosos locais e à oficialidade, mas rejeitou a propos­ta con­sideran­do que era preciso incluir o povo na fes­ta. A comemoração foi crescen­do em sua cabeça até que, por fim, tomou a forma de um gran­de ato cívico na praça central, com desfile da tropa, evoluções de cavalaria, tiros de ca­nhão, ban­das, car­ros alegóricos, procis­são das ordens religiosas, acrobacias, cor­rida de touros, discursos, es­touro de fogos e, por fim, ao crepúsculo, ao som dos clarins, ele içaria a ban­deira nacional em campo inimigo. A idéia foi apresentada ao Coronel, que, pela ma­nhã, achou-a um gas­to desneces­sário, à tarde julgou-a importante para selar os laços de amizade e à noite já não conseguia pensar em outra coisa.
+
+
+      A maioria dos homens achou aquilo uma inutilidade. Es­tavam mortos de saudades de seus lares e queriam regres­sar logo, embora ain­da se es­peras­se por aqueles dias a lis­ta dos que teriam que ficar mais algum tempo em ter­ra es­trangeira, vis­to que, se conquis­tar é difícil, manter a conquis­ta não é fácil. Alguns, como o Tenente e o Sargento, um sem o­lho, outro sem perna, saben­do que não ficariam, contavam os minutos para a hora da partida, mas outros, como o Preto e o Conta Almas, inteiros e sem divisa, temiam ter que ficar meses e quem sabe anos naquele país, on­de eram ao mesmo tempo temidos e odiados, que a ira, muitas vezes, é irmã do medo.
+
+
+      O Soldado, ao contrário dos amigos, não se importava em ficar por aquelas ter­ras mais alguns séculos. Ia ver a Mu­lher das Cartas todas as tardes, de lá só voltan­do no outro dia pela ma­nhã. Ti­nham combinado que, fos­se qual fos­se a decisão do alto coman­do, permaneceriam juntos. Se ficas­sem, alugariam uma casa; se voltas­sem, viveriam na corte, num sobrado dela que escapara à hipoteca. Mas is­so era o que menos importava, que até um casebre no meio do Hades e à beira do Aqueronte seria um palácio para eles.
+
+
+      E para deixar es­te capítulo ain­da mais riso­nho e feliz, pas­semos da alegria do casal para a alegria da multidão, que sor­ri e canta por toda a capital no dia da gran­de fes­ta.
+
+
+      O gran­de palanque, que cus­tou o traba­lho de vinte homens, todos do país invadido, finalmente es­tava montado. Era uma enorme armação situada em frente ao palácio do Ditador, erguida a dois metros do chão, com dez metros de comprido e sete de fun­do, ten­do ain­da uma dis­pen­diosa cobertura de sapé, toda enfeitada com os símbolos e cores do país vencedor. À frente dela, um cami­nho polvi­lhado de ser­ragem, ladeado por cordas, pelo qual deveria pas­sar o invencível General montado num cavalo branco, abrin­do a parte final do evento.
+
+
+      Cerca de trinta mil pes­soas es­tavam na cidade, es­pa­lhadas pelas mis­sas, procis­sões e, principalmente, a ver os touros, mas o gran­de acontecimento es­tava mesmo reservado para a tarde, quan­do o General apareceria todo engalanado e presidiria o has­teamento da ban­deira. O Soldado, o Preto e o Conta Almas fariam parte do cordão humano formado para a sua pas­sagem. Es­tavam barbeados e ves­tidos com uniformes novos, engomados e bri­lhantes, mas que ti­nham o inconveniente de aumentar o calor naquele dia já quente.
+
+
+      Quan­do chegou a tarde, o Soldado e o res­to da guarda de honra posicionaram-se à frente do palanque. De lá, ele pôde reco­nhecer o Sargento sentado numa varan­da ao lado de sua mu­lher; viu também o Tenente, agora com novo tapa-o­lho, preto como o dos piratas; e reparou no sor­ridente Capitão, orgu­lhoso ao lado da jovem es­posa e definitivamente consolado de sua cicatriz. Só não pôde ver o Coronel, que, um pouco afas­tado dali e com o ar preocupado de um chefe de cerimonial, zanzava nervosamente ao lado dos homens encar­regados de iniciar o foguetório.
+
+
+      Os discursos, tortura que a humanidade inexplicavelmente conserva, quase levaram o público ao deses­pero. Foi uma dis­puta de metáforas, anáforas, elipses, antíteses, sinédoques, metonímias, paronomásias, hiperbibasmos e silepses de gênero, número e pes­soa que ar­ras­tou-se por duas longas horas. Finalmente, a um sinal do mes­tre de cerimônias, a ban­da começou a tocar uma marcha militar e o Imbatível des­pontou no fim do cor­redor humano.
+
+
+      Ele usava um chapéu de três bicos com franjas de pena de pavão e vi­nha ves­tin­do um belís­simo dólmã azul cravejado de meda­lhas e pen­durica­lhos; suas luvas amarelas ti­nham deta­lhes em escarlate e um terço de conti­nhas azuis cos­turado nos punhos; seu calção branco ti­nha frisos dourados que combinavam com a bai­nha alaranjada, on­de jazia uma luzente es­pada com cabo em madrepérola; sua bota, que subia até a borda do joe­lho, es­tava tão exaus­tivamente lus­trada que refletia o sol ardente a metros de dis­tância; a barba ti­nha sido feita pela ma­nhã, ga­nhan­do um corte rente que ­lhe subtraía alguns anos na aparência, e o cabelo, infelizmente quase todo escon­dido pelo chapéu, ti­nha sido lavado com limão, vinagre e água morna para compensar a brancura com bri­lho e viço. Quan­do chegou ao meio do percurso, ele sacudiu-se sobre o cavalo e fez uma acrobática continência, baten­do com tanta força na tes­ta que o chapéu desaprumou-se, dan­do-­lhe um as­pecto menos glorioso, mas que teve que ser mantido.
+
+
+      Nes­sa mesma hora, momento culminante de sua vida de culminâncias, o General não sabia, mas havia quem planejas­se sua morte.
+
+
+      O país der­rotado as­sis­tia à fes­ta doman­do o orgu­lho, aceitan­do pacificamente o que era, no fim das contas, uma humi­lhação. Mas um país é feito de muitas almas, nem todas plácidas e submis­sas. E aconteceu que umas dez ou doze des­sas almas decidiram que aquela ban­deira não seria içada sem uma mancha de sangue. Elas foram chegan­do aos poucos nos dias anteriores, sen­do confun­didas com paisanos que vi­nham atrás de diversão; reuniram-se em pequenos grupos e de tudo souberam através da própria imprensa, que, por ordens do Coronel, vi­nha publican­do diariamente longas notas sobre a celebração. Eram homens humildes, sensíveis à propagan­da oficial e por is­so amaram sinceramente ao Ditador, tanto que agora ofereciam suas vidas para dar tes­temu­nho de sua reverência e, quem sabe, reacen­der a chama do des­temor no peito dos seus pas­sivos compatriotas. Es­tavam posicionados atrás de janelas, sobre te­lhados e no meio da própria multidão.
+
+
+      A se­nha para o início dos dis­paros era quan­do o General puses­se o primeiro pé no palanque. Quan­do faltavam apenas dois metros para que is­so aconteces­se, o exaus­to Coronel sentou-se sobre algumas das caixas de fogos de artifício, jogan­do sobre elas o nada des­prezível conjunto dos seus cento e onze quilos. Como já se dis­se, era uma tarde de sol quentís­simo, e aconteceu que o acúmulo de peso fez com que os fogos se friccionas­sem mais do que deviam. E as­sim foi que gordura e calor, ignorantes de etiquetas, deram começo, em pleno desfile, a um tremen­do foguetório que causou pânico na multidão e pôs tudo a perder, inclusive os cabelos do Coronel, que incen­diaram-se e o fizeram dançar no meio da fumaça como se pos­suído por uma entidade.
+
+
+      Ao ver tanta gente descontrolada, descontrolou-se também o cavalo do General e, depois de dois corcoveios, atirou-o ao chão sem dó nem piedade, fazen­do com que o herói dos heróis voas­se e des­se com a ve­lha e frágil anca no chão. Sem mais sinal com que contar, os atiradores começaram a dis­parar sem método e apenas com uma vaga idéia de on­de poderia es­tar o seu alvo. O Soldado, o Preto e o Conta Almas cor­reram a ajudar o In­des­trutível e tentaram fazê-lo levantar-se, mas o General, que havia quebrado a bacia, só sairia dali numa padiola.
+
+
+      Os gritos, a cor­reria e os fogos faziam da fes­ta uma confusão imensa. Então o Preto virou-se para o Soldado e dis­se Alguém atirou em mim. Era mesmo um tiro, na altura do peito, e o sangue saía em gran­des golfadas e escor­ria pelo seu uniforme novo. O Soldado então gritou Emboscada! E um grupo de recrutas e oficiais armou-se em torno do General. O Soldado continuou com o Preto nos braços e viu seu deses­pero quan­do percebeu que a morte ia chegar, deses­pero diante do inevitável, sentimento que, fôs­semos regidos somente pela razão, não teríamos, pois se o inevitável é inevitável, de que adianta temê-lo? Da varan­da on­de es­tava, o Capitão viu um dos atiradores e o matou com um tiro de es­pingarda. Várias divisões cor­reram a averiguar em cada casa, em cada te­lhado, e os inimigos foram sen­do mortos um a um.
+
+
+      Enquanto, porém, a perseguição dis­persava-se pelas ruas, um dos cons­piradores permanecia mudo, parado e in­dis­tinto no meio da multidão, a vinte pas­sos do herói desancado. Ele foi se apro­xi­man­do devagar e, quan­do es­tava a uma dis­tância segura, tirou a pis­tola e a apontou para o General. Era um tiro certo e fácil, mas o homem, nervoso, trêmulo, de mãos mo­lhadas, perdeu a firmeza do pulso e o dis­paro saiu torto, er­rante, longe do alvo. Ou, me­lhor, do alvo desejado.
+
+
+      Por que eu?, teria pensado o Soldado se tives­se tido tempo para pensar, mas há tiros que, sem ser de misericórdia, são misericordiosos e nos livram da agonia. Aquele fora um des­ses: a bala cravara-se na lateral da tes­ta, alguns miolos voaram na mesma hora, as pernas dobraram-se e os braços abriram e fecharam num movimento que parecia o de uma criança brincan­do de voar. Não teve tempo nem para uma última o­lhada para o mun­do. Fos­se a morte coisa educada, diria ao futuro defunto Es­sa noite ve­nho te buscar, e então o quase-morto teria tempo de ar­rumar suas coisas, fazer seu tes­tamento, des­pedir-se dos amigos dizen­do Até nunca mais, tomar um último gole, comer uma der­radeira refeição, dar um último beijo na mu­lher amada e só então, de bem com a vida, voltar ao nada.
+
+
+      O ros­to do General foi mudan­do aos poucos, in­do do pavor, no momento do tiro, à tranqüilidade, ao ver que a bala se ani­nhara em outra cabeça que não a sua. Dois homens rapidamentedominaram o atirador e isolaram a área, mas para o Soldado is­so já não fazia diferença, que agora havia tanta vida no seu corpo como numa gar­rafa vazia, numa lâmpada queimada, num prato quebrado ou num sapato sem par, exemplo es­te um pouco menos feliz, já que para o Sargento es­se teria alguma utilidade.
+
+
+      Ao ouvir falar em mortos, a Mu­lher das Cartas deses­perou-se e começou a abrir es­paço no meio da multidão. Não ti­nha vis­to nada no momento do tiroteio, escon­dida no meio de tanta gente, e agora cor­ria, imaginan­do o Soldado vivo e ela abraçan­do-se a ele, acarician­do seus cabelos e dizen­do Graças a Deus! Mas, quan­do chegou ao palanque e não viu nem ele e nem os amigos, sentiu um aperto no coração ou o que quer que seja, na falta de me­lhor palavra para descrever o que parece ser uma pontada, uma contração, uma sís­tole a mais, uma diás­tole a menos; enfim, uma mudança de ritmo no peito, em tudo seme­lhante a um aperto.
+
+
+      Ela então cor­reu de um lado para outro, sem saber para on­de ir, até que ao longe, o­lhan­do à direita, avis­tou o Sargento cor­ren­do com seus pés de madeira para o fun­do do palanque. Resolveu então segui-lo, com es­peranças de encontrar o Soldado. Facilmente ela o ultrapas­sou com seus pés naturais, chegan­do a um sinis­tro amontoado de gente, on­de médicos, padres e coveiros movimentavam-se atordoados; perto deles, sentado, cabeça es­con­dida nas mãos es­palmadas, o Conta Almas chorava. A Mu­lher das Cartas tentou manter-se de pé e foi cami­nhan­do em pas­so vagaroso até ele, desvian­do o mais que podia o o­lhar dos corpos cobertos com mantas de campa­nha. O Conta Almas não deu conta da chegada dela e seguiu no seu choro, só paran­do quan­do o Sargento es­tancou diante dele in­dagan­do com os o­lhos o que não podia com a voz.
+
+
+      – Mor­reram, se­nhor.
+
+
+      – Ele e o Preto?
+
+
+      – Sim, se­nhor. Todo o seu pelotão agora sou eu.
+
+
+      O Sargento mordeu os lábios e ficou um tempo fora de si; depois, sem saber com quem falava, virou-se para a Mu­lher das Cartas e dis­se O diabo é que a gente se afeiçoa. Depois, pela primeira vez na vida, chorou. Ela nem is­so pôde fazer. Só o que conseguiu foi ficar ali parada, o­lhan­do o corpo do Soldado por um longo tempo, lembran­do do futuro que não teria.
+
+
+      Em uma hora a fes­tividade recomeçou. Os homens foram enter­rados ain­da naquela tarde, quase no mesmo ins­tante em que a ban­deira era içada e os aplausos fes­tejavam a gran­de vitória nacional.
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Sargento
+
+
+      Quan­do o vapor terminou de manobrar no porto, o Sargento es­tava aliviado. Faltava-­lhe a perna, é verdade, esquecida em algum macegal do Oes­te, mas afinal já an­dava bem e rápido com as muletas, tanto que nem precisou de ajuda para descer os degraus e a rampa. Era e continuaria a ser forte como um touro, ou me­lhor, como um cavalo, ou, me­lhor ain­da, como um jumento. Como es­perava, ninguém veio recebê-lo, e ele sentiu-se bem por ter trazido sua surda compa­nheira. As­sim como todos, tornou-se um herói na rua, des­ses que os meninos apontam quan­do pas­sa. Lembrava dos homens do pelotão com um sentimento quase maternal e, meses depois, pediu a um burocrata que ­lhe des­se as suas fichas, largadas num canto de repartição on­de alimentavam cupins. Recebia, às vezes, cartas do Conta Almas, sorteado para ficar na província por mais dois anos, que ­lhe davam conta de que tudo cor­ria bem e que, sempre que podia, ia levar flores aos túmulos dos amigos, também capinan­do-os e pas­san­do neles uma mão de cal. Acreditava o Conta Almas que, no final das contas, sobra pouco da pas­sagem do homem pela vida, não mais que uns os­sos, uns fios de cabelo e poeira, e que o que nos dis­tingue, ao cabo, são apenas os sepulcros, no que talvez não es­teja er­rado. Uma promoção chegou a ser dada como certa ao Sargento, mas um outro, afi­lhado do Coronel, acabou ga­nhan­do a patente; com is­so desgos­tou-se de vez e só ves­tia o uniforme nos dias cívicos, quan­do era obrigado a desfilar diante de adolescentes que o o­lhavam com inveja, sedentos de provar sua valentia contra os inimigos da pátria. Jovens idiotas, pensava, esquecido de que também o fora um dia.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Tenente
+
+
+      O Tenente, limpo e barbeado, avis­tou da amurada do navio a mu­lher e o fi­lho no meio da multidão. Enquanto es­perava a vez de descer, deu um breve lus­tro nos botões da farda e ajeitou o tapa-o­lho, cuidados últimos de quem quer dar o me­lhor de si no reencontro com os que ama. Logo que o viu, a mu­lher cor­reu desajeitadamente a abraçá-lo, mas não pôde disfarçar a tris­te impres­são que ­lhe deu aquela meia cegueira e desatou a chorar; o fi­lho, ven­do a mãe em prantos e o pai tão diferente, também não fez por menos e seus lábios começaram a tremer. Era uma cena mais tris­te do que alegre, mas o Tenente não se importava com is­so e já imaginava as tardes em que contaria episódios da guer­ra que só acompa­nhara de longe, mas que nar­raria como se os tives­se vivido com a boca negra por abrir os cartuchos de pólvora e a roupa verme­lha, suja pelo sangue que saltava dos inimigos quan­do ele ­lhes enfiava a baioneta. Talvez preferis­se dizer a verdade: que detes­tara tudo e que lutara medrosamente, quase escon­den­do-se em cada bata­lha, mas es­tavam lá uma meda­lha e o buraco do o­lho a negá-lo, e os amigos pensariam que além de tudo era modes­to. Es­tava con­denado a ser herói. Pediu baixa do exército e ajeitou-se num emprego público, aproveitan­do o momento em que todas as portas se abriam aos militares. Es­tava tão reconciliado com a vida que até mesmo a lembrança do pai, que o obrigara a sentar praça e seguir car­reira, não mais o incomodava. Reco­nheceu na sua brutalidade as boas intenções de uma bon­dade rús­tica e, por fim, deu-­lhe um perdão pós­tumo. Teve mais quatro fi­lhos, muitos cães e criou gali­nhas. Sua vida resumiu-se à rotina de funcionário, às obrigações de marido, aos afazeres de pai, às diversões de pescador e assim foi feliz.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Capitão
+
+
+      Muitos cumprimentos es­peravam o Capitão no seu desembarque, alguns pela bravura, outros pelas bodas. Sua bela e jovem mu­lher des­pertava gran­de inveja nos amigos, coisa que percebia e apreciava. Cada o­lhar perdido, cada mergu­lho no decote, cada elogio caloroso o deixavam mais convencido de que o casamento seria uma valiosa fer­ramenta para subir na car­reira. Foi es­ta também a tese que desenvolveu no primeiro encontro que teve com a Con­des­sa, exageran­do na conveniência política do enlace. Dis­se que a moça era fi­lha de um importante caudi­lho da província e jurou que o General praticamente o obrigara a agir des­sa forma em nome dos interes­ses do país. Entre soluços, a Con­des­sa ia ouvin­do as desculpas e, aos poucos, convencen­do-se do improvável. Perguntou então se a rival era bonita e ele dis­se que era uma criança des­temperada, chorona e intratável, sem nada falar sobre beleza, mas a Con­des­sa não se apercebeu do deta­lhe e o beijou calorosamente, dizen­do logo em seguida que o corte o deixara com um as­pecto mais viril. Ele es­pertamente aproveitou a ocasião e começou a nar­rar o momento em que recebera o golpe, exa­ge­ran­do no porte do adversário e na violência da luta para tornar a cena mais heróica, expediente muito feliz, porque a Con­des­sa abraçou-o e o cobriu de lágrimas, não falan­do nem mais uma palavra sobre a es­trangeira que ­lhe faria concor­rência dali por diante. Nos bailes era apontado pelas moças e percebeu que o corte era mais uma qualidade que um defeito, e as­sim, usan­do sua marca e algumas mentiras, teve muitas amantes. Escreveu um livro sobre a guer­ra, cheio de elogios aos superiores, chamado Cicatrizes do Oeste. Com is­to, tornou-se coronel.
+
+
+      
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Coronel
+
+
+      O Coronel, mal pos­tos os pés no trapiche, começou sua campa­nha política. Aproveitan­do-se dos problemas de locomoção do General, ofereceu-se para ir ao senado ler um Relato sobre o Es­tado de Coisas na Nova Província do Oes­te, por ele mesmo redigido durante a viagem. A sua figura ficara ain­da mais imponente com a cabeça queimada, sem um único fio de cabelo ou de barba. Tentou escon­der do público o modo vexatório como se queimara, mas não escapou da verdade e recebeu o apelido de Coronel Fósforo. Foi me­lhor: as­sim tornou-se co­nhecido e elegeu-se com facilidade para o cargo de senador. Diante da inapetência do General, chegou a Minis­tro da Guer­ra e a Conse­lheiro Militar de Sua Majes­tade. Viajou o mun­do, foi abençoado pelo Papa, deu pales­tras, colecionou ingres­sos de ópera, orientou jovens oficiais e encomen­dou a um escritor em dificuldades uma biografia de quatrocentas páginas. Com relação a títulos e honrarias, chegou a barão, presidente do clube militar e grão-mes­tre da maçonaria. De res­to, sua vida não mudou: continuou sen­do um freqüentador de teatros e saraus, trocan­do receitas e boatos com as suas amigas da corte.
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O General
+
+
+      O General desembarcou coberto de glória e confirman­do a alcu­nha de Invencível, mas o quase ter mor­rido de forma tão es­túpida o fez ver que não era imortal. Pas­sou então a viver para as futuras gerações, pensan­do, com alguma dose de sensatez, que quan­do se deixa de viver pas­sa-se a viver na memória dos outros. Buscava a imortalidade e cuidou para que a sua lembrança fos­se a me­lhor pos­sível. Cada ges­to seu, a partir de então, foi es­tudado para se atingir es­se fim: fez donativos a casas de órfãos, deu largas esmolas, foi imperador do Divino Es­pírito Santo, criou cães vadios, repugnou a bebida, censurou o jogo, exaltou a família, doou ter­ras à igreja católica, cons­truiu um templo protes­tante, man­dou pintar escolas, recuperou hos­pitais, subsidiou asilos, libertou escravos e publicou um poema à mu­lher nas bodas de ouro. No final das contas, conseguiu seu objetivo, que ain­da em vida tornou-se Duque e depois da morte virou nome de rua, loja de armas, praça, escola, alameda, hos­pital, sinônimo de valentia, es­tação de trem, efígie de moeda, time de futebol, capítulo de livro de his­tória, filme medíocre e até um aca­nhado cemitério numa cidade do interior, tornan­do-se, as­sim, uma meia divin­dade, pois na dita cidade, quan­do querem dizer que alguém mor­reu, dizem Es­se foi servir no bata­lhão do General.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+  
+    
+      
+
+
+      O Rei
+
+
+      O Rei foi o gran­de vencedor da guer­ra. A his­tória, preguiçosa como é, não iria dar es­paço a uma infinidade de militares. Falaria, é certo, do General, mas talvez apenas citas­se o Coronel, mal lembraria o Capitão, er­raria o nome do Tenente, des­prezaria o Sargento e nem saberia do Soldado. Com o pas­sar do tempo, foi como se o Rei tives­se vencido aquela guer­ra sozi­nho. Esta injus­ta glória o deliciava quase tanto como abor­recer o Diplomata. Este também não ti­nha motivos para queixas: seu país fizera gran­des emprés­timos ao país do Rei, alcançan­do um superávit his­tórico na balança comercial e is­to ­lhe ren­dera títulos, ter­ras e gratificações. Eram, talvez, as pes­soas mais felizes do mun­do naquela tarde em que o Rei ­lhe dis­se Hoje jogaremos o abor­recido jogo de xadrez. E o Diplomata exclamou Aleluia!
+
+
+      – Surpreso?
+
+
+      – Já es­tava começan­do a gos­tar do truco.
+
+
+      – Es­tás sempre contra mim.
+
+
+      – É uma de mi­nhas alegrias.
+
+
+      – Jogaremos com es­tas peças.
+
+
+      – Um tanto rús­ticas.
+
+
+      – Mas resis­tentes.
+
+
+      – As brancas es­tão mal pintadas.
+
+
+      – Não foram pintadas, são os­sos de soldados inimigos.
+
+
+      – Quem vos deu es­te delicado presente?
+
+
+      – Aquele coronel bajulador.
+
+
+      – Quem não tentou vos bajular?
+
+
+      – Tu.
+
+
+      – É que não me pagais, nem me promoveis.
+
+
+      – Mas se me venceres hoje, peço tua extradição.
+
+
+      – Então perderei de propósito.
+
+
+      – Mas não deixes que eu perceba.
+
+
+      – Sempre pedin­do coisas difíceis.
+
+
+      – Difícil será que eu continue feliz como es­tou.
+
+
+      – Bas­ta que ar­rumeis outro conflito.
+
+
+      – An­do pensan­do nis­to.
+
+
+      – Gos­tas­tes tanto as­sim da guer­ra?
+
+
+      – De odiado pas­sei a amado.
+
+
+      – É um bom motivo.
+
+
+      – Os meus súditos também gos­taram.
+
+
+      – Todos?
+
+
+      – Os que voltaram são heróis, os que não foram sentem-se vitoriosos e os mortos não podem reclamar.
+
+
+      – Sem dúvida, foi um gran­de negócio.
+
+
+      – A ira é quase sempre um bom negócio.
+
+
+      – Alguma nova guer­ra à vis­ta?
+
+
+      – Claro.
+
+
+      – E quem será o novo inimigo?
+
+
+      – O país ao Les­te.
+
+
+      – É um país pequeno e fraco.
+
+
+      – Eu sei. Por is­so vou atacá-lo.
+
+
+      – Não é covardia lutar contra os mais fracos?
+
+
+      – A ira, meu caro, só é sábia se possui um grão de covardia. Se não, é pecado.
+
+
+      
+
+
+      
+
+    
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Letter Gothic Gras
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Times New Roman Gras
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prisa_CMYK_Coated
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capa Xadrez truco e outras guerras.indd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Letter Gothic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Times New Roman
+

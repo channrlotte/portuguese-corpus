@@ -1,0 +1,1588 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O crime do Cais do Valongo
+
+
+        
+            
+                
+            
+        
+
+    
+		
+			É muito bem-vindo o segundo romance de Eliana Alves Cruz, autora que nos ajuda a ampliar a presença negra na literatura brasileira. A produção de escritoras e escritores afrodescendentes é porção ínfima no mercado editorial. Igualmente raras são as personagens pretas e pardas, como reza a classificação do IBGE. “O crime do Cais do Valongo” materializa o invisível. Foi escrito por uma mulher negra, tem protagonistas negros. De um lado, a africana escravizada Muana Lomuè, suas memórias e rancores; de outro, o mestiço Nuno Alcântara Moutinho, que resiste ao embranquecimento sugerido pela sociedade assentada no racismo.
+
+			O livro viaja a uma África de diversidade étnica e cultural ainda desconhecida no Brasil. Embarca na brutalidade dos navios negreiros. Fruto de pesquisa histórica cuidadosa, que inclui reprodução de notícias e classificados de jornais de época, passeia por cenários de um passado carioca intencionalmente soterrado. Alimenta-se das tradições religiosas que aproximam Orum e Aiyê (céu e terra, na língua do colonizador), mortos e vivos, ancestrais e descendentes. 
+
+			Enquanto saboreia o enredo ficcional que parte do assassinato de Bernardo Lourenço Viana, rico comerciante branco, nos arredores do Valongo, o leitor aprende sobre as condições de vida que forjaram o Rio de Janeiro. E cujas cicatrizes ainda sangram.
+
+			Flávia Oliveira é jornalista
+
+		
+
+
+		
+			Para todos os meus mais velhos, nas figuras de meu pai Eloá e minha mãe Lina (in memoriam), por me darem o mapa de onde vim.
+
+			Para os meus irmãos Adriana, Paulo, Bárbara,  primos e amigos contemporâneos, por fincarem meus pés na urgência de viver irmanados em nosso tempo.
+
+			Para meus filhos Jorge Alexandre e Julia, presentes lindos da “deusa-ventre” nesta existência, por me fazerem mirar o futuro com os olhos cheios de amor.
+
+		
+
+
+		
+			
+
+			
+
+		
+
+
+		
+			Copyright © 2018 Editora Malê
+
+			Todos os direitos reservados. 
+
+			ISBN 978-85-92736-27-9
+
+			 
+
+			Capa: Angelo Abu
+
+			Diagramação: Márcia Jesus
+
+			Projeto gráfico e edição: Vagner Amaro
+
+			Revisão: Léia Coelho
+
+			Produção de ebook: S2 Books
+
+			 
+
+			Texto revisado segundo o novo Acordo Ortográfico da Língua Portuguesa. 
+
+			 
+
+			Proibida a reprodução, no todo, ou em parte, através de quaisquer meios.
+
+			Dados internacionais de catalogação na publicação (CIP)
+
+			Vagner Amaro CRB-7/5224  
+
+			
+				
+					C957c
+
+					Cruz, Eliana Alves
+
+					O crime do Cais do Valongo / Eliana Alves Cruz. –
+
+					Rio de Janeiro:  Malê, 2018. 
+
+					130 p.; 21 cm.
+
+					ISBN 978-85-92736-27-9 
+
+					1. Romance brasileiro 2. Cais do Valongo II. Título
+
+					 
+
+					CDD – B869.3
+
+				
+
+			
+
+			Índice para catálogo sistemático: 1. Conto moçambicano M869.301
+
+			2018
+
+			Todos os direitos reservados à Malê Editora e Produtora Cultural Ltda. 
+
+			www.editoramale.com.br  
+
+			contato@editoramale.com.br
+
+		
+
+
+Sumário
+
+
+
+
+
+
+
+  Capa
+
+
+
+  Folha de rosto
+
+
+
+  Créditos
+
+
+
+  O fim que é comeco
+
+  O defunto mais estranho de São Sebastião
+
+
+
+  Eu leio, eu escrevo
+
+
+
+
+
+  Onde mora o encantamento
+
+  A investigação
+
+
+
+  Um novo visitante
+
+
+
+
+
+  O caldeirão de Roza
+
+  A investigação — Primeira pista
+
+
+
+  Uns cozinham, outros costuram
+
+
+
+
+
+  Eu nao sou daqui
+
+  A investigação — Segunda pista
+
+
+
+  O passado um dia volta
+
+
+
+
+
+  Brinco de lua
+
+  A Investigação — Suspeitos
+
+
+
+  Eu nunca tinha visto o mar
+
+
+
+
+
+  O livro da feiticeira
+
+  A investigação — Terceira pista
+
+
+
+  Os verdadeiros monstros
+
+
+
+
+
+  Feliz Dia
+
+  Primeira conclusão
+
+
+
+  O limbo
+
+
+
+
+
+  O cortejo invisível
+
+  Segunda conclusão
+
+
+
+  A chegada
+
+
+
+
+
+  O noivado
+
+  Terceira Conclusão
+
+
+
+  A hora da sesta
+
+
+
+
+
+  Reviravoltas
+
+  Últimas conclusões
+
+
+
+  Corpo e espírito
+
+
+
+
+
+  O iníquo
+
+  Real graça
+
+
+
+  Todos em seus mundos
+
+
+
+  Quem jura não mente
+
+
+
+
+
+  Referências
+
+
+
+		
+			
+
+			
+
+		
+
+
+		
+			
+
+		
+
+
+		
+			O defunto mais estranho de São Sebastião
+
+			Escrevi a notícia inteira com luxos de detalhes, mas sabia que não sairia na Gazeta do Rio de Janeiro. Este libreto de repórter enfadonho, de um palmo de medida, que só falava das guerras e conflitos da Europa, dos assuntos ligados a Dom João e sua família ou, ainda, de avisos de compras, vendas, viagens... Queria que este periódico fosse como os que o marujo Caetano me trazia entre seus contrabandos: moderno. Se assim o fosse, não escaparia de ter nele escrito que o todo poderoso Intendente-Geral de Polícia, Paulo Fernandes Viana em pessoa, coçava a cabeça e franzia a testa enquanto comprimia um lenço de linho bordado no nariz, se defendendo dos odores da decomposição que já fazia seu trabalho corrosivo.
+
+			Acompanhado de dois guardas da Divisão Militar da Guarda Real, olhava a face intumescida de seu parente distante e vizinho na chácara do Andarahí Grande sem entender nada. O morto estava envolto em uma colcha sob medida, com uma faca cravada na barriga e com duas partes do corpo decepadas. Era o defunto mais estranho de toda a São Sebastião do Rio de Janeiro.
+
+			Ele, que despachava a cada dois dias com D. João VI em pessoa e dominava a área da segurança pública, nunca vira nada parecido. Palavras dele. E era sua responsabilidade patrulhar as ruas, expedir passaportes, vigiar os estrangeiros, fiscalizar as condições sanitárias dos depósitos de escravos e providenciar moradia para os novos habitantes que a cidade recebeu com a chegada da corte ao país.
+
+			— Há menos de uma semana estava este gajo na chácara oferecendo uma festa “daquelas” dignas de um vice-rei! Mas o que terá passado...? — murmurava Paulo Fernandes, enquanto verificava o defunto.
+
+			O corpo do comerciante Bernardo Lourenço Vianna estava acomodado em um caixote, a um canto na Rua Detrás do Hospício, ali bem perto da Igreja Nossa Senhora dos Homens Pretos, que, além do mais, ficava muito próxima da residência do intendente, uma imponente casa da Rua do Conde, perto do Campo de Sant’Anna. Sua famosa carroça estava estacionada a poucos metros. O Intendente pensava que o primo, próspero negociante do Valongo era, decerto, uma figura presunçosa e bastante desagradável. Conhecia-o bastante bem das históricas desavenças familiares e também porque sua hospedaria — a Vale Longo — um pulgueiro bem próximo aos armazéns, trapiches e tabernas daqueles subúrbios, por vezes recebia quem chegava fugido dos conflitos na Europa e atraído pela presença da Família Real em solo brasileiro, mas não tinha dinheiro para ocupar os lugares nobres da cidade. Também tivera vários arranca-rabos com ele por conta dos depósitos de escravos; o pançudo era sócio em diversos. Entre suas atribuições como intendente estava a de fiscalizar as condições daqueles locais.
+
+			Ficou famosa uma briga entre ambos após a inspeção do Armazém 23, quase defronte à hospedaria. Bernardo não queria gastar um único vintém para fazer as modificações recomendadas e sempre se valia do parentesco distante com o intendente para escapar. Desta vez foi multado. O bate-boca entre os primos aumentou de tom e ganhou as ruas, para assombro dos transeuntes. Bernardo apelou para os assuntos familiares e privados. Pronto. Por muito pouco o comerciante não saiu dali direto para a prisão.
+
+			Paulo Fernandes sempre achou que o temperamento de Bernardo o colocaria em desventuras infinitas ao longo da vida, mas nunca imaginou que o acharia morto daquela forma tão estranha e justo  naquele momento, em que parecia estar no auge de suas posses, finalmente com o título de barão, cuja obtenção tanto o perturbara, e prestes a se casar com uma moça belíssima, de  uma das famílias mais tradicionais da cidade, Emerenciana Campelo D’Ávila.
+
+			Apesar do estranhamento entre os dois, depois que ascendeu na vida e eles passaram a ser vizinhos no Andarahí em suas chácaras para descanso, Bernardo entendeu que, afinal, eram primos em terceiro grau e não convinha arrastar um mau relacionamento com o parente poderoso. Selou a paz enviando vez por outra um bom vinho ou azeitonas de suas remessas, chamando-o para um licor, um café, um bom Havana na varanda ou, ainda, mandando finos tecidos para a requintadíssima esposa do Intendente.
+
+			Em ocasião das visitas à chácara, a africana Muana servia aos primos, com aquele seu porte altivo e rosto marcante, alguns quitutes feitos pela mocinha chamada Roza, enquanto o negro grande de nome Marianno capinava matos e mantinha a propriedade limpa. Os três e o senhor alternavam períodos na chácara e na hospedaria, pois ele agora podia dar-se ao luxo de fechar por alguns dias a estalagem no Valongo para repousar no sítio afastado.
+
+			A polícia foi chamada por alguns moradores incomodados com o cheiro. Eu era um privilegiado, pois a garapa sempre me deixava imune aos odores da cidade, quase sempre pútridos. Os primeiros suspeitos — seus três pretos — não se achavam fugidos. Estavam em sua hospedaria e, aparentemente, não pareciam estar envolvidos, mas... O Intendente suspirou sentindo um cansaço, pois percebeu que a investigação daria trabalho. O fim deste homem parecia-lhe apenas o começo de uma longa história.
+
+			Eu, com fortes dores de cabeça e a barriga embrulhada depois da carraspana do dia anterior, estava imune ao cheiro, mas não ao ensurdecedor barulho. Abri a janela disposto a espantar toda aquela gente desocupada, quando vi o tumulto no beco. O susto foi tanto, que saí do jeito que estava: meio vestido, meio pelado. A memória do dia anterior vinha em doses e confusas. Alguns escandalizaram-se mais com a minha figura seminua e de cabelos em pé do que com o motivo da confusão: um morto em meio à imundície tradicional. Vá lá que, pensando bem, ele até que compunha bem o cenário. Quando vi o rosto do finado, ajoelhei de mãos postas, pois algum demônio maroto fazendo o mal acabou por fazer-me o bem. Ali jazia o meu maior e mais feroz credor!
+
+			A crioula Tereza, sabedora da minha total falta de fé em milagres, arregalou os olhos e fez uma careta.
+
+			— Mais que marmota é esta agora, Nuno?
+
+			Levantei sorrindo feito um dos bobos do hospício instalado pelos freis ali próximo, bailando de ceroulas. Ora, ora! Vejam as voltas que a vida dá, pois se não era o senhor Bernardo quem parecia ter se metido em uma enrascada das grandes?! Também cocei a cabeça pensando que havia muito a cidade não tinha uma novidade daquelas. Em honra a minha vida salva pelo assassínio de tão detestável figura, decidi investigar, e quais não foram minhas descobertas... e quais não foram!  A prova maior é que estou eu aqui, Nuno Alcântara Moutinho, um letrado aspirante a livreiro, lendo as tantas coisas escritas por aquela preta. Estou vivamente impressionado. Quem diria! Vamos a ela.
+
+			 
+
+			--- &&&---
+
+		
+
+
+		
+			Eu leio, eu escrevo
+
+			“Ô meu sinhô, já chegou? Sim! Já estou indo, meu sinhô! Ligeiro me apronto e chego de volta antes da hora de sua ceia.”
+
+			Falei curvando-me, amarrando o lenço com pressa na cabeça e ganhando a rua para chegar com ligeireza à Rua do Passeio, no local da Imprensa Régia, onde todas as quartas-feiras desde o ano anterior, quando o jornal começou a circular, meu amo enviava por mim anúncios de seus negócios próprios ou  daqueles em que era meeiro, para que saíssem na Gazeta do Rio de Janeiro do sábado seguinte. Eu buscava o exemplar daquela quarta com os anúncios postos no sábado e pegava o de sábado com os avisos postos na quarta. Religiosamente.
+
+			As primeiras vezes que lá estive foi com meu senhor, mas depois, de tanto me ver perambulando na loja da Gazeta, o criado Justino já me conhecia e recebia os papéis dos avisos mesmo que eu estivesse sozinha. Ele me sorria e estendia a mão. Eu entendia tudo o que estava escrito, mas o Justino nem desconfiava e era melhor que continuasse assim.
+
+			A Gazeta ficava no Passeio Público, no térreo da grande residência do ilustre Conde da Barca. Era um estirão a pé, pois a hospedaria do senhor Bernardo ficava na entrada da Rua do Valongo, à direita, no número 38, ao lado de uma loja de fazendas secas. No outro lado da rua, no número 23, havia um enorme armazém para leilões onde cabiam trezentos, quatrocentos pretos. Os reis vieram de Portugal no ano anterior e a cidade parecia explodir de tanta gente. Tudo fervilhava! Tudo era movimento! Saía da freguesia de Santa Rita e passava defronte a esta igreja de mesmo nome. No chafariz, muita gente se amontoava para pegar água. Quando voltava, se o dia estivesse ensolarado, as crianças se divertiam nele.
+
+			O Valongo não era nada bem-visto. Ficava um tanto fora da cidade, que tinha uma costa com muitas enseadas e ilhotas repletas de trapiches e escritórios. A enorme Pedra do Sal nos separava do resto. Para chegar ao outro lado, eu tinha que dar uma volta enorme pelo morro da Conceição. Quase toda a casa aqui era também um depósito de gente... gente para venda. As pessoas de bem fugiam deste lugar, mas para muitas eram esses negócios “sujos” que fingiam não ver que pagavam seu rapé, finos tecidos, aulas de música, livros raros e carruagens. O Cemitério dos Pretos Novos foi transferido da Santa Rita para um ponto bem mais acima da rua da hospedaria Vale Longo. Em alguns momentos tínhamos que fechar as janelas, pois o cheiro ficava opressivo. Eu só passava ali perto se não tivesse outro jeito e nunca olhava para o lado. Um religioso ficava defronte, rezando em um livro pequeno pelos que se foram. Ele sempre me chamava.
+
+			— Ei, Moça! Venha orar pelos seus! — Ele me gritava.
+
+			O muro de tijolos era baixo e eu via os dois únicos negros que se encarregavam de enterrar. Eu preferiria o açoite a este serviço! No fundo do retângulo que era a terra do cemitério, uma cerca de esteiras o separava de outra propriedade. Punha-me a pensar: “O terreno não é grande e vejo que os armazéns estão cada vez mais abarrotados. A chegada de novos tumbeiros aumenta a cada dia. Por enquanto o Valongo não é tão povoado, a maioria das casas é de comércio e não estão coladas ao local, mas um dia estarão em cima das covas rasas”.
+
+			A pensão oferecia hospedagem, refeições e prosperava com o vai e vem de comerciantes, donos de navios, leiloeiros e mestres de bergantins, curvetas, galeras, brigues e sumacas. A profundidade não deixava as grandes embarcações chegarem até ali. Tudo era desembarcado em barcos menores e estes sim traziam as mercadorias à costa.  Com o tempo, mesmo observando de longe, eu conseguia identificar cada um destes barcos, e não apenas eles, mas o que ia dentro: rapé francês, marfim, azeite doce, atum de fino trato, fazendas, temperos e também suas gigantescas levas de escuras figuras iguais a mim... como eu era no dia em que estive no armazém de número sete.
+
+			Eu podia identificar apenas por seus dentes limados ou marcas nas faces se eram Rebollos, Casanges, Monjollos, Benguelas, Fulas, Iorubas ou patrícios Moçambiques... esses nomes que por aqui dão aos que atravessam o grande rio e vêm pisar seus pés feridos nas areias da praia ali tão perto. O vice-rei ordenou que nenhum negro poderia sair do Valongo, ou seja, entrar na cidade antes da venda. Se morressem, lá mesmo ficavam no cemitério dos novos. Aquele pedaço de chão, com o grande pedregulho separando o resto da cidade, seria tudo o que conheceriam desta terra. Ficava sempre a pensar que eu era como a Pedra do Sal, pois vivia entre dois mundos. Todas as quartas e sábados eu saía da terra dos mortos ou semimortos do lado de cá para a dos vivos, do lado de lá, dentro da cidade. Eu era um elo desta corrente estranha. Eu e a Pedra repleta de negros que carregavam aquele material cortante que era o sal.
+
+			O aviso na Gazeta desta quarta diz: “Bernardo Lourenço Vianna, morador do Valongo, quer vender humas casas de sobrado, que forão de Manoel Rodrigues Barbosa, sitas na rua das Mangueiras”. 
+
+			Rua das Mangueiras... fica perto do Passeio e do Aqueduto da Carioca. Quando os reis chegaram, muitos donos das casas bonitas do Passeio tiveram que deixar suas moradas para os senhores nobres que vieram na mesma nau. Era muita gente! Uma casa na Rua das Mangueiras devia valer muito! Ouvi o senhor dizer que estavam em preços muito cômodos e que não iriam desagradar ao comprador, principalmente porque além de excelente mobília lá ficará “huma negra que sabe lavar, cozinhar e comprar”.  Ora, que preço poderia ser cômodo ao comprador de tal propriedade?
+
+			Lia avidamente a Gazeta. Precisava saber o dia em que meu senhor Bernardo  decidiria vender por “preços cômodos” a hospedaria com suas cadeiras, camas, mesas e negros, ou mesmo quando decidiria vender apenas um de nós três. Eu acompanhava também as coisas da guerra que o branco Napoleão Bonaparte estava travando com os brancos portugueses da terra de dona Ignácia. Ficava ansiosa pelo próximo acontecimento na Gazeta do sábado seguinte. Não entendia bem algumas coisas, mas dava para ver que estavam passando um mau bocado... e isso, devo confessar, me dava um certo prazer.
+
+			A casa estava sempre cheia. Eu precisava correr para não deixar por muito tempo a outra criada, Roza, sozinha com todo aquele serviço. Éramos apenas eu, ela e o Marianno Benguella, que fazia tudo o de mais pesado. Meu senhor, Bernardo Lourenço, fazia muitos negócios. Ele e sua esposa  — dona Ignácia  — estavam subindo rapidamente na vida e eu era preta de sua estima e confiança. Toda gente dizia que eu parecia crioula brasileira, pois era boa enfermeira, sabia servir com delicadeza um chá e vestir uma senhora.  Nada aprendido com este casal tão bruto. Muito do que sabia me foi ensinado por uma irmã do lazareto onde estive, a Maria do Carmo, mas o senhor Bernardo não tinha do que se queixar de minha parte. Nunca um aviso deixou de sair na Gazeta. Nunca um pagamento deixou de ser feito quando eu  era a encarregada. No dia anterior mesmo me fez levar os réis da assinatura e um papel anunciando casas. Ele estava seguro de que eu não seria louca  de lhe trair a confiança.
+
+			Há um tempo obrigou-nos a assistir ao castigo do moleque Nathanael, com quem encontrou umas patacas que pensou serem dele. Não o entregaram aos quadrilheiros, aqueles homens responsáveis pela segurança na cidade antes  de o Intendente-Geral da Polícia receber nomeação do rei. Não, senhor! Ele besuntou por conta própria todo o corpo do moleque com mel e amarrou ao sol. Os muitos mosquitos e insetos que povoavam o ar naquele verão de infernos lhe picaram o corpo todo. Sem contar o calor escaldante que esquentava o mel na pele causando muitas queimaduras... Um suplício! Meu senhor podia ser muito severo com quem lhe atraiçoasse.
+
+			O Nathanael acabou por confessar que vendia no cais aos viajantes, sem o consentimento de meu senhor, uns produtos de um comerciante da Rua Direita, aquela mesma da igreja do Carmo, e onde, não fazia muito tempo, quase toda casa de comércio também vendia gente que chegava ao cais perto do paço.  O tal comerciante lhe dava uns trocados de paga que ia juntando para a compra de sua alforria.  Nesse tempo, dona Maria Ignácia não permitiu que o levassem ao calabouço, tão pouco lhe foi permitido ficar na casa. Ela imaginou destino pior que a prisão: o engenho Tamarineiras.
+
+			O Nathanael, coitado, quase foi parar nos infernos, se eu não entendesse o que o senhor escrevia. Por isso, para saber sempre o que vão fazer esses senhores, agreguei outros treinos e letras ao que aprendi em minha terra e ao que a irmã Maria do Carmo me ensinou no Lazareto, mas ninguém pode jamais descobrir que eu leio os avisos que ele coloca na Gazeta e também as cartas que me manda pôr no correio. Não é bisbilhotice, como pode alguém dizer, mas proteção. Eu leio e eu escrevo, como estou escrevendo agora. O serviçal da Gazeta, o Justino, não pode desconfiar de modo algum! Deus o livre! Apenas de pensar estremeço. Baixar-me-iam o azorrague, me poriam a ferros, vender-me-iam para algum engenho cruel como aquele, lá pelas bandas de Valença. As imagens do Tamarineiras me apavoram.
+
+			Tenho lembranças da viagem feita na companhia de meu senhor àquela fazenda. Ele, a senhora Ignácia e eu partimos numa viagem que me pareceu eterna, naquela carroça cambaleante, perdendo apenas para a tenebrosa travessia que me trouxe a este país. Meu senhor tinha negócios a fechar com o dono daquelas terras. Ele serviria como intermediário na compra de um lote de pretos, e de outros produtos caros encomendados pelo senhor do engenho, e nessa viagem trataria do transporte e da comissão. Aproveitaram para tomar novos ares, pois a senhora já sofria os males de sua saúde, e minha presença ali era para auxiliar nos cuidados com ela.
+
+			 
+
+			Era uma casa suntuosa como não tinha jamais posto meus pés. Passado o grande portão de ferro na entrada da propriedade, surgia uma alameda com as frondosas árvores que lhe davam nome. Entrando na casa espaçosa da fazenda, um piso longo de tábuas enceradas e brilhantes, candelabros de cristal, móveis de puro jacarandá. Nas cristaleiras uma louça digna de um palácio. As negras de dentro da casa estavam sempre muito bem vestidas e o movimento por lá era constante com outros fazendeiros, suas senhoras e autoridades. Eu cheguei ali um pouco deslocada. Encaminharam-me direto à cozinha e depois mostraram os aposentos de minha ama. Servia a merenda a minha senhora, dava seus remédios,  preparava seu banho, cuidava de suas roupas e pertences. Ajudava a trocar-se e arrumar-se para estar nas recepções.
+
+			Meus senhores sabiam que estariam com gente importante e levaram seus melhores trajes e acessórios, que perto dos outros senhores pareciam sempre pobres e acanhados. Eu percebia que tentavam ser elegantes, mas nunca conseguiam. Estavam aos poucos entrando na categoria dos ricos, mas aqueles nobres no fundo não os consideravam iguais. Eu via o quanto estes se incomodavam com o fato de meus senhores não saberem usar direito aqueles pegadores de comida. Sempre usaram colheres ou as mãos, e se atrapalhavam. Também não sabiam que taça pegar primeiro ou que prato. O senhor Bernardo, com seus dentes amarelados e cabelos que pareciam untados de óleo e dona Ignácia, com marcas na face de quem escapou da bexiga em algum tempo remoto, notadamente eram um incômodo. Não queriam gastar o precioso dinheiro que tanto suaram para conquistar. Resistiam a comprar uma carruagem decente, por exemplo. No entanto, eles se empenhavam para ser aceitos, imitando tudo o que os outros faziam. E os anfitriões e convidados se esforçavam para fingir que os acolhiam, pois entre a sinceridade e o dinheiro, o segundo sempre sairá vencedor.
+
+			Certo dia, no princípio da noite, os feitores trouxeram um homem que diziam ter feito algo abominável. O senhor Lima de Azeredo, dono daquelas terras, reuniu os pretos da casa e da lavoura e também os brancos seus convidados. Todos se acomodaram como que em um teatro igual àqueles  a que vez por outra meus senhores iam assistir nas casas distintas. Ficamos todos ao redor de um enorme caldeirão com água fervente. Eu estremecia imaginando o que estava para ocorrer. Nenhum dos pretos queria ver, e percebi que alguns brancos, principalmente senhoras, também não, mas o senhor Lima de Azeredo nos obrigava com voz enérgica e uma ameaça no olhar. O senhor Bernardo e dona Ignácia estavam entre os mais excitados da assistência.
+
+			O homem foi trazido por dois capatazes enormes, cada um segurando em um braço. Estava altivo, mas só começou a gritar quando viu o que seria feito. O senhor falava muito exaltado.
+
+			— Se em sua terra selvagem permitem-se estas imundícies e sujidades, vestidos como mulheres e servindo de pacientes uns aos outros, não o farão em minhas terras! Não o farão em terras de verdadeiros cristãos de bem!
+
+			Este senhor não sabia o que estava a fazer. Enquanto era conduzido para o caldeirão, entre os gritos, o homem maldizia toda a geração dos senhores e jogava encantamentos. Ele era um jimbanda[ 1 ]  e muitos tinham tradições em feitiçarias. Dizia coisas fortes em sua língua, que aprendi a reconhecer um pouco nos meus tempos do mercado em Quelimane, na minha Moçambique. Ele era acusado de somitigo. Se fossem pretos fazendo outros pretos de mulher, não sei se o castigo chegaria àquele ponto, mas o condenado estava de caso com um sinhozinho branco, embora no caldeirão tivesse apenas uma cor.
+
+			Quando finalmente foi mergulhado. O pobre desmaiou de tanta dor antes de a água lhe chegar aos joelhos. Não sei o que foi pior, os gritos ou aquele silêncio cheio de odores, sons da noite e respirações ofegantes. Os rostos de uns escondendo a todo custo o medo e a aflição e os de outros aproveitando o espetáculo.
+
+			Senti as tripas revirando e uma nuvem passou em minhas vistas. Calafrios de pavor percorreram meu corpo. Estava pela primeira vez em um engenho e nunca mais esqueceria aquele momento porque ele, o escravo escaldado, viria a se juntar aos muitos que me cercavam chegados do outro mundo. Disse que se chamava Joaquim Mani Congo e pediu uma coisa que eu sabia muito bem o que era, mas que não sabia como dar: a paz no mundo dos ancestrais.
+
+			 
+
+			---&&&---
+
+			 
+
+			Na Gazeta Rio de Janeiro, o Justino estendia sua mão para receber o papel, mas não conseguia decifrar nada do que estava escrito nele e pensava que eu era sem letras como ele e quase todos os outros. Muito senhor também não sabia. Mais um motivo para esconder muito bem escondido meu segredo, pois eles não toleram ver um preto ou uma preta saber alguma coisa que eles não sabem e que não é trabalho de força dos braços.
+
+			A irmã Maria do Carmo, por força da necessidade, terminou de ensinar o que comecei a aprender em minha terra. Naquele momento era contar comigo para ajudar nas muitas tarefas do lazareto ou ela não teria mais ninguém. Os cativos chegavam aos lotes. Eu comecei a cuidar do Umpulla e ela viu que eu não era — como dizem —, boçal. Essa palavra que usam para chamar os que não sabem a língua deles e não sabem nada das coisas que consideram importantes. Mais tarde ela me pegou tentando ler o que estava escrito em um pote contendo unguentos. Tremi, mas a irmã tomou-me para ajudante. No entanto, como eu arrumaria os frascos sem misturá-los se não sabia ler corretamente? Mesmo com medo do que estava a fazer, ela arriscou-se e ensinou-me. Eu tentava decifrar tudo o mais que tivesse escrita ao alcance dos olhos.
+
+			A irmã Maria do Carmo lamentou muito quando finalmente o comerciante a quem eu pertencia me levou depois da quarentena obrigatória para a venda no armazém sete. Lembro-me até hoje da péssima impressão que aquele homem robusto e falastrão causou-me... Depois, já em casa do senhor Bernardo, eu copiava escondida com um pequeno pedaço de carvão na pedra do quintal os avisos que ele mandava pôr na Gazeta.
+
+			Pois sim! Eu saberia quando ele pusesse meu nome na seção de avisos, como eu soube quando pôs o Natanael à venda e já estavam quase o entregando para o Tamarineiras. Foi graças a minha leitura que pudemos nos adiantar e ajudar o moleque a escapulir. Eu e o Marianno Benguella o ajudamos a fugir com uns ciganos que estiveram na hospedaria. Hoje sei que está em um quilombo lá pelo alto do Corcovado.
+
+			Deitada em minha esteira no fundo da cozinha da hospedaria, me punha a imaginar como poderia ser meu anúncio nos avisos da Gazeta: “Bernardo Lourenço Vianna, vende huma preta de nação Moçambique, de nome Muana, de 19 ou 20 annos, sem vicio algum, que engoma muito bem lizo, sabe lavar, cozinhar, própria para mocamba, quem quiser comprar dirija-se à rua do Valongo ao pé de huma loja de fazendas secas”.
+
+			O que me inquietava era pensar cada vez mais a miúdo em Umpulla... Sempre esquecia que ele não tinha mais este nome. Aqui era chamado Tibúrcio. Umpulla, Tibúrcio, Umpulla... Se eu o encontrasse outra vez, o próprio senhor Bernardo iria em uma quarta-feira qualquer pôr nas máquinas da Imprensa Régia o seguinte aviso: “Fugio huma preta ladina nação Moçambique, alta de boa figura, dentes largos, um brinco de meia lua na orelha direita, letras  A.C.A marcadas no braço, vestia vestido de assento branco com listras e pano da costa. Quem della souber dando-lhe parte, receberá alviçaras”.
+
+			Quem lesse saberia que eu era de apreço do meu senhor por causa das roupas. Ele sempre me mandava levar bolos e mimos à casa de sinhazinha Emerenciana, uma moça de boa família  a quem ele estava discretamente fazendo a corte. Eu percebia. O senhor Bernardo é um comerciante e pensava muito além. Ele sabia que dona Ignácia não duraria muito e começou a se acercar desta família pensando em desposar a mocinha no futuro. Sem contar que fazia de tudo para agradar aos poderosos da cidade e ser convidado para suas festas e negociatas. Doa para suas igrejas e ordens religiosas, circula onde é necessário e veste-me com roupas dignas em certas ocasiões porque quer fazer boa figura. O que pensaria Umpulla se me visse assim? Será que ele ainda recorda da minha pessoa?
+
+			Como em muitas noites, eu olhava para a escuridão e via todos aqueles que não conseguiram retornar para os ancestrais... Assim que o breu chegava, eles apareciam, me olhavam, falavam de suas dores, davam alguns avisos e partiam na bruma antes do nascer do sol. Quando não vinham, até estranhava. O escravo escaldado do engenho Tamarineiras era o mais novo no triste grupo que me visitava com olhos suplicantes, mas Umpulla não estava entre eles, por isso entendia que estava vivo em alguma parte, mas por que eu nunca mais o vi? Isto me agoniava.
+
+			Eu fechava as pálpebras e falava ao Deus dos brancos. Talvez, por estar tanto tempo na terra deles, apenas Ele me escutasse, mas principalmente falava com Ela, com a criadora de tudo e todos no lugar de onde eu vim. Conversava com Nipele. Pedia que ninguém encontrasse os pretos que todos os sábados aparecem nos avisos da Gazeta como fujões. Eram muitos! No fundo eu procurava sinais que identificassem Umpulla entre eles. Parecia que apenas eu, Roza e Marianno nunca tentamos escapar. Parecia que apenas nós não arriscamos a liberdade, ainda que com o forte risco de ser temporária. Ficar sem o grilhão, mesmo que por tempo curto como o periódico Gazeta, que era substituído na semana seguinte, poderia valer a vida inteira!
+
+			Estava nestes devaneios que me levavam a outros tempos e a outro mundo, quando um vulto passou na porta da cozinha. Saltei da esteira.
+
+			— Umpulla! — Sussurrei ansiosa, com o peito já explodindo de angústia e tristeza por vê-lo entre os errantes do meu grupo de mortos-vivos. Finalmente ele chegara e não estava mais neste mundo. Os olhos já ardiam com as lágrimas enevoando e pesando para descer, mas não era ele. Era a outra preta da casa, Roza, e sua gata Lindalva. Veio avisar que Mister Toole finalmente chegara. Ela estava estranha. Tinha os olhos vidrados e a saia de algodão cru manchada de vermelho... Sangue!
+
+
+
+
+
+		
+			
+
+			
+
+		
+
+
+		
+			
+
+		
+
+
+		
+			A investigação
+
+			Viva! Não fosse por tudo o que hoje sei, me encantaria por quem escreveu grande parte da história deste crime apenas pelo fato de ser uma pessoa franca em descrever como era destituído de elegância aquele sovina, mesquinho e mão de vaca do Bernardo! Por que, diabos, são assim os que acabam de ficar ricos? Muito bem, não todos, mas grande parte dos ricos novos tem um grande amor ao ridículo. Considero cômica, por exemplo, a forma como um personagem como este Lourenço Viana faz doações a ordens religiosas para provar sua elevação e mostrar a todos sua generosidade. Qual!
+
+			O Intendente-Geral estava cada vez mais intrigado e eu, interessado. Ele mesmo vira aqueles três que eram os escravos de confiança na chácara vizinha. Eles continuaram por lá quando o comerciante Bernardo saiu sozinho, na companhia da família da senhorinha Emerenciana, e de outros convidados, para a cidade.  Ele dera uma grande festa! Muita comida, muita bebida... Eu bem gostaria de ter sido convidado, pois as línguas deram conta de anunciar a toda a gente a enorme quantidade de vinho do melhor, comprado diretamente de fornecedores no cais, mas aquele comerciante, um grosseirão muito metido a fino, só convidou quem considerava “filho de algo”. Eu era somente um seu devedor, um alguém que ele sentia prazer em torturar com cobranças e ameaças. Ora Nuno Alcântara Moutinho, quanta pretensão a tua!
+
+			Sou uma boa pessoa. Podem acreditar nisto! Herdei esta propriedade em que resido e estou só neste mundo. Solto como uma nau maravilhosamente sem rumo no oceano. Meu pai estudou para padre, e todos sabem que ninguém sabe mais do que os padres. Desta forma, aprendi com ele todas as luzes de letras deste mundo. Ele veio parar cá fugido, depois que engravidou uma jovem em Lisboa e foi repudiado pela própria família, envergonhada do vexame do noviço, e jurado de morte pela da moça. Agarrou-se à primeira chance que se apresentou. Empregou-se em um negreiro e veio parar aqui.
+
+			Desta aventura em um tumbeiro ele dizia-me que chegou semimorto, pois não tinha tripas e espírito suficientemente fortes para seguir neste negócio. Imagino! Pois quem, por mera curiosidade, vai ao Valongo entende perfeitamente o que meu velho pai ex-padre queria dizer! Muana bem o disse em seu relato, mas foi econômica na descrição. Meu pai não tinha, mas o senhor Bernardo possuía tripas, alma, coração e, principalmente, bolsos talhados à perfeição para o ofício.
+
+			Com o dinheiro ganho no negreiro, meu pai primeiro foi para a hospedaria Vale Longo e depois, juntando um pouco mais com trabalhos no cais, se instalou nesta residência. Sempre comprava na livraria de Manoel Mandillo, de quem se tornou vendedor e, posteriormente, amigo. Quase fizeram uma sociedade, a Mandillo/Moutinho, mas não chegaram a concretizar. Minha mãe também nascera em Portugal, era filha de uma preta forra com um português e morreu quando nasci. Sou um pardo, um mulato e fui criado ali, largado, solto entre os livros e pelas ruas fazendo pequenos serviços para a família do livreiro, enquanto meu pobre pai-padre morria afogado em seus remorsos... Culpa por ter abandonado um filho na barriga da mãe do outro lado do oceano, por ter ganhado dinheiro com transporte de pretos, por não resistir às coisas do mundo... Por isto trato eu de não me apegar a religiões e expurgar as culpas não anotando a existência delas no mundo. Pronto. Resolvido está.
+
+			Agora tenho planos de fazer de minha humilde residência um misto de livraria e taberna. Haveria algum outro local onde estes encantamentos — cachaças, vinhos, acepipes e livros  —poderiam habitar harmoniosamente no Rio de Janeiro? Estava convencido de que meu empreendimento seria de fato um sucesso! Poderia haver também um pouco de música, um pouco de teatro... Não há como dar errado! Eu sou um mazombo dos mais espertos, hei de ter muito êxito. O que são mazombos? Os patrícios da terra de meu pai chamam aos que, como nós, são filhos de portugueses nascidos nas colônias, de mazombos. Não valemos muito para eles. Ainda se eu fosse um mazombo rico, como o defunto assassinado e seu parente importante, o Intendente, vá lá. Mas um mazombo remediado e neto de pretos está, para eles, bem misturado com as prostitutas, os jogadores e os bêbados, que tanto odiavam. Eu também era um pária e já possuía até o nome de minha taberna-livraria: “A Mazomba”. Tudo planejado, mas a coisa mais estúpida que pude fazer foi buscar um empréstimo com este comerciante do Valongo, dono da estalagem onde meu pai residiu por um tempo quando chegou ao Brasil. Desde então minha vida foi a síntese do inferno de Dante!
+
+			Ele enviava fortes capatazes para cobrarem em minha porta. Certa vez levei uma surra que não me matou porque sou um vaso muito ruim de ser quebrado. Deixaram-me  o rosto inchado, o olho roxo, alguns ossos quebrados... Não fosse Tereza Nagô... ah, Tereza e seus conhecimentos medicinais. Ela salvou-me a vida e me arrebatou o coração. É uma pintura. Arrisco dizer que não há uma mulher sequer em toda esta cidade como ela. Eu estava jurado de morte, e o que vejo escrito por Muana apenas confirma; sei que ele cumpriria. Passei a planejar minha fuga da cidade, ao menos por algum tempo até que satanás, graças a Deus, decidiu levar a alma dele antes da minha.
+
+			Naqueles dias andava tão leve por ter me livrado de tão pesada dívida, que tinha ganas de beijar a todos nas ruas. As mulheres, os homens, os loucos, os sãos, os brancos, os índios e os pretos. Queria me embrenhar nos matos e confraternizar com os aquilombados. Queria beijar os pés da feia Carlota Joaquina. Queria tomar banho nu no chafariz de Santa Rita e gritar:
+
+			— Mazombos do meu Brasil, eu vos amo! Uni-vos!
+
+			Abri a janela de meu sobrado no beco e berrei isto bem alto e gargalhando. Não fazia mal, tomavam-me por louco de qualquer maneira. Eu, Nuno Alcântara Moutinho, livre da completa ruína financeira, era puro amor. E como não faço feia figura, por vezes a sorte me sorri com o belo sexo. Não foi o caso naquele dia quando saí e encontrei a deliciosa da minha predileção, com seu balaio de frutas em meio a outras escravas de ganho. Ajoelhei-me aos seus pés. Ela virou-se de costas para mim, ignorando-me por completo.
+
+			— Eu juro que se me deixares comer esta fruta de minha predileção...
+
+			Não consegui terminar de falar. Tereza virou-se como raio e estalou um tapa ruidoso em minhas mãos ávidas em sua direção, para deleite e gargalhada das demais e dela própria.
+
+			— E vosmicê lá acredita em arguma coisa pra jurá? Vá arrumar o que fazê, Nuno, e me deixe — E falou com ironia — Tu não tens o que valem minhas frutas e tenho que conseguir os réis para dar a parte de minha senhora ainda hoje!
+
+			Tereza... eu era um burro nos arreios por aquela mulher!  Juro que por ela eu...eu...ora! não sou bom com juramentos. Tereza tinha que pagar quase todos os seus ganhos a sua senhora pela venda de bananas, laranjas, azeite de carrapato, bolo, cuscuz... Um trabalho insano, mas nem era o pior, pois muitas vendiam seus corpos. Sempre que um novo navio aportava, negrinhas de 10, 12 anos ganhavam as ruas se oferecendo a marujos que desciam na cidade como feras famintas. Fazia pena, pois eram homenzarrões louros, ruivos, morenos e hirsutos, trazendo neles todas aquelas doenças do mundo e avançando afoitos para as pretinhas que iam ricamente ornadas por suas donas, que no final do dia auferiam os lucros. Uma moedinha e algumas preces na missa dominical resolviam para as que de alguma forma tinham a consciência agulhada, mas a grossa maioria só era agulhada mesmo pela bolsa vazia.
+
+			Manoel Mandillo, o ex-patrão, quase sócio de meu pai e metido a meu conselheiro, tentava por algum juízo em minha mente. Dizia ele: “Ora, pois, és quase branco! Se casas com uma mulher de boa família clareias a descendência e depuras o sangue”. Mandillo reiteradamente apresentava-me filhas de patrícios as mais diversas. Sim, confesso que ficava tentado a desposar uma delas. A vida certamente seria mais fácil.
+
+			Tereza estava juntando cada mínimo cobre de réis para comprar sua alforria, mas, mesmo que possuísse o dinheiro, não era garantia de consegui-la. Ela dependia da concordância da senhora e, se esta não quisesse libertá-la, restava ainda uma saída: pedir uma Graça Real ao rei Dom João. Ele, se a achasse merecedora, poderia conceder-lhe a graça da liberdade, mesmo à revelia de sua dona. E quem era o mais poderoso intermediário da Graça Real? O Intendente Paulo Fernandes Viana. Havia também uma outra questão. Eu necessitava ter astúcia para resgatar os papéis da dívida que me prendiam ao primo do intendente antes que seus bens fossem a leilão; desta forma, todos os caminhos me levavam ao enérgico, poderoso e temido funcionário do rei.
+
+			Levantei do solo e desfiz o juramento. Não levava mesmo jeito para isto e o dever me chamava. Atirei um beijo para a bela e me pus a caminho da Intendência Geral. Lá chegando, espantei-me. Por quais diabos levaram o homem morto para a Intendência? Nada como ter dinheiro e um título de Barão, ainda que por meio de chantagens e influências de parentes poderosos. Vá lá que quem matou este resolvesse apontar sua faca para outros brasonados? E, além do mais, apesar de estar do lado pobretão e obscuro da família, Bernardo Lourenço era um Viana. Valia o esforço de saber quem e com que motivação deu cabo dele.
+
+			Paulo Fernandes notou que, pelo estado do corpo, foi morto por aqueles dias e os três escravos estavam bem longe da cena do crime. Ouvi-o afirmar que as primeiras desconfianças sempre recaem sobre os pretos porque quase sempre eles têm muitos motivos para ódios de seus senhores. O Intendente, do alto de sua experiência, acreditava que a mais mansa mucama era uma potencial víbora no seio de qualquer família. Segundo ele, quando não fogem, se vingam. De uma forma ou de outra, se vingam.
+
+			— Basta dar-lhes oportunidade — costumava dizer aos comandados.
+
+			Paulo Fernandes estava convencido de que os três, mesmo a distância, tinham participação. Não iria prendê-los. Deixá-los-ia soltos e vigiados para que, pensando estarem livres, acabassem por indicar como e com auxílio de quem fizeram o que ele estava seguro que fizeram. Só não sabia decifrar como.
+
+		
+
+
+		
+			Um novo visitante
+
+			A visão do sangue na saia de Roza apavorou-me, pois sabia do que era capaz o senhor, principalmente em se tratando dela, mas a moça, agarrada à gata Lindalva, fez um gesto tranquilizador, embora soubesse que eu não ficaria tranquila jamais. Disse para eu atender logo o homem que o senhor dizia já estar esperando, embora ela não o  tivesse encontrado quando desceu. Ela se encolheu em sua esteira esticada no frio assoalho da cozinha puxando um pano sobre si. Nossas três esteiras ficam próximas do fogão, para aproveitar o calor. Fui ver o que, afinal, queria o tal sujeito, mas meus pensamentos estavam na menina tão frágil e ao mesmo tempo forte que era essa nossa pequena flor boa de lavar, engomar, cozinhar de forno e fogão.
+
+			Mr. Toole.... Recebi com muito medo aquele homem muito alto, branco e com cabelos cor de trigo, amarrados num pequeno rabicho na nuca, na saleta que ficava entre a cozinha e o salão da hospedaria.  Obter gentilezas de um tipo como ele era algo muito raro, creio que único em minha existência. Ele sorriu um sorriso franco. Estendeu sua mão para um cumprimento que ficou no ar, pois eu não me senti  à vontade para tocá-la.
+
+			Meu senhor havia dito que um estrangeiro me procuraria tarde da noite e que eu deveria atendê-lo em tudo que solicitasse, pois é seu professor. Temi o pior. Tive medo que quisesse o que todos os homens querem com uma mulher como eu. Temi que meu senhor tivesse retomado o hábito de nos alugar a comerciantes daquele armazém defronte. Ele fazia negociação com nossos corpos escondido da beata dona Ignácia, que quando descobriu o proibiu e o ameaçou, pois tinha parentes poderosos na Divisão Militar da Guarda Real e não aprovava tamanha indecência em sua casa. Eu pensava comigo: “Se o senhor Bernardo tiver que escolher entre a decência e o dinheiro, ele fica com o último”. No entanto, creio que considerou que tamanha notícia – a de que sua casa era um prostíbulo ¬ sepultaria para sempre sua ambição de ser reconhecido nos círculos importantes da cidade.
+
+			Para meu alívio, Mr. Toole apenas perguntou se não havia algo para a boca comer e não outras partes do corpo. Servi uma sopa quente e uma caneca de vinho, pois andava frio por aqueles dias e chovia. A proximidade com o mar traz uma umidade que penetra nos ossos, e as ruas no entorno do Valongo estavam pura lama, para piorar o normalmente deplorável estado dos Armazéns e trapiches que guardam pretos e outras mercadorias. Nesses dias torrenciais eu só consigo pensar neles...
+
+			O estrangeiro disse chamar-se Mister João Toole e que chegou a mim por indicação da religiosa Maria do Carmo, do Lazareto ali nos arredores. Por esta referência tranquilizei-me um pouco, mas não o suficiente para não desconfiar. Ele disse que se aproximou do meu amo, o senhor Bernardo, com o pretexto das aulas para que pudesse negociar a conversa comigo, pois é um pesquisador e quer saber alguns detalhes sobre a minha vida. Estendeu-me um exemplar da Gazeta, aberto na página dos famosos  “Avisos”.
+
+			“João Lourenço Toole, professor de Língua Ingleza, estabelece Aula da dita Língua, a qual ensina grammaticalmente; como também Arithmetica, e Escrituração dobrada. Os Senhores, que se quizerem utilizar, se dirigirão ao dito professor na Praça da Carioca, N. 18, primeiro andar.”
+
+			Ele contou que  conhecera o senhor Bernardo e dona Ignácia em casa de um rico comerciante inglês, em agosto do ano anterior, na companhia da família da senhorinha Emerenciana. Falou, com um certo tom de zombaria, que notou o esforço que faziam para serem “finos”. Entendeu então que a ocasião era perfeita para oferecer suas aulas da língua inglesa. Continuei muda, sem saber o que dizer e como dizer. Por que queria falar comigo, se sou apenas mais uma negra? Está certo, não são todas as que sabem ler e escrever, mas tirando este fato ¬ que eu já estava maldizendo a irmã do lazareto por pensar que ela havia revelado ¬ eu sou como muitas na São Sebastião do Rio de Janeiro.
+
+			 Quando já estavam ele e o senhor Bernardo em alguns meses de classes, o Sr. Toole descobriu que a negra de quem a irmã Maria do Carmo falara pertencia ao seu novo aluno. Mesmo cabreiro, o senhor Bernardo então combinou que nos deixaria em paz por algumas horas semanais, mas obviamente não sem que o inglês desse um bom desconto nas aulas e, obviamente, com a condição de falarmos apenas quando todo o serviço acabasse, e isto acontece só muito tarde. Eu não tenho a escolha de não concordar, mas se tivesse esta chance também não recusaria, pois é uma forma de visitar outra vez aqueles lugares com meus olhos da memória saudosa. O que eu tenho a perder? Ele fala um português com sotaque muito carregado, porém compreensível. O meu também tem as notas do lugar que para sempre vou chamar de meu, pois, para mim, é lá onde eternamente vai morar o encantamento.
+
+			Puxou um rolo de papéis, uma pena e um tinteiro. Pediu que eu começasse do começo. A primeira parte da minha história, disse a ele, vai do meu nascimento até o ano que foi um divisor de águas em nossos destinos, quando eu contava 10 estações das chuvas. Chamo-me Muana Lómuè, sou filha de Mutandi e Atinfa. Aqui em São Sebastião do Rio de Janeiro deram-me outro nome, mas toda a gente me conhece apenas por Muana. Nasci numa aldeia bem próxima a um enorme e lindo maciço de pedra. É o segundo mais alto de toda a Moçambique. Isso eu só soube anos depois de sair de lá. Não quero ser apenas “Moçambique” como usam para chamar os que chegam de minha terra. Sou Lómuè. Este nome ¬ “Lómuè” – eu o adotei porque fala de onde vim e do que sou: uma Macua-Lómuè. Existem vários macuas. Somos como os galhos da mesma imensa árvore, e nossas línguas apresentam algumas diferenças, mas são todas bastante próximas.
+
+			O povo Macua, dizem, recebeu esse nome como algo não muito honrado. Tem entre seus significados “selvagem”, “bárbaro”, “não civilizado”, mas também pode ser “aquele que vem do interior do país”. Fico com este último porque não considero este lugar onde me encontro hoje melhor que o meu. Neste exato momento em que falamos ouvindo a chuva pesada que cai sobre a cidade, disse a Mr. Toole, que dezenas se amontoavam em armazéns fétidos, repletos de ratos e outros bichos, comendo restos apodrecidos. Cheios de chagas e tão magros que este vento que sacode as vidraças poderia carregá-los de volta. E como seria maravilhoso que assim fosse! Eles escolheram ou pediram isso, senhor João Toole? Não, senhor, este lugar não é melhor...
+
+			Fechei os olhos para ver as imagens dentro de mim e elas surgiram límpidas como cristal fino de uma taça da cristaleira do engenho Tamarineiras. Como diz um provérbio da minha terra “é melhor perder a vista que a alma” e sempre nesta mesma hora – sim, conversamos muito cedo... ou seria muito tarde? ¬ eu desperto, pois esse céu de escuridão quase clara faz meu espírito enxergar meu povoado num momento mágico em que apenas três coisas havia: a imensidão úmida da planície verde, o silêncio de doer os ouvidos e o monte dominante na paisagem. Posso sentir o ar fresco depois de uma das muitas chuvas abundantes que caem no sopé do monte Namuli. Nunca mais esquecerei essa sensação e o cheiro de natureza misturado com a terra encharcada.
+
+			O verde que domina a paisagem no meu local encantado impressiona. Todo o povoado transborda com uma abundância de espécies de plantas e animais que só existem lá. O solo fértil onde minha família plantava milho e criava cabras abrigava dezenas de casas circulares de terra batida e telhados de palha. Havia um rio, o Licungo, com milhares de pedregulhos em sua extensão onde nós, crianças, nos divertíamos quando ele não estava muito cheio e bravo. Nos trechos em que as mulheres lavavam as roupas, as pedras ficavam cobertas pelos panos estampados secando ao sol, o que dava um colorido especial e inusitado à paisagem. Eu dizia que eram “pedras-flores”. Eu, meu melhor amigo – Umpulla – e muitos outros meninos e meninas do povoado éramos felizes nas cachoeiras que sangram as pedreiras e formam aquelas nuvens de vapor quando a água se acaba em espuma... Tudo isso me refresca a mente e os	 olhos do espírito nesta lida em que me encontro deste outro lado. Lembro-me de cada detalhe como se fosse hoje... e veja que já faz muitos anos que saí de lá! Como poderia esquecer?
+
+			Eu chorava silenciosamente. O professor olhava-me com uma expressão assombrada. Nem eu imaginava que, quando alguém me fizesse recordar do passado, eu transbordaria em tantas palavras de saudade. Eu mal o conhecia! Não consegui segurar. Eu sou uma filha da montanha, disse a ele. Em muitos momentos, para não me perder de quem eu era, repetia por horas de olhos cerrados: “Miyo kokhuma o Namuli” (fui gerada no monte Namuli). Sou uma macua-Lómuè... Isso não é importante para ninguém neste lugar onde me encontro, mas para mim é tudo. É a única coisa realmente minha. Aquela montanha é  mais que pedra, pois todos foram criados por Deus dentro dela. Deus? Deus... Olhem só para mim, repetindo as coisas desta gente. Para o meu povo todos nós descendemos de uma Grande Mãe que habita as montanhas do Namuli. Uma Deusa! O nome dela ¬ da Grande Mãe Macua ¬ é ‘Nipele’. Um nome maravilhoso, pois quer dizer ‘o seio que alimenta, que dá a vida’... Outro nome para a Grande Mãe seria ‘Errukhulu’ (O ventre).
+
+			O principal ponto em comum com o Deus do Sr Toole e o de tantos é que é um ser único, distante e criador de tudo. Precisamos do contato e da intermediação dos ancestrais para as nossas coisas do dia a dia de seres humanos. Eu frequentava igrejas com sinhá Ignácia e era assim que via os santos, como ancestrais dos brancos. Conversava muito com a Nossa Senhora do Rosário. Fingia que ela era a Nipele... pelo menos era mulher. Uma mulher deve entender melhor a outra.
+
+			Algumas outras aldeias macuas dão um nome masculino ao ser único, Muluku, mas eu amo especialmente a versão feminina e posso provar que ela existe. Para mim é motivo de orgulho e faz muito mais sentido. Na verdade, olhando daqui onde me encontro, com tantas pessoas que vieram de tantos lugares que nunca poderia imaginar que existissem, acho que a fé é preciosa. Por que não deixam as pessoas acreditarem no que quiserem? E também se não quiserem acreditar em nada? Em momentos diversos tive que fingir crença em Maomé ou em Jesus Cristo e por anos senti uma enorme culpa pelas graves consequências desta minha falta de fé. Uma hora o sofrimento era com um, outra hora com o outro, mas sempre sofrimento. Esta é uma das muitas coisas que não compreendo e que me fazem sentir uma estranha neste mundo. Essa dor toda... Isso não é normal, senhor pesquisador. Será que não conseguem ver que não é normal? O que posso fazer se o que sinto é ‘O Ventre’ e os ancestrais? Mas não vamos adiantar as coisas.
+
+			Deixem-me contar que a história da criação dos homens por Nipele é linda. A mais bonita que já ouvi. Ela fez germinar homens a partir das raízes de um Embondeiro que existe dentro do monte Namuli – a chamada “árvore dos mil anos”, imensa! Já viu um? Aqui chamam mais esta árvore pelo nome ‘Baobá’. A Grande Mãe mandou quatro de seus filhos descerem o Namuli para humanizar os territórios a norte do rio Zambeze. Este povoamento alastrou-se passando por Nampula, Tete, Cabo Delgado, Niassa, Malawi até ao sul da Tanzânia. Somos muitos!
+
+			No alto da montanha ainda é possível ver as pegadas dos primeiros homens sobre a Terra, mas nunca nos atrevemos a tentar chegar lá. Não! No monte habitam anões e lá vive um guardião encarregado de aparecer para quem tenta ultrapassar certos limites. Quando o viajante chega à fronteira proibida, ele aparece e começa a falar tantas coisas, fazer tantas perguntas em uma língua estranha e tão rapidamente que a pessoa fica totalmente atordoada e louca, a tal ponto que é impossível reencontrar o caminho de volta. Fica para sempre perdida no monte. Também por lá, e somente lá, existe um pássaro chamado Namuli Apalis. Seu canto é divino e é a voz do espírito da Grande Mãe.
+
+			Nunca pude entender essa vida por aqui.  Como pode uma família vir de um homem? Como saberão se aquele chefe é mesmo filho do que veio antes dele? Em nossa aldeia, a mãe é o centro da família. Todo mundo vê o filho saindo de dentro dela. Os reis e as dinastias descendem dela, da mãe! No meu povo, a mulher tinha total poder sobre seus filhos. Os homens só poderiam ter influência nos filhos de sua irmã.
+
+			Minha mãe eu vi orgulhosa de sua cria por duas vezes, com meus irmãos mais novos. Ela era a segunda esposa do meu pai. A primeira havia falecido quando estava para nascer seu primeiro filho, mas as duas chegaram a conviver. Ela sabia que era especial por ter conseguido dar a luz a três filhos até aquele momento. Dar a luz é algo sagrado, significa que o elo com os antepassados não foi quebrado. Eles e nós convivemos e nos relacionamos. A morte não é o fim. Eu convivo com muitos, senhor João Toole... Quando disse isso a ele, vi-o espantado franzindo a testa, mas prossegui.
+
+			Minha mãe carregava meus irmãos atados às costas em um pano colorido – a capulana ¬ ou em seus cestinhos e ia com eles para toda parte. Trabalhar na plantação, lavar roupas, pilar grãos ou ir às atividades sociais da nossa aldeia. Ela era uma boa mulher. Ela cuidava muito bem de suas peneiras!
+
+			Mr. Toole estranhou. Por que uma mulher seria especial apenas por cuidar de peneiras? Disse a ele que aqui não dão valor aos objetos. Uma peneira é algo muito especial. Os homens as faziam com tiras de bambu começando a trama pelo fundo e terminavam fechando com um arco de muyepe, um pau especial que era muito bem raspado. Por fim se cosia tudo com um arbusto chamado mutho. Uma peneira servia para transportar comida, separar os grãos de cereais depois de pilados e moídos e também era símbolo de estabilidade. Uma casa sem uma peneira era uma casa sem equilíbrio e dependente de outra.
+
+			A peneira é importante em todos os momentos da nossa vida. Aconteceu comigo e com meus irmãos. Quando uma criança tem cerca de 30 dias de vida, é banhada com medicamentos tradicionais, para poder sair de casa protegida. Depois o recém-nascido é  posto na peneira e apresentado aos quatro pontos cardeais para que fosse autorizado a casar em qualquer dessas direções. Quando os meninos são iniciados, todos eles aprendem a fazer uma peneira. Eles são ensinados a colocar as primeiras tiras no meio, no fundo, que simboliza o “centro da terra”. Quando eles terminavam os ritos, o mestre conselheiro, que era chamado nakano, dançava e cantava com a peneira na cabeça e cheia de uma variedade de cereais pilados. Ele ia andando seguido pelos rapazes até a farinha sumir. Quando não havia mais farinha, a cerimônia terminava.
+
+			Entre nós, mulheres, ela era como um sinal. Não podíamos, por exemplo, comunicar ao nosso marido que estávamos no período de sangramento. A mulher devia tapar um dos cântaros com a peneira e colocar um remo em cima, um pau que amassa a farinha. Os maridos iniciados sabiam o que isso significava. O contrário também acontecia, ou seja, dependendo de como a peneira estava na casa a mulher estava dizendo que a vida podia começar, que podiam... o senhor sabe o quê.  
+
+			Envergonhei-me um pouco em contar essas coisas, mas lembrei-me dessa história da peneira porque tudo começou num dia de chuvas intensas como aquele em que estávamos conversando e quando eu tentava fazer um cesto com palha, como minha mãe havia começado a me ensinar. Não era uma peneira! Apenas um pequeno cesto para minhas mãos pequenas e, enquanto manipulava a palha, imaginava o dia em que teria minha peneira. Naquela região a água cai abundante do céu de dezembro a abril. Estávamos todos em nossa casa, sem poder sair. Um fogareiro esquentava um chá e um caldo perfumado, como aquela que Mr. Toole sorvia com gosto e que fora preparada por Roza para os hóspedes. Os mais novos dormiam e eu ouvi meu pai dizendo a minha mãe que precisávamos sair dali, pois corríamos perigo.
+
+			Meu pai sabia que os Macuas-Lómuès estavam espremidos e acuados. Hoje eu sei que todos estavam caçando. Caravanas e mais caravanas de homens akuya (brancos), e também vários macuas do litoral entravam cada vez mais fundo no território atrás de gente, que também era um tesouro tão ou mais valioso quanto os enormes dentes dos elefantes, o cobre ou o ouro. E nós, os agricultores do interior, os filhos das montanhas, éramos as presas mais apetitosas e lucrativas. Roubavam nossa gente, nossa força, nosso sangue... Eram morcegos sugadores.
+
+			Minha mãe continuava seguindo seus ritos e o culto aos antepassados com o máximo zelo. Um dia me chamou, pois estava chegando a hora. Via meu corpo mudando em ritmo cada vez mais acelerado. Meus seios estavam despontando, eu crescia e meu sexo estava começando a se cobrir com uma penugem. Sentia-me esquisita e incomodada. Estava com quase 10 anos e a qualquer momento poderia acontecer de o sangue descer. Quando este dia chegasse, eu seria separada da casa por um tempo e seria ensinada por mestras sobre tudo o que era necessário para ser uma mulher completa, uma boa esposa e dar prosseguimento a nossa história. Eu seria ‘o Ventre’. Nunca poderíamos imaginar que estes rituais seriam o motivo da mudança de nossos destinos para sempre, pois aquilo que uma mulher e um homem fazem para gerar filhos é uma coisa vista de formas muito diferentes no mundo. Por mais que tente não consigo imaginar o motivo disso. Por que complicar algo que é o princípio de toda a vida nesta vida?
+
+			Meu amigo Umpulla tinha três estações das chuvas a mais que eu e passou pela iniciação dos meninos. Ele voltou completamente mudado. Parecia outro dia que estávamos brincando com todas as crianças nas águas do Licungo e agora ele se portava como um homem. Ficávamos imaginando o que aconteceria nesse período de reclusão para que alguém mudasse tão intensamente. Ninguém nos contava. Agora que somos adultos, a diferença de idades não significa muito, mas quando temos apenas 10 e 13 anos é uma distância enorme. Ele teria bastante tempo para falar sobre a iniciação e muitas outras coisas; na verdade, uma vida inteira porque nossos rumos estavam irremediavelmente ligados.
+
+			Meu pai era um homem sério e um caçador exímio. Por muitos e muitos anos, nossa gente teve que se embrenhar nas florestas e se afastar das nossas terras por conta da invasão dos Marave, um povo que manteve longas e estreitas relações comerciais com os Macuas do litoral, que por sua vez negociavam com portugueses, castelhanos, holandeses, islâmicos, indianos. Os forasteiros havia séculos fomentavam as rixas locais com o único fim de ganhar. E escravizar é o mesmo que lucrar muito. Conseguimos retomar nosso lugar, mas não sem luta. Os do litoral entravam pelo interior em caravanas e rotas de comércio que geravam muitos ganhos. Em pouco tempo os mesmos homens portugueses, castelhanos, islâmicos e indianos fizeram suas próprias caravanas para buscar braços. Esses caravaneiros forneciam aos chefes do interior uma quantidade alta de armas, pois eles queriam aqueles “paus de fogo” para se proteger nas guerras internas. O problema é que isso os jogou imediatamente no gigante e devorador comércio de gente.
+
+			Meu pai pouco sorria, mas era um homem amável. Eu não conseguia compreender por que ele não gostava daquele comerciante. Havia um homem, um mascate chamado Faruk que era falante, sorridente e chegava sempre com muitas coisas vindas do litoral, que faziam a alegria dos meus e dos vizinhos. Sal, tecidos únicos, borracha e um baú de coisas que fascinavam as crianças. Este homem um dia foi à nossa aldeia e não sei o que houve, mas meu pai se desentendeu seriamente com ele. Eu apenas vi os dois separados em um local da nossa plantação de milho e o ouvi gritar.
+
+			¬ Saia imediatamente daqui! Procure outro para essa tarefa. Saia agora!
+
+			Meu pai tinha uma gravidade no olhar. Ele, hoje vejo, fazia o que fosse necessário fazer para que estivéssemos a salvo. E foi com esse sentido de quem sabe que não há tempo a perder que um dia juntou as coisas, nos vestiu com muitas roupas diferentes e partimos numa fuga desabalada deixando para trás o Namuli... para sempre.
+
+			Mr. Toole estava realmente espantado. Eu podia ver em seus olhos que não pretendia prejudicar-me e dividi com ele um de meus segredos. Disse a ele que abrisse os ouvidos e os olhos, pois estava prestes a entrar no mundo real, já que este em que estávamos era grossa mentira. Estamos todos acorrentados. Pretos, brancos, senhores, escravos, libertos. Todos presos a grilhões pesados. Ele assustou-se um pouco com esta minha visão. Contei a ele sobre uma das últimas coisas que vi em minha terra.
+
+			Olhei para trás e vi o anão guardião da montanha. Ele me acenava um gesto de adeus. Era um adeus à inocência.
+
+		
+
+
+		
+			
+
+			
+
+		
+
+
+		
+			
+
+		
+
+
+		
+			A investigação — Primeira pista
+
+			Eu estava muito feliz  naquela manhã. Na verdade, radiante! Tereza apareceu no beco com suas laranjas e ofereceu-me uma. Sei o que significa para ela desfazer-se de uma fruta de seu balaio. Agradeci imenso. É uma pataca a menos nas economias de sua alforria. Isso equivalia a uma prova de amor eterno. Eu olhava para ela um tanto aflito. Quando seria que veria em alguma daquelas pretendentes que o Manoel Mandillo não cansava de me apresentar, uma que acendesse em mim o que esta mulher me acendia?  
+
+			Saí de minha residência que mesmo não inaugurada eu já chamava de Mazomba, no beco encravado na Rua Detrás do Hospício, desci a rua da Valla  e lá quase trombei com o aguadeiro Leôncio, apressado para a reunião da Irmandade na igreja de Nossa Senhora do Rosário e São Benedito dos Homens Pretos, que se impunha na paisagem desta rua. Fui dar na Rua da Alfândega atrás de uma garrafa do melhor vinho para recepcionar meu novo amigo, o Intendente. Ele era um importante e esnobe fidalgo e eu, um pobre mazombo amulatado. No entanto, todos os esnobes precisam de um descanso de si mesmos e este encontrou em mim um alívio da pose que precisava manter.
+
+			Minha vida florescia; afinal, estava praticamente livre da dívida, do cobrador, repentinamente um pouco menos pobre e amigo de um dos homens mais poderosos do reino. Ele apenas não podia desconfiar de que eu tinha reais motivos para matar aquele pançudo comerciante seu primo. Não o fiz, mas agradeço sinceramente ao bondoso diabo que fez o serviço.
+
+			O outrora tão autoritário senhor Bernardo Lourenço Vianna, que subiu  à custa dos parentescos e artimanhas, agora nada mais era do que um pedaço de carne apodrecida. Aproximei-me mais do intendente quando este veio a minha casa para investigar, afinal, ela era em frente ao local onde encontraram o corpo — e ofereci-lhe um copo do meu melhor vinho. O álcool apressa as amizades e nós falamos sobre o crime, pois éramos companheiros desde miúdos a partir daquele momento. As amizades desde putos são eternas. Não sei o motivo por que me interessei tanto por aquela história, mas ela me instigou os instintos desde o primeiro momento. Hoje, lendo o que a escrava Muana deixou, vejo que estava certo e não me arrependo de ter insistido para assistir aos depoimentos.
+
+			Os três estavam calmos quando foram conduzidos à Intendência Geral, lá para as bandas do Largo do Rocio Pequeno, um pouco mais além do Campo de Sant’Ana indo na direção da Quinta. Não se alteraram nem mesmo ante a visão do antigo senhor naquele estado deplorável. Eram expressões neutras, que não falavam nem de dor e nem de risos. Falavam de um vazio que incomodou ao Intendente-Geral, que observava atentamente cada reação de Muana, Roza e Marianno. Paulo Fernandes não conseguia atinar com o que se passava.
+
+				Era certo que a corte e o país estavam convulsionados naqueles tempos, tantos eram os rumores e conspirações que clamavam por independência, mas o ódio popular não criaria forma tão original para abandonar um corpo. Havia uma mensagem ali.
+
+			— Malfeitores, senhor... a cidade está cheia deles. Muita gente forasteira — respondeu Muana quando perguntada se  imaginava o que poderia ter acontecido.
+
+			— Inimigos? Sei não, sinhô... — Marianno não podia dizer ao Intendente que qualquer pessoa que se aproximasse do comerciante cedo ou tarde seria seu inimigo.
+
+			— Desde meninazinha, desde pequena, senhor... — Informou Roza quando Paulo Fernandes quis saber desde quando estava na posse do senhor Bernardo.
+
+				Os três já estavam de saída, quando o  Intentedente-Geral retirou de uma caixa um enorme pano feito de retalhos e com ele nas mãos perguntou:
+
+			— Marianno Benguella..., vosmicê sabe costurar, não sabe?
+
+			— Com muito esmero, meu senhor — Respondeu Marianno, com sua voz doce, calma e segura.
+
+			Em minhas farras pela cidade eu bem conhecia aquele negro. Eu bem o conhecia... Não podia andar nas ruas sem que alguém gritasse: Chibando!
+
+		
+
+
+		
+			Uns cozinham, outros costuram
+
+			Assim que o dia amanheceu e Mr. Toole saiu, eu e Marianno corremos para ver Roza. O senhor lhe havia açoitado as pernas depois que a viu experimentando meias que pertenceram à dona Ignácia, mas que estavam em um baú para doações às irmãs. A esposa do senhor falecera no final do ano anterior. Sua tosse cada vez mais intensa passou a vir com golfadas de sangue e, depois de uma crise que durou a noite toda, por mais que o doutor e o padre se esforçassem, ela amanheceu morta.
+
+			Ela, Roza, ainda era apenas uma menina... Tinha pouca coisa mais que eu quando pisei nas areias do Valongo. Quando cheguei, em 1790, não havia cais. Desembarcamos em barcos menores e fomos levados à praia. Àquela altura as obras para a construção do ancoradouro estavam a nos infernizar e acho que os barulhos e a poeira ajudaram a piorar o estado de dona Ignácia. Mas desconfio de que não apenas isso.
+
+			Roza cozinha a comida e a vida. Quando mexe em sua panela tem um poder. Vimos quando a vizinha da hospedaria, dona Luzia ¬ de quem Roza gostava muito, pois em diversas ocasiões a socorreu do Sr. Bernanrdo, de dona Ignácia ou de ambos ¬ levantou miraculosamente da cama depois de dias muito mal com febres. A menina tinha passado boa parte da noite a cozinhar e ofereceu a comida à dona Sofia, que ao cair da noite do mesmo dia já estava bem, para espanto da família, que já estava em busca do padre. Eu e Mariano estamos seguros de que ela teve parte  no adoecimento de dona Ignácia.
+
+			O senhor Bernardo, quando dona Ignácia era viva, não era quem mais a maltratava. A senhora era quem a inferniazava. Pelo menos era o que ela imaginava. Roza vivia com as mãos em carne viva pelas palmatórias, queimada, ferida... Até o dia em que sangrou pela primeira vez, aos 10 anos e o senhor Bernardo espichou o olho para ela. Uma tarde dona Ignácia saiu em visita a uma irmã e o senhor pegou a menina à força. Ela me olhava em desespero enquanto era arrastada pelas escadas.
+
+			Ouvimos, eu e Marianno, seus gritos no andar de cima. Ele com as mãos nos ouvidos, pois Roza era como uma irmãzinha para ele. Ele a amava de todo o coração. Entendemos que a sinhá percebia o interesse do marido e espezinhava a garota o quanto podia. No dia de sua morte, o senhor Bernardo, o Padre e a irmã da senhora passaram o dia nos aposentos íntimos, cuidando dela e em orações. Enquanto isso, Roza passou horas a cozinhar um mingau que nunca terminava. Mexia e remexia aquela enorme panela de ferro. Em dado momento, a gata Lindalva eriçou seu pelo e ela deu o serviço como pronto. Tirou cuidadosamente a panela do fogo. Ameacei começar a servir alguns hópedes que estavam no salão. Ela fez um gesto enérgico impedindo. Nesse exato momento a irmã de dona Ignácia deu um grito e ouvimos seus soluços. Ela olhou para cima e o senhor descia avisando que dona Ignácia se fora. Todos no salão ficaram em silêncio. Roza, calmamente, apenas fez um leve movimento de cabeça  e disse: “Agora podemos servir”.
+
+			Depois que a dona da casa faleceu, parece que a implicância com Roza passou para o senhor Bernardo. Acho que ele sente culpa porque a quer, mas lembra da falecida e então desconta na pequena. Roza, após cada incidente, é no fogão que ela esquece suas dores. As boas refeições da hospedaria do ‘Vale Longo’ já eram conhecidas dos viajantes costumeiros. A cidade enchia a cada novo navio que fundeava sua âncora nas águas da Guanabara e o senhor Bernardo enriquecia com os réis de viajantes em busca de pouso, refeições ou as duas coisas juntas. Ele não falava em sair daquele lugar; afinal, sua fortuna se devia  à sua proximidade dos negócios. Ali mesmo, no salão de refeições, fechava acordos com os donos de navios e com outros clientes, além de dar pouso a muita gente importante.
+
+			No entanto, passado pouco tempo da morte de dona Ignácia, ele já fazia planos para se casar outra vez, fixar residência nos subúrbios elegantes como o Catete, a ponta do Caju ou a estrada de São Cristóvão ¬- local próximo à Quinta da Boa Vista e à realeza ¬, e talvez comprar uma chácara, longe daquele ambiente lúgubre do entorno do cais. Vi-o interessado em um aviso posto na Gazeta sobre uma propriedade.
+
+			“Quem quizer arrendar huma boa chácara, sita na estrada que vai para Andrahi grande, pouco adiante da chácara do Ilustríssimo Intendente Geral da Polícia, com a frente na mesma estrada e o fundo no rio Maracanã; com capacidade para dar capim effectivamente a dez parelhas; com muitas árvores de fruto, e principalmente laranjeiras; com boa caza de vivenda, e oratorio para Missa; com cocheira, cavalharice, quartos para criados, e quartos para escravos, tudo independente da referida caza; falle com João Dias Sampaio, no sitio da Prainha, junto ao trapixe do sal. Esta chácara foi a que se annunciou na Gazeta de 8 de Abril próximo passado, e que immediatamente foi arrendada pelo Excelentíssimo Sebastião Xavier Botelho, que por ser nomeado Governador e Capitão Geral para a Ilha da Madeira, desistio do dito arrendamento de acordo com o senhorio da propriedade.” 
+
+			Ora! Arrendar uma propriedade com tão digno confinante e que foi alvo do desejo de tão importante personagem era o que o senhor Bernardo procurava para mostrar a toda gente o quanto era bem-sucedido e também para conquistar de vez a senhorinha Emerenciana e sua família de nobres que tem títulos e pompa, mas que estavam na decadência. Para convencer os pais da moça, ele ainda possuía o trunfo do parentesco com o Intendente. A sociedade perfeita.
+
+			Ele enviou-me ao trapiche do sal, próximo à grande pedra da Prainha, com a Gazeta e um envelope com o pedido de resposta de hora para tratar pessoalmente com o senhor João Dias Sampaio. O senhor diz que homens importantes marcam hora para tratar seus negócios com exclusividade. Não diante de toda a gente. Assim o fiz. Entre minha ida ao trapiche do sal e o dia do encontro, ele promoveu uma verdadeira investigação sobre o intermediário do negócio e descobriu não sei de que forma que estava envolvido em contrabando de sal. Esta é uma mercadoria quase tão valiosa para toda gente quanto pretos e ouro. Sem sal, como poderemos preservar a comida? No dia marcado, ele se apresentou, mas com uma letra de dívida do Dono do trapiche e com provas de suas irregularidades. Com isso em mãos lhe foi fácil obter preço infinitamente menor pelo arrendamento da propriedade.
+
+			 
+
+			---&&&---
+
+			 
+
+			Marianno é um mestiço de rosto comprido, pouca barba e sobrancelhas delgadas. Sua estatura é bem mais que a ordinária e é bastante forte, mas sua beleza feminina de rosto e seus modos delicados quando não está carregando ou fazendo nada pesado o fazem alvo constante de troças e violências diversas. Mais ainda do que as que são consideradas normais. Marianno é um chibando.[ 2 ] Eu o soube assim que o vi pela primeira vez. A mim pouco importa. A mim pouco se dá se ele deita-se com homens. Sabia que muitos eram grandíssimos feiticeiros. E Marianno honrava esta tradição. Ademais, Marianno era a pessoa que melhor podia entender-me e eu o respeitava, pois o escravo morto diante de mim no Tamarineiras, o Joaquim Mani Congo, falava-me as melhores coisas a seu respeito, quando vinha de visitas.
+
+			Recordo-me que no dia em que o senhor Bernardo usou Roza pela primeira vez e ela desceu os degraus cambaleante e com hematomas, quase desfalecendo, Marianno a tomou nos braços robustos, tirou toda a sua roupa, banhou-a, pôs nela uma camisolona limpa que pessoalmente havia costurado e colocou-a na esteira envolta num pano como se fora recém-nascida. Ele deitou a cabeça da menina em seu colo cantando com sua voz suave. Esquentei uma caneca de leite e ela dormiu profundamente. Foi Roza pegar no sono, que o outro problema começou. Marianno passou a mão na tora de madeira que escorava a porta que dava para o quintal. Iria matar o senhor Bernardo. Parecia um gigante enfurecido.
+
+			Pus-me a sua frente impedindo a passagem para a escada. Implorei, chorei, falei, mas só consegui que se acalmasse quando disse que, se sobrevivesse, o senhor descontaria em Roza e, se morresse, todos nós seríamos presos, mortos na forca ou condenados às galés. E eu teria ainda o senhor Bernardo como mais um que vagava aos meus olhos. Mas este seria um estranho no grupo e eu viveria numa guerra entre os mortos. Naquele dia Marianno voltou cambaleante para a cozinha, pegou uma garrafa de aguardente, bebeu um gole grande e pôs-se a chorar abundantemente. Depois,  pôs-se a  coser sua colcha.
+
+			Enquanto Roza mergulhava em suas panelas, Mariano saía do mundo flutuando em seus tecidos. Ele juntava qualquer pequeno pedaço de pano que encontrasse e, sempre que podia ou quando estava muito aborrecido, esquecia-se de tudo unindo os farrapos com linhas tiradas dos próprios panos e uma agulha que dona Sofia lhe deu certa vez para auxiliá-la em um trabalho. Ele é muito bom em cortar vestidos à francesa, fazer crivos, recortados, bainhas. A colcha já estava bastante grande.
+
+			Após a visita de Mr. Toole, quando cuidamos das feridas nas pernas da moça que apenas queria saber como era usar meias, todos nós lembramos aquele dia em que Roza deixou de ser menina. A visita do estrangeiro e o ocorrido com Roza não me deixaram dormir. Deixei que os dois descansassem mais um pouco. Joguei uma água fria no rosto, fiz o café do senhor, dos hóspedes e fui buscar no portão a Gazeta de todo sábado. Todos ainda dormiam e pude ler com calma. Vi que trouxe uma notícia que achei interessante.
+
+			“O Norte da Alemanha não tem força marítima; a Dinamarca também não tem já: a Esquadra Sueca de Calscrona será provavelmente destruída no momento que aquella Potencia fizer a paz com França: ultimamente a Russia tem huma esquadra em Cronstad. Ha evidente por essa enumeração de forças navaes da Europa, que a Inglaterra as póde contrabalançar e vencer com metade de suas forças maritimas actuaes”.
+
+				Oh! Quem dera pudesse eu entender tudo isto. Desde a primeira conversa com Mr. Toole, fiquei curiosa sobre esse lugar, a Inglaterra... O inglês voltará daqui a três dias  para continuar ouvindo e anotando minhas histórias. Engraçado como a memória falha e à medida que vamos escrevendo ela vai surgindo, como ossos que estão soterrados em cova rasa e são descobertos pela chuva. Ossos descobertos pela chuva...sobre isso falarei mais tarde.
+
+			Não sei dizer o que passa  na cabeça de Roza, mas ela dedicadamente cozinha em silêncio, picando ingredientes com sua adaga e mexendo o seu caldeirão.
+
+
+
+
+
+		
+			
+
+			
+
+		
+
+
+		
+			
+
+		
+
+
+		
+			A investigação — Segunda pista
+
+			Esvaziei garrafas aquele dia. Roza me fez lembrar de Margarida, de Lauriana, de Rita, de tantas de tantos senhores. E levou meu coração a ela, sempre ela, Tereza... Eu nunca fora senhor de nada e nem de ninguém. Sinto-me, como já disse, “uma maravilhosa nau sem rumo no oceano”, mas o que vale estar no mar sem o veludo daquela pele tão preta. Não creio em senhor que não seja também escravo. Era cativo de seu sorriso e de sua voz sedosa... É uma merda esta vida... Não estava gostando de mim aquele dia, pois bêbado apaixonado é algo patético.
+
+			Muitos cativos pediam a graça real, mas eu sabia que tanto Paulo Fernandes quanto os outros funcionários públicos desaconselhavam o rei a se meter na relação entre eles e seus senhores. Escravo era compra, compra vale dinheiro e o que se compra com dinheiro é propriedade. Mexer na propriedade das famílias é cousa que o rei não fará jamais, a menos que fossem alvo de sevícias comprovadas ou estivessem com a liberdade nos testamentos dos donos mortos. Vejam o parecer dele sobre o pedido de graça da mãe de Jorge Pardo, que era forra, para seu filho cujo proprietário não queria conceder a liberdade, mesmo a senhora tendo o dinheiro para comprá-la. Tive que engolir minha real opinião quando, de passagem, o intendente comentou comigo o caso.
+
+			“...tenho que a propriedade de qualquer escravo e como a de quaisquer outros bens, é que ninguém pode ser constrangido a vender seu herdamento como se explica na nossa Ordenação muito certa neste princípio, e conhecendo por exepriência que no país onde a escravidão se permite, um escravo bom é um achado e uma propriedade preciosa, e por isso sustento mais esta doutrina, e tenho em geral que deve ser particular política neste país não se meter nunca o soberano em tais negócios que irão anarquizar as famílias perdendo-lhes por eles o respeito aos senhores, pois que entretanto, que os escravos nesta condição servem às famílias e à lavoura, mas na liberdade são ociosos, e nunca se resolverão a abraçar outro trabalho...” 
+
+			Sevícias comprovadas... ora, ora, ora! Se Roza conseguisse comprovação das atrocidades feitas pelo parente do Intendente conseguiria sua graça real? Faz-me rir! Todavia eu estava cada vez mais próximo do Intendente-Geral. Quase nenhum cativo conseguia, mas eu daria um jeito por Tereza. Eu juro! Juro mesmo. Estava melancólico e também com uma sede de beleza; logo, só há duas soluções para o meu estado de ânimo: a birita e a estante. Achei lá um volume que adquiri na loja da Gazeta por 800 réis: Bocage.
+
+			Fiquei a pensar: uma colcha imensa de retalhos a envolver o corpanzil. Se isto não tinha que ver com magias, não saberia dizer o que mais poderia ter. O Intendente Paulo Fernandes era um católico atuante e não era dado a acreditar em tantas coisas que as gentes diziam nas ruas serem capazes os “feitiços”, mas estava tentado a achar que algo sobrenatural ocorrera ali. E eu lhe contei algumas histórias que o deixaram, no mínimo, intrigado.
+
+			Contei-lhe sobre o homem que vi certo dia no cais. Tinha ido até lá receber os contrabandos que o marujo Caetano sempre trazia (este detalhe achei por bem deixar de fora) e, como não poderia deixar passar, parei para bebericar uma boa aguardente. Até  porque,  só embriagado para suportar aquele lugar. No entanto, eu ainda não estava bêbado quando vi um negro, este sim, emborrachado de pinga, magro, descalço e barbado, parado na esquina com um copo. De repente o negro olhou-me zombeteiro e começou a mastigar calmamente pedaços de vidro! Ele comia e eu escutava aquele som triturando o vidro em seus dentes, um “croc-croc-croc...” Uma preta que passava me sussurrou nos ouvidos: “Não olhe!Está manifestado”.
+
+			O Intendente Paulo, eu sei, fica fascinado com minhas histórias porque tem consciência da prisão em que vive e não pode livrar-se dela. É como sempre digo, todo senhor é escravo... Mas também lhe falei sobre a velha cega que vendia legumes perto do trapiche do sal. Ela xingava e rogava pragas o tempo todo. Eu perambulo São Sebastião do Rio de Janeiro de ponta a ponta e  à hora que for. Por que teria medo? Eu faço parte da paisagem dos que provocam medo nas pessoas e não o contrário. Eu ri gostosamente quando me dei conta disto.
+
+			A única coisa que me inquieta um pouco é que desde criança volta e meia recebo umas visitas que acho que são almas do outro mundo. Não fazem nada. Só me visitam. Uma vez disseram que morreram no alto-mar e conheceram meu pai... Se eram amigos do velho José Moutinho, são meus também. Outros diziam que eram antepassados de minha mãe. Venham fantasmas todos! Eu tinha muito mais medo do vivo Bernardo Lourenço!
+
+			Voltando à velha, eu a via durante o dia rogando suas pragas até que, um dia, estávamos eu e o marujo Caetano muito tarde da noite, alta madrugada, e não havia um pé de gente na rua. Estávamos a cantar, a contar anedotas e a beber!  Pois bem, de repente desceu uma névoa espessa. Estávamos sentados num toco de árvore perto do cais quando ouvimos passos vindos ao longe, arrastados. Era ela, a velha dos legumes. Ela parou no meio da rua, colocou as mãos nas cadeiras e falou alto e impetuosamente:
+
+			—  Mas... Exu tá me fazendo de idiota? Então ele me levanta a essa hora, manda eu vim para aqui e não aparece?
+
+			E deu  meia-volta e seguiu com o mesmo passo. Eu sabia quem era Exu! Tereza Nagô me instruía sobre estes assuntos. Eu e Caetano curamos a bebedeira em dois tempos e corremos tanto, mas tanto... Exu deve ter gargalhado do nosso pavor, os dois marmanjos correndo batendo as tamancas dos pés no traseiro! Era noite e contei com tantos floreios, pausas e suspenses que via a hora  de o Intendente se borrar. Ah, estes homens “corajosos” da coroa!
+
+			Pelo que ele conseguiu remontar até o momento, o comerciante Bernardo fechou por uns dias sua hospedaria no Valongo e partiu com seus três negros para a chácara que comprara recentemente para preparar a festa. O baile era em homenagem ao aniversário de 19 anos da senhorinha Emerenciana, e foram convidados alguns dos mais ilustres cidadãos da cidade, entre eles ele próprio, Paulo Fernandes, o Intendente-Geral e vizinho de chácara. Eu, um livreiro e conhecido farrista bêbado, não estava na lista...se estivesse, posso apostar que as comemorações teriam sido bem mais divertidas. Até porque sei uma coisinha ou outra sobre a aniversariante... Aliás, eu, um mazombo orgulhso da minha condição de ralé, o que não sei destes bons senhores e senhoras tementes a Deus?  
+
+			Apurei que a moça homenageada não parecia lá muito entusiasmada, embora seus pais tudo fizessem para animá-la. E, de fato, no meio da festa o comerciante de casas, azeites, hospedagem, escravos ou qualquer coisa que pudesse vender e lucrar sacou um anel brilhante e lhe pediu a mão em casamento. Aplausos e uma mão esticada a contragosto para que o caro solitário entrasse em seu dedo anular direito. Eu, um assíduo frequentador dos covis de cretinos, sendo também um deles, conhecia os dotes da noiva.
+
+			Ah, a senhorinha Emerenciana... posso imaginá-la, posso vê-la, posso senti-la neste portentoso momento! Ela era uma beldade desejada, mas não havia quem pudesse rivalizar, naquele momento, com as posses do futuro marido. Ela não era o que ainda hoje chamamos de “mulher de janela”. Não! A senhorinha Emerenciana ficava muito “recatadamente” em seu lar e, se acaso o calor da cidade estivesse demais opressivo ou desejasse admirar o movimento das ruas, ela o faria discretamente, atrás das rótulas de treliças das janelas de sua suntuosa casa. Apenas podíamos sonhar com ela ao vislumbrá-la em suas idas à missa, na elegante Igreja do Carmo.
+
+			Está aí. Se há uma coisa que aprovei com a vinda dos reis de Portugal é a caída de moda destas tais rótulas ou treliças de madeira que se colocam nas janelas sem que possamos ver nada... e muito menos beldades como a senhorinha Emerenciana. Eu, um amante de todas as mulheres de janela e frequentador da igreja de Nossa Senhora do Rosário dos Homens Pretos, nas raras vezes em que me atacaram os remorsos de noites maldormidas e o medo da morte, era um defensor ardente da novidade. Salve o vidro inglês! Agora, quem quisesse estar na moda tinha que possuir vidros em suas janelas. Treliça era coisa de gente atrasada e pobre. Os comerciantes da Inglaterra que estavam com seus estoques encalhados no porto agradeceram enormente o modismo.
+
+			No dia seguinte, ela, a recatada Emerenciana, seu noivo e os outros partiram para a cidade em carruagens, mas os três negros continuaram na casa e receberam ordens para partir apenas quando tudo estivesse devidamente arrumado e limpo. Assim fizeram, mas não encontraram o senhor Bernardo quando chegaram ao Valongo. Foi quando a guarda acionada por residentes no beco encontrou o corpo com aqueles estranhos sinais...
+
+			O Intendente não atinava por quais diabos cortaram aquele dedo mínimo do intragável senhor Bernardo!
+
+		
+
+
+		
+			O passado um dia volta
+
+			Aprendi a ler e escrever por causa do Umpulla. Eu não achava que deveria, mas hoje vejo que é muito útil, embora só pudesse fazer isso escondido. Eu continuava achando estranho tanto interesse do inglês. Sei que estava sendo muito imprudente, mas acabei confiando nele. Não me perguntem o motivo. Fez-me bem falar. Estava farta de esconder, de calar, de esquecer. Ofereci um chá e sequilhos feitos por mim, e ele, fingindo esquecimento, deixou os tinteiros e os papéis comigo. A cada dia traz mais e dei graças, pois já estava se tornando perigoso furtar papéis do senhor. Grças a isso posso deixar estas lembranças.  
+
+			Meu senhor Bernardo não fez caso. Jamais imaginou que papéis servissem de algo para um de nós. Disse a ele que o estrangeiro informou que preferia deixar seu material para anotações na casa para não ter que trazê-lo toda vez que retornasse. Escondi-os bem em meu local secreto, onde colecionava as Gazetas desprezadas pelo senhor e outros objetos que considerava importantes, como um dos brincos do Umpulla. Um quarto crescente. Coloquei tudo em um baú velho perto de materiais considerados tralhas inúteis, próximo aos tonéis usados para os dejetos, que os negros que faziam o serviço de despejar no mar vinham recolher a cada dois dias.  Meu senhor e muito menos os hóspedes jamais chegavam perto de tal lugar com odores nada agradáveis.
+
+			Mostrei-lhe um dos avisos que estava na última Gazeta. Uma senhora da rua do Alecrim, a que era continuação da rua Detrás do Hospício, querendo ensinar até mesmo negrinhas. Oh! Se eu tivesse algum recurso levaria Roza. Tento ensinar alguma coisa a ela, mas é difícil em meio a tanto trabalho que temos.
+
+			O Mr. Toole se espanta demais com meu vocubulário, com minhas maneiras... Está empolgado e ansioso, e quando fica assim seu português se embola de forma incompreensível. Ainda mais porque falamos em voz muito baixa devido ao avançado das horas e por medo de que alguém escute. Ele é engraçado. Quer saber muitas coisas ao mesmo tempo. Pedi calma, pois chegaríamos lá.
+
+			Mr. João Toole diz ser contra a escravidão. Diz que os ingleses são contra e por isso estava ali “colhendo dados”. Quem ficou ansiosa e querendo saber mais agora sou eu, mas continuei contando a ele sobre nossa abrupta saída de Namuli.
+
+			Herdei muitos dos dons do meu pai. Uma destas habilidades era aprender muito rápido várias línguas e costumes. Ele  sabia que não estávamos seguros em canto nenhum. Nem com os portugueses nem com os sultões. O mascate Faruk queria que nosso povoado servisse de ponto de apoio para caravanas de vendedores de gente que passassem por ali, dando suporte aos condutores com comida, água e hospedagem por um dia ou dois. Em troca, receberíamos uma cota de aguardente, borracha, sal, fumo, cobre, armamentos e outros produtos. Meu pai não estava de acordo. E sabia que sua posição contrária era uma sentença de perseguição e morte.
+
+			Naquele dia de chuvas em que eu tecia o cesto, como já contei, ele falou com minha mãe e dois dias depois entrou em nossa cabana com um amontoado de roupas. Em nosso povo, o irmão de nossas mães, nossos tios, os “atatas”, tinham poder sobre nós. Mas meu pai não quis saber. Nos cobriu como fiéis e partimos quando todos ainda dormiam.
+
+			Não sei como soube que um grupo grande vindo de Zomba, no sul do Malaui[ 3 ] , passaria por ali em direção a Quelimane[ 4 ] . Já estavam caminhando havia dias e pararam próximos para um descanso. Havia um caminho mais curto, mas desviaram pela região do Namuli devido a um conflito que souberam estar ocorrendo. A caravana era composta por muitos devotos do Profeta e foi com eles que meu pai promoveu a nossa “conversão”. O que aconteceu foi o seguinte e vou resumir porque esta história é grande e Faruk está mergulhado nela até o topo da cabeça.
+
+			A morte nem sempre é algo natural. Alguém que não é ancião, está bem e simplesmente não acorda só pode ter sido alvo de uma coisa: feitiçaria. E foi disso que logo desconfiaram quando o Soba Mamatundu não despertou aquela manhã. Rapidamente um processo de investigação aconteceu para descobrir o feiticeiro. Cumprindo os rituais necessários quando um chefe morre, seu corpo foi posto em esteiras com cabaças embaixo para que a matéria se precispitasse nelas, suas vísceras foram retiradas e o corpo ficou ali até ressecar completamente e apenas restarem os ossos. Tudo isso era vigiado por guardas constantemente, pois feiticeiros poderiam retirar algum pedaço do corpo, principalmente ossos do chefe, e fazer com eles encantamentos poderosos. Esse processo durava no máximo duas semanas até que os ossos aparecessem, pudessem ser finalmente enterrados e o morto partisse em paz para a terra dos ancestrais. Esse era um tempo de recolhimento para todos, pois ele – o chefe – estava entre nós. Não tinha ido para a sua morada e nos poderia assombrar.
+
+			Antes do enterro, a ossada era cuidadosamente examinada. Se faltasse um osso, um único ossinho, os guardas responsáveis eram decapitados acusados de feitiçaria. Meu pai era um dos guardas e não esperou para ver a conferência dos ossos. Duas noites antes, quando todos já estavam recolhidos, meu amigo Umpulla lhe atirou uma pedra detrás de uma moita e o chamou para contar tudo. Faruk, quando esteve por lá na vez em que discutiu com ele, também foi à casa do chefe e beberam juntos. Estava desconfiado de que o havia envenenado e comprado um dos nossos para roubar um pedaço de osso. No dia marcado, a conferência certamente daria falta e os guardas seriam mortos. Tudo levava a crer que não bastava meu pai ser morto, sua memória tinha que ser amaldiçoada. Meu pai correu para o corpo exposto. Faltava um osso do dedo mínimo da mão direita.
+
+			Ele não pensou duas vezes. Numa corrida desabalada, embora silenciosa, nos juntamos disfarçados à caravana de Zomba, que não estava muito longe. Sua única recomendação foi que não abríssemos a boca. Apenas ele falaria. O grupo estava prestes a levantar o acampamento, quando vimos cavalos a todo galope em nossa direção. No meio dos invasores ele, Faruk. Deixou de ser um simples mascate para chefiar expedições.
+
+			Como já disse, meu pai era um homem prático. Ele desceu um véu completamente sobre mim e minha mãe e nos misturou com outras que estavam vestidas do mesmo jeito. Ele se escondeu atrás de uns cavalos em meio aos muitos homens de Zomba, alguns fortemente armados. Ninguém soube dizer onde estávamos. Eu sabia qual era o medo do meu pai. Temia que incendiassem tudo e aprisionassem os aldeões. Vi quando cerrou os olhos, pois se isso ocorresse teria que se revelar e então seria morto diante da própria família e de forma cruel. Foi com horror que escutamos as histórias de um povoado distante que perdera praticamente todas as crianças e jovens. Tentaram resistir e muitos foram degolados ou mortos com aqueles paus de fogo.
+
+			Um homem da nossa aldeida foi amarrado e outro estava com eles, pois já deveriam ter dado falta do osso. Falaria alguma coisa. Meu pai se agitou e já estava prestes a dar o passo para se acusar, quando o chefe da caravana de Zomba saiu em direção aos recém-chegados. Um homem impressionante. Alto como nunca vi outro, com a tez tão preta e uniforme que parecia um veludo, olhos extremamente negros e brilhantes que sobressaíam ainda mais com a moldura do turbante Keffiyeh. Sua longa túnica conferia uma imponência e ele não tinha pressa. Em passo calmo, porém decidido, aproximou-se. Saudou Faruk na língua deles.
+
+			— As-salam alaykom
+
+			— Wa Alykom As-salam
+
+			Depois de uma conversação que não entendemos, parece que eles perguntaram a Nurdin ¬ este era o nome do chefe ¬ por nossa família. Só o vimos dar de ombros e balançar negativamente a cabeça. Trocaram mais algumas palavras. O silêncio tenso só era quebrado pelas vozes baixas de Nurdin, Faruk e outro homem, que não era como nenhum de nós. Era muito claro, com olhos muito claros como um cego, tinha uma barba volumosa e muito pelo nos braços. Ele vestia pesadas botas negras e levava uma pesada arma na cintura. Tive medo.
+
+			Subitamente ouvimos nitidamente o canto maravilhoso do Namuli Apalis. Era Nipele atenta, eram os ancestrais vigilantes. Não fizeram nada naquele momento, pois ao que parecia tinham outros planos. Faruk e os homens partiram contrariados no caminho de onde vieram. Um alívio se instalou entre nós, mas não pudemos relaxar durante todo o percurso.
+
+			Em meio ao alvoroço todo, meu pai viu Umpulla e trocaram um olhar cúmplice. Antes de começarmos a caminhada rumo a nossa nova vida, meu pai soletrou para ele porque sabia que era de total confiança: Quelimane. Devia partir também o mais rápido possível. Lancei um olhar para o Namuli. Uma lágrima desceu em meu rosto e agradeci à Grande Mãe.  Vi um homem grande de pé na porta do povoado. Eu podia vê-lo por dentro. Era como se fosse transparente e eu enxergava seus ossos. Todos eles, menos o do dedo mínimo da mão direita.
+
+			---&&&---.
+
+			Eu revezava com meus irmãos no lombo de um burrico ao longo do caminho. Logo nas primeiras horas, chegamos ao povoado de Errego. Aldeias com cabanas circulares como as nossas e um monte majestoso também se impondo na paisagem com uma trilha ladeada por muito verde. Anos mais tarde, quando aportasse na cidade de São Sebastião do Rio de Janeiro eu me lembraria imediatamente  desse monte. A estrada era linda.
+
+			Nurdin exalava autoridade mesmo que estivesse completamente calado. Era capaz de dar ordens apenas com o olhar. Meu pai entregou a ele rolos de fumo, uma manilha de cobre e agradeceu em sua língua por nos juntar ao grupo. Nurdin gostou dele. Cinco vezes por dia todos paravam, Nurdin olhava o horizonte e a massa de peregrinos ajoelhava-se em determinada direção para as orações. Foi um caminho de aprendizados.
+
+			Nurdin lia para meu pai os ensimanentos de seu livro e ele parecia cada vez mais interessado e fascinado. Ele dizia que, além da oração (Salat) que deveria ser praticada cinco vezes por dia, existiam outros quatro pilares importantes: a crença no Deus único, Allah, e em que Muhammad (Maomé) é seu mensageiro; o jejum durante o mês do Ramadan; a contribuição ou Zakat, que é a parcela da riqueza dos ricos devida aos pobres e a Hajj, a peregrinação a Meca ao menos uma vez na vida. Meca era o lugar onde nasceu o Profeta e onde o anjo Gabriel lhe apareceu na gruta em que meditava regularmente, ao longo de 23 anos, para lhe revelar o conteúdo do Livro, o Alcorão.
+
+			Nurdin dizia que sua crença significava paz e submissão. Um dia meu pai disse “Ash-Hadu an la ilaha il-la Allah, wa ash-hadu an-na Muhammadan rassu-lu Allah” (Não há outro deus senão Allah, e Muhammad é o Mensageiro de Deus). E estava completa sua conversão... e a nossa.
+
+			Caminhamos, caminhamos e caminhamos até que finalmente depois de mais quatro dias chegamos a Quelimane e até hoje não sei traduzir meu choque. Quando me lembro de nosso grupo chegando, a imagem que me vem é a de um pequeno riacho desaguando no mar. Jamais imaginaria que existisse uma cidade igual àquela. Quelimane fervilhava! Mergulhamos em ruas repletas de seres humanos tão diversos e numerosos quanto as plantas das florestas do Namuli. Pessoas como eu jamais haviam visto.
+
+			As ruas e vielas tinham um  vai e vem de gente vestida com trajes coloridos do Oriente. Iemenitas, benianos, kuwaitianos, suris, batinis, beduínos, somalis. Gente usando roupas que nunca havia visto. Pequenos chapéus pretos, calças leves e bufantes, sarongues, turbantes enormes, longas túnicas abeie, thobes, o preto e o anil dos homens do deserto. Mulheres cobertas da cabeça aos pés e outras seminuas. Animais, mercadores de peixe, islâmicos concentrados com suas contas no masbaha. Reverendos e religiosos do Cristo. Uma mistura e um barulho atordoantes. Seres humanos metade tudo. Meio hindus, meio africanos, meio turcos, meio baluchis, meio castelhanos, meio franceses, meio portugueses... Eu estava fascinada, atordoada, hipnotizada.
+
+			Nossa caravana foi se dispersando na multidão. Seguimos Nurdin até um velho casarão com três andares e várias famílias amontoadas. No térreo, bem no centro do edifício, um pátio com um forno grande comum onde preparavam seus alimentos. Ficamos instalados em um dos quartos. Minha mãe se encolhia agarrada ao meu irmão caçula que ainda era de colo. Nós não éramos dali. “Eu não sou daqui”, pensava e chorava completamente apavorada. Roupas estranhas, pessoas estranhas, local estranho e toda aquela tensão que nos acompanhou por toda a viagem, o pavor de que a qualquer momento fôssemos descobertos e perseguidos por Faruk e seus companheiros... Estávamos exaustos. Nurdin se mantinha à distancia de nós, mulheres. Acertou algo com meu pai e com um breve aceno se foi.
+
+			No dia seguinte, acordamos muito cedo com um sinal. Era o horário da oração. Depois, meu pai saiu para onde o esperavam alguns homens para ensinar seu novo ofício. Nós ficamos ali naquela casa com tantas famílias, tentando nos acostumar à nova realidade. Uma menina, Kareema, se aproximou de mim. Ela também era macua. Sua língua tinha algumas diferenças, mas nos comunicávamos muito bem. Ficamos amigas e ela foi me mostrando os costumes, recantos e segredos de Quelimane.
+
+			A família de Kareema era adorável. Sua mãe, Fanta, também se aproximou da minha. Fizeram tudo para que nos sentíssemos bem e tornaram os dias mais amenos. Eram boas pessoas, devotos fiéis. Já estávamos ali por pouco mais de 11 luas, quando ela me convidou para uma ida ao mercado para comprar alguns legumes e peixes. Na saída do prédio, caminhando ao lado de Kareema e assutada com o movimento, vi um rosto na multidão: Faruk.
+
+
+
+
+
+		
+			
+
+			
+
+		
+
+
+		
+			
+
+		
+
+
+		
+			A Investigação — Suspeitos
+
+			Eu não conseguia parar de rir e o Intendente irritou-se. Pois vejam se não é para ter como a melhor das anedotas a pergunta que me fez, com a seriedade de quem não se dá conta de quem era o morto em questão. Paulo Fernandes perguntou-me quem eu pensava serem os suspeitos. Ora, ora, ora! Por todos os diabos! Toda a São Sebastião do Rio de Janeiro é suspeita de matar o ensebado, sovina, escroque, chantagista, zangano, violento, cruel e despudorado senhor Bernardo Lourenço Vianna!
+
+			Ainda enxugando as lágrimas de tanto riso, fiquei sério quando ele encarou-me e lançou a pergunta perigosa:
+
+			— Incluso o senhor Nuno  Alcântara Moutinho?
+
+			Eu precisava pensar rápido. Não podia deixar transparecer minhas motivações para estar feliz com o passamento do Barão de Mata Cavalos, afinal, uma surra que lhe quebra ossos, uma ameaça de morte por semana e uma dívida de quase um conto de réis não é cousa de pouca monta. E nestas ocasiões, me ensinavam os manuais e folhetos de estratégias militares vendidos na loja da Gazeta, a melhor defesa é sempre o ataque.
+
+			— Prezado e ilustríssimo Intendente, sim. Iinclusive este que vos fala. Tal personagem evocava antipatias sem conta. No entanto, juro (não perco a mania de juramentos!), não possuo a coragem necessária para estocar a barriga de ninguém e muito menos deixar o cadáver naquelas condições, sem dedo, sem, sem... Consegues me imaginar abrindo as calças de um fidalgo para cortar-lhe a virilidade? Consegues me imaginar com um caralho morto, murcho, mal cheiroso e sem tesão em uma das mãos e uma faquinha de cozinha na outra?
+
+			Desta vez, quem quase mija nas ceroulas de tanto dar risadas foi ele.
+
+			— Aprenda comigo, caríssimo Paulo Fernandes, aprenda comigo a ser uma nau maravilhosamente solta no oceano do mundo!
+
+		
+
+
+		
+			Eu nunca tinha visto o mar
+
+			As obras do ancoradouro do cais do Valongo  estavam à plena carga. Eu lia todos os sábados que muitas embarcações partiam para Moçambique. Como estaria Quelimane naquele momento? Eu teria coragem de retornar? Minhas lembranças daquela cidade não são todas ruins, como ja revelei. No entanto, o Faruk era um fantasma que nos assombrava. Entendo agora que ele sabia que estávamos na cidade e nos observava de longe, esperando um deslize qualquer. Fora do povoado, convertidos ao Islã, frequentadores da mesquita e cumpridores dos nossos deveres, ele não tinha muito como nos atingir e também porque o Nurdin nos apresentou a todos e nos protegia. Estava convencido do nosso verdadeiro milagre de conversão. Faruk se transformou em um homem muito ocupado, com muitos negócios e também não iria gastar seu tempo apenas para nos perseguir. No entanto, éramos desafetos pessoais e ele esperaria a hora certa para agir. Como reza o dito popular: “A vingança é um prato para se comer frio”.
+
+			Quelimane era uma cidade como muitas daquela parte do mundo. Um porto frenético de comércio. Perguntei: Sabe o que é um dhow, Mr. Toole? Um dhow é um barco à vela, mas suas tábuas são fixadas umas às outras com cordas  em vez de pregos. Existiam dhows de todos os tamanhos: muito pequenos ou enormes. Certamente o senhor já deve ter visto alguma gravura com um navio largo e raso que termina numa ponta alongada nas duas extremidades, com uma proa longa como uma cabeça de camelo. Esse era um navio mtepe e ele era uma das muitas espécies de dhows.
+
+			Bem, eles podiam variar de tamanho, mas, além de certas características específicas na sua forma e construção, os dhows tinham mais uma coisa em comum, e talvez isso fosse o principal: eles paravam em todos os portos que oferecessem alguma possiblidade de comércio. Trigo, arroz, sal, peixe seco, tâmaras, manteiga, tecidos,  açúcar, canela, casco de tartaruga, incensos, ouro, marfim e... escravos. Tudo isso poderia fazer parte da carga de um dhow.
+
+			Meu pai, indicado por Nurdin, foi trabalhar no conserto de dhows. Esse era um comércio muito, muito antigo em todo aquele oceano e, sem dúvidas, entrou em choque direto com as autoridades. Os portugueses eram as autoridades. Aconteciam contrabandos de toda sorte e os dhows se protegiam para burlar as leis. Diziam que muitas coisas não se conseguiam comerciar unicamente com os navios de Portugal e assim iam fazendo negócios também com franceses, holandeses, espanhóis... Eram uma fraternidade e o que queriam era vender. As tripulações tinham origens em várias versões de islamismo e alguns tinham origem escrava, mas isso não era muito importante para os homens do mar. Alguns nakhodas[ 5 ]  tinham pele escura, mas eram tratados todos como árabes.
+
+			E as famílias? Ah, essa era a melhor parte. Por navegarem aqueles mares por gerações, os marinheiros dos dhows tinham mulheres e famílias em muitos portos. Índia, Arábia, Congo, Madagascar, Moçambique...  Daí tanta mistura. Os akuya ficavam loucos. Não entendiam. O nakhoda que era chefe do meu pai falava indiano, somali, árabe, macua (em diversas variantes), swahili, português e inglês!
+
+			Meu pai aprendeu rápido o ofício. Era muito inteligente. A Família de Kareema ia ensinando a minha mãe os hábitos e passamos a frequentar a mesquita local com assiduidade. Minha mãe pouco falava, mas eu sentia que ela não estava dentro daquilo. Eu notei que uma tristeza muito grande morava dentro dela.  Ela não passou a acreditar como meu pai. Ele parecia sinceramente convertido. No entanto, ela sabia que estávamos em perigo se resolvesse contestar. Se calou, mas não deixou de cultuar suas crenças secretamente. Ela faria isso ou morreria de desgosto. Uma mulher do meu povoado jamais poderia deixar seus antepassados de lado. Eles eram parte dela mesma.
+
+			O mar... Ah, o mar!. Ele foi outro impacto para mim. Nunca tinha visto antes. Meus olhos se enchiam daquela imensidão verde da praia de Quelimane, com aquelas palmeiras e areia branca. No amanhecer, com o céu róseo, era algo espetacular. No entardecer, com o  céu violeta, era algo divinal e à noite, coberto pela luz da lua e o manto de estrelas, era algo mágico. Em Namuli nos deitávamos para apreciar as estrelas. Havia um grupo delas que chamvam de “sete irmãs” e uma delas representava Nipele. Por vezes eu procurava a Grande Mãe no céu de Quelimane, deitada na areia branca. Nessas horas, um grande pássaro Namuli Apalis me cobria com suas asas e não me deixava olhar as estrelas.
+
+			O mar... ao mesmo tempo que emanava beleza e riquezas, também podia ser o palco da crueldade, pois era por onde vinham eles, os que tinham a chave para abrir a boca salgada do fim do mundo. Eu vi uma vez ao longe, no porto, uma fila grande de pessoas acorrentadas, nuas e cabisbaixas. Minha mãe alertou para jamais chegar perto, para me afastar ao máximo, mas como aquele espetáculo me atiçava a curiosidade! Cheguei mais perto, perigosamente perto e dei um pulo para trás com as duas mãos na boca sufocando um grito. Vi com os meus olhos o chefe morto Mamatundu. Ele me olhou e levantou seu braço acorrentado para mostrar a mão direita sem o dedo mínimo. Corri o mais que pude. O que aconteceria a todos eles? Nesse mesmo dia, alguém se materializou do passado: Umpulla bateu à porta. Vinha com as roupas dos peregrinos do deserto e, na orelha, um brinco de ouro.
+
+			Sentamos-nos em roda e minha mãe serviu um ensopado quente e saboroso. Eles queriam saber tudo o que acontecera desde a nossa partida, e Umpulla contou que Faruk nada fez naquele dia, mas retornou. Tambores deram o alarme, mas em pouco tempo tudo foi destruído. Ele havia escapado enfiando-se em um velho esconderijo de infância, próximo ao rio Licungo. Depois subiu o Namuli. Sabia que aquele era um terreno em que ninguém ousaria entrar além dos limites. Subiu por muito tempo até que um homem com um cajado veio em sua direção. Era o guardião. Umpulla tentou correr, mas não conseguia se mover. Ultrapassou a fronteira permitida e o guardião iria começar seu interrogatório. Iria enlouquecê-lo e ele ficaria para sempre perdido no monte.
+
+			O Apalis cantou e o encantamento quebrou por alguns segundos. Umpulla desceu a montanha a toda velocidade. Caminhou escondendo-se até muito longe até que viu um homem curvado na beira de um riacho. Ele usava um turbante igual ao de Nurdin, mas num tom forte de azul e uma túnica negra. Tinha a pele muito escura com um tom bronzeado, curtido pelo sol do deserto. Agachado enquanto enchia uma cabaça com água, não reparou uma enorme cobra se preparando para dar-lhe o bote. Umpulla, com uma vara bifurcada na ponta chegou por trás do animal e prendeu-lhe a cabeça. O peregrino deu um salto, assustado. Os dois mataram o animal, comeram sua carne e curtiram seu couro, que foi vendido por um bom preço, e Umpulla recebeu uma parte. Em sinal de gratidão o incorporou à caravana e o menino vagou com ela por muitos lugares. Ele carregava fardos, cuidava dos animais, caçava, cozinhava e fazia muitos serviços pesados. Tinha chegado a Quelimane havia três dias. Descobriu nosso paradeiro quando encontrou Nurdin no mercado.
+
+			Estávamos muito diferentes dos tempos de criança. Ele mais alto, forte e com um tom trabalhado pelos raios de sol. Eu, apesar de minhas regras ainda não terem vindo, já começava a me parecer com uma mulher. Como o tempo é voador... A vida em Quelimane nos ensinou muitas coisas. A proximidade com o mercado, o porto e seus personagens nos ensinaram idiomas e nos colocaram em contato com um mundo novo. Aprendi, além das variantes do macua, suahili e a língua das autoridades coloniais, o português. Tudo com os habitantes do casarão, nas idas ao mercado,  à mesquita e num convívio que jamais sonhei quando estava em minha aldeia. Meu pai teve diversos conflitos com minha mãe por causa dos novos hábitos. Eu via que minha mãe sofria; no entanto, era mais que isso, ela enlouquecia. Eu teria a comprovação disto da forma mais dolorosa. Está entre as muitas coisas que jamais esquecerei porque quando me visita ela chora, apertando a barriga.
+
+			Meu corpo era o de uma mulher e, naquela manhã, acordei com a cabeça pesada, uma forte dor no ventre e as roupas manchadas de sangue. Sentia-me duas vezes estranha: por não ser dali e por deixar de ser considerada criança. Minha mãe preocupou-se imediatamente em ocultar do meu pai e eu não sabia o motivo, mas dei total razão a ela quando descobri. Eu seria cortada. Uma mulher digna não poderia ter seus órgãos genitais completos. Subitamente entendi toda a sua angústia. Fora obrigada a passar por este ritual. Nossa conversão não seria considerada se não fosse circuncidada. Finalmente compreendi por que ela precisou dos cuidados da mãe de Kareema e  por que parecia sentir fortes dores que quase tiravam sua razão. Apavorei-me.
+
+			Em nosso povoado, nesse momento da vida, eu seria conduzida por anciãs à inciação e aprenderia tudo o que era necessário para ser uma boa esposa, e ser uma boa esposa incluía dar prazer ao seu homem com tudo o que Nipele lhe deu. Nada seria cortado, ao contrário, seria estimulado para que cumprisse sua função. Minha mãe decidiu que levaria a cabo secretamente os rituais tradicionais do nosso povo ela mesma. Na verdade, naquele momento eu não conseguia adivinhar o que tinha em mente, como evitaria que eu passasse pelo ritual, pois cedo ou tarde teria que informar que minhas regras vieram, mas já estava tudo planejado em sua mente.
+
+			Ela sempre encontrava uma maneira de escapar do controle. Dizia que íamos ao mercado, à mesquita, à casa da senhora Fanta e Kareema, enfim... Deveríamos eu e ela ficar a sós para que ela me instruísse. Nós não éramos dali. Ela repetia isso sem parar. Poderia ser fácil e natural para todo mundo, mas não era para nós. “Miyo kokhuma o Namuli” (Fui gerada no monte Namuli), repetia mais para ela mesma que para mim. Tudo foi feito de uma forma simplificada, mas minha mãe me instruiu e fez seus rituais da melhor forma que pode. Eu estava pronta e, quando tudo terminou, ela me levou à beira do mar e em dado momento sumiu, mas quem apareceu naquela última tarde foi Umpulla.
+
+			Eu estava na areia, distraída, me divertindo com pequenos peixes, catando conchas e pulando as ondas na beirada da praia. Como o oceano me fascinava!  Quando me virei, encontrei-o e não vi minha mãe. Ele disse que ela precisou voltar às pressas e que o deixou encarregado de reunir as coisas e me levar de volta. Minha mãe sabia que ser humano nenhum consegue lutar com a natureza. Quando me deixou a sós com Umpulla, ela queria que acontecesse o que aconteceu.
+
+			Ele pegou um peixe e assou na fogueira para uma refeição antes de voltarmos à cidade. Comemos e nos deitamos para procurar a estrela Nipele naquele céu coalhado. Voltei no tempo, mas sentia algo muito diferente das vezes em que fizemos a mesma coisa às margens do Licungo, deitados em alguma de suas grandes pedras no sopé do Namuli. Não pensei no que minha mãe deve ter inventado para justificar minha ausência de casa. Uma quentura me invadiu e minhas entranhas pareciam chamar por ele. Passei levemente a mão em sua orelha e no delicado pingente de ouro em forma de quarto crescente pendurado. Ele passou seus dedos pelas delicadas escarificações que eu possuo no rosto e que parecem ramos com pequenas folhas no meio da testa, nas maçãs e no queixo. Eu gosto delas. Pensava e penso que me fazem diferente e única.
+
+			A recordação daquela noite me vem como a lembraça de um sonho, de um conto mágico. Estávamos eu e Umpulla debaixo da luz prateada do luar quando vimos um grupo de cerca de 10 pessoas vindo em direção à água em grande algazarra. Elas possuíam nossos traços de rosto, cabelos, corpo... mas eram completamente brancas! Nunca havia visto pessoas assim. Tinham cabelos e os pelos do corpo muito claros também. Umpulla me contou que pessoas como aquelas não aguentam tomar muito sol e viviam a se esconder, pois eram muito perseguidas e mortas. Muita gente acreditava que seus corações eram de ouro ou que tomar poções feitas com seus ossos trazia fortuna, saúde, boa sorte.
+
+			Estavam ali brincando junto ao mar na noite clara e aquela visão do grupo pulando, rindo e correndo na água sob o brilho do firmamento tinha algo de uma cena que não era deste mundo. Assim como apareceram, sumiram, correndo pela larga extensão de areia alva como eles. Tomados por aquele clima tão leve, tiramos todas aquelas roupas como quem se descasca para mostrar quem realmente é. Estávamos os dois despidos. A verdade não podia ser mais escondida. Ele também não era dali. Nós, na verdade, não éramos de lugar algum. Nosso lar era o coração um do outro. Nossos corpos negros e unidos como um único ser era o certo. Umpulla me fez uma mulher e completou o ciclo. Mergulhou fundo em mim como o sol poente mergulha no mar e incendeia o céu de púpura. Depois que ele se vai, a grande bola branca chega e enche de luz fria a água salgada. Assim como os albinos, também brincamos... Brincamos de lua.
+
+			Quando voltamos, notamos um tumulto na entrada do casarão. Faruk e vários homens estavam levando toda a minha família. Minha mãe foi denunciada como herege feiticeira por minha iniciação. Viram-nos em uma tarde e denunciaram. A pena eu sabia qual era: apedrejamento. Mas tinham outros planos. Venderiam a todos nós para o comércio de gente do qual faziam parte ativamente. Seríamos trocados por homens deles aprisionados por brasileiros, portugueses, franceses ou castelhanos. O argumento era “diferença religiosa”.
+
+			Estávamos prestes a mergulhar no abismo salgado do fim do mundo. Em breve estaríamos soltos no gigantesco rio chamado mar.
+
+
+
+
+
+		
+			
+
+			
+
+		
+
+
+		
+			
+
+		
+
+
+		
+			A investigação — Terceira pista
+
+			Eu estava muitíssimo empolgado com a minha investigação, e ela atingiu o auge quando, na tarde seguinte ao interrogatório dos três escravos do senhor Bernardo, o Intentende Paulo Fernandes planejou ir à hospedaria Vale Longo sem aviso, acompanhado de um oficial da guarda. Queriam pegar os três de surpresa, pois os bens do morto entrariam em avaliação e, como ele era um abintestado[ 6 ]  e não deixou herdeiros, iriam a leilão em breve.
+
+			A Real Junta do Commercio do Estado do Brazil nomearia por aqueles dias um administrador dos bens do falecido e seria posto aviso na Gazeta aos credores que quisessem haver os seus pagamentos. O oficial ficaria na casa para preservar os bens do rico comerciante e vigiar os três que, afinal, também faziam parte do espólio.
+
+			Como já informei, eu era um recente amigo de berço do Intendente. Em nossa última festa particular, cada um com uma bela rapariga ao colo, confidenciou-me após alguns drinques causos interessantes de seus amigos reais. Disse-me entre muitas risadas: “Nuno Moutinho, não deixe que Dona Carlota Joaquina veja um negro bem feito de corpo!”  Como eu imaginava, não existe sangue que não seja vermelho. Nem mesmo os azuis.
+
+			Corri gigante risco, pois quase lhe confessei entre gargalhadas e goles que o Nascente Pinto, selador real na âlfandega, ajudava o marujo Caetano a passar os contrabandos com os quais eu conseguia os ganhos para tentar pagar ao escroque do finado primo dele. O diabo que carregou o Bernardo era meu amigo, pois fez uma garrafa cair no exato momento em que eu, verborrágico e empolgado, quase ponho tudo a perder, mas considero esta uma das passagens mais divertidas de minha dura, porém alegre, vida.
+
+			Nenhum produto entrava no Rio de Janeiro sem o carimbo do rei. E quem detinha o poder do carimbo era o selador. Seja amigo dele e terás os TEUS portos abertos  às nações amigas! Aproximei-me deste homem cuja família era vitalícia neste ofício  havia décadas, vejam só, em uma ladainha na igreja de Santa Rita, que um antepassado da família construiu e que se tornou importante templo na cidade.
+
+			Estava de muletas, ainda me recuperando da surra encomendada por Bernardo Viana, quando Tereza levou-me até lá. Ela iria com sua senhora, que era parenta do clã de seladores, à festa dedicada à santa, no dia 22 de maio, e queria me ver por lá. Achava que eu precisava de um pouco de Deus... Qualquer Deus! Como não há o que ela peça que eu não faça, convoquei Caetano, que me acompanharia em uns copos na quermesse depois. E lá fui eu. Quando o avistei, a ideia veio imediata. Sentindo uma dor lancinante, larguei as muletas e caminhei pela nave. Caetano gritou: Milagre! E todos acompanharam. Tereza assistia à cena com aquela divertida expressão de incredulidade, sem saber se sorria, se ficava brava, se engrossava o coro. Desde este dia, Nascente Pinto tem certeza absoluta de que Santa Rita abençoa tudo o que toco... Inclusive as porcentagens que cabem a ele do apurado com a venda dos produtos que ele deixa passar. A fé é algo poderoso! Aleluia!
+
+			Li na Gazeta daquele dia: “Manoel Tedim da Rocha, e Francisco Antonio de Faria, leiloeiros dos bens do fallecido Bernardo Lourenço Vianna, fazem saber aos credores do mesmo, que até 25 do corrente mes lhes mandem appresentar suas contas para receberem o que em rateio lhes tocar do que até agora se tem liquidado”.
+
+			Pronto! Era preciso agir rapidamente. Eu não queria, ou melhor, não podia cair outra vez nas mãos de um credor implacável. O morto era primo do Intendente; logo, ele tinha total interesse neste leilão, pois poderia ter parte nestes bens, logo... Paulo Viana poderia ser uma versão bem mais terrível do primo, pesando-se o cargo que ocupava. As letras com minhas dívidas poderiam ser cobradas por ele! Tremi. Eu precisava entrar naquela casa e descobrir onde estavam. Elas precisavam desaparecer! Juro que hei de encontrar uma forma de não aparecerem jamais.
+
+			Eu os segui na ida à hospedaria pelos motivos acima e também como bom bisbilhoteiro que era, além de beberrão e comilão, pois eram famosos os quitutes da bela Roza, da Vale Longo.  Encontramos Muana varrendo a entrada; Marianno às voltas com o conserto de uma carroça e Roza a cozinhar um de seus famosos pratos. Paulo Fernandes chamou os três à sala. Explicou que não podiam se afastar da propriedade e que estariam vigiados pelo oficial até que acontecesse o leilão dos bens e fossem arrematados por novo senhor. O Intendente foi ouvido por eles com as cabeças baixas, obedientes.
+
+			Chamou-me a atenção a coleção de facas em cima da mesa da cozinha. Como, pensei, aquele homem permitia tantas armas numa casa em que vivia apenas com três escravos? Até para cuidar da própria segurança era presunçoso. Certamente pensava que não teriam a capacidade de... bem, mas ela era uma cozinheira, também ponderei, e não se pode cozinhar sem cortar... Mas Bernardo fora encontrado enrolado na colcha de retalhos, faltando duas partes do corpo e com um punhal cravado na barriga. Uma  faca...
+
+			O cheiro do ensopado encheu o ar. Roza nos convidou para a ceia. Fechei os olhos e provei. Era um sabor único, mágico. Ai... estava uma delícia!
+
+
+
+
+
+		
+			Os verdadeiros monstros
+
+			Derramei mais um pouco de chá na xícara de Mr. Toole e servi outro prato com sequilhos de coco. Ele então me explicou que trabalhava para um grupo de ingleses com negócios no Brasil e alguns faziam parte da Sociedade para Efetivação da Abolição do Tráfico de Escravos[ 7 ]  ou algo assim. Como estaria nesse período no país, foi designado para também recolher o máximo de informações sobre histórias e as condições de vida de escravos na colônia portuguesa. Estavam pressionando os governos coloniais a extinguir com o tráfico e, psoteriormente, queriam o fim da escravidão propriamente dita.
+
+			Eu nunca ouvira falar em nada igual! Interessei-me, embora a vida tenha me ensinado que desconfiar é saudável, mas desde o início algo me dizia que podia confiar no inglês. Mr. Toole era relativamente jovem e me contou dos movimentos que já tinham ocorrido em seu país. Contou-me que conseguiram abolir por lá o tráfico internacional em 1807. Espantei-me. E ao que parecia estavam começando a organizar a Sociedade antiescravidão. Parecia impossível que no mundo existisse um só akuya que fosse desejando o fim da servidão. O que ganhariam com isso? E ele me disse mais. Mostrou-me outra gazeta. Esta não era feita na cidade e nem mesmo no país. Seu nome era Correio Brasiliense e era rodada na Inglaterra de Mr. Toole. Ele passou-me um exemplar. Olhei ávida e curiosa e levantei os olhos para ele muito surpreendida. Aquele periódico poderia levá-lo à prisão e à morte. Aquela nova gazeta pregava a independência de Portugal!
+
+			Ele pegou o exemplar de volta e mudou de assunto.  Insistiu para que eu contasse afinal o que acontecera após a prisão da minha família por Faruk e como viera parar no Brasil. Respondi que aquilo foi uma pequena ponta de muitos interesses, como estavam me parecendo todas essas ‘sociedades’ inglesas contra a escravidão das quais me falava. Ele sorriu desconcertado.
+
+			Continuando, quando eu e Umpulla chegamos já estavam levando todos, acorrentados. Inclusive meus irmãos. Kareema chorava agarrada à mãe, Fanta, e elas nada entendiam. Tive vontade de gritar, correr para eles, mas Umpulla não deixou. Nos escondemos. Delações eram muito comuns naquela época e muita gente veio parar aqui deste lado do oceano acusado de feitiçaria, bruxaria... Vieram realmente feiticeiros poderosos embarcados para cá. Eu mesma conheço um que... Depois conto. Mas a maioria era gente comum e que não estava fazendo nada demais. Uma briga, um desafeto qualquer que conseguisse produzir uma prova e a pessoa corria perigo.
+
+			No meio daquela confusão e gritaria, minha mãe fez uma coisa que ninguém esperava. Tirou do meio das roupas uma adaga e cravou no meio da própria barriga. O sangue jorrou pela boca e ela tombou na hora. Oh, Grande Mãe! Todos se afastaram como se um corpo tomado pela peste tivesse sido jogado no meio deles. Um breve segundo de silêncio aterrorizado desceu na pequena aglomeração que participava e assistia ao espetáculo da prisão. Ninguém queria se aproximar de seu corpo “impuro”. Depois o tumulto foi ainda maior. No local onde estávamos observando tudo escondidos, um bolo subiu pela minha garganta e vomitei na hora. Umpulla, desesperado, só teve o reflexo de me prender com seu braço forte e tapar minha boca o mais apertado que pode. Meu pai foi levado para a prisão separado dos meus irmãos, e assim eu só o veria mais uma única vez, seis luas depois, quando nossos destinos  seriam separados para sempre.
+
+			Na frente do casarão, muitos rostos que eu nunca vira, mas também vários conhecidos, e o alvoroço era enorme. Nurdim e Faruk estavam em uma forte discussão. Depois eu soube que eram rivais. Faruk era empregado de comerciantes poderosos e Nurdim tinha influência religiosa. O dinheiro e a fé se dão as mãos muitas vezes, mas quando brigam é imprevisível o resultado.  
+
+			Eu e Umpulla buscamos refúgio em um local de religiosos cristãos. Ele e minha mãe acertaram que deveríamos fugir. Só não imaginávamos que tudo ocorreria tão rápido, mas ele estava com tudo combinado. Trabalharíamos naquele mosteiro em troca de abrigo. Ele conseguira isso com um dos religiosos que viajara de dhow em sua companhia e lhe devia um favor. Uma vez  nesse novo lugar, nos demos conta de que não seríamos hóspedes e sim escravos que deveriam conhecer o verdadeiro Deus... mais um. O trabalho era bem duro e mesclado com orações intermináveis. Nossa alma pagã precisava ser domada.
+
+			Despertávamos antes do nascer do sol. Um sino tocava, os religiosos saíam de suas celas para a oração e a refeição. Nós entrávamos nelas para recolher roupas sujas, varrer e esvaziar os penicos. Depois começava a função de limpar as partes comuns, dar brilho nos incontáveis candelabros, louças e copos, cuidar de animais, da horta e do pomar, fazer farinha, cozinhar, consertar portões, telhas, a estrada e o que mais aparecesse, costurar, lavar... um trabalho sem fim. Eu e Umpulla mal nos víamos. Por precaução ele tirou seu brinco e me deu para guardá-lo enquanto estivéssemos ali, pois planejava sair assim que uma oportunidade surgisse. Pegaríamos um dhow e iríamos para longe viver como marido e mulher.
+
+			Nós, as mulheres, só entrávamos para a limpeza quando os religiosos não estavam. Raras vezes cruzávamos com eles. Os homens executavam todos os serviços em que era necessário um contato direto com eles e ficavam de intermediários conosco. Nós cozinhávamos, por exemplo, mas ficávamos trancadas na cozinha e a comida era servida pelos homens.  Dormíamos no chão da cozinha, em esteiras perto dos fogões, quando estava frio, e não foram poucas vezes naquele tempo em que estive no mosteiro que vi pretas saírem na madrugada para encontrar religiosos. Outras mulheres também entravam por locais os mais inusitados. Faziam sexo com elas em todos os locais escuros e escondidos. Também não raro víamos que se castigavam depois em suas escuras e úmidas celas. Se açoitavam e tínhamos que lavar roupas empapadas de sangue. O que havia de errado com toda essa gente?, eu me perguntava.
+
+			No tempo em que estive no convento do Frei Lucas, esse era o nome do chefe máximo do mosteiro, se existiu algo de bom foi a limpeza da biblioteca. Um salão de teto muito alto, com diversos andares de livros que eram acessados por escadas. Aquele lugar era muito importante para eles, tanto que fazíamos a limpeza com a supervisão direta do temido Manoel Marcondes, um homem enorme e cabeludo que usava um pedaço de couro para vendar um dos olhos. Ele me assustava muito, pois para mim tinha mais de animal selvagem que de gente. Limpávamos sempre no horário da tarde, no momento em que os monges estavam recolhidos. Ele não acreditava que podíamos entender algo do que estava ali, pois ele mesmo nada compreendia. Então relaxava bastante na vigilância. Minha surpresa foi ver muitos livros com a escrita igual à do livro de Nurdin e em línguas as mais diversas. Comentei com Umpulla em um raro encontro e ele me disse para decorar as formas com as letras iguais à fala da colônia portuguesa e tentar saber o que significavam. Dizia que podia servir para alguma coisa no futuro. Nós já sabíamos nos fazer entender na língua de Portugal, mas não fazíamos ideia de como conseguir entender o que escreviam.
+
+			Idealizamos uma forma engenhosa de aprender o que significavam as letras. Por meses foi nossa única diversão. Eu, a pretexto de limpar, abria alguns livros e tentava decorar formatos diferentes a cada dia. À noite, na cozinha, desenhava os formatos das letras com carvão num pedaço de madeira e escondia a tábua em um local perto de um poço abandonado na propriedade. Umpulla recolhia a tábua, desenhava o significado da palavra e deixava para mim no mesmo local. Ele procurava saber com os noviços, cada dia com um diferente, como quem pergunta por pura curiosidade. E assim soubemos como se escrevia água, comida, fogo... coisas do nosso dia a dia. Quando contei esse episódio, vi que havia ensinado algo a Mr. Toole, pois disse a ele que a nossa maior força era a descrença deles sobre o que podíamos ou não aprender e criar. Desta forma aprendemos alguma escrita ainda em Quelimane e continuei a aprender no Brasil.
+
+			Coisa estranha era essa de sentir a falta de alguém que está tão próximo! Eu sentia Umpulla como meu marido. Éramos jovens e queríamos estar juntos. Uma noite, imitando os muitos monges, conseguimos fugir para um breve encontro atrás de uma enorme figueira na parte de trás do mosteiro. Eu o abracei com sofreguidão. Ele me pegou no colo e enlacei minhas pernas em sua cintura. A lua estava linda e clara. As muitas árvores perfumadas com seus frutos e flores do pomar nos envolviam. Eu nunca me sentira tão completa... Mas o Frei Lucas, o chefe de todos, não conseguia dormir e decidiu dar um passeio no ar fresco.
+
+			Eu sabia um segredo de Frei Lucas. Ele também abria sua cela para visitas, mas para rapazes. O vi certa vez com um jovem. Depois, eu lavava suas roupas ensaguentadas pelas chicotadas que dava em si mesmo. Quando nos pegou, fez um escândalo que despertou metade do mosteiro e eu, que naquela idade não possuía nenhum freio e nem a noção exata do perigo, desesperada pela repreensão por estar fazendo o mesmo que todos eles faziam atirei sua verdade no rosto e muitos escutaram. Ele ficou vermelho como o céu que começava a clarear. Sexo, em muitas circunstâncias, é pecado em todas as religiões do ‘povo do livro’. E sexo entre iguais para os do livro e um monte de outros. Merecia castigo e frei Lucas mandou chamar o temido vigia noturno: Manoel Marcondes. Aquele homem enorme nos levou para uma cela desabitada e nos bateu muito. Lá dentro havia vários instrumentos estranhos. Foi a primeira grande surra da minha vida. Nos colocou  presos a argolas fixadas na parede e sem comida por dois dias. No terceiro nos atiraram alguma comida, pois viramos mercadoria e, à noite, vieram nos buscar. Poucas horas depois, ainda famintos e com hematomas que doíam demais, estávamos no porão, no depósito da Casa Rio de Janeiro.
+
+			Eu tremia de medo e Umpulla me abraçava. Entre rezas, pragas e delírios, ouvíamos gemidos. Em um dado momento, escutei uma voz familiar misturada com o burburinho daquele lugar apertado para tanta gente. Levantei num salto. Como quem fareja, comecei a caminhar tropeçando em tantas pessoas jogadas pelo chão e amontodas. A voz foi me guiando até que me vi em frente a ele, meu pai, Mutandi Lómuè. Saudei-o como ele gostaria de ser saudado, com um  “As-salam alaykom”. Ele falava com olhos vidrados e misturava palavras sem sentido que iam do macua ao árabe e passava por todas as línguas que aprendeu com os marinheiros e nikhodas com quem esteve em Quelimane.
+
+			Uma mulher próxima disse que ele ficara assim depois que seus dois filhos tinham morrido da mesma doença terrível que levou outros mais por ali: o maculo. A simples menção deste nome fez com que várias pessoas ao redor dissessem lamentos, palavras de proteção ou apertassem seus amuletos, masbaha, crucifixos ou fios de contas. Os portugueses chamam a isso de “mal de bicho” ou “febre pútrida”. É algo arrasador. Mister Toole, o senhor tem certeza de que deseja os detalhes?, perguntei a ele, pois é absolutamente repugnante. O inglês me disse que sim e que, na verdade, estes relatos de dores eram os mais valiosos para fundamentar os argumentos do seu grupo contra a escravidão. Eu continuava muito descrente destes indícios de compaixão e bondade, mas não quis debater isto com ele naquele momento. Segui contando.
+
+			Pois bem, o maculo é bastante conhecido naqueles porões e portos. Muita gente nem chegava a embarcar. Considerando que os navios que nos trazem para estas partes do mundo são o mesmo que a morte, o maculo era a morte antes da morte. Tudo começava com uma forte evacuação. Muitas doenças provocam esse sintoma, mas a diferença é que nesta aparecem pequenas feridas no buraco do traseiro e nelas surgem muitos bichos. O buraco fica enorme e não é possível trancá-lo para controlar as fezes, o sangue e tudo o mais que sai de dentro dele. Parece que tudo o que está dentro da pessoa se esvai por ali. Aprendi sobre muitas doenças quando estive no Lazareto. Nesta, a parte de dentro do buraco do traseiro paralisa completamente. As dores são aterrorizantes, pois os doentes pedem para morrer. No final, tudo apodrece e produz um cheiro insuportável. A pessoa morre com febres intermináveis, tremores... completamente apodrecida por dentro. Mister Toole ficou parado por alguns minutos, levantou-se, foi até a janela e pediu um pouco d’água. Calei-me e desceu um peso no ar e sobre o peito quando me lembrei de meus irmãos: os de sangue e os de sina.
+
+			Muita gente que vem  de Angola e da minha terra padece com o maculo. Outra coisa muito comum é a “bexiga”, mas sobre ela vamos falar mais adiante porque teve um papel decisivo para mim. Com o cativeiro, a desonra, o martírio da mulher, dos dois filhos e o desaparecimento da filha, que era eu, meu pai enlouqueceu. Depois de uns três dias em que falava sem parar coisas que ninguém entendia, ele emudeceu. Não abriu mais a boca. Nem mesmo quando em uma noite nos tiraram lá de dentro acorrentados.
+
+			Embaixo de um local coberto por telhas, vários objetos com cabos longos estavam depositados no fogo. Eram os ferretes, marcadores de carne. Dois homens nos seguravam enquanto um terceiro baixava a ponta quente no peito ou no braço. Desmaiei e acordei outra vez no depóstico, com aquela dor isuportável latejando no braço em carne viva. Levantei a manga de meu vestido para que Mr. Toole visse o A.C.A, de Antônio da Cruz e Almeida, escuro e em letras rebuscadas em meu braço direito. Umpulla e meu pai ganharam outras marcas, mas no peito.
+
+			O que vou explicar o senhor deve saber bem, Mister Toole, disse ao advogado inglês. Comerciantes brasileiros fizeram uma sociedade e montaram negócios em Moçambique. A esta empresa deu-se o nome de Casa do Rio de Janeiro. Compravam e vendiam de tudo, mas o principal comércio éramos nós, as gentes que faziam de escravos. Não sei bem por quanto tempo essa companhia existiu, ou se ainda existe, mas o nome passou a ser adotado para todo o porão onde ficavam as mercadorias que os brasileiros traziam em navios e mais navios para o lado de cá. Eu e Umpulla fomos vendidos para um dos donos destas embarcações.
+
+			Estávamos lá, apenas com a pouca roupa do corpo, machucados, num quarto escuro e fétido, junto com outros tantos de regiões as mais diversas, à espera não sabíamos de quê. Em certo momento, a Casa Rio de Janeiro tinha tanta gente que não havia espaço para sentar e muito menos deitar. Eu revezava com Umpulla em um pequeno espaço para agachar e de tempos em tempos ele cravava o pé em um buraco na parede para alcançar a minúscula janela no alto e assim conseguir respirar um ar menos infectado. Para mim, mesmo pondo o pé no buraco da parece era impossível alcançar a entrada de ar, então ele me colocava de pé sobre os ombros.
+
+			Foi durante esta breve subida para respirar sobre os ombros de Umpulla que eu quase fiz os dois caírem pra trás em cima da massa que se amontoava naquele chão fétido. Vi homens sendo marcados da mesma forma que já tínhamos sido e no meio deles um rosto que eu jamais esquecerei: Faruk.
+
+			 
+
+			--- &&&---
+
+			 
+
+			Mr. Toole não queria que eu parasse minha história, mas eu precisava descansar um pouco. Lembrar aqueles dias me custava algum sacrifício. Seu lacaio veio buscá-lo de carruagem. Pois então Mr. João Toole, o abolicionista inglês, possuía um lacaio. Ele enrubesceu aquela face descarnada e amarelada com meu olhar zombeteiro. Quando saiu, fiquei a meditar sobre tudo e sobre nada. Passei os olhos na Gazeta daquele sábado e vi que trouxe um aviso que me pareceu cômico. Anunciava livros que falavam de bruxarias, encantamentos e coisas do outro mundo. Murmurei: “E quem precisa sentir medo de tais monstros, se temos a nós mesmos?”
+
+
+
+
+
+		
+			
+
+			
+
+		
+
+
+		
+			
+
+		
+
+
+		
+			Primeira conclusão
+
+			Um ensopado quente, com a pimenta na medida exata e carnes tão macias que desmanchavam na boca. A comida de Roza desceu como um acalanto pela garganta do Intendente Paulo Fernandes, do oficial da guarda e pela minha goela, que ainda saboreou o bom vinho do senhor Bernardo. Derramei umas gotas no chão agradecendo,  com todo respeito ao defunto, apesar de tudo que me fizera passar.
+
+			Não sei dizer se foi a comida, o vinho ou, ainda, se teria sido o som ritmado do martelo de Marianno nas madeiras da carroça, mas ficamos um tanto dormentes. Eles bem mais que eu, que estou acostumado às altas doses desses venenos que tornam a vida menos insuportável e tediosa. Não conseguiam se mover e, mesmo eu, curtido pela vida em balcões, também fiquei atordoado, mas quando nos deixaram sós na sala, aproveitei que os dois estavam completamente zonzos e entrei no corredor estreito a um canto da sala, à procura do que pudesse ser o escritório de Bernardo Lourenço. Girei lentamente a maçaneta de um cômodo e vi uma escrivaninha repleta de papéis e gavetas. Alguns baús também estavam no recinto. Comecei uma busca nervosa. Estava concentrado em achar minha alforria.
+
+			— Senhor Nuno Moutinho?
+
+			Gelei, a voz de homem atrás de mim. Finalmente tinha sido descoberto.
+
+			—A sobremesa está servida —.Era Marianno.
+
+			—A casa é ampla... fiquei curioso, pois não é comum uma residência como esta no Valongo e... vamos à sala! — Saí ligeiro e constrangido.
+
+			Até hoje não sei se foi sonho ou verdade o que vi e ouvi. Quando entrou com a sobremesa, Roza percebeu que o Intendente e o oficial estavam alterados. Ela mandou vir os outros dois. Muana disse ao Intendente com sua habitual calma:
+
+			—Eu falo com os mortos. A  sacerdotisa Nièté está a me dizer que o senhor Intendente terá um grande desgosto. Tão grande que morrerá acabrunhado... mas ela lhe diz que nenhuma tristeza que o senhor possa ter se iguala às que semeou, principalmente ao ser um obstáculo a tantas graças reais de liberdade. Comece a pagar esta dívida, faça este bem a alguém.
+
+			O senhor Paulo Fernandes levantou-se a princípio sério, depois riu folgadamente, como fazem todos os bêbados quando escutam qualquer bobagem. Marianno então se aproximou e ficou ao lado dele ombro com ombro. Parecia medi-lo.
+
+			—Vou começar a tecer a colcha dele —disse enigmaticamente.
+
+			A sempre calada Roza desta vez abriu a boca, olhando-me com seus lindos olhinhos negros e ligeiramente puxados.
+
+			—E o senhor será o único que saberá o que realmente aconteceu em muitos e muitos anos. Talvez séculos. Seu ensopado tem algo para a sua memória.
+
+			Muana mostrou-me um chumaço enrolado e me perguntou.
+
+			—É isto o que o senhor procura?
+
+			Minhas letras! Corri para pegá-las. Ela ergueu o braço e Marianno a protegeu.
+
+			— Antes, jure, prometa que pegará o baú que está no quintal desta casa e guardará consigo. E prometa que o passará aos seus filhos.
+
+			—Mas eu não tenho filhos!
+
+			— Prometa!
+
+			—Como queira...eu prometo... —Falei sem muita convicção —. Está bem, eu juro!
+
+			Então ela colocou os papéis no fundo de uma panela, Marianno pôs um pouco de óleo e Roza acendeu o fogo. Pronto, eu estava realmente livre.
+
+			A primeira conclusão: Os três tinham mais poderes que o Intendente... que qualquer rei.
+
+		
+
+
+		
+			O limbo
+
+			Nunca mais meu pai falou. Nem mesmo quando embarcamos junto com mais de 200 pessoas, no dia 17 de dezembro, no navio brigue Feliz Dia. E desta forma, silenciosamente, foi levado pelas ondas do mar que o receberam com os sinais inequívocos dela: a “bexiga”[ 8 ]. Adverti: Mr. Toole, se o senhor está interessado em males dos que se veem obrigados a embarcar nesta aventura de horrores dos navios tumbeiros, saiba que causam engulhos na barriga, mas foi o senhor quem disse para não ocultar nada. Sinta-se à vontade se quiser que eu pare ou se precisar respirar.  Ele acenou negativamente e então prossegui.
+
+			Entre milhares de doenças que nos assaltam nesses lugares, a bexiga é a mais mortal. Irritei-me ao falar deste assunto e fui ríspida com o inglês. Naquele momento ele representava todos os brancos, todos os akuya que passaram por mim. Disse a ele: Vocês, Mr. João Toole, são teimosos. Não nos acreditam e por isso nos fazem sofrer e sofrem também. Muitos povos sabem desde que o mundo é mundo como combater muitos males, mas vocês pensam que apenas vocês sabem das coisas, que apenas vocês são donos da ciência e só pensam em ganhar muito dinheiro, nem que para isso precisem matar e morrer.
+
+			O porto de Quelimane por séculos sem conta recebeu viajantes do Oriente, povos de todos os lugares. Nós sabíamos que a bexiga poderia ser controlada se provocássemos a forma menos violenta, pois quem a tem uma vez e sobrevive não a terá novamente. Existia um punhado de formas de fazer isso usando pequenos pedaços de coisas usadas ou tocadas nas feridas de doentes por pessoas que ainda estavam sãs. Mas vocês inventaram a tal vacina e isso, hoje vejo, não é mal. Um era vacinado e depois de oito dias, o pus da ferida que se formava pela injeção da substância era retirado e imediatamente injetado em outra pessoa. Era a vacina braço a braço, mas oito dias é muito tempo para vocês e lucrar é mais importante. Então vacinavam uns, mas não vacinavam outros ou não vacinavam ninguém.
+
+			Veja os avisos da Gazeta. Está havendo agora uma verdadeira guerra pela vacina. Eu acompanho o periódico, senhor, eu sei! Este seu conterrâneo, o senhor João Jones, tem publicado seguidos anúncios dizendo que apenas ele possui a verdadeira vacina, mas veja que agora surgiu outro doutor, um tal Hércules Octaviano Muzzi, Cirurgião do Partido Régio da Vaccina, para constestá-lo. Diz este doutor que o seu conterrâneo inglês também aplica vacina braço a braço, mas quer fazer parecer que apenas as suas vacinas em frascos são as verdadeiras. E nesta guerra, senhor Toole, a bexiga segue levando muitos para debaixo da terra, principalmente a nós, os pretos. No Lazareto mais morrem do que vivem e o que mais mata é ela, a bexiga. O seu patrício da Inglaterra vacina de graça... os akuya, os brancos. Quanto a nós, senhor, ou resolvemos por nós mesmos ou não há saída.
+
+			Senti que ele ficou um tanto desconcertado, mas não debatemos mais sobre isto. Contei que depois da espera eterna, marcados a ferro, loucos, cansados, doentes ou tão tristes que mal podíamos nos mover, finalmente embarcamos. O mar é um enorme rio salgado; impossível ver a margem oposta. O mar é o maior cemitério deste mundo. Quando aquele barco já estava havia 10 ou 12 dias no meio das ondas, começou a febre, a dor no corpo todo, na barriga e os vômitos, muitos vômitos. Quando as feridas com pus começavam a aparecer, as bexigas, o capitão não tinha dúvidas e jogava a “carga” no mar para não contaminar as outras. Meu pai, Mutandi, foi arremessado longe. Como minha mãe, ninguém queria tocá-lo. Era um corpo maldito.
+
+			Fiz questão de esclarecer o senhor João Toole: Deixe- me lhe contar algo sobre a morte, senhor advogado. Para nós ela não existe. Apenas vamos viver em outro lugar, junto aos ancestrais, mas para isso precisamos de sepultura digna ou continuaremos vagando aqui, onde não é mais nossa morada, assombrando os vivos e o mundo. Naquela altura, apenas com 13 estações das chuvas, eu já possuía dois ancestrais sem residência e errantes nesta Terra de dores. Isto me agulha a alma, me corrói o espírito até hoje. Eles me visitam com o grupo dos que não foram, me suplicam e não sei o que fazer para que encontrem a casa dos nossos mais velhos.
+
+			Depois que cheguei aqui, ouvi muitos relatos de revoltas e lutas em navios. No Feliz Dia não aconteceu. Não por falta de vontade, mas porque os corpos – os nossos e os deles ¬ brigavam contra as pragas.  Eu tinha o A.C.A, de Antônio da Cruz e Almeida gravado para sempre no braço e o capitão do Feliz Dia era o filho do A.C.A, Vitorino Antônio da Cruz e Almeida. Como eu sabia ler as coisas simples, conseguia brincar. Dizia que as coisas sempre podem ser piores, pois era melhor ter escrito no corpo A.C.A do que V.A.C.A.
+
+			Paramos em outros portos antes de partir de vez para este lado do grande rio salgado. Não sei como era em outros navios, mas o Feliz Dia mantinha as mulheres e crianças no convés e os homens embaixo. Quando embarcaram outras mulheres em outros portos, conheci uma moça muito altiva. Tinha um porte nobre, tentava se manter distante ao máximo e despertava minha curiosidade mais que todas as outras. Naquele dia, um marujo deu a mim e a algumas outras as enormes bacias para distribuir a comida. Foi a chance para me aproximar. Apontei o dedo para o meu próprio peito e disse: Muana. Ela pegou aquela papa grossa e nada disse. Nos dias que vieram eu sempre tentava o mesmo. Até que na quarta ou quinta vez ela timidamente disse: Níètí. Ali nasceu uma amizade.
+
+			Ensinamos uma à outra nosso idioma. Soube que Níètí era uma fon do Daomé. Falei a ela sobre Nipele e ela, sobre suas crenças. Ela era uma sacerdotisa, uma vodunsi de Sakpatá e estava horrorizada, pois era claro pelas “bexigas” no navio que ele estava muito aborrecido e ninguém tomava providências para apaziguá-lo. No culto fon, esta poderosa divindade é dona da Terra e senhora da bexiga e de outras doenças contagiosas. Ouvindo suas explicações, foi fácil entender o motivo por que foi parar no Feliz Dia. Este culto era olhado com muita desconfiança e às vezes era banido do lugar. Uma vodunsi de Sakpatá não pode ser dada como esposa para o rei, e havia sempre a suspeita maior de que seus sacerdotes espalhavam deliberadamente a doença para aumentar seu poder. Mas outra questão importante neste caso é o fato de que Sakpatá abertamente desafia o poder real, pois possui títulos que o rei também possui.
+
+			Quando subiu ao convés para a lavagem e os exercícios forçados, Faruk bateu os olhos em mim e depois em Níètí. Disse rangendo entre os dentes: Feiticeiras! Ele era um caravaneiro, percorria todas aquelas terras e reconhecia pessoas de todos os cantos. Quanto a mim, tínhamos já uma longa história, mas bastou uma mirada para adivinhar o que ela representava. E o contrário também. Bastou um único olhar da sacerdotisa treinada e nascida dentro do culto a Sakpatá para ela saber que ele, embora ainda não manifestasse os sintomas, estivesse com a temida doença.
+
+			Faruk e Umpulla cada um numa extremidade da segunda fila horizontal no convés, não se olhavam. Umpulla, cantando e pulando nos exercícios provocava:
+
+			— “Muito poderoso, mas traído pelos seus. Entregou todos por dinheiro e enfrentou ira de Deus. É escravo do inimigo, do castigo e já morreu.”
+
+			Faruk sentia tanto ódio que mal podia se conter. Umpulla foi “cantando” tudo o que aconteceu. E foi assim que descobrimos que ele ganhava comissão alta por cabeça capturada, mas que tentou enganar na contabilidade dos ganhos os chefes maiores do comércio de Quelimane. Como se não bastasse, afrontou os sacerdotes da mesquita tentando incriminar Nurdin, que era um bom homem e um devoto muito respeitado, mas este conseguiu provas de que era inocente. Faruk caiu em desgraça e acabou com o mesmo destino que ajudou tantos a encontrar.
+
+			Ele estava em apuros, pois poderia ser morto a qualquer momento na parte de baixo e na parte de cima do brigue. Depois das revelações de Umpulla, todos o olhavam com sangue nos olhos. Uma noite ouvimos muitos gritos e a tripulação se agitava. O homem que estava ao lado dele tentou sufocá-lo com a corrente. Por causa do tumulto causado, os dois foram açoitados no convés à vista de todos na mesma noite. No dia seguinte, a primeira pústula apareceu em suas costas. Níètí sabia que a qualquer momento seu corpo estaria todo tomado pelas “joias de Sakpatá”, as horríveis bolhas que matavam. Poderia sobreviver se manifestasse a forma mais branda da doença e aí estaria imune para sempre ou seria atirado para os tubarões como dezenas haviam sido. Tudo dependeria de quanto tempo ainda teríamos naquele barco infernal. Já estávamos no final da sexta lua sem ver um único sinal de terra.
+
+			Naquela noite com o céu repleto de estrelas, Níètí disse com tristeza que estávamos próximos do destino final. Ela me disse que a terra estava chamando por ela e por outros que ali estavam, mas que eu não tivesse medo, pois tinha uma tarefa importante a realizar nesta nova morada. Disse que seria uma travessia longa, mas que eu encontraria uma forma de resolver o que me afligia. Apertei a pequena joia que Umpulla deixou comigo na época do mosteiro e que eu trazia presa nas dobras do pano que me cobria a cintura. Meus cortes faciais, o A.C.A gravado no braço, aquele pano e o pingente em forma de crescente. Essas eram as únicas coisas que eu trazia comigo.
+
+			Meus pais e irmãos vagavam agora na Terra, sem destino, insepultos, e eu era um corpo solto flutuando naquelas águas  havia seis luas. Níètí me disse que seu nome significava “ter esperança”. E que, por mais que as coisas parecessem duras, que eu nunca perdesse essa luz da espera por dias melhores.
+
+			O capitão V.A.C.A ¬ vamos chamá-lo assim, pois me agrada mais ¬  naquela manhã passou todos em revista como sempre. O castigo de Faruk, no final, lhe poupou a vida ao menos naquele instante, pois ele achou que a ferida nas costas era resultado da surra. Pouco tempo depois o capitão gritava: “Terra à vista!” Os marujos fizeram festa. Na manhã seguinte, vi um monte que por um momento me levou ao Namuli. Era a imponente pedra que se erguia na entrada de São Sebastião.  
+
+			— Veja, rainha Níètí!
+
+			Níètí não teve olhos para ver o novo mundo ou pés para pisar a nova Terra. Quem chega  a este lugar por um tumbeiro, senhor Toole, passa a ocupar o pior lugar neste mundo, mas ocupa. Onde ficam os que não são mais de onde vieram e não chegaram a existir aqui? Seria isto o que o padre e os livros de vocês chamam de limbo?
+
+
+
+
+
+		
+			
+
+			
+
+		
+
+
+		
+			
+
+		
+
+
+		
+			Segunda conclusão
+
+			— Eu matei o senhor Bernardo Lourenço, senhor Intendente – disse Marianno.
+
+			Olhei o fundo da caneca de vinho para tentar descobrir o que esteve ali dentro. Definitivamente eu devia estar muito mais bêbado que de costume. Como ele confessava assim algo que o levaria para as torturas da prisão e a forca na Rua da Valla? Estremeci. Nem bem me refiz do susto e mal tinha assimilado as primeiras informações, quando Marianno tratou de embaralhar ainda mais minhas  ideias.
+
+			— Quando encontrei aquele porco caído no beco, apenas corri para buscar minha colcha que costurei especialmente para ele. Em cada ponto nos panos, fui firmando meu pensamento de que um dia o cobriria com ela para nunca mais ver o rosto mais odioso da minha vida. Uma vez, enquanto ele dormia, medi o tamanho dele bem certo. Fiz um juramento de que quando a colcha chegasse à mesma altura, ele morreria.  E ele morreu. Eu o matei com o pensamento.
+
+			Roza prosseguiu, aos prantos.
+
+			— Eu cravei aquele punhal. Não importa que já estivesse morto. Eu arranquei dele a arma suja que usava para entrar em mim e cravei o punhal naquela barriga que comia minha comida.
+
+			Muana finalizou.
+
+			— Eu também matei o senhor. Eu o condenei ao mesmo destino que ele e seus iguais ajudaram outros a encontrar.
+
+			E mostrou o dedo mínimo do senhor Bernardo Lourenço Vianna.
+
+		
+
+
+		
+			A chegada
+
+			Havia um ano que estava contando minha vida a Mr. Toole. Tornamo-nos — será que posso dizer assim? — amigos. Se não amigos, ao menos pessoas que compartilhavam informações que o outro não possuía. Assim como toda a aventura que me trouxe até aqui, disse ao senhor Toole que o desembarque em São Sebastião do Rio de Janeiro foi algo impossível de esquecer. Desesperei-me ao ver a rainha Níètí morta e revoltei-me mais ainda por ver que Faruk seguia vivo. Puseram-nos acorrentados em filas e fomos obrigados a descer para barcos menores que iriam para a costa.
+
+			No porto, olhares curiosos tentando adivinhar de onde vínhamos. Vi gente com rostos da terra que eu deixara para trás e outros de lugares que descobri que existiam durante a tenebrosa viagem. Era raro quem não tivesse ao menos uma marca no corpo feita lá ou aqui. Um tinha os dedos dos pés deformados, outro possuía inúmeras marcas de bexiga; a uma faltava-lhe o lóbulo da orelha e a outra, uma das mãos. Em certos sujeitos as marcas de tribos na face cobriam o rosto, em outros eram delicadas linhas... por baixo das roupas rústicas certamente havia mais, muito mais para contar.
+
+			A rainha Níètí foi atirada em uma carroça que já estava repleta de defuntos. Para onde a levariam? Ela necessitava de sepultamento. Ela merecia voltar para seus ancestrais! Eu chorava, gritava em minha língua e via que vários pretos que aqui já estavam entendiam. Eles me olhavam com uma mistura de pena e medo. Assim que pisamos em terra, fomos imediatamente trancados no Lazareto. Umpulla estava muito fraco... Todos nós estávamos muito fracos. E aconteceu o que já lhe contei sobre a irmã Maria do Carmo.
+
+			No Lazareto, quem não tinha outro jeito a não ser morrer, morreu. Quem só podia viver, viveu. Os corpos iam saindo aos lotes. E fiquei feliz de ver Faruk no meio deles. Me pareceu uma justiça divina o destino fazê-lo pensar que viveria, para deixá-lo morrer naquele depóito fétido pouco tempo depois. Nós, os vivos, fomos para um armazém, o de número sete. Fomos separados em grupos de dois ou três. No mesmo lugar havia peças de mobiliário, artigos de cozinha, tecidos, vários objetos para serem leiloados em algum momento. O senhor Bernardo arrematou a mim, outra moça e um rapazola. Quando me levou, Umpulla tentou nos seguir, arrastando as correntes e fazendo cair quem estava acorrentado a ele. Umpulla gritava e me chamava. Ouvi o capataz dizer: “Volte, Tibúrcio!”  e ele estancou. Apenas o vi sumir quando desci a rua e entrei na hospedaria, empurrada pelo meu novo dono.
+
+			O senhor Bernardo nos deixou lá ainda amarrados e retornou para o armazém, voltando bem mais tarde. Desde então, nunca mais vi Umpulla. Os dois que comigo vieram do armazém número sete não demoraram na Vale Longo. Ele caiu numa das muitas epidemias. Não teve a sorte de ser vacinado. Eu fora vacinada braço a braço ainda em minha terra; o casal Lourenço Viana recebeu o medicamento na residência de um médico inglês. Ela se chamava Sofia e lembrou-me minha mãe, pois perdera a razão. A procissão de Nossa Senhora do Rosário ia serpenteando pelas ruas quando teve que parar, pois Sofia atirara-se da torre de uma igreja bem no meio do cortejo. Foi um alvoroço. Sofia não aguentou o que Roza aguenta. O senhor Bernardo com brutalidade entrava nela e ela, saía... do próprio corpo, da própria cabeça.
+
+			Como não poderia ficar só com todo o serviço da hospedaria, o senhor fez vir primeiro Marianno e diversas pretas que, depois descobri por qual motivo, duravam um ou dois anos e fugiam ou morriam ou eram trocadas, vendidas.... Até que, nove anos depois da minha chegada, veio a menina Roza e formamos assim, nós três, uma família a nossa maneira. Marianno se apegou a ela imediatamente.
+
+		
+
+
+		
+			
+
+			
+
+		
+
+
+		
+			
+
+		
+
+
+		
+			Terceira Conclusão
+
+			O Intendente e o oficial dormiram de roncar, e eu fiquei ali, entre a terra e o além. Sem saber se tinha vivido ou sonhado. Quando despertamos totalmente, era manhã e estávamos cada um em um quarto da hospedaria. Abrimos as portas coincidentemente ao mesmo tempo. Olhamo-nos sem entender bem como paramos ali. Descemos e um café nos aguardava com mandioca cozida. Eu e Paulo Fernandes saímos deixando o oficial na casa.
+
+			Ele não recordava nada ou quase nada do que passou na noite anterior, depois da deliciosa refeição. Eu, refeito dos efeitos letárgicos de seja lá o que fosse que Roza pôs naquela comida e pensando sobre a calma com que os três contaram o que contaram, cheguei à terceira conclusão: ninguém é o que parece.
+
+		
+
+
+		
+			A hora da sesta
+
+			Meus encontros com Mr. Toole se encerraram pouco tempo depois que o senhor Bernardo comprou a chácara. Ele informou que ouvira o suficiente e que retornaria à Inglaterra com valioso material. Sinto-me orgulhosa porque vejo que ensinei algo a alguém. Ele nunca ouvira falar em boa parte das coisas que lhe contei. Eu, por meu lado, aprendi um pouco de sua língua. Eu, como meu pai, tenho muita facilidade para entender os idiomas do mundo. Sentia falta das conversas com o inglês, mas segui escrevendo, como faço agora.
+
+			O dia do noivado do senhor Bernardo Lourenço Vianna foi para nunca se esquecer. A senhorinha Emerenciana estava uma aparição de tão linda, em seu vestido azul-claro rendado. Ela possuía um rosto angelical, com profundos olhos azuis, cabelos cor de mel, faces rosadas e delicadas mãos. Sua voz era doce e tinha modos muito polidos. Os músicos tocavam animadamente. Roza esmerou-se em quitutes, ajudada por mais três pretas que pertenciam à família da noiva. O senhor Bernardo, bem, este estava sempre com a mesma aparência gordurosa, vestido como quem se esforça para estar na última moda, mas o máximo que consegue é copiar o modelo de uma década antes.
+
+			O jantar foi servido e ele escandalizava com seus modos nada fidalgos, mas todos fingiam normalidade; afinal, esperavam ser convidados para beber e comer tão bem no casamento e em todas as ocasiões que o Barão de Mata Cavalos resolvesse abrir os salões. Para atender sua recente posição de um dos mais ricos comerciantes da cidade, estava para mudar-se, mas não se desfazia da hospedaria Vale Longo, que cada vez necessitava ficar mais tempo com as janelas cerradas e com incensos de alecrim e ervas aromáticas por conta dos odores do Cemitério dos Pretos Novos. Comprou um palacete no Caminho de São Cristóvão, mas mantinha o lugar que era um entreposto tão importante em seus negócios. Também se decidiu por comprar na semana seguinte ao noivado um lote novo de escravos. Já não éramos suficientes, pois até ele reconhecia que estava excessiva toda a carga de tarefa que nos dava. O senhor Bernardo estava no auge do sucesso.
+
+			Lembrei-me muito do Mr. João Toole quando precisei ir à casa daquela artista. Eu acompanhei meu senhor com a noiva e seus pais para uma apresentação em uma casa na Praia de Dom Manoel, próxima ao Cais Pharoux. A madama havia chegado recentemente da Inglaterra, a terra do meu amigo. Como já relatei, o senhor Bernardo gostava de fazer-se importante e não saía para os lugares que considerava elegantes sem que eu fosse como mucama. O senhor se encantou com o teatro e eu, apenas vendo de esgueira por uma fresta na porta da cozinha, encantei-me mais ainda, pois ouvi e vi algo que julgava impossível: uma cantora negra! Era Maria Joaquina da Conceição Lapinha. Que voz! Seu rosto continha forte cosmético para torná-lo mais branco, mas era impossível esconder. A Lapinha era como eu.
+
+			Dias depois, fui à casa das artistas com parte do dinheiro do acerto que fizeram com meu senhor para que cantassem em sua festa de noivado. Foi um tremendo sucesso. Eu enxugava com a ponta da saia as lágrimas que toda aquela interpretação dramática da Lapinha despertava em mim, quando vi nitidamente. A senhorinha Emerenciana posicionou-se em meio aos convidados e, à medida que todos dirigiam seus olhos vidrados  para as duas artistas, foi se chegando cada vez mais para o fundo da sala até sair. Em pouco tempo, estava em um recanto obscuro do pomar e eu a ouvi chorar junto àquele senhorzinho, o tal Alceu Coimbra. Um cavalheiro bem talhado e bem vestido, também de família nobre, e que em tudo destoava do futuro marido da sinhazinha. Tudo mesmo, pois o garboso senhor Alceu nem de longe possuía os cofres de Bernardo Lourenço.
+
+			— Não quero casar-me com este homem asqueroso. Este anel... este anel pesa-me ao dedo, à mão, ao braço e ao corpo todo! Mas necessito, Ceu...
+
+			— Ele é mais rico do que qualquer outro pretendente que possas conquistar e não consegue esconder o quão fascinado está por ti. Eu digo isto, mas algo me corrói por dentro cada vez que o vejo próximo de ti. Enlouqueço!
+
+			Ele a abraçou e ela concluiu.
+
+			— Ademais, ele é muito ocupado e brevemente poderemos voltar às nossas tardes encantadoras... voltaremos às nossas sestas.
+
+			Eu sabia quem era verdadeiramente a senhorinha. Eu e todos os que perambulavam pelas ruas do Rio de Janeiro. Em minhas idas para entregar os caros regalos do senhor Bernardo para a futura noiva, descobri que a delicada e fina donzela nobre era  conhecida pela alcunha de “Hora da sesta”, pois, enquanto seus pais tiravam a sesta da tarde, ela fazia a festa. Aproveitava sua bela juventude no fundo do palacete que habitavam. E não apenas com o senhor Alceu Coimbra.
+
+			Todos os convidados se foram, mas a família de “Hora da sesta” ficara para só partir no dia seguinte. Acomodei-os com finos lençóis e pus a moça em outro quarto, com Roza como acompanhante. O senhor Bernardo enxergava a noiva como um puro anjo, mas estava no cio. Estava ávido pelo casamento com aquela beldade almejada por todos, mas que seria somente dele em breve. Decidiu aliviar-se, como sempre, com Roza. Arrastou-a para fora do quarto e levou-a para trás da casa. Arrancou-lhe as roupas. Mariano tapava os ouvidos com as mãos.
+
+			No dia seguinte, à tarde, todos se foram, inclusive o senhor Bernardo. Ficamos para arrumar a chácara. Olhei a carruagem dos Campelo D’Ávila e a carroça do senhor partindo e fiquei a pensar sobre tudo, sobre todos. O Intendente Paulo Fernandes, vizinho e um dos convidados da festa junto com sua nobre esposa Luiza Rosa Carneiro da Costa, também passou em frente à casa; nos olhou do alto de seu cavalo e seguiu a galope. Estava perdida em meus pensamentos e levei um susto, pois só percebi que Marianno e Roza também estavam na varanda quando ouvi a voz firme dele.
+
+			— Chegou o momento de nossa libertação. Ontem dei o último ponto na colcha-mortalha.
+
+			 
+
+			---&&&---
+
+			 
+
+			Naquele fim de tarde, meu cortejo chegou diferente. Vinham dispostos a me levar a algum lugar. Temi que minha hora tivesse chegado, pois podia ver meu corpo adormecido, mas o chefe Mamatundu disse-me para não temer, pois que ainda não era o meu tempo de deixar este mundo. Então saí com eles pelas ruas que àquela hora eram escuras, mesmo à luz bruxuleante de uns poucos lampiões com óleo de baleia. Eu caminhava no meio, escoltada pela guarda formada por meus irmãos, meu pai, minha mãe, Sofia, o escravo do engenho Tamarineiras e o chefe Mamatundu. Sentia que voava. Uma guarda que apenas eu via. Estava com medo. Os malfeitores que povoavam as ruas pelas madrugadas podiam ver a mim? Tranquilizaram-me, pois não seria importunada por ninguém, nem pela chuva que começava a cair abundantemente.  Minha carne dormia no Andharaí grande.
+
+			Conhecia o caminho que estavam tomando. Eu não tinha coragem de ir até lá! Não queria ir, não queria ver, não queria! Apressava meu passo sempre que necessitava passar na frente daquele lugar. O velho que ficava na entrada dia e noite orando pelos que se foram me chamava a orar com ele, mas eu corria sem ao menos virar o rosto. Imediatamente vi com os olhos da memória a imagem do chefe Mamatundu morto e seu corpo exposto no meio da vila, os odores nauseabundos e a visão de tudo o que existe por dentro de nós. Em que lugar escondido naquela podridão está tudo de bom que um dia sentimos?
+
+			A chuva adensou e, de repente, nos vimos diante do campo fantasmagórico. Estava apavorada. Como chegamos da chácara até ali tão rapidamente? Quando a chuva forte descia, os corpos enterrados à flor da terra vinham à tona e boiavam em meio ao lixo. Em tempos regulares, queimavam os pedaços de gente amontoados no centro do campo. Quando acompanhava a falecida dona Ignácia à igreja, sempre que o padre falava do inferno, era o cemitério dos escravos novos que eu imaginava. Os ossos brotando como flores duras e sem cor.
+
+			 Minha guarda parou a uma distância. Meu medo só aumentava. Em dado momento o chefe apontou  para a frente e eu o vi. Umpulla vinha em minha direção! Quis correr para abraçá-lo. Não saberia dizer o que era mais abundante, se minhas lágrimas ou a chuva. Subitamente compreendi e quase enlouqueci como minha mãe, como Sofia.... Misturada à lama via mãos, pés, braços, crânios.
+
+			Umpulla estava com os ancestrais. Ele e muitos outros. Vi a sacerdotisa Nìeté.... como era linda a minha amiga querida. Não apareciam a mim porque seus corpos estavam inteiros, não tinham tirado a própria vida e tinham retornado ao solo, embora de forma aviltante, em valas e sem cerimônias. Ele aparecia naquele momento como naquele dia em que brincamos de lua, com um dos brincos em forma de quarto crescente. O outro estava em minha orelha, como está agora e aí ficará para sempre. Até quando eu for juntar-me a ele.
+
+			Umpulla foi para os ancestrais no mesmo dia em que tentou seguir-me, pois acabou provocando uma grande confusão. O senhor Bernardo, depois de nos deixar na hospedaria, retornou ao armazém sete, pois tinha sociedade com o leiloeiro Francisco Theodoro Nunes. O armazém era enorme e os pretos eram amontoados de acordo com seus donos. Alguns vestiam um minúsculo pano nos quadris das mesmas cores, que identificavam que pertenciam ao mesmo dono. Outros diferenciavam seus pretos pelo mesmo (horrendo) corte nos cabelos. Éramos poucas mulheres e, por isso, tão valiosas.
+
+			Por vezes aquele lugar virava um salão de baile de algum lugar das profundezas. Traziam um dos nossos, com nossas músicas e faziam-nos dançar porque acreditavam que isto levantava nosso ânimo. Não porque pensassem em nosso bem de alguma forma. Não! Faziam-nos dançar porque achavam que assim não ficaríamos loucos e não tiraríamos a própria vida.
+
+			Os akuya só pensam em patacas, réis, dobrões... o Valongo tinha toda a modalidade de formas de lucrar conosco. Havia os grandes lazaretos, dos comerciantes mais ricos e também outros menores, dos refugados. Aqueles que chegavam à antessala da morte. Havia comércio com estes também. Eram comprados por ninharias e o negociante se empenhava em recuperá-los para lucrar com a revenda. Empanturravam essas pessoas de comida, como a engorda dos bois e porcos para abate, mesmo que as doenças não deixassem engolir, mesmo que dores nas barrigas quase matassem.
+
+			Havia um padre, eu lembro. Ele perambulava por entre nossas tristes figuras batizando-nos e tratando de nos dar outros nomes. Ele também tentava ensinar algumas de suas orações e, quando não repetíamos, levávamos golpes com a palmatória. Se alguém apresentava ainda algum sinal de doença, um doutor destes que cuida de suas montarias era chamado.
+
+			Todos faziam suas necessidades em qualquer lugar. O cheiro era repugnante e quem não estivesse acostumado poderia desmaiar sufocado. Muitas crianças espalhadas, amontoadas. Brincavam umas com as outras, mas quando o leilão começava algo as apagava para sempre. A tristeza e o abatimento eram enormes, mas Umpulla agitou a todos com seus movimentos e seus gritos chamando por mim. Para calar e acalmar o tumulto entre os pretos, o senhor Bernardo atirou a esmo. Umpulla foi atingido.  Ele estava agora no que chamavam cemitério dos escravos novos, misturado com todos aqueles que nunca chegaram a chegar.
+
+			Pensei que meu coração explodiria de emoção ao ver Umpulla e ainda mais como estava, tão lindo como na praia em Quelimane..., mas meu coração praticamente parou quando ele se moveu para o lado e deu passagem a ele: Mr. João Toole.
+
+			Todo o tempo o inglês era apenas mais um do meu grupo de visitantes do outro mundo.
+
+		
+
+
+		
+			
+
+			
+
+		
+
+
+		
+			
+
+		
+
+
+		
+			Últimas conclusões
+
+			Juro, por tudo que me é mais sagrado que.... Não posso fazer juramentos. Quem conhece a este homem, que tudo o que mais ama na vida são seus livros e uma boa farra, jamais daria crédito a um juramento meu baseado em algo sagrado, pois das missas apenas me interessavam os vinhos. Embora, depois de ler todos estes apontamentos da africana Muana Lómuè, comece a rever seriamente esta minha renitente mania de não crer em nada que ao natural se sobreponha.
+
+			Também não juro pela crioula Tereza Nagô, pois a estimo de forma intensa para colocá-la sob o risco da minha fraqueza em não cumprir promessas. Creio que ela é a única coisa sincera que escapa ao meu cinismo, ao meu sarcasmo de mulato sobrevivente na selva do Rio de Janeiro da Corte, do Paço Real e do Valongo. Quase toda gente me dizia: “És quase branco, és livre e belo. Case-se com uma boa senhorinha branca e limparás teu sangue! Branquearás tua descendência! Crie juízo”. E eu apenas penso em mergulhar no negrume dela.... Salvou-me a vida quando fui surrado, é fato. Por muito tempo pensei que fosse apenas gratidão, mas não. Era infinitamente mais. Ela não me levava a sério. Oh, vá lá, por quais diabos levaria? Nem eu me levo a sério! Não.... Não juro por Tereza.
+
+			 Vamos tentar mais uma vez: Juro, pelas graúdas azeitonas que se vendem na Rua Direita, pelo bacalhau com natas da senhora Joanina Mendonça do lupanar da Alfândega e pelas belas coxas de Josefa Maria, esposa do senhor Gaudencio José Maria, comerciante que vende tanto as azeitonas quanto o bacalhau. Juro que vi o Intendente Paulo Fernandes chorar naquele dia.
+
+			Por um momento — apenas por um mísero momento — fixei-me em seu rosto celestial e esqueci-me de que a senhorinha Emerenciana era, na verdade “Hora da sesta”. Ela copiosamente chorava na sede da Intendência comovendo a todos, inclusive ao seriíssimo Intendente. Suas faces rosadas estavam vermelhas, assim como os plácidos olhos azuis.
+
+			— Senhor Intendente,... a Virgem Santíssima é minha testemunha. Jamais imaginaria perder desta forma aquele a quem eu já considerava meu esposo amado.
+
+			Nesse momento, sentado ao fundo da sala, pois Paulo Fernandes praticamente me nomeara como ajudante informal naquelas investigações, pela primeira vez eu acreditei piamente nela. Certamente Emerenciana jamais imaginaria perder o que parecia estar tão facilmente ao alcance das mãos. Apenas dois meses mais e seria a senhora Campelo D’Ávila Lourenço Vianna, a Baronesa de Mata Cavalos, dona de um lucrativo armazém no Valongo, uma hospedaria, um palacete novíssimo no Caminho de São Cristóvão, uma chácara no Andharaí Grande, lojas na Rua Direita, letras de crédito e moedas de ouro, depositadas e seguras no recentemente criado Banco do Brasil. O sovina senhor Bernardo, que apenas pensava em comerciar com os pretos, estava inclusive pronto para ampliar seu plantel de cativos para uso próprio. Emerenciana seria uma rainha! Sim, senhor, sim, senhora Virgem Santíssima... A senhorinha Emerenciana tinha reais motivos para chorar abundantemente. Eu, caso estivesse em seu lugar, passaria meses em total prostração. Quiçá anos!
+
+			Pois chego a algumas conclusões. Umas óbvias e do senso comum como a de “quem tudo quer, tudo perde” e outras mais sofisticadas. Foi então que, pensando em minhas débeis tentativas em fazer juramentos, fui à prateleira e peguei um dos meus livros preferidos. Já li tantas vezes que chega a estar roto e quase sei de cor. Hamlet, de autoria do conterrâneo do senhor fantasma amigo de Muana, o bardo William Sheakspeare, naquele momento em que o príncipe, após encontrar com o fantasma do pai (e fantasmas são muitos nesta história do desafortunado Bernardo Lourenço!), tenta esconder de Horácio e Marcelo sobre o encontro. Os dois, depois de tanto insistir, conseguem que o príncipe dinamarquês Hamlet diga o que ocorreu. Mas ele impõe uma condição: nunca revelarem a ninguém o que aconteceu.
+
+			Empolgado, levanto-me para encenar, pois enquanto Hamlet propõe o juramento, o fantasma do pai os rodeia e assombra, urrando: “Swear!” (Jurem!). E, então, Horácio exclama: “O day and night, but this is wondrous strange!” (Ó dia e noite, mas isso é formidavelmente estranho!). Hamlet rebate:  “And therefore as a stranger give it welcome” (E, portanto, sendo estranho, dê-lhe as boas-vindas). E aí vem a parte de que eu mais gosto e que se encaixa à perfeição neste raro caso da morte do senhor comerciante do Valongo. Hamlet finaliza: “There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy.” (Há mais coisas no céu e terra, Horácio, do que foram sonhadas na sua filosofia).
+
+		
+
+
+		
+			Corpo e espírito
+
+			Mr. João Toole adiantou-se e saudou-me afetuosamente. Como eu não percebi que ele só chegava ao anoitecer? Eu, tão experimentada no intercâmbio entre os mundos, como não percebi os sinais? Sim, certamente eu não percebera nada por causa do senhor Bernardo; afinal, ele era o seu professor. A menos que... O senhor Bernardo possuísse o mesmo dom que eu. Agora eu entendia, agora eu compreendia.... Por isso meu grupo de visitantes só aparecia quando ele já estava adormecido, pois seguramente os veria.
+
+			— Passei para este lado logo após as primeiras aulas com Bernardo Lourenço. Seu sócio no armazém sete descobriu minhas atividades junto a abolicionistas e, sabedor de meus contatos na Inglaterra e do caminhar desta questão no mundo, teve medo. Fui pego em uma emboscada, meu corpo não foi encontrado. As metrópoles do mundo tremem, minha cara, principalmente após o que ocorreu no Haiti. Não a culpo por suas desconfianças com relação a mim e às reais intenções de minha nação quanto à extinção dos negócios ligados aos negros. Infelizmente, só posso falar por mim. E eu, Muana Lómuè, desejo ardentemente que isto termine. Mais ainda aqui onde me encontro nesta continuação da vida, onde vejo que tudo se mistura. Bem, precisamos nos adiantar. É chegada a hora — disse o senhor Toole.
+
+			O Haiti... Depois de tudo passado fui buscar informações na Gazeta sobre aquela colônia onde os negros comandaram com sucesso uma revolução e sustentaram sua independência. Saímos daquele campo medonho e chegamos à porta de Emerenciana. Vimos quando os pais da senhorinha desceram da condução e entraram na residência, propositadamente deixando os noivos um pouco a sós. Já estavam prestes a ser marido e mulher. Àquela altura, não fazia mal deixarem o casal estreitar os laços um pouco a sós, pensavam. Desajeitadamente o noivo pegou nas mãos de sua noiva-anjo e beijou-as. Um gelo de repulsa percorreu o corpo da moça. Ela não conseguia evitar a rejeição que ele lhe provocava, mas, ao contrário, nele aquele singelo toque acendeu a fera que Roza, eu e Marianno sabíamos que o possuía.
+
+			Emerenciana foi puxada com força para junto dele. Ela tentava esquivar-se e ele, com sua barba malfeita, a arranhar-lhe o pescoço. A luta entre ambos foi ficando mais intensa e ela certamente perderia. Ele imobilizou seus braços, tapou sua boca e pressionou-a contra o muro. Foi tudo rápido demais. O mesmo moço que estava na festa de noivado, Alceu Coimbra, o agarrou por trás.
+
+			— Entre Ciana! — gritou.
+
+			Ela não queria chamar a atenção dos pais e também não queria que o amante fizesse algo dramático que os complicasse e, principalmente, pusesse a perder os planos de sair da ruína financeira.
+
+			— Ceu! Não faça nada, meu amor!
+
+			— Ceu, Ciana, amor?! — Teve tempo de exclamar o senhor Bernardo, antes de desvencilhar-se, atingir o oponente com uma tábua pesada encostada no muro, correr e montar em sua carroça. Depois de alguns minutos um tanto zonzo, Alceu avançou como fera. Bernardo Viana corria pelas ruas estreitas o mais rápido que conseguia com Alceu Coimbra em seu encalço. Estavam no caminho do Valongo.
+
+			Chegamos antes deles. Alceu, mais rápido a cavalo, o alcançou. A chuva havia parado, mas as ruas estavam em petição de miséria. Caíram os dois em meio à lama. O senhor Bernardo rastejava na terra encharcada e tentava fugir. O outro o agarrava pelas pernas. Depois de trocarem muitos socos rolando feito porcos chafurdando no lodaçal de um imenso chiqueiro, o senhor Alceu então conseguiu imobilizá-lo e desferiu o golpe fatal, estrangulando-o no cais.
+
+			Sujo, exausto, desfigurado e atordoado, Alceu olhou ao redor. Viu caixotes a um canto. Arrastou o corpo até lá. Acomodou o caixote na carroça do próprio Bernardo. A chuva voltou com força, o que garantia ruas escuras e completamente vazias. Ninguém o viu e, se o viu, não o reconheceu de tão imundo e descomposto que estava. Abandonou o corpo no beco próximo às casas que estavam vazias na Rua Detrás do Hospício. Acompanhei todos os acontecimentos levada pelo meu cortejo do outro mundo, em espírito. Assim como Roza e Marianno, que movidos pelo rancor represado fizeram o que disseram ao Intendente, ao senhor Nuno Moutinho e ao guarda quando foram à hospedaria. Nossos corpos estavam onde deviam estar para que Paulo Fernandes não nos incriminasse, mas nossas almas estavam onde precisavam estar para que aquele enredo terminasse.  
+
+		
+
+
+		
+			
+
+			
+
+		
+
+
+		
+			
+
+		
+
+
+		
+			Real graça
+
+			Tereza ainda hoje é muito orgulhosa. Ofereci auxílio em diversas ocasiões para contribuir com a compra de sua alforria e ela nunca aceitou. Pois chegara o dia, finalmente. Ela bateu à minha porta no início daquela tarde ofegante e radiante. Juntara 900 mil réis para comprar a si mesma.
+
+			— Ulalá! — Admirei-me.
+
+			Ela nem esperou convite para entrar. Rodopiava trazendo o sol todo para dentro do meu solitário sobrado. Eu, sempre tão tagarela, emudeci. Fui pego totalmente de surpresa e só pude contemplar sua alegria. Nunca experimentei não possuir a mim mesmo. Eu, o egocêntrico Nuno Alcântara Moutinho, sabia o que eram os olhares tortos, os risos às costas, as ofensas atiradas em rosto e oportunidades perdidas, mas não fazia ideia do que poderia ser ter que dar contas a outro alguém incluso para ir até ao urinol aliviar-se. Não me passava pela cabeça o que deveria ser ter que sair todos os dias, com chuva, sol, tempestade ou lama; doente, são, com dores ou não; alegre, triste ou profundamente desencantado do mundo para vender e ter que entregar quase a totalidade dos meus ganhos a outrem que não saiu da cadeira de balanço de sua sala. Também não saberia dizer o que é ser “dado de presente”, como Tereza o fora por ocasião do casamento de sua senhora.
+
+			Não, eu não tinha a medida de tais coisas... Mas Tereza me oferecia sua régua. E, pelo tamanho de sua explosão de felicidade, pude avaliar o grau de sua desventura. Explodia de orgulho por si, por ter conquistado tudo sozinha. Era algo realmente muito poderoso e contagiante. Paralisou-me. Oh! Como estava bonita banhada pela luz da tarde que se insinuava pelas frestas da janela. Ofereci um brinde e ela pela primeira vez aceitou. Bebemos à sua iminente liberdade.
+
+			Quando se acalmou, continuei mudo. Ela olhou-me intrigada.
+
+			— Não dirá nada, Nuno Mourtim? — Ela chamava-me assim, Mourtim, fazendo troça com meu nome e o estado de quase moribundo em que sempre me via quando despertava com ressacas inesquecíveis.
+
+			Não disse nada. Apenas pude beijá-la.
+
+			 
+
+			---&&&---
+
+			 
+
+			A senhora Manuelina Pinto, após contar cada meia pataca, olhava com desdém.
+
+			— É pouco. Não a concederei.
+
+			Argumentava que o preço de 900 mil réis fora dado havia muito tempo e que, naquele momento, uma negra como ela valia bem mais. Quando soube de sua decisão, que não me foi comunicada por Tereza, mas por suas companheiras de canto de venda, pois que estava sumida havia alguns dias, senti uma vertigem de revolta. Tranquei-me no sobrado e andando de um lado a outro, feito cão encarcerado, arquitetei a solução.
+
+			Redigi uma carta muitíssimo bem pensada em cada palavra e fui ter com Roza na Vale Longo.
+
+			— Sei que vosmicê pode auxiliar-me. O que puseste naquela comida, no dia em que estivemos aqui?
+
+			Ela informou que não poderia revelar-me, pois não é qualquer pessoa que pode ter acesso a certos poderes. Senti-me um nada. Como seria eu “qualquer pessoa”?! A moça riu discretamente com minha expressão ofendida e amenizou os efeitos. Disse que o faria pessoalmente. Na noite seguinte, com auxílio de Muana e Marianno, retirei Roza da hospedaria e da vista da sentinela posta ali pelo Intendente. Convidei Paulo Fernandes Viana para a que, certamente, deve ter sido a maior farra de sua nobre, endinheirada, poderosa, piedosa e enfadonha vida.
+
+			Prostitutas as mais sensacionais e músicos divertidíssimos encheram a Mazomba. O beco tremeu. Recitamos versos, encenamos, bailamos e ¬ trazidos por Caetano ¬ comemos os melhores acepipes de todo o Rio de Janeiro; afinal, Roza era a cozinheira. Bem tarde, após o último licor, o violinista arrastava uma triste canção acompanhada por roncos. Estavam todos tombados, mas felizes, esparramados pelo chão, pelos degraus da escada, pelas cadeiras e poltronas.... Todos menos este mazombo sem caráter. Pela primeira vez em toda a minha desgraçada vida, não pus uma única gota alcoólica nos lábios em um evento extraordinário como aquele. Foi duro, mas não poderia correr o risco de me embriagar e perder a preciosa chance.
+
+			Abri a gaveta da cômoda, peguei o papel e aproximei-me do Intendente. Ele, com aquele mesmo ar parvo, que eu havia visto na hospedaria, de quem não sabe se está no céu, no inferno ou na Terra, olhava-me sem me ver. Assinou sem resistência uma carta a um famoso suspeito da Coroa, na qual ponderava sobre os novos tempos e concordava com os movimentos que clamavam por independência do Brasil.
+
+			— Sim, a assinatura é igual à minha... Mas qual! Nunca, jamais em toda a minha vida assinaria uma carta destas! Isto é uma calúnia, uma infâmia! — urrava de ódio vários dias depois da festa.
+
+			Deixei por um bom tempo que voltasse a sua rotina, a sua normalidade administrativa, a suas missas com a família, a seus despachos a cada dois dias com o rei. Até que uma bela manhã, calculadamente, fui visitá-lo.
+
+			— Estou totalmente de acordo, senhor Intendente! Sou testemunha de vossa lealdade ao rei e de vosso caráter mais que qualquer outra criatura nesta cidade repleta de verdugos capazes de produzir intriga tão perversa. Foi exatamente o que imaginei quando, após muita luta e alguns perigos, consegui resgatar esta missiva atroz. Certamente, alguém interessado em chantageá-lo misturou-a entre as centenas de documentos que diariamente assina —. Sim, exagerei um tanto, mas que mal há em trabalhar a própria imagem?
+
+			Inventei uma trama tão bem urdida e ele estava tão aliviado em ter em suas mãos para destruição aquilo que lhe podia levar ao calabouço, que não questionou.	Paulo Fernandes era todo gratidão e — sucesso! — perguntou-me como poderia pagar-me. Disse, humilde, que não queria nada. Combinamos outra noite na Mazomba assim que possível e me dirigi à saída... mas voltei da porta.
+
+			— Senhor... Não quero nada para mim, mas para algumas criaturas...
+
+			Contei-lhe tudo o que sabia das iniquidades praticadas com Roza por seu primo, que ele sabia muito bem quem era, e do infortúnio de Tereza. Pedi intercessão para a graça real dela e a alforria dos três escravos do parente morto. Paulo Fernandes também não era nenhum idiota. Eu tinha uma informação valiosa e bem poderia ter alguma outra  “carta-bazuca” como aquela ou algum outro documento comprometedor. Sem contar que eu sabia de todos os seus segredos de farras com testemunhas, provas e uma riqueza de detalhes de fazer corar os mais devassos. Ele devia ter se lembrado do sinal que possuía em lugar visível apenas para os que já o viram sem roupas... e eu engolia o riso garganta abaixo, imaginando o que ia em sua mente. Devia estar matutando se eu sabia ou não, pois seria uma comprovação inequívoca de que presenciei suas estripulias. Sim, senhor Intendente, — pensava eu —  já vi o seu sinal! Fizemos ali um silencioso pacto de silêncios. Uma semana depois, retornei e saí no final da tarde do prédio da intendência, na Rua do Conde, com quatro cartas nas mãos.
+
+			Cheguei esbaforido e suado, cheio de entusiasmo no canto das vendedoras perto do beco de minha residência. Tereza olhava o papel que entreguei a ela. Devolveu-me empertigada. Esqueci que não sabia decifrar nada do que estava ali. Solene, subi em um caixote e li. No final, aplausos, gritos e vivas da pequena assistência. Ela, estática, só explodiu em um choro convulsivo depois que entrou no sobrado.
+
+			Dona Manuelina Pinto tentou vários expedientes para revogar o documento, porém sem obter êxito acabou desistindo e mudando-se com suas malas e cuias para Portugal. Dei outra festança daquelas, mas para inaugurar finalmente a livraria, bar, teatro e o que mais quisessem: “A Mazomba”. E desta vez entornei todas as que pude alcançar. Muana, Roza e Marianno, agora livres, estiveram em nossa casa nesse dia de festa. Muito estranho eu, esse lobo solitário, usando esse pronome “nós”...
+
+			 
+
+			---&&&---
+
+			 
+
+			O Intendente Paulo Fernandes Viana estava desconsolado por aqueles dias. Caíra numa tristeza profunda depois que a família real retornou a Portugal e ele, deposto de seus cargos pelo príncipe regente Dom Pedro I, já não possuía os poderes de antes. Ofendeu-se de forma irremediável quando foi chamado pelo príncipe de sanguessuga do tesouro real.
+
+			Não se sabe se por questões reais de ordenamento da cidade ou para espezinhá-lo, no mesmo dia da partida de sua família para Portugal, D. Pedro em pessoa acompanhado de oficiais da marinha destruiu a machadadas as árvores do famoso jardim que havia na quadra do Campo de Sant’Anna, entre as ruas do Alecrim e do Hospício e do qual era responsabilidade de Fernandes Viana cuidar. Cada golpe nas amoreiras, que ele com tanto zelo plantou para cultivo do bicho da seda, era uma estocada em seu orgulho. Nunca mais fora o mesmo. Contraiu uma doença grave e um dia fui visitá-lo. No final de nossa conversa sobre os últimos acontecimentos que sacudiam a corte, ele perguntou-me:
+
+			— Afinal, quem matou meu primo?!
+
+			¬ Ele contará. Vocês se encontrarão em breve lá por baixo ¬. Não disse, mas pensei.
+
+			Pouco tempo depois, na mesma data em que Marianno pôs o último ponto em sua mortalha de retalhos, dia 1º de maio de 1821, faleceu sem nunca saber quem afinal matara seu primo Bernardo Lourenço Viana.
+
+		
+
+
+		
+			Todos em seus mundos
+
+			Nunca, nunca se comerciou tanto preto quanto agora. A cidade cresceu, expandiu-se, o píer do cais do Valongo foi construído e finalmente desativado, mas seguimos entrando por todos os poros desta cidade. Sim, o país de Mr. Toole proibiu este tráfico, mas eu estava certa. Isto não importaria nada para este lugar. Eu desci aqui, eu pisei na areia desta praia e depois vi os meus pisarem as pedras deste cais. E ainda vejo a massa esquelética que chega em ondas sucessivas. A cada um que chega penso nos tantos que ficaram no caminho.
+
+			Depois que o Brasil se tornou independente, o senhor Alceu Coimbra, nobre português, embarcou correndo para Lisboa. Por um bom tempo ficou perigoso para eles permanecerem por aqui. Soube que o navio nunca chegou ao destino. A senhorinha Emerenciana, já não tão senhorinha, foi para o convento depois que seu pai uma bela tarde despertou mais cedo da sesta. O que nos importa isto tudo, os destinos desta gente? 
+
+			A Vale Longo foi vendida. Não sei o que os novos Donos farão dela. Enquanto não vinham tomar posse, nós três continuamos ali até que Roza foi trabalhar no novo Hotel Pharoux, próximo ao cais do mesmo nome. Ele em nada se parecia com a nossa hospedaria. Era maior, em ponto nobre da cidade e ficou famoso pela excelente comida. Não me espanta; afinal, eram as mãos de Roza que mexiam naquelas panelas.
+
+			Marianno decidiu tentar retornar a nossa terra. Não foi fácil conseguir o passaporte e o dinheiro todo exigido. Mais uma vez, o senhor Nuno Alcântara Moutinho e Tereza Nagô foram de extremo auxílio. Fomos a sua partida no cais. Ele abraçou-se a Roza e ambos nos fizeram chorar. Ao lado dele vi Joaquim Mani Congo, o escravo escaldado do Tamarineiras, que estava voltando junto com ele. Tive certeza de que chegaria bem ao seu destino.
+
+			Retornei sozinha para a Vale Longo. A casa vazia, sem Marianno e Roza. Apenas eu e minhas recordações. Apenas eu, os exemplares da Gazeta e agora um novo jornal, que eu gostava de ler. Outros jornais apareceram... Li no Jornal do Commercio que os poderosos da terra de Mr. Toole estavam exigindo, cada vez com mais força, que o comércio de negros acabasse. Não sei se verei isso.... Decidi escrever estas recordações.
+
+			Passei pela pequenina saleta que separava a sala de refeições da cozinha — onde eu recebia Mr. Toole — e ele estava lá. Não o inglês, mas o senhor Bernardo. Imundo de lama como no dia da morte. Ele não me via. Entendi que ficaria ali. Eu precisava sair. Tive uma súbita ideia. Fui até o quintal, abri a terra e fiz um enterro simbólico de todos eles, com os poucos objetos que possuía. Eles vieram. O chefe levantou sua mão e seu dedo estava no lugar outra vez. Minha família reunida, abraçada, com meu pai orando em seu masbaha, ajoelhado e voltado para Meca. Mr. Toole acenava dizendo adeus. Contava que tinha ainda muitas entrevistas a fazer pelo mundo. Foi quando veio Umpulla... Ele me disse que me faltava algo. Eu sabia o que era. Peguei em uma caixa os ossos do dedo do senhor Bernardo e enterrei-o também, mas nem assim limpou-se, nem assim seu dedo retornou como o do chefe. Umpulla me disse:
+
+			— Sua parte está feita. Acabou. Vamos agora, Muana. Vamos visitar o monte Namuli de nossa meninice.
+
+		
+
+
+		
+			Quem jura não mente
+
+			Demorei a concatenar as ideias. Pensei muito e por muito tempo sobre o crime do cais do Valongo. Resumidamente, nesta história toda, três conseguiam ver fantasmas: Muana, o pulha do Bernardo e... eu, principalmente depois do quarto copo!
+
+			Tereza vibrou no primeiro dia em que vendeu e teve o lucro totalmente para ela. Eu quis casar, mas ela não aceitou. Na época, ofendi-me profundamente, mas como foi ganhadeira praticamente a vida toda, a rua era dela. Sabia cada encruzilhada, cada viela, cada pedra do calçamento desta cidade. Era isso o que me fascinava nela: a forma como sabia ser tão incrivelmente livre, mesmo estando presa tanto tempo. E ela apenas queria ter pela primeira vez em sua vida a sensação de também ser um navio maravilhosamente solto no oceano.
+
+			Seguimos ali eu e ela, compartilhando liberdades no Beco da Mazomba. Agradeço porque não me deixou cometer a bobagem de tentar ser o homem que jamais seria. Até o dia em que ela disse que estava pejada e que o moleque era meu. Não duvidei. Foi quando tive um sonho estranho com Sheakspeare:“...o fantasma do pai os rodeia e assombra, urrando: “Swear!”(Jurem!). Pulei da cama e na primeira hora fui à hospedaria Vale Longo.
+
+			Encontrei portas e janelas trancadas. Dei a volta no terreno e, embora minha forma não fosse mais a mesma, consegui pular desengonçadamente o muro em um ponto mais baixo da propriedade, caindo no que outrora fora o quintal do estabelecimento. Perto de uns tonéis, protegido por uma mesa, alguns panos e embaixo de muitas tralhas velhas, achei um baú não muito grande e dentro dele a íntegra dos relatos da Moçambique natural do monte Nomuli.
+
+			Pular o muro outra vez carregando o baú valeu-me uma queda cômica e uma dor nas costas. Já não sou aquele jovem que sobreviveu à surra que Bernardo Lourenço encomendou. No caminho de casa passei pelo, agora, Cais da Imperatriz. O outrora Cais do Valongo está sendo todo reformado para receber Teresa Cristina Bourbon-Duas Sicílias, a noiva do imperador menino Dom Pedro II. Por quais diabos, pensei, um homem casa-se com uma mulher que apenas viu por retratos? A realeza é bastante bizarra.  
+
+			Olhei para o antigo píer e os vi. Muana e um jovem altíssimo e belíssimo, certamente era o seu amor Umpulla... Eles conduziam uma multidão que parecia fugir de assassinos, desesperada por socorro e que tomava todo o espaço do cais para sumir no ar, como água evaporada no mormaço, como seres etéreos que sublimam e partem. Milhares de homens, mulheres, crianças. Muitas crianças! Nosso delito a ser purgado é contra os miúdos, contra a infância. Como pesa, meu Deus, esse baú de Muana! Como pesa! Mas por quais diabos estou clamando por Ele? Eu não acredito em Deus! E também não creio no diabo, embora ele pareça tão mais próximo de mim, meu Deus! Estou louco. A verdade tem o dom de enlouquecer. Talvez por isso tantos vivam na mentira.
+
+			Eu não conseguia ver a nova plataforma que surgia, com suas pedras polidas, regulares e meticulosamente montadas. O piso que consideravam digno para uma rainha apoiar seus delicados pés. Totalmente diferente daquele de pedras redondas e irregulares, que ia ficando soterrado. É possível sepultar para sempre passado tão tenebroso? Eu não enxergava o cais onde cedo ou tarde tocaria alguma garota assustada vinda de longe, com um séquito de mucamas, lacaios, ministros... Uma garota europeia de tez alva e translúcida, muito provavelmente embaixo de sombrinhas para que o sol dos trópicos não maculasse sua clara e sedosa pele. Eu via apenas aquele píer de pedras “pés de moleque” onde tantas vezes testemunhei a chegada dos milhares que vinham de muito longe e ali desciam, desfilando excrementos, feridas e solidão debaixo do nosso inclemente astro rei. Nunca deixei de admirar e — por que não? — invejar incontáveis homens e mulheres que conseguiam demonstrar certo garbo e altivez, mesmo em tão deploráveis condições. E eu, nascido livre, com minha tez negra clara, lembrando apenas de meu pai português e raramente de minha mãe... E eu, tão miseravelmente pequeno perto deles, pois eram em sua maioria todos tão jovens... tão jovens... Este sim foi o verdadeiro crime do cais do Valongo. Levarão algumas eras para que seja pago.
+
+			A velhice está chegando célere. Caminhei lentamente sentindo a dor nas costas pela queda do muro e o aumento dos anos. Aquele baú tinha o peso das eras. Guardei por muito tempo e com muito zelo o seu conteúdo. Já está tarde para mim. Deixo para vocês a tarefa de não esquecer.
+
+			— Tereza, está ouvindo este pássaro?
+
+			— Que pássaro, Nuno?
+
+			Era o Namuli Apalis.
+
+		
+
+
+		
+			O Sítio Arqueológico do Valongo, no Rio de Janeiro (RJ), foi declarado Patrimônio Mundial da Humanidade neste domingo (9) pelo Comitê do Patrimônio Mundial da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco).
+
+			O Cais do Valongo, localizado na Praça Jornal do Comércio, é símbolo da dor de milhares de negros escravizados trazidos para o Brasil por mais de 300 anos. 
+
+			Em 20 de novembro de 2013, data em que se celebra o Dia da Consciência Negra, o Cais do Valongo foi declarado Patrimônio Cultural da cidade do Rio de Janeiro, por meio do Instituto Rio Patrimônio da Humanidade (IRPH).
+
+			No mesmo período, representantes da Unesco passaram a considerar o sítio arqueológico como parte da Rota dos Escravos, sendo o primeiro lugar no mundo a receber esse tipo de reconhecimento. Ambos eventos reforçaram a candidatura do Cais do Valongo a Patrimônio da Humanidade.
+
+			 
+
+			Fonte: http://www.cultura.gov.br/
+
+		
+
+
+		
+			Referências
+
+			Gazeta do Rio de Janeiro – Avisos - 23/08/1809
+
+			 Gazeta do Rio de Janeiro – Avisos - 23/08/1809
+
+			 Gazeta do Rio de Janeiro – Das Gazetas de Lisboa – 31/01/1810
+
+			 Gazeta do Rio de Janeiro – Avisos – 27/05/1818
+
+			 Gazeta do Rio de Janeiro – Avisos – 07/04/1821
+
+			 Arquivo Nacional, Fundo da Polícia da Corte – Códice 325, v.5, 
+
+			fls 122 e 122v. De 11/07/1819
+
+			 Gazeta do Rio de Janeiro – Avisos – 27/02/1811
+
+			 Gazeta do Rio de Janeiro – Avisos – 07/09/1816
+
+			 Gazeta do Rio de Janeiro – Avisos – 14/10/1815
+
+			 Gazeta do Rio de Janeiro – Avisos – 14/04/1810
+
+			 Gazeta do Rio de Janeiro – Avisos – 04/11/1809
+
+			 Gazeta do Rio de Janeiro – Avisos – 18/02/1815
+
+			 Jornal do Commercio – 1835
+
+		
+
+
+
+			
+				
+					[ 1 ]  Uma das denominações dadas a negros homossexuais.
+
+				
+
+			
+
+		
+
+
+
+
+			
+				
+					[ 2 ] Outra denominação para homossexual
+
+				
+
+			
+
+		
+
+
+
+
+
+			
+				
+					[ 3 ] O Maláui, Malawi ou Malaui, oficialmente República do Malawi, é um país da África Oriental, limitado a norte e a leste pela Tanzânia, a leste, sul e oeste por Moçambique e a oeste pela Zâmbia.
+
+				
+
+				
+					[ 4 ] Quelimane é a capital e a maior cidade da província da Zambézia, em Moçambique.
+
+				
+
+			
+
+		
+
+
+
+
+
+			
+				
+					[ 5 ] Palavra persa para ‘capitão’
+
+				
+
+			
+
+		
+
+
+
+
+
+			
+				
+					[ 6 ] Sem testamento
+
+				
+
+			
+
+		
+
+
+
+
+
+			
+				
+					[ 7 ] Society for Effecting the Abolition of the Slave Trade – grupo fundado em 1787, na Inglaterra.
+
+				
+
+			
+
+		
+
+
+
+
+
+			
+				
+					[ 8 ] Varíola
+
+				
+
+			
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4611 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schifaizfavoire - Dicionário de português (Edição revista e ampliada)
+
+
+  
+
+
+  
+    
+  
+
+
+  
+
+
+  Copyright da 1a edição © Mario Prata, 1993
+
+
+  Copyright da presente edição © Mario Prata, 2011
+
+
+  Revisão: Tulio Kawata
+
+
+  Capa: Graziella Iacocca
+
+
+  eBook: Hondana
+
+
+  Dados Internacionais de Catalogação na Publicação (CIP)
+
+
+  (Câmara Brasileira do Livro, SP, Brasil)
+
+
+  
+    Prata, Mario
+
+
+    Schifaizfavoire : dicionário de português / Mario Prata. --Ed. rev. e ampl. -- São Paulo : Editora Planeta do Brasil, 2011.
+
+
+    ISBN: 978-85-7665-603-6
+
+
+    1. Língua portuguesa - Português falado - Portugal - Humor, sátira, etc. 2. Português - Dicionários I. Título.
+
+
+    
+      
+        	
+          11-01976
+
+        
+
+        	
+          CDD-469.3
+
+        
+      
+
+    
+
+  
+
+
+  Índices para catálogo sistemático:
+
+
+  
+    
+      	
+        1. Português : Dicionários
+
+      
+
+      	
+        469.3
+
+      
+    
+
+  
+
+
+  2011
+
+
+  Todos os direitos desta edição reservados à
+
+
+  EDITORA PLANETA DO BRASIL
+
+
+  Avenida Francisco Matarazzo, 1500 – 3o andar – conj. 32B
+
+
+  Edifício New York – 05001-100 – São Paulo-SP
+
+
+  www.editoraplaneta.com.br
+
+
+  vendas@editoraplaneta.com.br
+
+
+  Para a Ana Mariana Melo e Castro
+
+
+  do Campo Rosado, uma portuguesinha
+
+
+  de 12 anos que me disse e me
+
+
+  ensinou as primeiras palavras.
+
+
+  Para o Walminho e a Zulmira,
+
+
+  que me ensinaram as do meio.
+
+
+  Para os Costa de Sousa, Ana, Paulo,
+
+
+  Diogo e André, que me ensinaram as últimas.
+
+
+  E para o Caio Graco, que
+
+
+  me deu a dica e foi embora.
+
+
+  Apresentação
+
+
+  Em fevereiro de 1978, a cubana Haydée Santamaría decidiu convidar pela primeira vez um grupo de brasileiros para participar do júri do prêmio literário anual da Casa de las Américas. O prêmio, assim como a Casa, já existia desde o começo dos anos 1960. E era uma tentativa dos cubanos de integrar através da literatura uma América Latina desunida pela política e pelas desavenças ideológicas. Com a presença de brasileiros em um júri que iria ler poemas, romances e ensaios escritos em castelhano, os cubanos queriam provar que, se o Brasil passara séculos de costas para a América Latina, era a Cordilheira dos Andes, e não o idioma, o que nos separava de nossos vizinhos hispânicos.
+
+
+  Aqui no Brasil ainda vivíamos sob o penúltimo general da ditadura militar, o que custou aos viajantes – Antônio Callado, Chico Buarque, Ignácio de Loyola e eu – tediosos interrogatórios policiais quando pusemos de volta os pés em solo pátrio. Durante trinta dias, em Cuba, lemos caixas e caixas de manuscritos, festejamos o aniversário de Callado e bebemos o melhor rum e fumamos o melhor charuto do mundo. No final o prêmio maior seria atribuído a Eduardo Galeano, com o seu Días y noches de amor y de guerra. E foi na festa de anúncio do resultado que Chico Buarque decidiu defender, com admirável segurança (até hoje não sei se ele falava a sério ou se debochava), que o castelhano nada mais era que uma corruptela do português. “Mais do que isso”, insistia, “o castelhano é apenas um português mal falado, um português pronunciado erradamente.” Apesar de acuado por um enxame de iracundos guatemaltecos, salvadorenhos, nicaraguenses, argentinos, peruanos, uruguaios, Chico sustentava sua teoria e dava exemplos concretos:
+
+
+  – Incapazes de pronunciar o nosso ão, os hispanófonos inventaram o ón, e assim por diante. Tomem um texto em português e troquem todos os ão por ón, os f iniciais por h, substituam por ue alguns o precedidos de consoantes e vocês terão um texto em escorreito castelhano.
+
+
+  Acalmados os ânimos, a tese não chegou a estragar a festa nem produziu qualquer incidente diplomático entre Cuba e o Brasil (até porque durante o regime militar Brasil e Cuba não tinham relações diplomáticas que pudessem ser afetadas). Mas foi esse episódio que me veio à cabeça ao final da leitura deste delicioso Schifaizfavoire concebido durante os dois anos de solidão de Mario Prata em Portugal. Se continua convencido de sua tese até hoje, Chico Buarque terá razão ao afirmar, depois de ler este dicionário, que a língua falada no Brasil talvez esteja mais próxima do castelhano que do português de Portugal.
+
+
+  Ainda que esta conversa não sobreviva ao peteleco de um filólogo, não custa nada lembrar que se pode encontrar rastros da língua portuguesa nos mais remotos cantos do mundo. A passagem dos jesuítas portugueses pela Ásia, por exemplo, teria deixado suas marcas do outro lado do planeta. Daí, talvez, a explicação para o fato de que a fonética da palavra pão, em japonês, seja exatamente igual à do português (se você pedir um pão em qualquer bar do Japão, vai receber do garçom o mesmo alimento feito de farinha de trigo produzido nas padarias portuguesas, do Rio ou de São Paulo). Em Tóquio me garantiram que até o arigatô não é senão a corruptela de um obrigadô deixado lá pelos religiosos lusitanos. O próprio Prata suspeita, por exemplo, que o nome do molho curry vem do luso caril (e não o contrário, como pretendem os ingleses).
+
+
+  A idéia de produzir este dicionário foi sugerida a Mario Prata pelo meu falecido compadre Caio Graco, quando o autor traduzia para a Editora Brasiliense O testamento do sr. Napumoceno da Silva Araújo, romance do cabo-verdiano Germano Almeida. Se era necessário contratar um tradutor para publicar em português um livro escrito em português, concluiu Caio Graco, estávamos diante de duas línguas diferentes. E a maneira encontrada para decifrar, para os brasileiros, os mistérios do idioma falado em Portugal foi comportar-se como se esta fosse para nós – e agora nós sabemos que é – uma língua estrangeira.
+
+
+  A graça e o singular talento de Mario Prata, entretanto, transformaram o que poderia ser apenas mais um aborrecido dicionário em um saboroso mergulho na alma portuguesa. E também uma reportagem literária a respeito da primeira grande revolução vivida pelo país nos últimos sete séculos: a triunfal entrada de Portugal no “Primeiro Mundo” pelas portas da unificação européia. Cada um dos seiscentos verbetes vem acompanhado da lembrança de algum episódio vivido pelo autor em dois anos de exílio voluntário em Cascais. Em todos eles, sem exceção, está impressa a marca registrada de um dos mais brilhantes e criativos autores da língua brasileira.
+
+
+  Estou certo de que todos, como eu, lerão Schifaizfavoire de uma só sentada, como se faz com um bom romance.
+
+
+  FERNANDO MORAIS, 1993
+
+
+  Como se fosse um prefácio
+
+
+  Prezado Senhor José Blanco,
+
+
+  Ao desembarcar pela primeira vez no aeroporto de Lisboa, onde ficaria por dois anos, dei de cara com um “Aluguer” de Táxi. Dentro do carro a filha pré-adolescente de uma amiga informou à mãe que havia dado um “linguado”. De noite, na televisão, a “Rainha Isabel”, da Inglaterra, deu uma declaração sobre a crise no Oriente Médio. E a minha amiga me perguntou se eu queria “feijão verde”, enquanto eu “premia o autoclismo”.
+
+
+  Comecei a anotar as palavras que tinham significados diferentes cá e lá. Dois anos depois lancei este Schifaizfavoire – Dicionário de Português, que já chegou a mais de vinte edições. O senhor, que estava no Brasil na época, leu a primeira delas. Agora mudei de editora e este exemplar já é da Planeta. Não é um dicionário, são pequenas crônicas em ordem alfabética.
+
+
+  Na época, o senhor, professor e intelectual português, então diretor da respeitadíssima Fundação Gulbenkian, de Lisboa, me escreveu uma longa carta onde, entre elogios e puxões de orelha, corrigiu alguns verbetes, explicou outros. Era um calhamaço muito bem-humorado e preciso. Fiquei orgulhoso de merecer a sua atenção.
+
+
+  Guardei para responder. Mas o envelope sumiu. Agora, há pouco tempo, ao mudar-me de São Paulo para Florianópolis, foi com muita alegria que achei, reli e considerei que deveria publicar nesta edição da nova editora a carta com os comentários, os elogios e os puxões de orelha. E agradeço o seu consentimento.
+
+
+  A carta, publico na página seguinte. Agradeço ao sr. por ter se debruçado sobre o meu trabalho com tanta dedicação.
+
+
+  E peço desculpa sobre a Albânia, professor. Mas, à época, eu andava meio irritado com os portugueses, como, aliás, eles com os brasileiros, mais ainda. Foi a fase da Guerra dos Dentistas, lembra?
+
+
+  Mas isso já tem vinte anos, voltei lá umas cinco ou seis vezes, e estamos todos nós nos sorrindo novamente. Tenho lá grandes e verdadeiros amigos.
+
+
+  Aliás, esses vinte anos que se passaram tornaram alguns dos verbetes desse dicionário meio fora de moda, mas garanto que isso deixou o livro ainda mais fixe (gíria do começo da década de 90 que significa legal, bom).
+
+
+  No mais, mantivemos a ortografia da época, porque, se a mudássemos, muita coisa ficaria sem sentido. Registro ainda: essa ortografia unificada, ou seja lá como a chamam, foi a atitude mais inoportuna e burra que já existiu entre as relações do Brasil e Portugal, desde abril de 1500. E foi coisa de brasileiros!!!
+
+
+  Abraços.
+
+
+  MARIO PRATA
+
+
+  P. S. Meu caro professor, não resisti: encontrei também uma gralha (vide página 106, leitor) nos seus comentários. Nosso querido Eça nasceu em Póvoa de Varzim e não “do Varzim”.
+
+
+  A carta
+
+
+  Prezado Senhor Mario Prata,
+
+
+  No decurso da visita que fiz há duas semanas ao Brasil, foime oferecido por um amigo um exemplar do seu já famoso Schifaizfavoire. A obra merece ser o best-seller que rapidamente se tornou, pois é um livro muito divertido, mesmo pelas vítimas do seu excelente humor – nós, os Portugueses. (Penso, aliás, que com os devidos ajustamentos, poderia um autor português publicar um livro igualmente divertido para os leitores daqui, sobre os modismos brasileiros, alguns dos quais nos dão imensa vontade de rir…).
+
+
+  O interesse da leitura levou-me a fazer uma análise detalhada dos verbetes em que encontrei bastantes gralhas, confusões e mesmo erros flagrantes que, a bem de futuras edições, resolvi apresentar-lhe em lista anexa. Tendo em vista, sobretudo, a eventual divulgação da obra em Portugal, parece-me que esses lapsos, se não forem corrigidos, diminuirão a credibilidade ao livro junto ao leitor português.
+
+
+  Fico satisfeito por me ter sido possível responder a algumas das suas angústias quase metafísicas sobre a origem de expressões misteriosas tais como “Pijama”, “Tirar os três”, “Trinta-e-um de boca” e “Varina”. Infelizmente, não encontrei rasto da origem de “Alfacinha” e “Ardina”, que permanece totalmente desconhecida.
+
+
+  Em termos genéricos, quero apenas fazer um comentário sobre algo que não posso de modo algum aceitar. Quando, aliás com humor pesado que contrasta com o resto, escreve que “Portugal está muito mais para Albânia que para Bahia” (pág. 95), está a pisar terrenos nitidamente perigosos.
+
+
+  Neste contexto das aproximações e distâncias entre o Brasil e Portugal, e sem querer entrar em polêmica, limitome, como aqui se diz em linguagem judicial, a “oferecer o merecimento dos autos”, neste caso, o merecimento de um pequeno texto que li no dia 10 de Junho passado (Dia de Camões) no Real Gabinete Português de Leitura do Rio de Janeiro e no qual procurei demonstrar as efetivas e permanentes pontes transatlânticas que nos unem. Dando, como dei, a palavra aos poetas brasileiros e portugueses, creio ter provado que, apesar de tudo e de todos – direi mesmo contra tudo e todos – Brasil e Portugal estão condenados a uma co-habitação que nos está na massa do sangue. Gostaria que, depois de ouvir os poetas que citei, me dissesse francamente se acha possível imaginar o Vinícius de Moraes dialogando nos mesmos termos com um poeta búlgaro… Porque sou um dos que acreditam na existência, única na comunidade internacional, dessa entidade mítica (ou mística?) chamada Brasil-Portugal, espero que me diga de sua justiça.
+
+
+  Aguardando, com maior interesse, as suas notícias e renovando o prazer que tive em ler o seu livro, peço-lhe que aceite as minhas cordiais saudações.
+
+
+  JOSÉ BLANCO, 1993
+
+
+  P. S. Para provar o que digo no penúltimo parágrafo, transcrevo a seguir, a título de exemplo, dois dos mais belos sonetos de amor escritos em língua portuguesa. Julgo que, depois de os reler, me dará razão.
+
+
+  Jorge de Sena
+
+
+  Amo-te muito, meu amor, e tanto
+
+
+  que, ao ter-te, amo-te mais, e mais ainda
+
+
+  depois de ter-te, meu amor. Não finda
+
+
+  com o próprio amor o amor do teu encanto.
+
+
+  Que encanto é o teu? Se continua enquanto
+
+
+  sofro a traição dos que, viscosos, prendem,
+
+
+  por uma paz da guerra a que se vendem,
+
+
+  a pura liberdade do meu canto,
+
+
+  um cântico da terra e do seu povo,
+
+
+  nesta invenção da humanidade inteira
+
+
+  que a cada instante há que inventar de novo,
+
+
+  tão quase é coisa ou sucessão que passa…
+
+
+  Que encanto é o teu? Deitado à tua beira,
+
+
+  sei que se rasga, eterno, o véu da Graça.
+
+
+  Vinícius de Moraes
+
+
+  De tudo, ao meu amor serei atento
+
+
+  Antes, e com tal zelo, e sempre, e tanto
+
+
+  Que mesmo em face do maior encanto
+
+
+  Dele se encante mais meu pensamento.
+
+
+  Quero vivê-lo em cada vão momento
+
+
+  E em seu louvor hei de espalhar meu canto
+
+
+  E rir meu riso e derramar meu pranto
+
+
+  Ao seu pesar ou seu contentamento.
+
+
+  E assim, quando mais tarde me procure
+
+
+  Quem sabe a morte, angústia de quem vive
+
+
+  Quem sabe a solidão, fim de quem ama
+
+
+  Eu possa dizer do amor (que tive):
+
+
+  Que não seja imortal, posto que é chama
+
+
+  Mas que seja infinito enquanto dure.
+
+
+  Atenção, leitor!
+
+
+  As explicações que vêm após alguns verbetes, com outra tipologia, são os comentários do professor José Blanco. Depois da primeira ocorrência, eles serão identificados pelas iniciais de seu nome, JB.
+
+
+  Sumário
+
+
+  Apresentação
+
+
+  Como se fosse um prefácio: Prezado Senhor
+
+
+  A carta: Prezado Senhor
+
+
+  a
+
+
+  b
+
+
+  c
+
+
+  d
+
+
+  e
+
+
+  f
+
+
+  g
+
+
+  h
+
+
+  i
+
+
+  j
+
+
+  l
+
+
+  m
+
+
+  n
+
+
+  o
+
+
+  p
+
+
+  q
+
+
+  r
+
+
+  s
+
+
+  t
+
+
+  u
+
+
+  v
+
+
+  x
+
+
+  Quem é José Blanco?
+
+
+  
+
+
+  Absolutamente
+
+
+  Quando dizem Absolutamente!, eles só querem dizer É claro que sim! e nunca Absolutamente não! É uma expressão absolutamente positiva.
+
+
+  Acento
+
+
+  Um dia, no Brasil, o Jô Soares entrou num táxi e o motorista – português – foi logo o reconhecendo. O Jô, brincalhão, perguntou como ele descobrira. E o motorista respondeu: pelo seu acento. E não estava se referindo ao bumbum do Jô, mas sim ao seu sotaque.
+
+
+  José Blanco: O motorista de táxi deve ter estado emigrado em França antes de ir para o Brasil, pois o acento, no sentido comum de modo de pronunciar é um galicismo (do francês accent). Aqui toda a gente diz sotaque, como no Brasil. A este respeito, achamos em Portugal que o sotaque brasileiro é o mais doce do mundo, mas apenas quando o falante é do sexo feminino…
+
+
+  Achamento
+
+
+  Alguns deles referem-se, sem ironia, ao descobrimento do Brasil como achamento do Brasil. Creio que eles estão certos. Por outro lado, vários brasileiros foram para Portugal no final dos anos 1980 para descobrir Portugal. Mas eles não querem ser descobertos.
+
+
+  Açorda
+
+
+  É uma papa, quase uma sopa, de pão amassado com água e alho, que pode ser de camarão, mariscos etc. Uma delícia, uma tradição. O aspecto não é nada agradável, mas… Existe até um restaurante excelente chamado Papaçorda, no Bairro Alto, em Lisboa.
+
+
+  Actor
+
+
+  Evidentemente que actor é mesmo ator. Só estou fazendo o registro para informar que o c e o p mudos não são pronunciados. Recepção, por exemplo, tem o mesmo som que recessão. Sempre que você chega em algum lugar e vão anunciá-lo, dizem no interfone: Fulano está aqui na recessão. E não há recessão em Portugal faz muito tempo. Mas, por falar em actor, os actores portugueses são, em sua grande maioria, excelentes. São mais para a linha inglesa e francesa, ao contrário dos atores brasileiros, um tanto americanizados. No entanto, ao fazerem televisão, ainda esbarram num certo amadorismo. Lembrei-me de uma história que se passou com um director de novelas brasileiro. Estava ele a dirigir a cena de uma novela portuguesa e pediu que um actor beijasse calorosamente uma actriz, mordesse, estivesse com tesão. Tentou-se várias vezes e não havia jeito de o actor beijar – com o furor necessário – a actriz. Finalmente o actor chamou o director num canto e disse: o senhor não conhece as actrizes portuguesas, senhor. Não posso beijá-la porque ela é casada! Aí o director argumentou que ali eles eram personagens, que não tinha nada a ver, coisa e tal, mas o actor português foi taxativo. De jeito nenhum. Afinal, jogo baralho com o marido dela todos os domingos!
+
+
+  Adesivo
+
+
+  Pode entrar na farmácia e pedir um adesivo que não se trata de nada para grudar no vidro traseiro do carro nem na vidraça do seu filho. É o nosso conhecido esparadrapo. Mas também pode ser o nome dado para aquele chato que não larga do pé da gente: Fulano é um adesivo!
+
+
+  Adeus
+
+
+  Em todas as situações de despedida, é sempre adeus que se diz. Não se usam o tchau, o até logo, o até já. Adeus é meio triste, meio melancólico, mas é assim que eles se despedem. É como se não fôssemos nos ver nunca mais. Eles são assim mesmo. Como diz o Miguel Esteves Cardoso, o melhor escritor português vivo, eles gostam de sofrer. Sempre gostaram. Eles acordam e pensam: qual vai ser o meu sofrimento de hoje? Basta olhar para a cara deles na rua e percebe-se que estão sofrendo. Ficam felizes quando sofrem. Um dia eu estava com o meu pai na praça Giraldo, em Évora, um dos lugares mais bonitos da Europa, e ele notou que todas as pessoas que estavam sentadas em volta da praça estavam tristes, cabeças baixas, pensativas. Perguntou para a garçonete o porquê de tanta tristeza. E ela, jovem, linda, com um sorriso nos lábios, melancolicamente respondeu: nós, os alentejanos, somos assim, tristes…
+
+
+  JB: Desculpe, mas fartamo-nos de dizer o italiano ciao (tchau, por influência da novela brasileira), até logo (quando a gente vai encontrar-se mais tarde, no mesmo dia, com a pessoa de quem se despede) e até já (quando a gente vai encontrar-se outra vez daí a pouco).
+
+
+  Agrafador
+
+
+  Não se assuste se alguém lhe pedir agrafos para colocar no agrafador, para agrafar alguma coisa. Parece que vai acontecer um crime, mas na verdade estarão lhe pedindo grampos para colocar no inofensivo grampeador, para grampear alguma folha de papel.
+
+
+  Água fresca
+
+
+  Sempre que você pedir uma água, em restaurante ou bar, a primeira coisa que vão lhe perguntar é: fresca? Ou seja: água gelada?
+
+
+  Água lisa
+
+
+  E a segunda pergunta é: lisa? Ou seja: água sem gás?
+
+
+  Alcatifa
+
+
+  Ao procurar apartamento para alugar no jornal, estará lá: sala totalmente alcatifada. Se você não tiver origem árabe, moura ou parecida, ficará sem entender o que é uma sala alcatifada. Totalmente alcatifada, pior ainda. Quer dizer, simplesmente, que a sala é acarpetada. Alcatifa, palavra de origem árabe, quer dizer carpete. Não tem uma música ou um poema brasileiro que fala em algo parecido com chão alcatifado de flores? Do árabe al-qáTifâ.
+
+
+  Alcatrão
+
+
+  Extraído de um roteiro de televisão do escritor Reinaldo Moraes: “E eis que lá longe, onde o alcatrão molhado se funde ao horizonte cinzento…”. Isso é porque a estrada estava alcatroada. Ou seja, era uma estrada com asfalto.
+
+
+  Aldrabão
+
+
+  Esta gorda e sonora palavra é muito dita por eles, o dia inteiro. Estão sempre se referindo a alguém que cometeu uma aldrabice com eles. Também de origem árabe. Aliás, todas as palavras que começam com al (artigo árabe) o são. Aldrabão, portanto, é vigarista, trapaceiro, mentiroso. Cometer uma aldrabice significa, em termos bem chulos, sacanear alguém. Depois de morar algum tempo em Portugal você começa a entender de onde veio essa nossa mania de levar vantagem, de dar golpinhos, de enganar o próximo, de tirar proveito das situações. Está certo que os brasileiros aperfeiçoaram a aldrabice…
+
+
+  JB: As aldrabices não só se fazem como se dizem.
+
+
+  Alfacinha
+
+
+  Não se trata de uma alface pequenininha, de pequeno porte, mas sim como é conhecido, carinhosamente, o nascido em Lisboa, o lisboeta. O alfacinha e a alfacinha. Ninguém conseguiu me explicar o porquê, mas todos concordam que a origem é mesmo a alface.
+
+
+  Alfinete
+
+
+  É o nosso broche. Leia o verbete broche que você vai entender tudo.
+
+
+  Algures
+
+
+  Significa em algum lugar. Mas não se diz em algures lugar, apenas algures. Deixei a minha caneta algures e não a acho. Portanto, algures não é um lugar. Ao contrário, é qualquer lugar.
+
+
+  JB: Não se diz algures lugar pela simples razão de que a palavra algures não é adjectivo nem pronome: é advérbio.
+
+
+  Almeida
+
+
+  Nem mesmo os mais velhos sabem explicar por que gari (varredor de rua) chama-se almeida. No tempo do grande Eça já era assim. Vai ver, foi algum personagem dele mesmo. A origem é árabe, da palavra al-maida, que significa guarda.
+
+
+  JB: Garanto-lhe que nos romances de Eça de Queiroz não há nenhum personagem que seja varredor de rua e se chame Almeida.
+
+
+  Almofada
+
+
+  Almofada significa almofada mesmo, mas é também o nosso repousante e noturno travesseiro. Pensando bem, a palavra almofada (olha os árabes de novo) é muito mais significativa que travesseiro. Por outro lado, travesseiro é aquela almofada grande que guarnece toda a cabeceira da cama, de lado a lado.
+
+
+  Altura
+
+
+  Significa o mesmo que no Brasil: altura. Só está aqui relacionada porque é impressionante o problema que eles têm com a altura. Em todas as transmissões esportivas, eles sempre dizem a idade e a altura dos atletas. Não apenas em basquete e vôlei, mas também em futebol, natação, handebol etc. Aliás, depois que Portugal entrou para a CEE,[1] eles estão achando que estão com 1,80 metro. Entretanto, continuam com 1,60. Mas eles chegam lá. Segundo a Sociedade Portuguesa de Endocrinologia, Diabetes e Metabolismo, a estatura média dos alentejanos aumentou 6,5 centímetros entre 1940 e 1983. Deu no Diário de Notícias.
+
+
+  Aluguer
+
+
+  Aluguer, como o nome quase indica, é aluguel mesmo. Mas atenção, pois nem todos os aluguéis são alugueres. Assim, chegando ao aeroporto de Lisboa, pode pedir um carro de aluguer, que ninguém vai pensar que você tem sotaque do interior de São Paulo.
+
+
+  Ancore
+
+
+  Influência francesa no show biz (encore). É como eles pedem bis para o artista no final do espetáculo.
+
+
+  JB: Nunca ouvi em Portugal, em concerto ou espectáculo, o público dizer ancore. Na Inglaterra e nos Estados Unidos, ouvi, realmente, gritar encore – coisa que, aliás, não se usa em França. Os Franceses, tal como os Brasileiros ou os Portugueses, pedem o clássico bis!
+
+
+  Anda cá!
+
+
+  É sair na rua para ouvir mãe gritando com filho: Anda cá! É o mesmo que Vem cá! Você não pode imaginar como as mães batem nos filhos em Portugal. Na rua. Imagino dentro de casa. Será essa a origem de tanta tristeza, tanta melancolia, tanto sofrimento?
+
+
+  Andar
+
+
+  Evidentemente que andar também é andar. Mas… ao procurar apartamento para alugar, provavelmente não vai encontrar nada. Procure andares para alugar. Alugase andar com quatro assoalhados, no terceiro piso. Ou então aluguel em prédio com apenas dois andares por piso. Entendeu? Andar, portanto, é apartamento. Ninguém diz vou comprar um apartamento, mas sim vou comprar um andar, mesmo que nesse andar haja quatro apartamentos.
+
+
+  JB: Os andares (ou apartamentos, como agora se diz muito) podem ter uma, duas, três ou mais divisões assoalhadas (e não assoalhados), ou seja, quartos e salas (com exclusão da cozinha e do banheiro – que nós aqui chamamos casa de banho).
+
+
+  Anedota
+
+
+  Todo mundo sabe que anedota é piada. Principalmente piada de português contada por brasileiro. Ou piada de alentejano (região que, como o nome indica, fica além do rio Tejo) contada pelo resto de Portugal. Só faço o registro da palavra anedota para realçar que significa piada. Mas, e isso é o que importa, piada não quer dizer anedota. É importante registrar que quem inventou a piada de português no Brasil foram os próprios portugueses. Verdade! Eles chegavam para os brasileiros e perguntavam: conheces aquela do alentejano? E contavam a piada mostrando um português alentejano burro. O brasileiro, ao passar a história para a frente, perguntava: conhece aquela do português?… Parece piada, mas é anedota.
+
+
+  Ao pé de
+
+
+  Se alguém marcar um encontro com você ao pé do Marquês de Pombal, isso não quer dizer que você vá se encontrar com ele no pé da estátua do marquês. Significa quase isto: ao lado de. Portanto, não se assuste se alguém disser que o talho fica ao pé da bicha.
+
+
+  JB: Ao contrário do que explica, ao pé de não significa ao lado de, mas perto de.
+
+
+  Aparcar
+
+
+  É como no espanhol. Você leva o seu carro para o parque (estacionamento) para estacionar. O difícil é encontrar um estacionamento em Portugal.
+
+
+  JB: É certamente gralha tipográfica. Nós dizemos parcar (de parque de estacionamento). Não é, portanto, como em castelhano.
+
+
+  Apelido
+
+
+  Um dia o Zefirelli, o diretor de cinema, estava em Portugal e foi visitar uma amiga numa elegante quinta (provavelmente numa sexta). Ao ser recebido pelo mordomo, se anunciou: Zefirelli. O mordomo procurou a patroa e disse o apelido dele: está aí o senhor José Firelli. Ela respondeu: não é senhor José Firelli, é senhor Zefirelli. E o mordomo retrucou: isso para a senhora que é íntima. Para mim, é senhor José Firelli. Zefirelli é o sobrenome. E, por falar nisso, há uma lei dizendo os nomes que podem ser dados às pessoas que nascem em Portugal. São pouquíssimos os nomes. Por isso, todos são Manuel, Joaquim, Antônio, José, Luiz, Nuno, Vasco, Paulo, Fernando e mais uns dois ou três. E as mulheres são todas Maria. Maria alguma coisa, mas sempre Maria. Em dois anos morando em Portugal, conheci seis Antônio Reis (dois deles irmãos), quatro Fernando Gomes, três Francisco Manso e dezessete Maria João.
+
+
+  JB: Engraçado, mas um pouco exagerado. Infelizmente, verificou-se há alguns anos em Portugal, sobretudo nas famílias que vivem coladas à televisão e às novelas brasileiras, a mania de baptizar criancinhas indefesas com nomes cafonas (ainda por cima quase sempre duplos), tais como Katia Vanessa, Sônia Alexandra, Sandra Márcia e coisas piores. Mas essa infeliz moda está desaparecendo e voltaram a ser populares os nomes clássicos portugueses, como Beatriz, Ana, Leonor, Mariana, Matilde, e João, Rodrigo, Martim, Diogo, Tomás, Afonso. Quanto às Marias, que você diz serem todas as mulheres portuguesas, posso revelar que na minha família, por exemplo, a minha mulher é Margarida, a minha nora é Rita, assim como Rita também é a minha neta…
+
+
+  Apertar
+
+
+  É a ação de amarrar sapatos, tênis…
+
+
+  Apitadela
+
+
+  Se você estiver tentando uma conquista e a pessoa disser que vai lhe dar uma apitadela, considere-se um felizardo. Ela vai lhe dar um telefonema, vai procurá-lo. Coisa rara em Portugal, mas a esperança é a última que dorme…
+
+
+  Apuramento
+
+
+  Na Europa, além dos campeonatos nacionais de futebol, a Uefa, entidade máxima desse esporte, organiza três competições européias entre os times dos vários países, além dos campeonatos de seleções. E o apuramento é o que todos os times desejam: a classificação para a fase seguinte, atrás dos euros. A palavra também passeia pela maravilhosa cozinha portuguesa. Apurar uma comida significa caprichar ao cozinhar.
+
+
+  Ardina
+
+
+  Esta quem descobrir deveria ganhar um prêmio. Não consegui, até hoje, descobrir por que ardina é jornaleiro.
+
+
+  Arrancar
+
+
+  Além de tirar, tem também o significado de começar, de iniciar, finalmente, alguma coisa. É muito comum alguém se referir a um filme português dizendo que ele demorou para arrancar.
+
+
+  Arranjar
+
+
+  É uma palavra muito usada na cozinha. A cozinheira nativa arranja como ninguém os peixes, os frutos do mar. Um peixe bem arranjado é outra coisa. Arranjar significa limpar, preparar. Mas é também o que as mães dizem para as crianças de manhã: vão se arranjar! Ou seja, lavar o rosto, escovar os dentes etc.
+
+
+  Arrecadação
+
+
+  Não é, como parece à primeira vista, a renda de um jogo de futebol. Arrecadação é, mais ou menos, a despensa da casa. O lugar de coisas que não se utilizam. E outra palavra que também sempre aparece nos anúncios de andares para renda. As arrecadações dos andares nunca ficam no mesmo andar, mas sim nas garagens. É uma espécie de porão.
+
+
+  Arrefecer
+
+
+  – Se a comida não for servida imediatamente, vai arrefecer.
+
+
+  – O dia arrefeceu muito rápido.
+
+
+  – Os ânimos foram logo arrefecidos.
+
+
+  Arrefecer é mais usado que esfriar.
+
+
+  Ascensor
+
+
+  Claro que é o nosso elevador! Os prédios em Portugal geralmente são baixos e não havia muitos elevadores no país. Agora, com o progresso trazido pela entrada na Comunidade Européia, estão fazendo grandes prédios, grandes shoppings, todos com modernos elevadores. Só que alguém precisa explicar aos portugueses que para se entrar no elevador é preciso esperar que os que estão dentro saiam antes… Cada vez que um elevador abre as portas em Portugal, surge uma discussão. O mesmo acontece para se entrar nos metrôs, trens, barcas etc. É o progresso…
+
+
+  Aselha
+
+
+  Eles sempre me surpreendem. Existe melhor palavra para designar uma pessoa desajeitada? É aquela pessoa que não consegue fazer nada direito. Também há, daí decorrente, aselhice.
+
+
+  Atacador
+
+
+  Se eu lhe disser que eles, ao se vestirem, apertam o atacador, o que você vai pensar? Também não é o atacante do seu time. Mas, se você imaginar o correspondente em brasileiro, perceberá que nenhuma das duas palavras faz muito sentido. Imagine você que atacador é cadarço, cordão de sapatos.
+
+
+  Atempadamente
+
+
+  Etimológica e logicamente não paira nenhuma dúvida. Mas nunca vi alguém que dissesse esta palavra. Os locutores da televisão, no entanto, a usam a todo momento, no momento oportuno.
+
+
+  JB: Tem toda razão! É um advérbio horroroso que nasceu e tem proliferado em anos recentes entre locutores de televisão e políticos.
+
+
+  Atendedor automático
+
+
+  É como alguns chamam a nossa secretária eletrônica. O que é muito mais lúcido. Afinal, nada mais absurdo que um brasileiro dizer que colocou a secretária eletrônica em cima do criado-mudo. Há um poema do luso-brasileiro Sérgio Antunes que diz: “Neste mundo moderno, absurdo/ A secretária eletrônica fugiu com o meu criado-mudo”. Que língua a nossa, diria Millôr Fernandes. Os mais sofisticados chamam a secretária eletrônica de répondeur, francesamente.
+
+
+  Aterrar
+
+
+  Se você estiver agora num avião e for daquelas pessoas que morrem de medo, não se preocupe: daqui a pouco, o avião vai aterrissar. A descolagem não foi legal? E atenção: não se assuste na hora de o avião aterrar se ouvir aplausos.
+
+
+  Autarca
+
+
+  Como no Brasil, e com razão, os autarcas estão sempre reclamando dos salários. Esta é fácil: a palavra deve ter sua origem em autarquia. Autarca é funcionário da Câmara local. Em outras palavras, o funcionário das prefeituras. A Câmara local é a prefeitura.
+
+
+  JB: Autarcas não são os funcionários das Câmaras Municipais ou Juntas de Freguesia, mas sim os respectivos Presidentes, Vereadores ou Vogais: pessoas que foram eleitas para esses cargos.
+
+
+  Autocarro
+
+
+  Não, não é um carro que anda sozinho, ao contrário. Geralmente anda cheio de portugueses. É um ônibus.
+
+
+  Autoclismo
+
+
+  Imagine que você está num banheiro de um restaurante e o cartaz lhe diz, à entrada: por favor, não esqueça de carregar no autoclismo da retrete! Pode ser traumatizante. Preocupe-se: o que ele quer dizer é para você dar descarga. E é aqui que começa uma verdadeira guerra entre você e a máquina, enquanto os seus detritos, lá dentro, parecem rir da sua dificuldade. Muita atenção com os autoclismos. Nunca vi tanta variedade de descargas como em Portugal. E cada uma você tem que carregar no autoclismo de um jeito. Numa, puxar. Noutra, apertar. Numa terceira, virar para a direita. Virar para a esquerda. Puxar um pouquinho e depois apertar. Apertar e depois puxar. Virar um pouco para a direita e um pouco para a esquerda para então puxar com força. Existem mil variações… É uma luta. Convém estudar bastante a máquina antes de carregar nela. Às vezes convém nem usar e ficar apertado até en-contrar um autoclismo mais conhecido, mais lógico. Vai por mim.
+
+
+  JB: Nisso, vocês também desenvolveram notavelmente o know-how português. Nesta recente viagem ao Brasil, estive em quatro hotéis (no Rio, em S. Luís do Maranhão, em Recife e em São Paulo) e garanto-lhe que, em cada um deles, o modo de funcionamento do autoclismo do banheiro era diferente!
+
+
+  Autogolo
+
+
+  Autogolo quer dizer gol contra.
+
+
+  Avançado
+
+
+  Em futebol, atacante. Matéria-prima geralmente comprada no Brasil a baixo custo e depois vendida para a Europa com altos lucros.
+
+
+  Avariado
+
+
+  Esta é uma palavra muito importante para se conhecer. Se você telefonar para a oficina e disser que o televisor está quebrado, por exemplo, eles vão achar que o aparelho caiu no chão e se partiu. Quebrar tem o sentido de partir ao meio. Se você disser que a geladeira quebrou, eles passarão dias imaginando como é que pôde acontecer uma calamidade desta. Como é que uma geladeira, daquele tamanho, pode se partir ao meio? Nada quebra, tudo fica avariado.
+
+
+  Aviar
+
+
+  Uma expressão usada pelos jovens. Vou te aviar é, mais ou menos, o mesmo que dizer: vou te pegar e vou te bater. Já estou aviado pode significar também já fumei o bastante (maconha), já bebi o bastante ou já fodi o bastante.
+
+
+  
+
+
+  Badagaio, vai me dar um
+
+
+  É alguma coisa parecida com vou ter um troço!!!
+
+
+  Badalhoco
+
+
+  Gíria jovem: porco, sujo.
+
+
+  Bagaço
+
+
+  Cachaça, bagaceira, vem dos resíduos da uva. É muito comum em Portugal você tomar um bagaço depois das refeições. O uísque também é usado como digestivo. Sem gelo, em copo de conhaque.
+
+
+  Baixa
+
+
+  Pode ser que seja na parte mais baixa da cidade, mas não necessariamente. O que significa mesmo é o centro comercial da cidade. Toda cidade tem a sua baixa e quase sempre fica na parte mais baixa. Como dizem os ingleses: downtown.
+
+
+  Balneário
+
+
+  Se você estiver ouvindo um jogo de futebol e o locutor disser que o juiz, após o jogo, dirigiu-se correndo para o balneário, não fique pensando que foi tudo tão bem que ele foi comemorar com a turma a boa atuação em Sintra, por exemplo. Não, nada disso: ele apenas fugiu para o vestiário.
+
+
+  Bancada
+
+
+  Simplesmente a nossa arquibancada. Pensando bem, por que chamamos a isso de arquibancada? Não soa solene demais, não?
+
+
+  Bandolete
+
+
+  Nada mais francês para a nossa italianizada tiara. Mas um bandolete com brilhantes verdadeiros também pode ser chamado de tiara.
+
+
+  JB: Este galicismo escreve-se e diz-se (infelizmente, porque o clássico tiara é muito mais bonito), não bandolete, mas bandelete. O curioso é que em França a palavra não se usa: eles dizem serre-tête, calcule!
+
+
+  Banheiro
+
+
+  Jamais, em momento algum, diga que quer ir a um banheiro. Dizer isso significa que você quer ir ao encontro do salva-vidas, aquele que fica na praia de camiseta branca com uma cruz vermelha no peito. E, se for mulher, a salvavidas atende pelo sugestivo nome de banheira.
+
+
+  Bardamerdices
+
+
+  Acho que esta não precisa de tradução. Ela não soa como quem estivesse dizendo merdinhas?
+
+
+  Baril
+
+
+  Gíria bem jovem. Baril quer dizer legal, do caralho.
+
+
+  Batido
+
+
+  Se você entrar numa pastelaria, não passe batido. Tome um milk-shake.
+
+
+  JB: Desculpe, mas toda a gente em Portugal diz batido (de morango, de ananás etc.). Nunca ouvi dizer o americano milk-shake.
+
+
+  Batota
+
+
+  Gíria bem antiga. Batota quer dizer trapaça. Mas trapaça apenas no jogo.
+
+
+  BD
+
+
+  É o mesmo que a nossa HQ. HQ? História em quadrinhos. BD? Banda desenhada. Alguns aficionados dizem também história em quadradinhos.
+
+
+  Beneficiação
+
+
+  Quando uma placa indica que a estrada está em beneficiação, significa que ela está em obras.
+
+
+  Berlinde
+
+
+  Todos eles brincaram de berlinde, na infância, sem ficar na berlinda. Deve ter alguma influência do francês. É um lindo nome para bolinha de gude. E a bolinha maior é chamada de mataculho ou abafador. Se o berlinde é leitoso, vale mais ainda, nas trocas.
+
+
+  Berma
+
+
+  Na primeira estrada que entrar, você pode ver placas dizendo Cuidado, berma com defeito! ou Supressão da berma! Cuidado mesmo, porque berma é acostamento. E se for Troço sem berma! mais cuidado ainda.
+
+
+  Bestial
+
+
+  Parece gíria do tempo da Jovem Guarda do Roberto e do Erasmo Carlos. Mas o calão é mesmo português e quer dizer maravilhoso, sensacional, excelente, o máximo! Se você procurar o significado nos dicionários portugueses, encontrará: prática sexual com animais…
+
+
+  Betão
+
+
+  Do francês beton, que deu betão, que quer dizer cimento armado, concreto. Daí as nossas betoneiras.
+
+
+  Bibrão
+
+
+  Continuando com a influência francesa. Tudo começou com o biberón, passou pelo biberão e, depois de várias gerações, depois de muita mamadeira, deu o atual bibrão.
+
+
+  JB: Falta o e no meio: escreve-se biberão.
+
+
+  Bica
+
+
+  Não é torneira, como dizem os cariocas. É o famoso cafezinho paulista, aquele de máquina. Só que, não sei por quê, eles servem sempre meia xícara. Se quiser a chávena inteira, peça uma bica cheia. Em Lisboa, um bom lugar para se tomar uma bica é na Brasileira, tradicional café do largo do Chiado, muito freqüentado pelo monumental Fernando Pessoa.
+
+
+  Bicha
+
+
+  Esta é a mais famosa das diferenças. Todo mundo sabe que bicha é fila em Portugal. Mas, por mais que a gente esteja preparado para ouvir bicha pra cá, bicha pra lá, sempre se surpreende:
+
+
+  – Era uma bicha enorme, dava a volta no quarteirão…
+
+
+  – Por favor, todos em bicha dupla!
+
+
+  – É proibido furar a bicha!
+
+
+  – Não vale guardar lugar na bicha!
+
+
+  – Bicha em estádio acaba sempre em confusão.
+
+
+  – Em algumas escolas as crianças andam em bicha indiana.
+
+
+  – Que a bicha lhe seja leve.
+
+
+  – “A bicha do Passa por Mim no Rossio é a maior bicha de Lisboa!” era a manchete de um jornal, referindo-se ao grande musical português.
+
+
+  – Esta é a bicha do cacete ou a bicha da pastilha elástica?
+
+
+  – Antigamente não tinha tanta bicha assim em Portugal…
+
+
+  – Para se conseguir um dentista brasileiro em Portugal, tem que se passar por várias bichas antes.
+
+
+  – O governo está prometendo acabar com as bichas.
+
+
+  – Já para o rabo da bicha!
+
+
+  JB: Curiosamente nós dizemos fila indiana (e não bicha indiana).
+
+
+  Bifana
+
+
+  Quem será que inventou este nome quase nobre para designar o velho churrasquinho de carne de porco? Mas, sempre que pedir um bifana, peça bem passado. Aliás, em Portugal, peça carne sempre bem passada. A carne vem dentro da carcaça.
+
+
+  Bilhete
+
+
+  Seja para o cinema, para o teatro, para o jogo de futebol, handebol ou hóquei sobre patins, não procure ingresso, que ninguém vai lhe facilitar a vida. Peça um bilhete. Aliás, para viajar você também precisa do bilhete.
+
+
+  Bilhete de identidade
+
+
+  Ou BI. Carteira de identidade. Dizer BI é o mesmo que dizer RG.
+
+
+  Bitoque
+
+
+  Parte da culinária básica das pastelarias. É o nosso velho conhecido PF (prato feito). Um bife, um ovo, um pouco de arroz, um pouco de batata frita, meia folha de alface e um quarto de tomate. Todo lugar tem e costuma ser muito bom.
+
+
+  Bocado, bocadinho
+
+
+  O que você mais ouve das telefonistas é um bocadinho, faz favor. É um pouquinho. Também usado para quantidades de massas. Comi um bocadinho, choveu um bocadinho. Pouco e pouquinho nunca são usados.
+
+
+  Boceta
+
+
+  Um dia estava eu no banho e a televisão na sala ligada. De repente ouço a chamada: quinta, à noite (eles nunca dão a hora), não perca, aqui na RTP (eles dizem iiiiiérritepê), o sensacional filme A Boceta de Pandora! Não perca! Claro, é caixa, caixinha.
+
+
+  JB: Penso que só nas terras do Douro ou do Minho (principalmente no Porto), você terá ouvido as pessoas dizendo iiiérritêpê. No resto de Portugal, o som é érrtêpê (no Brasil seria érritêpê).
+
+
+  Bófia
+
+
+  Nunca diga para um policial: Audácia do bofe!, pois bófia significa exatamente polícia.
+
+
+  Bola, ir à
+
+
+  Não significa sair correndo atrás da bola. É um dos maiores passatempos deles. Ir à bola é ir ao futebol, ao estádio. Depois de ir à bola, nada como ir aos copos. É também uma maneira carinhosa de dizer que gosta de alguém: vou à bola com aquele cara!, ou seja, vou com a cara dele!
+
+
+  Boléia
+
+
+  Uma instituição, um modismo muito europeu. Quem é que nunca viajou de boléia pela Europa? O nome, evidentemente, se origina daquela parte do bonde onde as pessoas viajavam praticamente penduradas, para fora, como se pegassem uma carona.
+
+
+  Borla, de
+
+
+  Geralmente a pessoa viaja de boléia porque não tem dinheiro e quer viajar de graça.
+
+
+  Borracheira
+
+
+  Aqui deve ser uma influência espanhola, coisa que eles não engolem muito facilmente, a não ser que estejam numa bebedeira daquelas.
+
+
+  Borrego
+
+
+  Carneirinho ou ovelhinha ainda novos. Uma delícia. Em todas as boas tascas do país. Borrego ensopado é o que há.
+
+
+  Boxe, a
+
+
+  É boxe mesmo. Tanto boxe de banheiro quanto boxe na corrida de Fórmula 1, que eles tanto amam. Só está relacionada aqui por ser usada em Portugal no feminino. Aliás, no decorrer da leitura deste livro, você descobrirá que eles adoram colocar várias palavras no feminino. Será uma granda idéia, uma idéia muita boa?
+
+
+  JB: Por amor de Deus diga-me o que significa boxe de banheiro, coisa de que nunca ouvi falar. Será uma luta entre dois salva-vidas na praia de Ipanema?
+
+
+  Brasuca
+
+
+  Relativo a brasileiro. Aliás, há um restaurante em Lisboa com este nome, altamente recomendável.
+
+
+  JB: Não é relativo a brasileiro, pois não é adjectivo, mas sim substantivo: brasucas são, para nós, por vezes, os naturais do Brasil, mais ou menos como aí os portugas são os naturais de Portugal.
+
+
+  Breque
+
+
+  Nunca diga que pisou no breque. Eles vão rir de você. É o mesmo que você dizer que pisou no peido. Mas peido também é traque e o nosso breque é travão. Sentiu?
+
+
+  Brocha, estar à
+
+
+  É estar preocupado em ter que acabar alguma coisa, é estar aflito com algo, com uma necessidade urgente de fazer. Com muita vontade de fazer cocô, por exemplo.
+
+
+  Broche
+
+
+  Se você estiver andando em certas zonas da cidade e umas moças de batom muito vermelho ou outras com maçãs do rosto de silicone se oferecerem para um broche, não pense em venda de jóias ou bijuterias. Trata-se do velho sexo oral. E, se você demorar para gozar, perguntarão: como é, vai desabrochar ou não vai?
+
+
+  Bucha & Estica
+
+
+  Nada mais, nada menos que o Gordo e o Magro (Oliver Hardy & Stan Laurel).
+
+
+  Bué
+
+
+  Gíria da malta bem jovem. Para eles tudo é bué de caro, bué de longe. Ou seja, muito caro, muito longe. A origem é angolana.
+
+
+  Burocracia
+
+
+  Se você acha que no Brasil existe burocracia, certamente nunca esteve em Portugal. Para você ter uma idéia, uma procuração tem que ser escrita à mão e em papel azul, de um determinado tamanho. E assinada em cima do selo. Todo mundo que trabalha em Portugal tem um tal de recibo verde, uma espécie de nota fiscal que tanto as pessoas físicas quanto as jurídicas podem dar. Apenas um detalhe: o recibo verde é azul.
+
+
+  Bute
+
+
+  Ainda a gíria jovem. Bute quer dizer mais ou menos, em bom brasileiro, simbora!
+
+
+  Buzaranha
+
+
+  Tem a cara e o som do que significa em brasileiro: ventania. Deu uma buzaranha horrível, derrubou tudo…
+
+
+  
+
+
+  Cabeça arrumada
+
+
+  É mais ou menos a nossa cabeça feita.
+
+
+  Cabrão
+
+
+  Palavrão muito usado por eles, quer dizer corno, no sentido de filho da puta! Mas, como no Brasil, é dito a torto e a direito, sempre que se quer ofender alguém. Xinga-se na rua o motorista imprudente e no estádio o juiz incompetente.
+
+
+  Cacete
+
+
+  É o nosso pãozinho, mais para a bisnaga, a baguete francesa. Não se assuste se alguém mandar você entrar na bicha do cacete.
+
+
+  Cachopas
+
+
+  Com sílaba tônica aberta no o. O nome pode sugerir um belo ensopado de verduras ou um bom mexido de frutos do mar. Mas cachopas são as belas nativas que nos enfeitiçam no inverno com suas roupas negras e longas e no verão, na praia, sem a parte de cima do biquíni: moças.
+
+
+  Cachorro
+
+
+  Além de cachorro mesmo, significa cachorro-quente. Esta palavra só está relacionada aqui porque não se diz nunca cachorro-quente, apenas cachorro. E o nosso cachorro, o animal, eles só chamam de cão.
+
+
+  JB: É muito usado para designar o filhote de cão. Um cachorrinho é um bébé-cão.
+
+
+  Cadela, estar com uma
+
+
+  Se uma pessoa está com uma cadela, não significa, absolutamente, que esteja passeando com ela. Nada disso. Cadela é cadela mesmo, mas estar com uma cadela é estar do jeito que o diabo gosta, é estar num grande porre.
+
+
+  Café-com-leite
+
+
+  Um dia marquei encontro com um gajo que eu não conhecia e nem ele a mim. Mas ele deu uma dica. Passaria em tal esquina com um carro cor de café-com-leite. Evidentemente, fiquei esperando um carro marrom, bege no máximo. Minha dúvida era se seria mais claro ou mais escuro. E nada de ele aparecer. Depois de muito tempo parou um carro e o motorista perguntou se era eu. Sou. E ele reclamou: já passei aqui mais de cinco vezes e você não reconheceu o carro? Não… O carro era preto com capota branca. Dias depois, contei esta história a um amigo português e ele me disse, brincando: mas esse gajo é daltônico. Carro café-com-leite é castanho e branco…
+
+
+  Calacear
+
+
+  Este é o verbo dos preguiçosos. Em brasileiro seria alguma coisa parecida com dormitar. Mas pode ser também usado no sentido de viver na ociosidade. Mais usado nos Palop. (Veja Palop na pág. 146.)
+
+
+  Calão
+
+
+  Antigamente, no Brasil, nos certificados de censura vinha a expressão Palavras de Baixo Calão. Nada mais errado para Portugal. Calão significa gíria e apenas gíria. Baixa gíria não sei como seria em Portugal. Mas calão pode também designar um preguiçoso.
+
+
+  Calção
+
+
+  Cuidado para não fazer confusão. Calção não é uma calça grande nem um maiô, mas sim a nossa bermuda. Por outro lado, a palavra bermuda não existe. Se você pedir uma bermuda no comércio, as vendedoras vão ficar olhando uma para a cara da outra.
+
+
+  Calcetadas
+
+
+  Com o dinheiro injetado nos últimos anos pela CEE em Portugal, praticamente todas as ruas do país foram calcetadas, ou seja, calçadas.
+
+
+  Calhar, se
+
+
+  É a expressão mais usada por todas as idades, se calhar. Pode ser traduzida de várias maneiras, se calhar. Se calhar significa talvez, pode ser, por coincidência, se der.
+
+
+  – Vou amanhã cedo, se calhar.
+
+
+  – Se calhar, o Benfica ganha.
+
+
+  – O Sinhozinho Malta vai ficar com a Viúva Porcina. Se calhar.
+
+
+  Calheirão
+
+
+  São aqueles garotos de 12 anos grandes demais para a idade, geralmente com voz de taquara rachada. Não temos uma palavra em brasileiro para calheirão. Mas são aqueles que estão no começo da adolescência. Deve-se registrar aqui que os jovens com menos de 20 anos, ou seja, nascidos depois da revolução, diferem completamente da geração dos seus pais. São mais alegres, divertidos, se vestem com mais cores e até riem. São, inclusive, aloirados, ao contrário dos mouros pais. Será que a liberdade e a democracia clareiam idéias, cabeças e cabelos?
+
+
+  Camisa de dormir
+
+
+  O problema de camisa, camisola e camiseta em Portugal é muito complicado. Se você não tomar cuidado, sai de pijama e dorme de camisa. Camisa de dormir, por exemplo, significa camisola de dormir. Ou será pijama? Nem eles conseguem nos explicar direito essas sutilezas.
+
+
+  JB: Tenho resposta para a sua angustiada dúvida: o pijama é composto de duas peças separadas, parte de cima (casaco) e parte de baixo (calças). A camisa de dormir é de uma só peça e não termina em calças, é direita até abaixo.
+
+
+  Camisola
+
+
+  No verão, você vai ouvir muito, mas muito mesmo, nas transmissões das corridas de bicicleta, uma paixão européia, os locutores dizendo que o primeiro classificado vai vestir a camisola amarela. Não se assuste: ele não vai subir as montanhas do Norte vestido de mulher, não. Quase todo tipo de camisa é camisola. Grande, pequena, larga, apertada, de homem, de mulher. Tudo camisola. Mas há controvérsias. Uns dizem que camisola tem que ser de lã. Só suéter é camisola? De algodão não vale. Eu desisti de entender. A nossa camiseta, por exemplo, é camisola interior.
+
+
+  Canalizador
+
+
+  Se você tiver algum problema nos encanamentos da sua casa, não procure um encanador, porque não vai achar. Mas um bom canalizador vai deixá-lo com todos os canais competentes.
+
+
+  Cancro
+
+
+  É o câncer.
+
+
+  Candeeiro
+
+
+  Tem o mesmo sentido que no Brasil. É usado para abajur e para algum tipo de lustre. Praticamente não se usam as palavras abajur e lustre em Portugal. Mas atenção: candeeiro é o que tem a lâmpada. Abajur é o quebra-luz, é a coisa que se põe por cima da lâmpada.
+
+
+  JB: É estranho, mas toda a gente em Portugal diz abat-jour (no sentido de quebra-luz) e lustre (para designar um candeeiro preso ao tecto, de cristal ou metal, geralmente de grandes dimensões).
+
+
+  Cangalheiro
+
+
+  Imagine que, por um motivo ou outro, você tenha que ir a um enterro e, de repente, no meio da cerimônia, informam que chegou o cangalheiro. É assustador, não é? Mas o cangalheiro, pode ter certeza, foi lá para ajudar. Afinal, ele é o funcionário da funerária. É ele quem dirige a cangalha, que é o carro fúnebre. Atenção que em Portugal, como em alguns países da Europa, os carros fúnebres têm quatro ou cinco bancos dentro, para a família ir junto com o morto. E as laterais dos carros são de acrílico, que é para todo mundo ver. E sofrer junto.
+
+
+  Cantante
+
+
+  Na gíria marginal, gravador de fitas cassete.
+
+
+  Capa
+
+
+  É como eles chamam a letra k. A primeira vez que você ouvir capa-gê-bê na televisão, vai ter dificuldade para descobrir do que se trata. E quando eles dizem que está tudo ocapa? OK?
+
+
+  JB: Juro pela minha saúde que em Portugal, nem os locutores de televisão dizem ocapa, mas sim oquêi (no entanto, KGB diz-se capa-gê-bê, não sei porquê).
+
+
+  Capachinho
+
+
+  Português que se preza assume a sua careca e não precisa de peruca.
+
+
+  Capuchinho Vermelho
+
+
+  Não se trata de nenhum padre comunista. Nada mais, nada menos que Chapeuzinho Vermelho, aquela babaquinha.
+
+
+  JB: O capuchinho vem de capuz, cobertura de pano para a cabeça, geralmente presa à capa. É o Petit Chaperon Rouge dos franceses, que aí no Brasil, vocês inexplicavelmente transformaram em chapéu.
+
+
+  Caraça!, do
+
+
+  É uma expressão muito usada, para dizer que a coisa é muito boa, que é maravilhosa, que é a melhor coisa do mundo. Do caraça realmente é o nosso do caralho!
+
+
+  Carcaça
+
+
+  O pãozinho com que se fazem sanduíches. E que vem na mesa, nas refeições, nos restaurantes. E atenção: jamais recuse o pão nos restaurantes. Mesmo que você não o coma – e eles não vão cobrar –, deixe o pão lá. Eles acham que, desde que Cristo colocou o pão na mesa, é uma tradição comer com o pão ali. Quer irritar o garçom é mandá-lo levar o pão de volta.
+
+
+  Caril
+
+
+  Você não demora muito para perceber que tudo que leva curry chama-se caril: caril de frango, caril de gambas etc. Corruptela da palavra inglesa. Mas há quem afirme que a corruptela foi inversa. E procede. Os portugueses estiveram nas Índias antes dos ingleses. Portanto, pode ser que caril tenha originado curry.
+
+
+  Carne picada
+
+
+  Mesmo que seja carne moída, é carne picada. Há uma boa carne picada na Cervejaria Trindade, reduto boêmio há mais de 150 anos, onde era antigamente uma casa maçônica.
+
+
+  Carpete
+
+
+  Já dissemos que o nosso carpete é a alcatifa deles. E o carpete deles, a que corresponde no Brasil? Mais ou menos a tapete solto. Portanto, se é grudado no chão, é alcatifa. Se é solto, independentemente do tamanho, é carpete.
+
+
+  JB: Em Portugal, é feminino.
+
+
+  Carregar
+
+
+  Evidentemente, eles carregam como os brasileiros. Mas carregar tem um significado diferente em um caso. É para apertar o botão. E atenção, pois não é carregar alguma coisa, mas sim carregar em alguma coisa: carregar no botão, carregar na campainha etc.
+
+
+  Carrinhas
+
+
+  São os utilitários pequenos e fechados atrás, tipo caminhonete. Mas também podem ser caminhonetes com três bancos. Nunca entendi muito bem. Além de tudo, caminhonetas é o nome dado para ônibus de turismo, intermunicipais etc.
+
+
+  JB: Gralha: aqui não dizemos caminhonetas, mas sim camionetas (autocarros se forem de passageiros).
+
+
+  Carruagem
+
+
+  Se alguém lhe disser que veio de carruagem, não tenha idéias do século XIX na cabeça. Veio, simplesmente, num vagão de trem. Em geral as carruagens portuguesas são muito boas. E os trens, pontuais. E rápidos.
+
+
+  Carta de condução
+
+
+  É a nossa conhecida carteira de habilitação. Eles, para ter uma, fazem um verdadeiro vestibular, estudam em compêndios, passam por mil testes. Mesmo assim, ninguém os convence de que os carros não são naus nem caravelas e que eles não têm que correr tanto nas ruas e nas estradas. Dirigem como se fossem descobrir um outro novo mundo – a Europa, talvez. Explica-se: Portugal hoje é um país novo-rico. E o que os novos-ricos, em todo o mundo, fazem com o seu primeiro dinheiro é comprar um carro novo. Portugal deve ser o país que mais gente tem dirigindo carros de autoescola pelas ruas. E, mal aprendem a dirigir, saem como loucos. Segundo estatística recente, 67% dos acidentes de trânsito são colisões na traseira de outros veículos. O carro para eles, portanto, é a nova caravela. Correm para descobrir o quê? E o exame é tão difícil que um dia ouvi duas jovens conversando. Uma dizia que, naquele ano, ingressaria na faculdade de medicina; a outra, que entraria na escola de condução.
+
+
+  Casa de banho
+
+
+  Mesmo que não tenha chuveiro, mesmo que seja um lavabo, todo banheiro chama-se casa de banho. Deve haver aqui também uma influência moura, com as suas casas de banho. Não esquecer que os romanos também estiveram lá com as suas saunas e termas. No Alcântara Café há uma belíssima casa de banho masculina. Você já sabe, ir ao banheiro significa ir conversar, na praia, com o salva-vidas.
+
+
+  Casal
+
+
+  Não tem nada a ver com marido e mulher. Por exemplo, o famoso vinho Casal Garcia não é feito por um casal, mas sim numa pequena propriedade, numa pequena quinta. É que eles sempre colocavam um casal para tomar conta, os caseiros, daí o nome.
+
+
+  JB: Exagero seu. Casal significa, antes de tudo o mais, um par (“O Manuel e a Maria são um casal muito unido” ou “Comprei um casal de perus para o jantar de Natal”). Casal no sentido de propriedade, vem obviamente de casa; o guarda da casa é o caseiro.
+
+
+  Castanho
+
+
+  O galicismo marrom não pegou em Portugal. É castanho mesmo, da cor da castanha.
+
+
+  Castigo máximo
+
+
+  Ao ouvir a irradiação de um jogo de futebol, quando o locutor gritar Castigo máximo!!!, o que você vai pensar? Temos, no Brasil, uma expressão bem parecida, que é a penalidade máxima. No fundo, tudo não passa de um pênalti. E, por falar em futebol, lembrei-me de uma história. Outro dia o Benfica teve que fazer um esforço fora do comum para ganhar (de 1 a 0) de um time pequeno que, ainda por cima, tivera dois jogadores expulsos. Entrevistado depois do jogo, o técnico benfiquista assim justificou as dificuldades encontradas pelo seu time: não estávamos preparados para jogar contra nove.
+
+
+  Cataplana
+
+
+  É uma panela dupla, como se fossem duas calotas, parecida com aquelas embalagens de queijos Palmira, onde se fazem excelentes pratos com frutos do mar e outras iguarias. Tradição do Sul do país, Algarve. Em Cascais pode-se comer uma excelente cataplana no Mestre Zé, a caminho da praia do Guincho.
+
+
+  Cauteleiro
+
+
+  Não se trata de um homem cheio de cautelas. Aliás, tratase sim. É simplesmente aquele simpático vendedor de bilhetes de loteria. Claro, cada bilhete é uma cautela.
+
+
+  Cave
+
+
+  Nos elevadores, você lê Cave 1, Cave 2, Cave 3. Cave é subsolo. Ou, mais especificamente, todo pavimento abaixo do térreo. Nos elevadores, a caminho de uma cave, sempre se lê: pessoas e cargas devem manter-se afastadas da porta.
+
+
+  CEE
+
+
+  Todo mundo sabe que CEE significa Comunidade Econômica Européia. Todo mundo sabe que os alemães estão com medo dos japoneses e resolveram transformar países como Portugal, Espanha, Grécia e Irlanda em irmãozinhos. Querem transformar os doze países da comunidade num Estados Unidos da Europa. Estão jogando dinheiro para valer em Portugal desde 1987. O país está em franco desenvolvimento. Mas será que eles não vão cobrar isto um dia? Será que tudo isso é de boléia, que é de graça? Será que eles não estão comprando a autonomia portuguesa a preço de estrada asfaltada e carro novo? Os dinamarqueses já disseram não a essa situação. Mas eles dizem sim, sim, sim! Será que vence na vida quem diz sim, como diria o Chico, pá? Resultado: Portugal hoje é um país cheio de novos ricos e velhos pobres. Até o ano 2000, a CEE jogará em Portugal 1,5 bilhão de escudos por dia. Em dólares, são mais ou menos 10 milhões por dia. Em sete anos, portanto, serão 25,5 bilhões de dólares, a fundo praticamente perdido. Pensando bem, por essa grana eu também dava.
+
+
+  Chalado
+
+
+  Chalado tem a cara, o ritmo e o som do que realmente representa. Você já viu palavra melhor para designar doido?
+
+
+  Charcutaria
+
+
+  A melhor de todas é a Charcutaria Brasil, perto do largo do Rato, em Lisboa. É uma espécie de mercearia fina, onde se vendem, literalmente, as coisas mais gostosas do mundo: frios, doces, importados, latarias, leitões, cachaça brasileira, pistache, vinhos, queijos, cervejas, coelhos limpos, tomates, mexericas etc. etc. etc.
+
+
+  Charlô
+
+
+  É o personagem do Charles Chaplin, o Carlitos.
+
+
+  Chavalo (a)
+
+
+  Existem tanto o chavalo quanto a chavala. A origem deve estar ligada à palavra francesa cheval (cavalo), porque significa moço ou moça, depreciativamente, entre 15 e 18 anos.
+
+
+  Chávena
+
+
+  Quem nunca tomou um cafezinho ou um café com leite na xícara grande da vovó portuguesa?
+
+
+  Cheché
+
+
+  Cheché não lembra gagá?
+
+
+  JB: Mais correctamente xéxé. Havia em Lisboa, há alguns anos, um sujeito velho, mas ainda elegante, que perseguia mocinhas e a quem por isso chamavam o “Xéxé-la-femme”…
+
+
+  Cheio (de frio, de fome etc.)
+
+
+  Pode parecer estranho, mas uma pessoa com a barriga vazia diz que está cheia de fome. Pior somos nós, brasileiros, que dizemos morto de fome.
+
+
+  Chiça!
+
+
+  É uma palavra dita rapidamente, usada em momentos diferentes, mas sempre como expressão de espanto, de susto, como: Puxa!!! Doeu!!! Algumas portuguesas dizem também na hora do orgasmo.
+
+
+  Chouriços
+
+
+  Sabe esses paninhos enroladinhos com areia dentro, colocados na base da porta para não entrar vento nem sair cheiro de fumaça, geralmente estampados? Pois. Também são chamados de rolos.
+
+
+  Chucha
+
+
+  É uma chupetinha, dessas de criança.
+
+
+  Chui
+
+
+  Nada a ver com o nosso do Oiapoque ao Chuí. Aqui, o acento é no u. Uma das boas coisas de Portugal é que os filmes na televisão não são dublados, mas legendados. E uma das palavras que mais aparecem nos filmes de ação é chui. Chui é tira, policial.
+
+
+  Chulo
+
+
+  Chulo é aquele sujeito que vive explorando mulheres: gigolô. É um dos piores xingamentos em Portugal. E, se o chulo for de terceira, é chuleco.
+
+
+  Chumbar
+
+
+  Também usado no Brasil pela nova geração: repetir de ano, levar pau na escola. Mas, se alguém quer te derrubar, podese dizer que quer te chumbar.
+
+
+  JB: O derivado chumbada é muito usado para significar coisa chata, aborrecida: “A conferência do professor Fulano foi uma grande chumbada”.
+
+
+  Chuto
+
+
+  No futebol, é aquele chute muito forte, petardo. Mas é também uma picada de heroína. Há até um conjunto de rock com este nome: Xutos & Ponta-pés, um verdadeiro chute, por sinal.
+
+
+  Cimeira
+
+
+  Se chui é uma palavra muito freqüente na televisão de Portugal, cimeira é uma das que mais aparecem nos jornais, principalmente na parte política: reunião de cúpula. Aliás, os jornais locais adoram uma cimeira. Quando o mundo político anda na mesma, sem cimeiras, eles logo organizam uma entre dirigentes de futebol, governantes dos Palop etc.
+
+
+  Coima
+
+
+  Se você deixar os monstros na rua, eles lhe aplicam uma grande multa. (Veja monstros na pág. 133.)
+
+
+  Colega, é o meu
+
+
+  É o meu colega! é a expressão mais usada em bares e restaurantes. Sempre que você chamar um garçom, ele vai dizer: é o meu colega (ou minha colega). Nunca é ele. É sempre o colega. Sempre. Não adianta insistir porque, se ele não é da sua mesa, não atende mesmo. Até porque eles têm uma certa dificuldade em fazer duas coisas ao mesmo tempo.
+
+
+  Coluna
+
+
+  Cada caixa de som de um aparelho. Um bom som deve ter quatro colunas. Mas a seleção nacional de futebol teve apenas um Coluna, hábil jogador de futebol dos anos 1960, que jogou ao lado de Eusébio, o grande craque do futebol português de todos os tempos, no famoso time de 1966 que, aliás, eliminou o Brasil na Copa da Inglaterra com Garrincha, Pelé etc. Só que eles se entusiasmam um pouco e acham que Eusébio foi tão bom quanto Pelé, melhor que qualquer Maradona, Di Estéfano, Puskas, Garrincha etc. Em tempo; Eusébio é moçambicano.
+
+
+  Com todos
+
+
+  Aparece sempre em cardápios. Se você estiver com fome, peça alguma coisa com tudo, com todos os acompanhamentos. Bacalhau com todos, por exemplo, significa que o prato vem com tudo a que você tem direito: legumes, saladas, batatas, arroz, azeite, azeitona, o diabo a quatro. Com todos é sempre uma boa e, às vezes, até surpreende.
+
+
+  Comboio
+
+
+  Pronuncia-se combóio. Esta é outra palavra que todo mundo sabe. Comboio é trem. Mas o mais interessante é que algumas expressões mantêm a dicotomia: Fulano vai perder o comboio… Por outro lado, nunca ouvi ninguém dizendo de uma mulher interessante: eta comboio bom!!! Na gíria sexual, significa uma fila de homens indo, como eles dizem, ao cu uns dos outros. No Brasil, na infância, a gente chamava isso de trenzinho, lembra?
+
+
+  Comunicação social
+
+
+  De repente, um político mais exaltado se levanta e diz exigir a presença da comunicação social ali, naquele momento, imediatamente. Afinal, quem faz parte dessa comunicação social que todos temem? Nada mais, nada menos que a imprensa escrita, falada e vista. Os partidos políticos não conseguem ficar uma semana sem convocar a comunicação social para uma entrevista coletiva. Os políticos portugueses têm o dom da oratória. Falam muito bem. Deve ser a escola de Coimbra. Mas, por falar em imprensa, a portuguesa gosta de nos tirar o sabor da descoberta e da emoção. Eu explico: na televisão, ao passar o vídeo de um jogo de futebol, eles mostram o resultado antes. E, antes de cada gol, eles avisam que o gol será marcado, além de descrever toda a cena que a gente ainda vai ver. E nos jornais, ao anunciarem o filme que vai passar na televisão ou no cinema, eles contam o enredo todo. Exemplo tirado do jornal Público: “O verão assassino. A história foi escrita por Sebastien Japristo e é fiel a todos os ingredientes do romance negro: uma mulher misteriosa, sedutora, casa com um homem nascido numa pequena cidade francesa. Pouco tempo depois, ela desaparece para levar a cabo a vingança que engendrara: matar os assassinos da mãe. Todavia, no último momento, descobre que aqueles que julgava culpados são inocentes”. Pode? Apenas mais uma informação: entrevistador de televisão em Portugal, na maioria dos casos, tem preparada a pergunta que vai fazer e não ouve a resposta do entrevistado. E mais: ele não pergunta, interroga.
+
+
+  JB: Tal como o horrendo atempadamente, é uma perversão lingüística dos tempos modernos. Dá vontade de dizer que, se há uma comunicação social, por que não há-de haver uma comunicação política, artística ou sexual?
+
+
+  Cona
+
+
+  Minha senhora, com todo o respeito, mas dicionário é dicionário. Cona é boceta mesmo. Dizem que na França também são parecidas.
+
+
+  Concelho
+
+
+  Não está errado, não. É com c mesmo. Com s é o mesmo que no Brasil. Concelho é município.
+
+
+  Condutor
+
+
+  É o motorista de carro, autocarro, comboio etc. Cuidado, que a carteira dele é recente. É de 1987 para cá, com certeza.
+
+
+  Conduzir
+
+
+  Dirigir, guiar. Cuidado…
+
+
+  Conferência de imprensa
+
+
+  Um conhecido jornalista brasileiro foi convidado para dar uma conferência de imprensa em Portugal e, para tanto, preparou-se dias, colocando seus assessores a esclarecê-lo sobre tudo da imprensa, de Gutenberg até nossos dias. Foi para a conferência de imprensa sabendo tudo. O que ele não sabia é que conferência de imprensa quer dizer simplesmente uma entrevista coletiva.
+
+
+  Conservatório
+
+
+  Quando eu era garoto, lá em Lins, havia um Conservatório Musical Linense. Nunca soube por que se chamava conservatório. Conservava o quê? Em Portugal, vim a descobrir que significa repartição pública. Há, em Lisboa, o Conservatório Nacional, que é uma escola de cinema, música, canto etc.
+
+
+  JB: Assim, no masculino, é mesmo escola de música ou teatro. No feminino, conservatória, é a designação oficial das repartições públicas que tratam do registo civil (nascimentos, óbitos, casamentos etc.) ou do registro predial (propriedades urbanas e rústicas, hipotecas etc.), Deve chamar-se assim porque é lá que se conservam (ou guardam) os registos e arquivos.
+
+
+  Contabilista
+
+
+  Se você fizer algum trabalho, receber algum dinheiro em Portugal, procure um contador, porque ele poderá ajudar, e muito. Não tente sonegar imposto em Portugal, porque você pode se dar mal. Pague os impostos e você será muito bem tratado. Um bom contabilista pode lhe poupar grandes dores de cabeça. Não é porque eles nos levaram o quinto do ouro nem porque os padeiros no Brasil roubam no peso que a gente vai descontar agora…
+
+
+  Copos, ir aos
+
+
+  Eis o grande convite: ir aos copos. Exprime exatamente o seu significado: sair para ir ao encontro dos copos, sair para beber, encher a cara. Ir ao Pavilhão Chinês, por exemplo, o bar mais bonito do mundo.
+
+
+  Coscuvilhar
+
+
+  É uma coisa que eles adoram fazer: fofocar. Fofoca-se e falase mal de todo mundo o dia inteiro em Portugal. É o país mais coscuvilheiro que eu conheço.
+
+
+  Coxia
+
+
+  Não é apenas a coxia do teatro. Quando você vai reservar o seu lugar no vôo da TAP, a mocinha pergunta: Coxia? É a cadeira do corredor do avião, ou de qualquer corredor: de cinema, de teatro etc.
+
+
+  Cravar
+
+
+  Numa gíria bem marginal, é descolar algum.
+
+
+  Crica
+
+
+  No Brasil, pode até ser apelido de Cristina, mas, em Portugal, crica é xoxota.
+
+
+  Cu
+
+
+  Aqui, a explicação se complica. Porque, se cu é palavrão para nós, para eles nada mais é que a nossa já familiar bunda. Fala-se cu na televisão portuguesa como se fala bunda na brasileira. Eu tenho a impressão, sem nenhuma base etimológica, que a bunda veio diretamente da África para o Brasil, sem passar por Portugal. E o cu, o orifício, eles chamam de olho do cu.
+
+
+  JB: Desculpe, mas em Portugal cu é mesmo palavrão. À familiar bunda brasileira corresponde o não menos familiar rabo português (também mais suavemente chamado sim-senhor ou, no caso de crianças, tu-tu ou rabiosque).
+
+
+  Cueca
+
+
+  Germano de Almeida, excelente escritor cabo-verdiano, escreve uma cena inteira de um quase estupro e, no melhor da narrativa, a rapariga diz: cuidado para não rasgar a minha cueca!!! Parei a leitura e pensei: será um travesti? Nada disso. Acredite quem quiser: cueca é calcinha de mulher.
+
+
+  JB: Tenho quase a certeza absoluta que cueca é só de homem. Mulher, em Portugal, usa calcinhas (assim mesmo no plural).
+
+
+  Cunha, um
+
+
+  Finalmente foi descoberto o nome daquele que inventou uma das maiores instituições do Brasil e de Portugal: o pistolão. Sim, a origem do pistolão é esse tal de Cunha. Eles devem ter levado para o Brasil esse hábito. Cunha funciona igual a qualquer pistolão no Brasil. E eu digo que Portugal não perde em nada para o Brasil em matéria de Cunhas. O que eu queria saber, exatamente, é: quem foi o Cunha? O primeirão! Será que era da tradicional família Cunha Campos? Ou Castro Cunha? Ou tataravô do Euclides da Cunha, que sempre foi o seu próprio pistolão? Ou será que o nome vem de cunha, substantivo comum?
+
+
+  JB: É feminino (meter uma cunha) e vem, efectivamente, da cunha usada em carpintaria.
+
+
+  Cusco
+
+
+  Um cusco é o que poderíamos dizer de um bisbilhoteiro. 
+
+
+  
+
+
+  Dador
+
+
+  Não é quem sai dando feito louco, não. É quem dá sangue, doador.
+
+
+  Dar de corpo
+
+
+  É, como dizem nos Açores, cagar.
+
+
+  Dar explicações
+
+
+  Florbela Espanca, poetisa e melancólica nativa do começo do século, menor de idade, abandonou a família, casou-se e achou que podia sobreviver dando aulas particulares. E, por falar em explicações, evite pedi-las na rua aos portugueses. Eles são tão solícitos e amáveis, explicam tanto, tantas vezes que você acaba não entendendo nada. Fica tudo confuso na sua cabeça. Jamais se chega a algum lugar seguindo a explicação de um alfacinha. Chega-se, geralmente, ao ponto oposto.
+
+
+  Dar um prego
+
+
+  Na linguagem bem jovem, dar um prego é algo como pisar na bola, cometer uma gafe.
+
+
+  De hoje a oito dias
+
+
+  Como a própria expressão diz, seria de hoje a oito dias. Ou seja, daqui a oito dias. Mas não! De hoje a oito dias quer dizer, exatamente, daqui a uma semana.
+
+
+  Decor
+
+
+  Mais uma influência do francês: cenário. Portanto, o cenógrafo é o decorador.
+
+
+  JB: Cenógrafo faz cenários de teatro. Decorador decora o apartamento ou o lobby do hotel.
+
+
+  Deduzir
+
+
+  Este verbo é pouco usado em Portugal. O português, por natureza, passado, lógica etc., nem sempre deduz. Você chega num balcão de bar e pergunta: tem café?, e respondem: tem. E acabou a conversa. Jamais deduzirão que você quer tomar o café. E tem a sua lógica. Você não pediu um café, perguntou se tinha. Tinha.
+
+
+  JB: Nós não perguntamos num bar se tem café: pedimos um café. No entanto, perguntamos ao empregado da farmácia se tem os comprimidos X para as dores da cabeça ou ao homem da mercearia se tem bacalhau norueguês. Não se trata, nestes dois casos, de dedução, mas de simples investigação se a loja tem à venda a mercadoria em causa.
+
+
+  Deitar fora
+
+
+  Não significa, absolutamente, que a pessoa vá dormir fora ou, pelo menos, dar uma deitadinha na casa de um amigo ou amiga. Nada disso. Deitar fora é jogar fora. Você verá várias placas em Portugal com os dizeres: Por favor, deite no lixo! Não leve ao pé da letra.
+
+
+  Delegação
+
+
+  É a sucursal de jornal.
+
+
+  Demasia
+
+
+  O senhor deu tanto, aqui está a sua demasia. Seu troco.
+
+
+  Desanimar
+
+
+  Se alguém lhe disser que desanimou, não acredite que ele tenha deixado de ficar animado com alguma coisa. Desanimar é brochar; desânimo, brochura.
+
+
+  Descapotável
+
+
+  É outra palavra que em português faz muito mais sentido do que em brasileiro. Não é mais claro dizer que um carro é descapotável do que conversível? E, na Guiné-Bissau, quando aparece uma daquelas mulatas maravilhosas, com pouca roupa, logo alguém diz: lá vem ela, toda descapotável…
+
+
+  Descolar
+
+
+  Esta você já ouviu pelo alto-falante na hora de o avião decolar.
+
+
+  Desculpe lá
+
+
+  É o começo de uma explicação que vão lhe dar. Eles têm desculpa para tudo, explicação para tudo. São danados. Por mais que você os aperte, sempre levam a melhor numa discussão. São imbatíveis. Jamais admitem estar errados, enganados. Para tudo têm a sua desculpa. Desculpe lá, mas é verdade. Não tente ganhar uma discussão com um português.
+
+
+  Despoletar
+
+
+  Tudo a ver com espoletas. Apenas dar início a alguma coisa, começar, iniciar algo, provocar o início, disparar.
+
+
+  JB: Mais um barbarismo moderno (ver atempadamente e comunicação social).
+
+
+  Desporto
+
+
+  Todo e qualquer esporte. Daí a nossa gloriosa Associação Portuguesa de Desportos que não nos deixa mentir.
+
+
+  Désqui
+
+
+  Com tônica no e, é o nosso conhecido copidesque dos jornais, revistas etc. Se no Brasil o chamamos de cópi, lá eles o chamam de désqui.
+
+
+  Dieta
+
+
+  É bom deixar claro que dieta é mesmo um regime. Mas o que importa aqui é que regime não significa nem nunca significará dieta. Regime refere-se a regime militar, regime religioso etc. Se você faz dieta, não vá ao Tavares, a melhor comida de Lisboa. Lugar lindíssimo, com mais de duzentos anos.
+
+
+  Digressão
+
+
+  Se você ler no jornal que o grupo Madredeus vai fazer uma digressão pelo Brasil, não perca. São excelentes e você não pode perder essa turnê.
+
+
+  Diminuídos
+
+
+  Assim como no Brasil temos a Associação dos Pais e Amigos dos Excepcionais, há em Portugal a Associação Portuguesa de Pais e Amigos de Crianças Diminuídas.
+
+
+  Dióspiro
+
+
+  Com tônica no primeiro o. Aquela fruta vermelha e molinha, tem cara, tem cheiro, tem a casca, tem as sementes, tem jeitão, tem o nome de caqui. Mas, em Portugal, a mesma fruta, com a mesma cor, com o mesmo cheiro, com a mesma casca, com as mesmas sementes, com o mesmo jeitão, chama-se dióspiro. Nunca consegui pedir um dióspiro numa quitanda. Acho um desrespeito à própria fruta.
+
+
+  Direção assistida
+
+
+  Ao alugar um carro, atenção: direção assistida não quer dizer que você terá um motorista ao seu lado, cuidando da direção para você. Direção assistida é direção hidráulica.
+
+
+  Direito de antena
+
+
+  É o nosso horário político. É, como o nosso, chatíssimo.
+
+
+  Distritos
+
+
+  É cada um dos estados de Portugal, embora não tenham autonomia política. Tudo está centralizado no Parlamento Nacional e quem manda mesmo é o primeiro-ministro. O presidente é, com todo o respeito, uma espécie de rei. Já notou como o simpático Mário Alberto Soares tem cara de rei? Nasceu para ser rei… Tem bochechas de rei, papada de rei, orelhas de rei, cara de sono de rei… São dezoito os distritos de Portugal: Viana do Castelo, Bragança, Braga, Vila Real, Porto, Aveiro, Vizeu, Guarda, Coimbra, Castelo Branco, Leiria, Santarém, Portalegre, Lisboa, Setúbal, Évora, Beja e Faro. E mais dois distritos autônomos: as ilhas da Madeira e dos Açores. E uma província ultramarina, Macau, até 1999.
+
+
+  JB: Salvo o devido respeito, aqui reina grande confusão. Ao contrário do Brasil, Estado federal, Portugal é um Estado unitário. Os Distritos portugueses são meras divisões administrativas, que têm à sua frente um Governador Civil, funcionário nomeado pelo poder central. O Parlamento é a Assembléia da República.
+
+
+  Do pé para a mão
+
+
+  Do pé para a mão. É exatamente o nosso de uma hora para outra.
+
+
+  Dobrar
+
+
+  Como eu já disse antes, os filmes em Portugal não são dublados. Portanto, não se usa o esquema de dublar os atores estrangeiros. Os filmes passam, pois, sem dobrar, com legendas. Todos. Uma maravilha.
+
+
+  Doridos
+
+
+  Acho que doridos tem muito mais a ver com a dor do que doloridos. Não sei por quê. Fico mais uma vez com Portugal. Dorido pode doer mais, mas é muito mais bonito.
+
+
+  Drogaria
+
+
+  Atenção, pois não é uma farmácia. Vende todo tipo de drogas (não alucinógenas), menos remédios. É uma espécie de armarinho e há em quase todas as esquinas. Vende material de limpeza, vaso de plantas, capacho, cabide, martelo, comida de passarinho, vassoura etc. etc. etc.
+
+
+  Duche, o
+
+
+  Vem de ducha, naturalmente. Tomar um duche significa tomar uma chuveirada.
+
+
+  Durex
+
+
+  Não tenha vergonha de pedir na farmácia, nos dias de hoje, uma camisa-de-vênus. Durex era a marca dos primeiros preservativos (ingleses) vendidos em Portugal. Agora, com a Aids, existem várias marcas, mas Durex ficou. Assim como Gillette é sinônimo de lâmina de barbear em vários países do mundo. Uma amiga brasileira entrou numa loja e pediu:
+
+
+  – O senhor tem durex?
+
+
+  – Tenho, sim, senhora. Quantos a senhora quer?
+
+
+  – Um só. Um rolo.
+
+
+  – Um rolo, minha senhora?
+
+
+  – Sim, um rolo. Que tamanho o senhor tem?
+
+
+  – Normal… Bem, os maiores eu acho que devem ter uns vinte centímetros.
+
+
+  – Só? Não tem maior? Assim… uns três metros?
+
+
+  – Três metros, minha senhora? Um durex de três metros?! 
+
+
+  
+
+
+  ECF
+
+
+  Se você é turista, precisa saber que estas letras indicam a Estação do Caminho de Ferro, a nossa velha estação.
+
+
+  Ecran
+
+
+  Esta não foi nem aportuguesada. É a tela de cinema. E a telinha da televisão chama-se pequeno ecran.
+
+
+  Eléctrico
+
+
+  Há pouco tempo estava em cartaz, num teatro de Lisboa, a peça de Tennessee Williams Um eléctrico chamado desejo. Quem conhece essa obra-prima do teatro americano moderno sabe tratar-se de Um bonde chamado desejo.
+
+
+  Elevador
+
+
+  Bondinho elétrico para curtas distâncias. Os mais famosos são o que liga os Restauradores até o Bairro Alto e o Elevador da Bica.
+
+
+  JB: É mesmo um bondinho eléctrico, não para curtas distâncias, mas para subir (ou descer) ruas íngremes. Ou seja: ascensor servindo a via pública. Nas ruas planas, não é preciso elevador, pois o eléctrico chega.
+
+
+  Em diferido
+
+
+  Na televisão, quando não é ao vivo, a imagem está em diferido, ou seja, o que estamos vendo é um videoteipe, uma gravação.
+
+
+  Em directo
+
+
+  Portanto, quando não é em diferido, é ao vivo. Muito cuidado com o som, porque apenas ouvindo você pode entender que é indireto. Mas não é; é em direto.
+
+
+  Embotelhamento
+
+
+  A palavra, de origem francesa e espanhola, designa engarrafamento. É pouco usada, mas ouve-se uma vez ou outra. Como, por exemplo, quando um técnico de trânsito português visitou Munique e voltou com a solução européia para o cada vez mais caótico trânsito de Lisboa: vamos incentivar o uso de bicicletas, como na Europa! Mas pareceme que ele se esqueceu de que Lisboa é conhecida como a Cidade das Sete Colinas.
+
+
+  JB: Tenha santa paciência, nunca ouvi alguém dizer esse estranho substantivo. O que nós temos, sobretudo em Lisboa, são os clássicos engarrafamentos de trânsito.
+
+
+  Ementa
+
+
+  Com tanta influência francesa, não sei por que cardápio não se chama menu em Portugal. Cuidado com a pronúncia nos restaurantes, pois, como eles não têm pimenta, cada vez que você pedir esse condimento, pode acontecer de eles lhe trazerem, novamente, a ementa. Pensando bem, eles têm a pimenta-do-reino, a famosa especiaria das Índias, lembra, do ginásio?
+
+
+  Empregado de mesa
+
+
+  Este é um dos maiores problemas de comunicação de Portugal. É o único lugar do mundo onde garçom não tem nome. É muito chato você ficar chamando: ô, empregado de mesa!!! Mas, na verdade, com o tempo você vai descobrindo como é que se chama garçom aqui. E assim: Sefazfavor! Ele atende na hora. (Veja o verbete Schifaizfavoire na pág. 176.)
+
+
+  Ena
+
+
+  Expressão muito usada. Quer dizer, mais ou menos, puxa, epa, pô etc. Usam muito para começar as frases, principalmente denotando surpresa. Há um conjunto musical chamado Ena Pá 2000.
+
+
+  Encarnado
+
+
+  Todo mundo sabe que, no Brasil, encarnado também é vermelho. Mas, em Portugal, é sempre encarnado. Rarissimamente eles usam vermelho. O Benfica, por exemplo, é um time encarnado. Na roleta do Cassino do Estoril dá preto ou encarnado.
+
+
+  Encavacar
+
+
+  Esta é mais uma palavra que tem a cara dela mesma. Você não acha que, em vez de encabular, pega muito melhor encavacar? Um sujeito encavacado está mais do que encabulado. E você pode notar que o primeiro-ministro Cavaco Silva está sempre encavacado, com aquele seu rosto talhado em madeira, como as marionetes alemãs.
+
+
+  Encerrado
+
+
+  A tabuletinha com esta palavra você vai ver em restaurantes, lojas, bancos etc. Em Portugal, como em toda a Europa, várias vezes por dia esses locais a usam. O local está fechado.
+
+
+  Enclino
+
+
+  Um dia eu cheguei em casa e a empregada do apartamento de cima havia me deixado um bilhete que começava assim: “Senhor Enclino do 4o andar”. Olhando para esta palavra, não se pode ter idéia do que significa. Mas, se você a ler alto, logo percebe. Eles gostam muito de comer letras e sílabas das palavras: in-qui-li-no.
+
+
+  Enfezado
+
+
+  No Brasil, enfezado é o sujeito que está cheio de fezes, ou seja, irritado, puto da vida. Em Portugal, não. Refere-se às crianças, para dizer que é um menino franzino, raquítico.
+
+
+  Engatar
+
+
+  É uma palavra com pelo menos dois sentidos. É o ato de você cantar uma garota e, me parece, o fato de dar certo, ou seja, de vocês se engatarem depois, se juntarem. De qualquer maneira, é muito difícil engatar alguém em Portugal.
+
+
+  Enevoado
+
+
+  Um sujeito enevoado, como a própria palavra diz, está cheio de névoa em volta, ou seja, está confuso.
+
+
+  Equipa
+
+
+  No desporto, todo tipo de time ou equipe.
+
+
+  Escadotes
+
+
+  Essas escadinhas que temos em casa para trocar lâmpadas, por exemplo.
+
+
+  Escaldão, apanhar um
+
+
+  Queimar-se demais na praia, ficar vermelhão. Tem até uma publicidade no verão: se você prefere apanhar um escaldão…
+
+
+  Escalfados
+
+
+  Nada como uns bons ovos escalfados: pochês.
+
+
+  Escaparate
+
+
+  Quando foi lançado o Olga, do Fernando Morais, em Portugal, um dos principais jornais colocou em manchete no alto da página: “Olga irá logo para os escaparates”. Eu fiquei olhando para aquilo, pensando no que seria. Pensei até em ligar para o Fernando e dizer: olha, não que eu queira fazer fofoca, mas vão mandar o seu livro para os escaparates. Mas, informado como ele é, tenho certeza de que me responderia: escaparate é estante, seu analfabeto!
+
+
+  Escapério
+
+
+  Vocês se lembram de quando se usava camisinha apenas com medo da hoje inofensiva gonorréia? Bons tempos…
+
+
+  Esférico
+
+
+  Esta todo mundo sabe. Pelo menos quem gosta de futebol. Esférico é a bola de futebol.
+
+
+  Esferovite
+
+
+  Eles adoram dar carros de prêmio. Ao comprar qualquer coisa, você concorre a um carro zero. Sabonete, pasta de dentes, gasolina, leite, fogão, material escolar, camisas, tudo. Mas eles deveriam dar um carro de prêmio para o brasileiro que descobrisse o que é esferovite. Aliás, esta eu não vou contar. Você vai ter que descobrir sozinho. Pega leve, que você descobre.
+
+
+  Esparregado
+
+
+  Acompanha vários pratos da culinária nativa. É um creme de legumes, ou legumes cozidos bem cortadinhos.
+
+
+  Especado
+
+
+  Fulano ficou ali especado. É parado, estacionado, imóvel, feito um poste. Mas atento, espantado.
+
+
+  Espetada
+
+
+  É o nosso espeto na brasa. Mas muito cuidado ao pedir uma espetada mista. É mista mesmo, com carne de boi, de porco e… frutos do mar. Em compensação, a espetada à Madeira é demais.
+
+
+  Espiga, não dar
+
+
+  Não dar espiga é mais ou menos o nosso não dar bandeira.
+
+
+  Espirituosa
+
+
+  Um dia eu pedi a conta no bar e o garçom perguntou se eu havia tomado alguma espirituosa. Não entendi nada. Espirituosa é bebida destilada – uísque, gim, vodca…
+
+
+  Esplanada
+
+
+  É a palavra mais falada no verão. É o lugar mais procurado no calor. Nada como tomar uma cerveja, num fim de tarde lisboeta, olhar perdido no Tejo. Esplanadas são aqueles bares com mesinhas na rua.
+
+
+  Espumante
+
+
+  É a versão em português do champanhe. Por decisão da CEE, somente o vinho espumante fabricado na região da Champagne francesa pode se chamar champanhe. Feito em qualquer outro lugar, será chamado de vinho espumante. O maître do restaurante Gambrinus lhe explica melhor, enquanto você come umas ostras frescas no balcão. A Raposeira é o espumante mais famoso. E atenção: indo a Portugal não se pode deixar de comer o famoso leitão do Pedro dos Leitões, na Mealhada, na estrada entre Porto e Lisboa. É o melhor leitão do mundo. E a tradição pede que se acompanhe com espumante.
+
+
+  Esquadra
+
+
+  É a delegacia de polícia, onde você pode entrar para pedir explicação que será muito bem atendido. A polícia portuguesa não é corrupta e os seus homens não falam nem menas nem questã nem pra mim vim. É uma tranqüilidade quando se precisa da ajuda deles. A única dificuldade é discutir com o guarda de trânsito. Eles são mais confusos que o próprio trânsito. Também eles estão há pouco no setor. Antigamente não havia tantos carros… Mas são educadíssimos.
+
+
+  Esquentamento
+
+
+  Depois de uma esplanada e um espumante, que nos lembram dias quentes, vem esquentamento. Não tem nada a ver com verão. Você pode pegar um esquentamento em qualquer estação do ano: doença venérea.
+
+
+  Estado
+
+
+  Quando lhe perguntarem seu estado, não diga nem Minas nem São Paulo nem Pernambuco. Diga o estado civil. Eles nunca perguntam pelo estado civil. Perguntam sempre pelo estado.
+
+
+  Estágio
+
+
+  Um dia liguei para o Marinho Perez, então treinador do Sporting, e o Júnior, seu filho, disse que o pai estava fazendo estágio. Estágio?, perguntei. Aos 45 anos? Estágio do quê? Aí o garoto riu e me explicou que era a concentração.
+
+
+  Estalo
+
+
+  Uma palavra que reflete bem o seu som: bofetada, tapa na cara!
+
+
+  Estar ao corrente
+
+
+  Ramalho Ortigão deve ter usado muito esta expressão: estar sabendo.
+
+
+  Estarolas, Os Três
+
+
+  Já deu para perceber que são Os Três Patetas?
+
+
+  Estendal
+
+
+  Não é aquele escritor francês de O vermelho e o negro. É varal mesmo! Acho que, da mesma maneira que Portugal não estava preparado para tanto carro, não estava também para tanta roupa. Assim como os apartamentos não têm garagem, não têm área de serviço. As roupas ficam todas penduradas para fora. Dão um certo ar siciliano às ruas, bonito.
+
+
+  Estomatologistas
+
+
+  São os médicos que cuidam dos dentes, em Portugal. Portanto, dentistas portugueses, a grande maioria especializada em arrancar dentes. É impressionante como os portugueses não têm dentes do canino para o fundo. Já repararam? Se considerarmos que faltam em média três dentes na boca de cada um deles, concluímos que faltam 45 milhões de dentes nos portugueses. Atletas foram para as Olimpíadas de Barcelona sem dentes. Uma das maiores esperanças portuguesas, um corredor de maratona, abandonou a prova pela metade e declarou que estava com dor de dente. O ex-presidente da FPF tem, no máximo, três. Artistas de teatro e televisão não têm todos os dentes. Quando senhoras e moças lindas riem, você vê aquele buraco negro. É por isso que os dentistas brasileiros foram para Portugal. E os estomatologistas reclamaram. Convém lembrar que não é de hoje que os portugueses perseguem os dentistas brasileiros. No final do século XVIII enforcaram um, lá em Minas Gerais. Lembra?
+
+
+  Estore
+
+
+  Você pode mandar todo dia a empregada limpar a persiana que ela nunca irá fazê-lo. Porque ela não sabe o que é e porque eles, de uma maneira geral, detestam reconhecer que não sabem alguma coisa. Eu até sugiro aos vendedores de persianas de Portugal um slogan publicitário: I love estores. E, por falar em estores, nem sei por que existem, uma vez que eles não abrem as janelas. Todas as casas ficam o ano todo com todas as janelas fechadas. Dizem que é medo de pegar peste. Mas isso não é coisa do século XIX, quando a peste entrava pela janela? Será que eles não perceberam ainda que atualmente a peste entra pelo espermatozóide? E as crianças, que não saem nem à janela nem à rua? Parece que as crianças portuguesas não têm amigos. Ficam todos, o dia inteiro, a semana toda, o mês todo, o ano todo, toda a família trancada em casa com as janelas fechadas, ensimesmados.
+
+
+  Estou-me a vir
+
+
+  Deve vir do inglês I am coming e é dito pelas mulheres quando elevadas ao supremo prazer do orgasmo: estou gozando!
+
+
+  Exclusivamente
+
+
+  Significa exclusivo mesmo. Não sei por que é dito desta maneira.
+
+
+  Extensão
+
+
+  Ao chamar alguém pelo telefone, não dê o ramal, dê a extensão.
+
+
+  
+
+
+  Factura
+
+
+  É o que você deve pedir para todo mundo, porque depois o seu contador vai lhe solicitar. Até mesmo chofer de táxi dá factura em Portugal. É aquilo que ninguém dá no Brasil: nota fiscal. E atenção: nos restaurantes não peça a nota que eles não sabem o que é. Pedir a notinha, então, nem pensar… Notinha???, eles vão estranhar.
+
+
+  Fala-barato
+
+
+  Fala-barato é aquele sujeito que fala demais, que fala pelos cotovelos, aquele tagarela.
+
+
+  JB: Mais do que falar pelos cotovelos, o fala-barato tenta enganar ou vigarizar o próximo através do seu discurso aparentemente convincente. Ou então, fala, mas não diz nada.
+
+
+  Falhanço
+
+
+  Fiasco, não deu certo, o time foi lá e foi um falhanço…
+
+
+  Família
+
+
+  Em meados do século XII, Afonso Henriques expulsou quase que definitivamente os mouros do país e tornou-se o primeiro rei português. De lá para cá – lá se vão oitocentos anos –, quase ninguém emigrou para Portugal. Pessoa nenhuma do mundo quis fazer a América em Portugal. Ao contrário: eles que sempre saíram, sempre imigraram, sempre foram os descobridores. Portanto, fora umas incursões espanholas e outra napoleônica, os portugueses tiveram a felicidade de viver a vida deles entre eles mesmos. Dizem que no começo eram cinco as principais famílias lusitanas; atualmente, que são 49. O que importa é que a população de hoje é o resultado do cruzamento das mesmas famílias, por oito séculos, ou seja, primo casando com prima. O que eu quero dizer é que nunca entrou na sociedade portuguesa uma maneira diferente de pensar, de raciocinar, de ver o mundo. Um outro tipo de lógica. Um japonês, um alemão, um italiano, um judeu, um polonês, um grego, um carioca, por exemplo. Um elemento perturbador, como aquele do filme Teorema, do Pasolini. Portugal é hoje uma grande família. Uma raça pura, única. É por isso mesmo que são todos iguais, com a mesma cara, a mesma altura, o mesmo jeito de andar, a mesma maneira de pensar e, principalmente, a mesma lógica. Com as mesmas idiossincrasias. Existe, portanto, uma diferença de lógica muito grande entre nós e eles. A lógica deles é única, e a nossa, uma mistura de lógicas negras, portuguesas, índias, italianas, francesas, americanas, alemãs, japonesas etc. etc. etc. Essa história de dizer que somos povos irmãos é uma velha e grande mentira. Não temos nada a ver uns com os outros. O português é completamente diferente do brasileiro, assim como o inglês é completamente diferente do americano e o espanhol é diferente do cubano. Portugal está muito mais para Albânia que para Bahia. Há quinhentos anos que não somos mais irmãos. Nós e Portugal temos um passado pela frente!
+
+
+  Fato
+
+
+  Não confundir fato com facto. Facto é o acontecimento, e fato, aquilo que você veste para ir a certos acontecimentos. De facto, fato é o terno.
+
+
+  Fato-de-banho
+
+
+  Tanto para homem quanto para mulher ou criança. O maiô de todo mundo chama-se fato-de-banho. As mulheres não costumam usar a parte de cima dos fatos-de-banho. Veja a costa da Caparica e a praia do Guincho. Já na praia do Meco não usam nem a de baixo. Os homens também não.
+
+
+  Fato-macaco
+
+
+  É o macacão! Desde o osh-kosh-bgosh até o usado pelos mecânicos. É tudo fato-macaco.
+
+
+  Faz favor!
+
+
+  Com toda a certeza é a expressão mais usada em Portugal: Faz favor! ou Se faz favor! Serve para quase tudo, principalmente para você chamar alguém, a atenção de alguém. Ao entrar numa loja, você ou o vendedor vai logo dizendo um Se faz favor! Trocado em miúdos, quer dizer pois não?, psiu, ei, com licença etc. (Veja Schifaizfavoire na pág. 176.)
+
+
+  Fazer farinha, comigo não!
+
+
+  Expressão muito usada no interior do país. Significa, mais ou menos, abusar de mim, nem pensar! Tem um subtexto que diz: tá pensando que eu sou trouxa, é?
+
+
+  Fazer ó ó
+
+
+  É a primeira expressão que eles ouvem na vida. Nem bem nasceram e a mãe já está ali a fazer naná.
+
+
+  Febra
+
+
+  Pedaços de carne de porco. Mas uma gatinha muito boa também pode ser uma febra.
+
+
+  Feijão verde
+
+
+  Quando o garçom lhe explicar que tal carne ou peixe acompanha feijão verde, não tente imaginar nenhum feijão verde, além dos seus conhecidos marrom, vermelhinho e preto. O feijão verde nada mais é do que a vagem.
+
+
+  Feira (popular)
+
+
+  Pode ser feira mesmo, mas também é o animado parque de diversões.
+
+
+  Feira da Ladra
+
+
+  É, talvez, a mais antiga e tradicional feira de Lisboa. Mas, apesar do nome, não tem nada a ver com venda de objetos roubados. A origem aqui também é árabe. Antigamente chamava-se Feira da Al Hadra, que é uma Nossa Senhora do Oriente Médio. Com o tempo foi se aportuguesando e… Uma espécie de Mercado das Pulgas de Paris.
+
+
+  Fiambre
+
+
+  Presunto normal. O que chamamos de presunto para eles é o presunto cru. Cuidado: se você pedir presunto, leva presunto cru. O misto, por exemplo, é queijo com fiambre.
+
+
+  Ficha
+
+
+  Se você for a uma drogaria e pedir uma tomada, vão achar que você enlouqueceu. Tomada do quê? E, por falar em ficha, é sempre bom lembrar que a voltagem em Portugal é 220.
+
+
+  JB: Aqui também há confusão sua. Em Portugal, as fichas (que podem ser simples, duplas ou mesmo triplas) ligam-se às tomadas eléctricas. Ou seja, a ficha (no fim do fio) é o que se mete; é a tomada (na parede) que recebe a ficha.
+
+
+  Filete
+
+
+  Filé de carne não existe em Portugal. Pelo menos, como o nosso. O corte da carne em Portugal é diferente. Mas filete é o filé de peixe.
+
+
+  Fino
+
+
+  Fino é o chope pequeno.
+
+
+  Fisga
+
+
+  Coisa de criança, de Davi e Golias: estilingue.
+
+
+  Fita-cola
+
+
+  É o nosso durex, aquele de grudar as coisas. Não vá se enganar e usar fita-cola como preservativo. Esse é durex.
+
+
+  Fixe
+
+
+  É uma das gírias mais novas de Portugal. Quer dizer bom, legal. Pegou tanto que, nas eleições presidenciais de 1991, um dos principais partidos tinha este slogan: Soares é fixe!!!
+
+
+  JB: Além de bom, legal, a palavra fixe também quer dizer de confiança. Se um prego está fixe na parede, isso significa que podemos pendurar nele o quadro sem risco de cair.
+
+
+  Flipado
+
+
+  É quando o cidadão está completamente doidão, com drogas.
+
+
+  Fogo
+
+
+  Incêndio. Quando for pedir fogo para o cigarro, diga lume. Fogo também tem um sentido de tesão, fogo no rabo, por aí…
+
+
+  Fora-de-jogo
+
+
+  É quando o jogador de futebol está impedido.
+
+
+  Forreta
+
+
+  Com f, é aquele sujeito mão fechada, o popular pão-duro.
+
+
+  Fotocópia
+
+
+  Não se usa, em Portugal, a palavra Xerox. É sempre fotocópia.
+
+
+  Frigorífico
+
+
+  Toda casa tem seu frigorífico na cozinha: geladeira é uma palavra que eles desconhecem completamente. Em Moçambique se diz geleira.
+
+
+  Frincha
+
+
+  Esta é quase igual em brasileiro. É a fresta da janela.
+
+
+  Fufa
+
+
+  Esta palavra delicada, macia, gordinha, amorosa, fofa quer dizer sapatão. Tem muita em Portugal. Principalmente nas salas de bingo!
+
+
+  Fumado
+
+
+  Não tem nada a ver nem com cigarro nem com drogas. Um peru fumado não significa que o peru esteja doidão, apenas que é um peru defumado.
+
+
+  Fumador
+
+
+  Nada mais, nada menos que o fumante. Em todo recinto público de Portugal tem-se os locais para os fumadores e para os não-fumadores.
+
+
+  Fumo
+
+
+  Não é maconha, como no Brasil. É, simplesmente, fumaça.
+
+
+  Fundir
+
+
+  Uma lâmpada não queima. Eles estão certos: uma lâmpada funde. Portanto, fundir é queimar. Se você disser que a lâmpada queimou, eles vão achar que ela pegou fogo. Na gíria marginal, refundir significa fazer desaparecer.
+
+
+  Furo
+
+
+  Se o seu pneu furar, ao mandar consertar você tem que dizer: Furo. Eles sabem que é pneu furado.
+
+
+  Fursureira
+
+
+  É outro dos nomes dados à lésbica. Na verdade, a palavra certa é fressureira, mas como comem letras…
+
+
+  Fusca
+
+
+  Nada a ver com o Volkswagen. Fusca é pistola, revólver mesmo. 
+
+
+  
+
+
+  Gabardina
+
+
+  Pode ser de gabardine ou não. Pode ser para chuva ou para frio. Toda capa chama-se gabardina. Aliás, é indispensável uma gabardina, principalmente no inverno. Além do frio, chove quase todos os dias.
+
+
+  Galão
+
+
+  Média, café com leite. Em copo, como no Brasil.
+
+
+  Gamba
+
+
+  Os melhores pratos portugueses levam uma boa quantidade de gambas. Pode-se comer gambas cozidas, fritas, assadas e até mesmo geladas. Mas, se você pedir camarão, eles também entendem. Só que é assim: os camarões pequenos chamam-se camarões mesmo, os médios são as gambas, e os maiores, os tigres.
+
+
+  Ganda
+
+
+  Veja granda (pág. 106).
+
+
+  Ganga
+
+
+  Não sei se a palavra vem de gang, mas o que importa é que ganga é jeans, entre os adolescentes. Em matéria de roupas, a população se divide em quatro – e apenas quatro – castas bem distintas: entre os 90 e os 50, usam preto; entre os 50 e os 30, cinza; entre os 30 e os 10, gangas; e, abaixo dos 10, são todos lindos e coloridos.
+
+
+  Ganza
+
+
+  Quem fuma sabe o que é um baseado. Pois.
+
+
+  Garina
+
+
+  Poderia ser aquela música do Caimi, Marina. É uma garota legal.
+
+
+  Gasóleo
+
+
+  No posto de atendimento você pode colocar super, sem chumbo (ambas são gasolina) ou gasóleo, que é o nosso diesel.
+
+
+  Gasolineiro
+
+
+  Esta é fácil. É o frentista. Mas atenção que nem todos os postos têm frentistas. É self-service. E posto em Portugal não tem aquela frescura de vir três ou quatro sujeitos para limpar isso ou aquilo, olhar a frente e a traseira, sequiosos de uma gorjetinha. Aqui é só a gasolina. Se quiser limpar o vidro, olhar o óleo, calibrar pneu, o problema é seu. Vire-se. Parece Europa.
+
+
+  Gelado
+
+
+  No verão, as crianças não saem das geladarias. É a primeira palavra que aprendem em Portugal. Sorvete.
+
+
+  JB: Na minha infância não havia gelados – havia os saudosos sorvetes, que a gente comia sobretudo na praia. Gelado é, em Portugal, uma expressão moderna.
+
+
+  Genérico
+
+
+  Outra influência francesa, desta vez no campo cinematográfico e televisivo. Genérico é aquilo que o Hans Donner e a Rede Globo fazem tão bem: a abertura dos programas.
+
+
+  Gestor
+
+
+  Gestor é administrador, o chefe. Como Portugal sempre viveu em função dos seus clãs, num sistema patriarcal, o chefe tem uma importância muito grande para eles, até hoje. Todo português tem um chefe a quem respeita como se respeita a Deus. O que o chefe mandar eles fazem. E só fazem o que ele mandar. A hierarquia numa estatal portuguesa é uma das coisas mais rígidas que já vi na minha vida. O que eles têm medo do superior é inacreditável. E isso faz com que ninguém crie. Fazem apenas o que está previsto. Ninguém ousa, ninguém inova. É realmente assustador. Doentio mesmo.
+
+
+  Ginja
+
+
+  Bebida preparada com uma espécie de cerejinha típica do país, um licor. Você pode pedir a ginjinha com ou sem as cerejinhas dentro; o preço é o mesmo. Excelente digestivo.
+
+
+  Girafa
+
+
+  Se você gosta mesmo de cerveja, peça logo uma girafa. É uma caneca grande.
+
+
+  Giro, Gira
+
+
+  Outra expressão das mais usadas. Tudo o que é legal, divertido, original é giro ou gira. Usado no feminino e no masculino. Atrás do Rossio existe uma igreja que pegou fogo e deixaram ficar do jeito que ficou. Ficou gira. Outra igreja desmoronou no terremoto de 1755, no largo do Carmo, em Lisboa. Hoje é o Museu Arqueológico. Deixaram ficar do jeito que ficou. Ficou giro.
+
+
+  Golo
+
+
+  O brasileiro tirou um a do goal inglês. Eles tiraram o mesmo a e acrescentaram um o. Como no Brasil, o gol é a expressão máxima de alegria do povo aos domingos. O futebol é o principal esporte do país, seguido pelo andebol (assim mesmo, sem o h) e o hóquei sobre patins. Sem falar no ciclismo, durante o verão, com a famosa Volta de Portugal.
+
+
+  Gralha
+
+
+  Nunca ouvi a palavra em Portugal, mas como nosso colaborador José Blanco a usa várias vezes, fui ao dicionário: Erro tipográfico, que consiste em tipo virado, fora de seu lugar ou trocado; gato, pastel.
+
+
+  Granda
+
+
+  Esta palavra você não vai encontrar em nenhum dicionário: é o feminino de grande. Com sua tendência para colocar as palavras no feminino, eles não perdem tempo e, quando a frase é superlativa, não têm nenhuma dúvida:
+
+
+  – Granda idéia!!!
+
+
+  – Granda mulher!!!
+
+
+  – Estou com uma fome muita (sic) granda!!!
+
+
+  Usam também ganda, sem o r, para as mesmas funções.
+
+
+  Grande plano
+
+
+  Ao contrário do que indica, em cinema, é o close. Mas parece-me que só no Brasil close é close.
+
+
+  Grelha
+
+
+  É a programação da televisão, os vários programas que vão ao ar em um dia. Na verdade, a programação diária faz parte da grelha, mas grelha mesmo é o mapa-tipo com a programação de uma época. Nas corridas de Fórmula 1, temos a grelha de partida, que é a largada.
+
+
+  Grelo
+
+
+  É uma verdura, muito boa, usada principalmente em sopas. Uma sopa de grelos como entrada sempre cai bem. Depois de uma sopa de grelos, recomendo uma boa punheta. Mas punheta, uma só, que pode ser indigesto.
+
+
+  Grilar
+
+
+  Se o seu carro estiver a bater pinos, diga ao mecânico que ele está a grilar. Bater pinos eles não vão entender de jeito nenhum, mesmo que você fique horas fazendo com a boca o barulhinho de um carro batendo pino. Experimente.
+
+
+  Grilidos
+
+
+  Se eu lhe disser que fiquei com os olhos grilidos, pode parecer que fiquei com os olhos fechadinhos, não é? Mas é o contrário: olhos grilidos significa olhos arregalados!!!
+
+
+  Grossista
+
+
+  Como a própria palavra já indica, vem de grosso. Aquele que vende a grosso, ou seja, o atacadista.
+
+
+  Grua
+
+
+  Todo mundo sabe o que é uma grua. Além de todos os significados, em Portugal tem mais um. É o guincho para rebocar carros. Nas grandes cidades, o problema do trânsito é cada vez mais grave. Eles não têm garagem nem espaço na rua. Então, pode-se deixar o carro em qualquer lugar. Menos nas zebras, passagens de pedestre. Aí a grua vem e não perdoa. Fora a coima.
+
+
+  Guardafatos
+
+
+  Não é nem um livro de memórias nem um diário de adolescente. É, apenasmente, um lugar para se guardar os fatos, ou seja, os ternos: um guarda-roupa.
+
+
+  JB: Gralha: diz-se guarda-fato (no singular).
+
+
+  Guarnecida
+
+
+  Nos cardápios você vai ver vários pratos com o complemento guarnecidos. Carne guarnecida, peixe guarnecido etc. Significa, simplesmente, com batatas.
+
+
+  Guião
+
+
+  Quase como em espanhol: guión. É o roteiro para um filme, uma minissérie etc. E o roteirista, obviamente, é o guionista.
+
+
+  Guita
+
+
+  Gíria ultra-recente, quer dizer, na linguagem dos bem jovens, money, grana.
+
+
+  
+
+
+  Hemiciclo
+
+
+  É o Parlamento português. E é impressionante como eles discutem educadamente. Deve ser porque, apesar de partidos diferentes, no fundo são todos primos entre si…
+
+
+  JB: Preciosismo de linguagem jornalístico utilizado para designar, não o Parlamento, mas a sala onde ele se reúne e que tem, efectivamente, 180 graus. Daí as direitas e as esquerdas, relativamente à tribuna do Presidente.
+
+
+  Hipótese
+
+
+  Outra palavra muito usada. Hipótese é chance.
+
+
+  – Não há hipótese de o Porto ser campeão europeu.
+
+
+  – Vou dar-te duas hipóteses para acertar.
+
+
+  – Sempre foi um homem sem hipótese: não deu em nada.
+
+
+  História, estar com
+
+
+  Não é estar fazendo onda, não. É estar naqueles dias: menstruação.
+
+
+  JB: Falta o artigo: estar com a história.
+
+
+  Hora de ponta
+
+
+  É a hora do rush, do engarrafamento. Alguns anos atrás, era entre cinco e sete da tarde. Agora é de manhã, à tarde, à noite e, se não tomarem providências, de madrugada também. A hora de ponta pode se transformar, logo, logo, em dia de ponta, semana de ponta. Os portugueses deveriam ler o conto A Autopista do Sul, do Júlio Cortázar, e começar a se preocupar com a hora de ponta.
+
+
+  Hortaliças
+
+
+  Legumes, é claro. Registro apenas para sugerir uma sopa de hortaliças, sempre que possível.
+
+
+  Hospedeira
+
+
+  Não é nenhuma praga, nenhuma mosca, nem quem hospeda. Trata-se da nossa querida aeromoça. Atualmente elas andam muito mais aero do que moças. Já repararam?
+
+
+  
+
+
+  Imenso
+
+
+  – Faz imenso frio.
+
+
+  – Machuquei-me imenso.
+
+
+  – Gosto imenso de legumes.
+
+
+  Imenso é muito. Sempre.
+
+
+  Impedido
+
+
+  Nada a ver com futebol, onde o impedido é fora-de-jogo. Impedido em Portugal é quando o telefone está ocupado.
+
+
+  Imperial, uma
+
+
+  Notem que é no feminino. Não se pede um imperial, mas uma. Deve ser porque é uma cerveja. O que importa é que uma imperial é um chope muito bem tirado. Diga-se de passagem que a cerveja, em garrafa, lata ou na pressão, é sempre muito boa em Portugal.
+
+
+  Inclusivamente
+
+
+  Assim como existe o exclusivamente, existe o inclusivamente. Não se assuste, é inclusive mesmo.
+
+
+  Infantário
+
+
+  À primeira vista pode parecer um campo de concentração de crianças. Sob certo aspecto, é isso mesmo: jardim de infância.
+
+
+  Interrompido
+
+
+  Em telefones, quer dizer que está ocupado.
+
+
+  JB: Em telefones, também se usa muito impedido (nada a ver com futebol, claro).
+
+
+  Intriga
+
+
+  Agora já se usa a palavra fofoca, depois da influência ligeira da telenovela brasileira. Mas eles sempre foram grandes fofoqueiros, como já disse lá atrás. São, historicamente, fofoqueiros. Pode existir maior fofoca que aquela do caminho das Índias, da calmaria?… Estão dizendo, agora, em Portugal, que Colombo também era português, nascido em Cuba (cidadezinha do interior, no Alentejo), e foi por isso que colocou o nome de Cuba na segunda ilha em que desembarcou no Novo Mundo. Os Lusíadas é uma fofoca só, do começo ao fim. Eça de Queiroz pegou muito bem o espírito fofoquês do português nos seus romances. Mas intriga é um pouco mais grave que fofoca. Mais ou menos como no Brasil.
+
+
+  Invisual
+
+
+  A imprensa costuma chamar os cegos e todos os deficientes visuais de invisuais. Parece-me que cego, em Portugal, é uma palavra um pouco depreciativa.
+
+
+  JB: Mais uma modernice, neste caso “politicamente correcta”. Antigamente dizia-se simplesmente cego ou, ainda melhor e carinhosamente, ceguinho.
+
+
+  
+
+
+  Jantarada
+
+
+  Para se fazer uma boa jantarada, não é necessário nem o jantar. O que importa é a festança.
+
+
+  Joaquinzinho
+
+
+  Não é nem o neto do Joaquinzão nem o filho do Joaquim. É um carapau pequeno. Frito é uma delícia. Uma manjubinha.
+
+
+  Jogo do galo
+
+
+  Não consegui descobrir por quê, mas jogo do galo é jogo da velha.
+
+
+  
+
+
+  Laço
+
+
+  Significa também laço, como no Brasil. Mas, em se tratando de roupas, laço é o velho black-tie, a nossa gravata-borboleta.
+
+
+  Ladrilhador
+
+
+  É o nosso azulejista. E não pense que a palavra azulejo chama-se assim porque vem de azul. Errado. Essa palavra tem origem no árabe az-zullaiju.
+
+
+  Lagarta
+
+
+  São aqueles ônibus-sanfona, enormes.
+
+
+  Lanço
+
+
+  Você está numa estrada e de repente vê a placa: Lanço com portagem. Prepare seu dinheiro. Lanço quer dizer trecho de estrada. E portagem?
+
+
+  Leitor de cassetes
+
+
+  Nada mais, nada menos que o nosso toca-fitas. Na gíria popular, também conhecido como cantante.
+
+
+  Liceu
+
+
+  É o ginásio. Uma pessoa que tem o liceu terminou o curso ginasial. No Brasil, oitava série.
+
+
+  Linguado
+
+
+  Além do excelente paladar que o peixe linguado oferece, temos outro tipo de paladar. Entre os jovens, linguado é beijo de língua. E também lauda, em jornalismo.
+
+
+  Lógica
+
+
+  Aí o advogado de defesa disse: o brasileiro matou o português movido por forte emoção, na legítima defesa da lógica.
+
+
+  Lombo
+
+
+  É o filé mignon, carne de vaca. Só que o corte da carne de vaca em Portugal é diferente. Picanha, por exemplo, é quase impossível de ser encontrada.
+
+
+  Lopes
+
+
+  Não se sabe quem foi o primeiro Lopes, mas Lopes hoje é um qualquer, um deu-pra-nada. Camilo Castelo Branco já se referia a alguns Lopes.
+
+
+  Lume
+
+
+  Quando você estiver num bar ou restaurante sem fósforo e quiser pedir fogo, peça lume.
+
+
+  
+
+
+  Magoar
+
+
+  Se um atleta é retirado do campo ou da quadra magoado, não fique com dó, achando que ele se magoou porque foi substituído ou mesmo que já tenha entrado no jogo com uma mágoa qualquer, um problema familiar. Magoar significa contundir. Portanto, uma pessoa magoada é uma pessoa contundida.
+
+
+  Mais pequeno
+
+
+  No Brasil, nos ensinaram, desde criança, que mais pequeno é menor. Em Portugal, mais pequeno continua sendo mais pequeno. E ninguém acha que você é um ignorante. Pode dizer à vontade. Já mais grande está errado.
+
+
+  Mala
+
+
+  É a bolsa de mulher, dessas de mão.
+
+
+  Malta
+
+
+  Já dizia Artur de Azevedo, poeta brasileiro da virada do século:
+
+
+  “Tertuliano, frívolo e peralta,
+
+
+  Que foi um paspalhão desde fedelho,
+
+
+  Tipo incapaz de ouvir um bom conselho,
+
+
+  Tipo que, morto, não faria falta.
+
+
+  Lá, um dia, deixou de andar à malta…”
+
+
+  Pois é, malta é turma.
+
+
+  Mandrião
+
+
+  É o que os lisboetas dizem dos alentejanos: que eles são todos preguiçosos. Em bom brasileiro, mandriar significa, mais ou menos, enrolar, não levar a coisa para a frente por preguiça ou por não querer mesmo.
+
+
+  Manguito
+
+
+  É o gesto internacional de dar uma banana. Um dos mais célebres artistas plásticos de Portugal, Bordalo, na virada do século XIX, imortalizou o gesto com pequenas esculturas interessantíssimas.
+
+
+  Maple
+
+
+  É sofá, poltrona. Qualquer poltrona, qualquer sofá. Pronuncia-se meipol. Diz a lenda que os primeiros sofás vendidos em Portugal foram trazidos por um inglês chamado Maple. Daí…
+
+
+  JB: Não é lenda: ainda hoje existe em Londres, na Tottenham Court Road, o muito antigo fabricante de poltronas e sofás Maple & Co.
+
+
+  Maquetagem
+
+
+  É a paginação de um jornal.
+
+
+  Marcação
+
+
+  Se você quiser comer num restaurante, precisa antes fazer a marcação, ou seja, a reserva.
+
+
+  Marçano
+
+
+  Ouve-se muito nas lojas, balcões etc., justificando o mau serviço de um funcionário. Ele é um marçano… Principiante, aprendiz de mercearia.
+
+
+  Marcha atrás
+
+
+  É a nossa marcha à ré.
+
+
+  Marco
+
+
+  Não conheci ainda nenhum rapaz chamado Marco, em Portugal. Marco aqui é a caixa do correio, aquela que fica na rua, onde você coloca a sua carta.
+
+
+  Marialva
+
+
+  Homem metido a gostoso, conquistador, supermachão. Isto deve vir do marquês de Marialva, que tinha um belíssimo castelo em Sintra, onde hoje é o Hotel Seteais, seguramente um dos hotéis mais bonitos do mundo. Se você é um marialva, passe lá uma noite com a sua conquista. Mais ou menos 300 dólares por dia. Mas vale. É deslumbrante.
+
+
+  Marisco
+
+
+  Quase tudo o que vem do mar, menos peixe, é chamado de marisco. Arroz de marisco, por exemplo, um maravilhoso ensopado, tem tudo o que é fruto do mar que você possa imaginar.
+
+
+  Matrícula
+
+
+  Quando você compra um carro novo, o revendedor promete entregá-lo assim que chegar a matrícula. Isso porque a placa do carro é colocada pela própria revendedora. Não é necessário ir a nenhum Detran ou coisa parecida.
+
+
+  Médios
+
+
+  É o nome pelo qual são conhecidos os faróis baixos dos automóveis. E atenção que, à noite, todos os carros andam com os médios acesos, o que, aliás, é uma grande idéia. Além de a cidade ficar com mais luzes, evitam-se acidentes e atropelamentos. E, se você não estiver com os médios acesos, todo mundo grita com você. Eles fazem questão.
+
+
+  Meia-de-leite
+
+
+  Parece doce, mas não é. Meia-de-leite é a nossa média de café com leite. Mas, ao pedir, peça meia-de-máquina, senão vem com café feito anteriormente. Mais ou menos como no Brasil.
+
+
+  Meia-final
+
+
+  Nas competições esportivas equivale, no Brasil, à semifinal.
+
+
+  Melgas
+
+
+  São aqueles mosquitos que mordem a gente à noite, os famosos pernilongos. E, por falar nisso, os outros mosquitos portugueses são engraçadíssimos. Eles entram na sala e no quarto e não pousam em nenhum lugar. Ficam bem no meio do ambiente, eqüidistantes das paredes e do teto-e-chão, voando em círculo horas a fio. Em tempo: melgas, na gíria, significa também as pessoas pentelhas.
+
+
+  Meloa
+
+
+  Eu poderia dizer que é a mulher do melão. Na verdade, meloa é aquele melãozinho menor, redondinho. E melão é o maior, com formato de bola de futebol americano, com a polpa mais amarelada. Ambos são ótimos em Portugal.
+
+
+  Menina
+
+
+  Se a mulher for solteira, independentemente da idade, será sempre chamada de menina, coisa simpática do povo português.
+
+
+  Mensagem
+
+
+  Português não deixa recado para ninguém; deixa mensagem. Portanto, na secretária eletrônica, não peça para as pessoas, depois do bip, deixarem um recado. É para deixarem uma mensagem.
+
+
+  Metro
+
+
+  É o metropolitano, o underground, mas sem o acento no o do nosso metrô. É metro mesmo, como a medida de comprimento. Na Espanha também.
+
+
+  Missão cumprida
+
+
+  – A seleção de futebol portuguesa foi participar de um torneio nos Estados Unidos da América, ficou em último lugar, não marcando nenhum gol. O treinador disse: Missão cumprida!
+
+
+  – Cavaco Silva foi presidente da CEE por seis meses, fazendo uma gestão um tanto atrapalhada (na opinião de Major, que o sucedeu). Mas ele se reuniu com os seus ministros e chegaram à seguinte conclusão: Missão cumprida!
+
+
+  – Nunca Portugal tinha levado tantos atletas como para a Olimpíada de Barcelona. Não ganharam nenhuma medalha (na Olimpíada de Deficientes ganharam nove). O chefe da delegação, no retorno, disse: Missão cumprida!
+
+
+  – Um navio português quis entrar em águas de Timor, mas foi expulso antes mesmo de chegar lá. Manchete do jornal: Missão cumprida!
+
+
+  Ou seja, eu não sei o que é missão cumprida em Portugal…
+
+
+  Misturas
+
+
+  Em música e na produção de filmes, é a mixagem.
+
+
+  JB: Gralha: é no singular, mistura.
+
+
+  Miúdos
+
+
+  São os garotos pequenos, antes da adolescência. Depois que crescem um pouco mais, são chamados de putos. Até hoje ninguém conseguiu me explicar o momento exato em que um miúdo vira um puto. Ou seja, todo miúdo é puto, mas nem todo puto é miúdo. Ficou claro? Meu puto, ao ler este verbete, perguntou-me: pai, e se a gente pedir miúdo de frango no açougue, eles vão trazer um pintinho?
+
+
+  Moço
+
+
+  E, por falar em miúdos e putos, temos também os moços. Muito cuidado, porque moço é uma palavra um pouco depreciativa em Portugal. Ao chamar alguém de moço, você está querendo dizer que ele ainda não virou senhor, que ainda é virgem, que não serviu o Exército, é um sujeito que não deu certo na vida. Não chame, por exemplo, o garçom de moço que ele não vai gostar.
+
+
+  Mola
+
+
+  É o prendedor de roupa de varal. É um objeto de muito uso em Portugal. Quase todos os apartamentos têm os seus varais externos com as roupas presas pelas molas.
+
+
+  Monstros
+
+
+  Outro dia a Câmara Municipal de Cascais mandou um comunicado a todos os seus perplexos moradores: Vimos informar que pelo 30o artigo do novo Regulamento de Resíduos Sólidos para o Município de Cascais, que entrou em vigor desde o dia 5 de setembro, É PROIBIDO, SEM PREVIAMENTE O SOLICITAR AOS SERVIÇOS E OBTER CONFIRMAÇÃO DE QUE SE REALIZA A SUA REMOÇÃO, COLOCAR MONSTROS OU RESÍDUOS DE CORTES DE JARDINS EM QUALQUER LOCAL DO MUNICÍPIO, pois poderiam levar uma coima alta. Monstros nada mais é do que entulhos, objetos velhos, eletrodomésticos estragados, colchões arrebentados etc.
+
+
+  JB: Parece-me confusão. Ou o comunicado da Câmara Municpal de Cascais tem uma gralha tipográfica, ou você leu mal a palavra. Monstros, em Portugal, é o mesmo que monstros no Brasil. A palavra em causa deve ser monturos, ou seja, lugares onde se depositam dejecções, montes de lixo ou de entulho.
+
+
+  Montar
+
+
+  Montar não é exatamente fazer amor, não é exatamente ter relações sexuais. Montar é mais calão, é trepar.
+
+
+  Montra
+
+
+  Como em Paris, montra é vitrine. Só que em Paris… Deixa pra lá.
+
+
+  Morada
+
+
+  É o seu endereço completo: rua, número, apartamento, bairro etc. O que significa que fábricas, bares, lojas também têm suas moradas.
+
+
+  Mortalha
+
+
+  Para quem gosta de fazer o seu próprio cigarrinho, seja ele de tabaco ou não, compre, nas boas tabacarias, sedinhas de todas as partes da Europa. É uma festa.
+
+
+  Mota
+
+
+  A mota, no feminino. Não é a Rosa Mota, corredora e maior esportista em atividade em Portugal. Apesar de estar ligada à velocidade, a mota é a motocicleta.
+
+
+  Movimento lento
+
+
+  Na hora da reprise do gol, a cena em câmara lenta.
+
+
+  Muinha
+
+
+  Muinha é aquela dor constante, que não passa de jeito nenhum, que fica incomodando horas, dias…
+
+
+  JB: Gralha: é moinha que se escreve, pois vem do verbo moer.
+
+
+  Muita
+
+
+  Além de muita mesmo, significa muito. Explico. É a mania de colocarem tudo no feminino:
+
+
+  – Aquela mulher é muita boa!
+
+
+  – Comida muita gostosa!
+
+
+  – Depois da CEE a vida tá muita fácil!
+
+
+  Mulher-a-dias
+
+
+  É a empregada doméstica, a diarista, a que trabalha por hora. Há um preço fixo de 500 escudos por hora, mais ou menos 3 dólares. E são todas de confiança.
+
+
+  
+
+
+  Naifa
+
+
+  Coisa de bandido, de marginal, de gente do Casal Ventoso, um bairro de drogados de Lisboa. Cuidado com o canivete.
+
+
+  Não faz nada
+
+
+  É, mais ou menos, não faz mal.
+
+
+  Néria
+
+
+  Quando eles falam que não ligaram néria para alguma coisa, querem dizer que não ligaram picas para aquilo.
+
+
+  Neutral
+
+
+  Eles nunca dizem neutro. Dizem neutral. A Suíça é um país neutral.
+
+
+  JB: Tal como ancore ou embotelhamento, nunca ouvi dizer neutral, nem mesmo falando-se da Suíça. Toda a gente diz neutro.
+
+
+  Noite de autógrafos
+
+
+  Em Portugal, na noite de autógrafos, além do escritor e dos convidados, há outra figura importante que é o apresentador. O apresentador, antes de começarem os autógrafos, conta para os presentes como é o livro. Uma espécie de orelha ao vivo.
+
+
+  Nomeadamente
+
+
+  Dependendo da colocação, tanto pode ser notadamente quanto principalmente. No fundo é tudo a mesma coisa, nomeadamente se…
+
+
+  Notário
+
+
+  Claro, é o tabelião.
+
+
+  
+
+
+  Oh, pá
+
+
+  Tão usada por eles como o pô pelos brasileiros, no início ou no final das frases. Oh, pá vem de uma comida de sílaba: Oh, rapaz! Chico Buarque já dizia: foi bonita a festa, pá. Usam também Eh, pá.
+
+
+  JB: Também é muito usado Eh, pá, com a variante Ena, pá!, em que o Ena corresponde, no Brasil à exclamação Eta!
+
+
+  OK
+
+
+  Significa OK mesmo. Só que, como em Portugal a letra k chama-se capa, ao dizer OK eles dizem ocapa!
+
+
+  JB: Ver capa (K) na pág. 54. Nós dizemos sempre oquêi.
+
+
+  Ora bem
+
+
+  Expressão também muito usada, principalmente quando eles estão tentando explicar o inexplicável. Significa, mais ou menos, veja bem.
+
+
+  Orientar uma bóia
+
+
+  Para falar em brasileiro bem claro: apresentar um beise na roda, ou seja, passar o cigarro de maconha para a pessoa ao lado.
+
+
+  
+
+
+  Páginas tantas, às
+
+
+  Isto também é muito usado. O sujeito está contando um caso e de repente vem com esta às páginas tantas… Significa a certa altura, em dado momento.
+
+
+  JB: Gralha: é a páginas tantas (como nos processos judiciais se cita o depoimento ou o requerimento a folhas vinte e oito dos autos).
+
+
+  Pai Natal
+
+
+  No Norte o velho e bom Papai Noel pode ser visto na neve num Natal mais autêntico que o nosso.
+
+
+  Palmarés
+
+
+  É uma espécie de curriculum, de resumo da obra, os prêmios etc. Acho que a melhor palavra para designar ainda é a inglesa handicap. É muito normal nos jornais dizer que Fulano apresenta um palmarés muito bom, que Fulana tem um palmarés melhor que Sicrana. E atenção porque um bom palmarés em Portugal é meio caminho andado.
+
+
+  Palop
+
+
+  Os países da África, ex-colônias portuguesas, já se libertaram há quase vinte anos de Portugal, que, entretanto, ainda não se libertou deles. Praticamente metade do noticiário da televisão é dedicado aos Palop: Países Africanos de Língua Oficial Portuguesa. Uma semana em Portugal, e você fica sabendo sobre os Palop o que você não aprendeu em quarenta anos de vida. Sabe-se mais em Portugal sobre o Savimbi do que sobre o Helmut Kohl. Acho que, no momento, o país deveria saber mais sobre o alemão, aquele que está há doze anos no poder, aquele que derrubou o Muro e agora está fazendo outro em volta da Europa unificada. E é neste muro que os brasileiros estão esbarrando no aeroporto de Lisboa…
+
+
+  Panado
+
+
+  Um bife panado é um bife à milanesa.
+
+
+  Paneleiro
+
+
+  É a bicha nativa. Uma amiga portuguesa me disse que estava no Brasil e viu um anúncio de cozinha que, no final, dizia: acompanha amplo paneleiro! Ela levou um susto: ficou imaginando aquela cozinha linda e uma bichona desfilando por ela.
+
+
+  Pão ralado
+
+
+  Atenção, donas de casa: isso é farinha de rosca.
+
+
+  Papelinho
+
+
+  Para tudo eles têm um papelinho. Aonde quer que você vá, dão um papelinho para apresentar não sei onde. É o nosso papelzinho.
+
+
+  Paquete
+
+
+  Não é pacote, como em espanhol, nem tem o mesmo significado que em brasileiro. É o office-boy. Ou, no hotel, o mensageiro. É também navio. Há um anúncio em Portugal de uma grife de roupa onde se vê um casal muito bem vestido, na margem do Tejo, sol batendo nas verdes águas calmas, melenas ao vento e um diálogo entre eles. Ele: o que estás a fazer aqui? E ela: estou à espera do próximo paquete!
+
+
+  Para oferta
+
+
+  Sempre que você compra alguma coisa numa loja, vem logo a pergunta: é para oferta? E você pode responder: sim, é para presente.
+
+
+  Paragem
+
+
+  Ai de você se estacionar o seu carro na frente de uma parada de ônibus. Em cinco minutos chega a grua e ele é levado.
+
+
+  Paralítico
+
+
+  Sabe em telenovela, normalmente no final da cena, quando a imagem fica congelada? Pois é isso: em cinema e televisão, a imagem congelada chama-se paralítico.
+
+
+  Parangona
+
+
+  É a manchete de jornal ou de anúncios.
+
+
+  Particular
+
+
+  Em esporte, todo jogo que não é oficial: o amistoso.
+
+
+  Partir
+
+
+  É muito difícil eles dizerem quebrar. Sempre que alguma coisa quebrou, eles dizem que partiu.
+
+
+  Parvo
+
+
+  Talvez o principal xingamento. É o tolo, o bobo, o idiota. E, quando se referem a alguma bobagem que o parvo cometeu, chamam isso de parvoíce.
+
+
+  JB: Em Portugal há xingamentos muito, muito piores. Parvo, no sentido de pouco inteligente, é relativamente suave.
+
+
+  Passadeira
+
+
+  Nada a ver com passar roupas. É a passagem de pedestres, a zebra.
+
+
+  Passajar
+
+
+  Cerzir, reformar roupas velhas, remendar, costurar etc. Dar um trato.
+
+
+  Passar dos carretos
+
+
+  O português é muito calmo e civilizado, mas cuidado quando ele passar dos carretos, ou seja, quando ele perder a paciência. Sai de baixo. Ele fica violento.
+
+
+  Passeio
+
+
+  Várias praças de Portugal têm o seu passeio, ou seja, a sua calçada. Em Lisboa, na Príncipe Real, existe um passeio maravilhoso, largo, com folhas amarelas caindo no outono. Cinematográfico.
+
+
+  JB: Tecnicamente, em Portugal, o passeio é equivalente à calçada que, no Brasil, acompanha cada um dos lados da rua. Aqui, calçada é rua ou caminho empedrado. O Príncipe Real, em Lisboa, não é uma calçada, mas sim um jardim público.
+
+
+  Pastel de bacalhau
+
+
+  Infelizmente, em Portugal não se encontram aqueles pastéis que temos no Brasil – de carne, de queijo etc., aqueles de feira. O pastel em Portugal é doce. Em cada esquina das grandes cidades há uma pastelaria. Entrando numa delas, você vai entender imediatamente a origem das nossas padarias, feitas pelos portugueses emigrantes. Não vendem pão, mas cada doce… Voltando ao pastel de bacalhau: é o bolinho de bacalhau.
+
+
+  Pastelaria
+
+
+  É o bar da esquina, a padaria. E não adianta pedir que não tem pastel de carne.
+
+
+  Pastilhas elásticas
+
+
+  Ao entrar numa pastelaria, você pode pedir, por exemplo, algumas pastilhas elásticas. Não se assuste com o que vão lhe trazer. Este é o pomposo nome para chiclete, goma de mascar…
+
+
+  Pastor
+
+
+  Evidentemente que pastor é aquela pessoa com o cajado e as ovelhas pelas montanhas afora. Andando pelo interior do país, você vê centenas deles, inclusive crianças, cuidando do rebanho. Lembra-nos imediatamente a Lúcia, o Francisco e a Jacinta, os três pastorinhos que viram Nossa Senhora, em Fátima, em 1917. Mas aqui, no caso, na gíria jovem, pastor quer dizer estúpido.
+
+
+  Patilha
+
+
+  Aqui devemos ter uma influência espanhola. Patilha é a costeleta, parte da barba. E bigode é bigode mesmo. Conta a lenda que os portugueses usam bigode para ficar parecidos com a mãe.
+
+
+  Peão
+
+
+  Se você está andando na rua e vê placas dizendo Passagem para peões, é com você mesmo. É o pedestre.
+
+
+  Pêga
+
+
+  Com acento circunflexo no e. Cuidado com ela, cuidado com a prostituta de rua. Pode ser travesti. Mato-grossense.
+
+
+  Pelas
+
+
+  Quando você ler no jornal que a peça de teatro começa pelas nove, não quer dizer que é mais ou menos às nove. É às nove mesmo. Se ela marcar um encontro lá pelas dez da noite, significa às dez da noite. Isso não quer dizer que eles sejam pontualíssimos, mas o horário é preciso. Pelas é às.
+
+
+  JB: Desculpe, mas nunca vi um anúncio de jornal dizendo que o espectáculo começa pelas nove da noite. Pelas nove da noite não é às nove da noite, mas sim por volta das nove da noite.
+
+
+  Pelouro
+
+
+  Ao ouvir a palavra pelourinho, logo nos lembramos dos negros sendo açoitados no século XIX. Em Portugal, pelouro é a designação de cada um dos ramos da administração pública. O Pelouro da Cultura, por exemplo, está sempre apresentando shows em praça pública, de graça. Diga-se de passagem que o Estado apóia e financia muito a atividade cultural, principalmente o teatro e o cinema.
+
+
+  JB: Os Pelouros existem nas Câmaras Municipais (as Prefeituras do Brasil) e também nos Conselhos de Administração das empresas.
+
+
+  Penca
+
+
+  Gíria jovem para narigudo, nariz grande.
+
+
+  Peneirento
+
+
+  É, mais ou menos, aquele sujeitinho vaidoso, metido a besta.
+
+
+  Pensão de reforma
+
+
+  Ou, simplesmente, reforma. É a aposentadoria. Há até um partido político dos reformados.
+
+
+  Penso
+
+
+  Logo existo? Não. Você precisa fazer um curativo. Quando fazem um curativo, eles pensam um paciente.
+
+
+  Penso higiênico
+
+
+  É um penso maior, para as mulheres usarem como absorvente íntimo. O Carefree é conhecido como pensinho diário.
+
+
+  Penso rápido
+
+
+  Se você pedir numa farmácia um band-aid, vai ficar sem nada. Penso rápido, logo consegue. Garotos vendem nas ruas e bares pensos rápidos. E os portugueses compram. Devem se machucar muito.
+
+
+  Pequeno almoço
+
+
+  É o desjejum, o café da manhã. E não é apenas um copinho de leite ou um copo de Coca. É um pequeno almoço mesmo, pela manhã.
+
+
+  Pêra
+
+
+  Além de ser a fruta, é o brasileiro cavanhaque. Coisa, aliás, de que eles gostam muito. A propósito, no Brasil, chama-se pêra aquele cabelo debaixo do lábio mas acima do queixo. Como o do Toquinho.
+
+
+  Perceber
+
+
+  Quase sempre, no final de uma frase, de um pensamento, perguntam: estás a perceber? É o nosso: tá me entendendo? Ou seja, perceber é entender. Portanto, o português não entende, o português percebe. Entendeu?
+
+
+  Percebes
+
+
+  É uma espécie de marisco, que não é encontrado em todo lugar, não. Mas, achando, experimente. Tem gente que vai a Portugal apenas para comer um (vários) percebes. Também conhecido como perceves.
+
+
+  JB: É o plural de percebe (ou perceve). Comem-se percebes, mas experimenta-se um percebe.
+
+
+  Perdidos & Achados
+
+
+  O mesmo que achados e perdidos. E tem sua razão de ser. Porque primeiro se perde e depois se acha.
+
+
+  Pero
+
+
+  Assim como eu disse que a meloa pode ser a mulher do melão, poderia aqui dizer que o pero é o marido da pêra. É quase isso. Coma um pero que você vai me entender. Aliás, pensando bem, ele parece mais filho da maçã que marido da pêra. Por aí.
+
+
+  Pessoa coletiva
+
+
+  Não, não, não é uma pessoa sem personalidade, que cada hora pensa de uma maneira. Para a Secretaria das Finanças, pessoa coletiva é a brasileira pessoa jurídica.
+
+
+  Pessoa singular
+
+
+  Não, não, não é uma pessoa excêntrica, cheia de particularidades, única. É, simplesmente, a pessoa física.
+
+
+  Peúgas
+
+
+  Com forte acento no u. Meias de homem, dessas de cano curto.
+
+
+  Piada
+
+
+  Já disse, lá em anedota, que piada não é anedota. Piada é graça.
+
+
+  – Tal filme tem piada.
+
+
+  – Achei muita piada na tua anedota.
+
+
+  – Esta história não tem piada nenhuma.
+
+
+  – Não estou achando piada nenhuma, menino!!!
+
+
+  Pica
+
+
+  Corruptela de picada, para dizer injeção. Quando for a uma farmácia e disser que quer tomar uma injeção e o farmacêutico perguntar se quer a pica no cu, não se assuste. É isso mesmo: injeção nas nádegas. Para evitar esse constrangimento é melhor ir dizendo, logo de cara, que quer a pica no braço.
+
+
+  JB: Pica é usado em linguagem infantil, para não assustar a criança com a palavra injecção – que, no caso em questão, será dada no rabinho, rabiosque ou tu-tu (ver cu na pág. 66).
+
+
+  Picante
+
+
+  É a pimenta mais forte. A excepcional comida portuguesa quase nunca leva pimenta. Mas, se pedir uma picante, o garçom traz.
+
+
+  Picas
+
+
+  É o cobrador do comboio, do elétrico. Aquele que vem e pica a sua passagem.
+
+
+  Pila
+
+
+  É o nome mais infantil e aceito por todos para o órgão sexual masculino. Algo como o nosso pinto, pau, por aí.
+
+
+  Pildra
+
+
+  Para o Mike Tyson, ir para a pildra significou ir para a cama e ir para a prisão. Tem os dois sentidos.
+
+
+  Pimento
+
+
+  É o pimentão, sem tirar nem pôr, muito usado nos ensopados, nos cozidos. Em Lisboa, você come um cozido maravilhoso no Mercado, nos fins de semana.
+
+
+  Pipi
+
+
+  É a pila das meninas, a xoxotinha. Pode também significar elegante. Fulana estava ontem muito pipi.
+
+
+  Piri-piri
+
+
+  É pimenta forte. Malagueta. O nome deve ser africano. E, por falar em malagueta, não existe pimenta-malagueta em Málaga. Pode pedir e constatar.
+
+
+  Piropo
+
+
+  Muito cuidado ao fazer um piropo para alguém. Eles ficam com um pé meio atrás. É um galanteio.
+
+
+  Piroso
+
+
+  Ou pirosa: cafona. Dizem que a arquitetura do Tomás Taveira é neopiroso. Ou seria pós-saloia? Vide o Centro Comercial das Amoreiras e o prédio da matriz do Banco Nacional Ultramarino em Lisboa.
+
+
+  Piso
+
+
+  Aqui, é como no espanhol: andar (do prédio).
+
+
+  Pito que nunca viu canhoto
+
+
+  Expressão mais usada em Cabo Verde. É o que mais tem hoje em dia em Portugal, de 1987 para cá: novo-rico.
+
+
+  Planear
+
+
+  Planejar. Temos, portanto, em Portugal, o mais importante dos ministérios, que é o Ministério do Plano.
+
+
+  Plua
+
+
+  Um dia uma garotinha do meu prédio colocou em todas as caixas do correio o desenho de uma árvore escrito embaixo: “Por favor, não plua o ambiente”.
+
+
+  Pois
+
+
+  Eles não conseguem dizer meia frase sem um pois no meio ou no final. Acho que a melhor tradução seria então. Pois, pois…
+
+
+  Ponta
+
+
+  Ponta é o nosso tesão, mas apenas no sentido sexual.
+
+
+  Pontapé de canto
+
+
+  Para quem gosta de futebol, esta é fácil: escanteio.
+
+
+  Popa
+
+
+  É aquele velho e avantajado topete. Mas não usam a expressão Fulano tem muita popa…
+
+
+  Porreiro
+
+
+  Ou porreira. Uma coisa porreira é uma coisa legal, genial. É um giro mais antigo.
+
+
+  Portagem
+
+
+  Pode pagar, sem arrependimento, o pedágio que o dinheiro é sempre bem empregado na conservação das estradas. Nunca se construíram tantas estradas em Portugal como atualmente.
+
+
+  Portanto
+
+
+  Segundo alguns, a palavra mais usada em Portugal nos últimos anos. Vejam este trecho de um artigo do Diário de Notícias de 5/10/1991, um dos mais importantes e tradicionais de Portugal: “Não se sabe exatamente por quê, mas o portanto tornou-se uma mania, uma obsessão, um vício, uma droga. Não há político que se preze, não há jogador de futebol, não há economista, sociólogo que vá à televisão que não o use, palavra sim, palavra não. ‘Gostas do outono?’ E logo a resposta, pronta, desembaraçada, uma maravilha, dá gosto ouvi-los: ‘Portanto, acho que o tempo que mais gosto portanto é o verão, porque portanto dá pra gente curtir a praia, portanto o sol é uma coisa boa pra saúde, portanto eu acho que havia de ser sempre assim, portanto, quer dizer, a malta tem mais saúde no verão, portanto…’”.
+
+
+  Póvoa
+
+
+  É uma cidadezinha, uma cidade pequena. Daí é que vêm as palavras povoar, povoamento etc.
+
+
+  JB: Uma cidade pequena (mais pequena do que vila ou mesmo aldeia) é uma povoação. Com acento grave no o (Póvoa) é uma expressão antiga que apenas persiste, com o mesmo sentido, nos nomes de algumas localidades como, por exemplo, a Póvoa do Varzim (onde nasceu o Eça de Queiróz).
+
+
+  Pregadeira
+
+
+  É o nome que inventaram em Portugal para o broche, porque… (Veja broche na pág. 44.)
+
+
+  Prego
+
+
+  É o sanduíche mais popular e consumido em Portugal. É o nosso churrasquinho de carne de vaca. Se você pedir um prego com martelo, vem com presunto.
+
+
+  Prenda
+
+
+  É uma falta de educação muito grande você ir à festa e não levar o presente de aniversário.
+
+
+  Presidente da Câmara Municipal
+
+
+  Não existe o título de prefeito de uma cidade. É o presidente da Câmara. Mas atenção: ele não é eleito pelos vereadores, como no Brasil, mas sim pela população, pelo voto direto. Apenas o cargo é diferente.
+
+
+  Pressão, cerveja de
+
+
+  Os garçons sempre perguntam se você quer a cerveja de garrafa ou se quer a cerveja de pressão. No fundo, é o nosso chopinho.
+
+
+  Prolongamento
+
+
+  Em futebol, é a prorrogação, quando, numa decisão, o jogo terminou empatado no tempo normal.
+
+
+  Pronto
+
+
+  Uma das palavras mais usadas em Portugal. Infelizmente não existe similar no Brasil. Eles pontuam as frases com o pronto. É mais ou menos como o fenômeno do portanto. Poderia ser o nosso e daí…
+
+
+  Pronto a vestir
+
+
+  É a roupa feita. Nem é preciso salientar a sua origem francesa: prêt-à-porter.
+
+
+  Propina
+
+
+  Uma espécie de taxa que se paga (honestamente) para freqüentar a universidade. Proporcional à renda familiar do estudante. Não há similar no Brasil.
+
+
+  PSP
+
+
+  Lembra o Ademar de Barros: é a Polícia de Segurança Pública.
+
+
+  Punheta
+
+
+  Punheta de bacalhau. Excelente iguaria da cozinha nativa. Trata-se de um bacalhau cru desfiado à mão. Com uma cervejinha bem gelada, é o que há.
+
+
+  Púrqui
+
+
+  Seria o nosso porque quando respondendo ou explicando algo. Quanto mais enfáticos eles ficam nas explicações, mais acentuam o u e mais comem o qui: púr!
+
+
+  Pussidônia
+
+
+  Este é o tipo da palavra que significa exatamente aquilo que aparenta. Existe palavra melhor do que pussidônia para designar uma pessoa convencida? A que faz ar de quem sabe mas não sabe.
+
+
+  JB: No masculino possidónio, no feminino possidónia. Não significa convencido/a, sendo antes usado em gíria para significar cafona ou de mau gosto (ou, como aqui também dizemos, pires).
+
+
+  Putos
+
+
+  São os quase adolescentes. Devem ser chamados assim porque todo adolescente está sempre puto com alguma coisa.
+
+
+  
+
+
+  QB
+
+
+  Iniciais de: Que baste! Expressão muito encontrada nas deliciosas receitas portuguesas. A quantidade que for necessária e que baste. Quando começou a xenofobia contra os brasileiros, eles começaram a dizer que já havia brasileiros QB em Portugal.
+
+
+  Quadro
+
+
+  Dizer que Fulano é quadro significa que é um alto executivo, um funcionário de nível superior, um supergerente de empresa etc.
+
+
+  Queca, dar uma
+
+
+  Dar uma queca ou quecada significa dar uma trepada. Não confundir com queque, que é um bolinho muito gostoso feito de farinha, manteiga e ovos.
+
+
+  Querido
+
+
+  Querido é querido mesmo em todas as línguas, mas em Portugal é mais usado no sentido de simpático. Os gaúchos também falam assim, querida.
+
+
+  Quinta
+
+
+  Quinta é sítio e sítio é lugar. Vamos por partes. Quinta quer dizer pequena propriedade, um sítio, uma chácara. Há quintas lindíssimas em Portugal. Nas montanhas, há várias quintas de boas vistas.
+
+
+  
+
+
+  Rabidante
+
+
+  Pense um pouco e você vai chegar à conclusão de que rabidante só poderia mesmo ser vendedor ambulante.
+
+
+  JB: Palavra de honra que nunca ouvi dizer tal palavra em Portugal. Rabidante é termo de Cabo Verde.
+
+
+  Rabiosque (Rabioque)
+
+
+  Nádega, rabo, cu. De criança.
+
+
+  Rabo
+
+
+  Bunda, mas num sentido mais chulo. Há uma propaganda de uma das mais conhecidas fábricas de fraldas infantis que diz assim: “Rabinho seco, rabinho são”. Pois. Pode ainda significar bicha, nome não muito comum mas também dado aos paneleiros.
+
+
+  Rainha Isabel
+
+
+  Rainha Elizabeth, da Inglaterra. Porque, na língua portuguesa, não há o nome Elizabeth. Portanto, eles traduzem os nomes das pessoas. O príncipe Charles, por exemplo, é príncipe Carlos. E a princesa Margareth é princesa Margarida. E Stuttgart é Estugarda! Groenlândia é Gronelândia. E por aí afora.
+
+
+  JB: Com o devido respeito, um escritor brasileiro não pode troçar do aportuguesamento de nomes estrangeiros: então vocês não fazem essa coisa incrível que é chamar Madri à capital da Espanha. E na página 62 deste livro, o genial futebolista Di Stefano aparece como Di Estéfano!
+
+
+  Rapariga
+
+
+  Saber que é moça todo mundo sabe. O que o brasileiro não sabe é como se aproximar de uma rapariga. Dizem que são dificílimas. São necessários meses e meses de intenso trabalho de persuasão.
+
+
+  Realizador
+
+
+  Outra influência cultural francesa. Realizador é o diretor de cinema, televisão etc. Le realizateur. Não existe nada mais presunçoso do que um realizador português.
+
+
+  JB: Não é influência cultural francesa, pois, em França, o director de cinema ou televisão não é o réalisateur, mas sim o metteur-en-scène.
+
+
+  Rebaixas
+
+
+  São as liquidações de fim de temporada. Eles liquidam mesmo. Vale a pena esperar.
+
+
+  JB: Deve ter visto esta palavra nas lojas espanholas, onde as liquidações são efectivamente rebajas. Em Portugal dizemos saldos (ou descontos).
+
+
+  Rebuçado
+
+
+  Doce de caramelo, pirulito.
+
+
+  JB: Tem um significado mais amplo do que doce de caramelo: corresponde, exatamente, à bala brasileira.
+
+
+  Receita
+
+
+  Arrecadação de um jogo de futebol ou outro desporto qualquer. A renda.
+
+
+  Regras
+
+
+  Regras são mesmo regras em qualquer lugar do mundo. Só que, ao contrário do mundo todo, em Portugal as regras não têm exceção. Regra é regra e eles não pensam duas vezes. Por exemplo: diz uma das leis do futebol local que a final da Taça de Portugal deve ser jogada no Estádio Nacional, em Lisboa. Em 1991, a final foi entre o Porto e o Boa Vista, dois times do Porto, a 300 quilômetros da capital. Mas regra é regra e o jogo foi realizado em Lisboa, obrigando os torcedores das duas equipes a viajar 600 quilômetros.
+
+
+  Reformado
+
+
+  É aquele que recebe a pensão de reforma, lembra? É o aposentado.
+
+
+  Relato
+
+
+  Pelo rádio ou pela televisão, é a narração de um jogo de futebol ou outro qualquer.
+
+
+  Relvado
+
+
+  É por onde rola o esférico a caminho do golo: gramado. Consta que mais de quinhentos jogadores brasileiros correm pelos relvados portugueses atualmente. Em número, só perdem para os dentistas.
+
+
+  Remate
+
+
+  É o chute a gol. Há, inclusive, um programa na televisão sobre desportos que se chama Remate, mais ou menos à uma da manhã. Mais ou menos porque a televisão portuguesa coloca os programas no ar na hora em que querem. Não há o menor respeito pelo telespectador. O Jornal 24 Horas começa sempre depois da uma, por exemplo.
+
+
+  Renda
+
+
+  É o aluguel residencial. Nada melhor do que fazer um contrato de aluguel por dois anos pelo mesmo valor. Em Portugal, como em todos os países sem inflação, acontece isso. No máximo uma cláusula com aumento de 8 por cento, depois de doze meses.
+
+
+  Reparação
+
+
+  É o conserto de algum objeto quebrado.
+
+
+  Rés-do-chão
+
+
+  É o andar térreo. Como em Paris, também conhecido por RC.
+
+
+  Residencial
+
+
+  Algo entre o hotel e a pensão. Não existe nenhuma palavra no Brasil para isso. Albergue?…
+
+
+  Resultar
+
+
+  – Se resultar, eu vou ao cinema.
+
+
+  – Se tudo resultar, em compro.
+
+
+  – Resultou em nada.
+
+
+  Ou seja, resultar significa dar certo.
+
+
+  Retalhistas
+
+
+  É o contrário de grossistas: são os varejistas.
+
+
+  Retrete
+
+
+  Privada, vaso sanitário.
+
+
+  RSFF
+
+
+  Responda, se faz favor. O popular RSVP, em francês.
+
+
+  
+
+
+  Saco
+
+
+  Mais ou menos como a mala, bolsa a tiracolo de homem ou mulher.
+
+
+  Salchicha
+
+
+  É a nossa linguiça.
+
+
+  Saloio
+
+
+  Aquele cara do interior que vem para a cidade grande e é enganado por todos: o caipira. Começou com os de perto de Lisboa, hoje é do país todo.
+
+
+  Sandes
+
+
+  Sandes, assim mesmo, no plural e no feminino. É o nosso masculino sanduíche. Ao contrário da comida tradicional, não se comem grandes sanduíches em Portugal.
+
+
+  Sangue, dar
+
+
+  Dar sangue aqui não significa suar a camisa, fazer o possível etc. Dar sangue é doar sangue.
+
+
+  Sanita
+
+
+  Com acento no i. O nome já dá uma dica: privada.
+
+
+  Santinho!!!
+
+
+  Se você espirrar, imediatamente várias pessoas vão dizer bem alto e bem rápido: Santinho!!! Nada mais é do que o nosso Saúde!!!
+
+
+  Sapateira
+
+
+  Caranguejo. Daqueles que se comem com martelo, dando porrada. Só que é servido gelado.
+
+
+  Sardanisca
+
+
+  Esta também devia ter concurso para quem descobrisse: lagartixa. Tem também a osga, que é aquela transparente, pequena, que fica grudada na parede horas…
+
+
+  Sarilho
+
+
+  Outro nome muito presente nas legendas dos filmes de ação. Quer dizer exatamente confusão.
+
+
+  JB: Além de confusão, também pode significar complicação ou dificuldade (“A minha vida é um sarilho” ou “Fulano anda sempre metido em sarilhos”).
+
+
+  Schifaizfavoire
+
+
+  Já disse lá pra trás que descobri como se chama garçom em Portugal. É assim: Schifaizfavoire! Aí, num trabalho para a televisão, coloquei o nome de Schifaizfavoire num garçom achando que, assim, estaria contribuindo filologicamente com a cultura do país. E não é que o ator veio me dizer que aquele nome não existia em Portugal? E sugeriu: não seria melhor chamá-lo João Manuel?
+
+
+  Sebenta
+
+
+  O anônimo que deu este nome à apostila é um gênio. Pode ser melhor?
+
+
+  Seis
+
+
+  É seis mesmo. Só está aqui relacionado para lhe lembrar que, ao dar o número de telefone, por exemplo, não diga meia, cinco, três, meia, meia, meia. Eles vão achar que meia é cinco, metade de dez. Portanto, seis é seis mesmo, e meia é peúga!
+
+
+  Selecionador
+
+
+  É aquilo que eles, assim como os brasileiros, acham que saberiam fazer. E adorariam ser: o técnico da seleção de futebol.
+
+
+  Seropositivo
+
+
+  É o portador do vírus da Aids, o aidético. Não é soropositivo. É seropositivo mesmo.
+
+
+  Serviço à lista
+
+
+  Aproveite o serviço à la carte e coma muito bem em Portugal.
+
+
+  SFF
+
+
+  Esta é outra sigla esparramada por Portugal, principalmente nos restaurantes e tascas. Se faz favor!: SFF feche a porta, SFF mantenha limpo.
+
+
+  S.I.
+
+
+  Em todos os grandes shoppings você vê umas portas com a inscrição S.I. Se pegar fogo, foge, porque nunca você poderia imaginar que S.I. é serviço de incêndios…
+
+
+  Sida (Síndrome da Imunodeficiência Adquirida)
+
+
+  Aids. Apesar de a doença não ser alarmante como no Brasil, o Estado e a população estão muito mais atentos ao problema do que no Brasil. O slogan da campanha é ótimo. A foto de uma camisinha com a frase: “Meta isto na sua cabeça de uma vez por todas”.
+
+
+  JB: É verdade que, no Brasil, vocês adoptaram a sigla inglesa Aids porque a sigla latina Sida se confundia com o diminutivo do nome feminino mais popular, Maria Aparecida?
+
+
+  Sim, senhora!
+
+
+  É o tal problema de tudo no feminino. Se você for homem e as pessoas começarem a dizer Sim, senhora! para você, não se preocupe. Não é nada pessoal. Eles falam Sim, senhora! para mulheres e homens, indistintamente. Depois de muito pesquisar, vim a descobrir que é assim porque, antigamente, eles falavam Sim, vossa senhoria!, e de senhoria ficou senhora.
+
+
+  Sítio
+
+
+  – Não sei em que sítio deixei a minha caneta.
+
+
+  – Era um sítio muito bonito.
+
+
+  Lugar. Todo lugar.
+
+
+  Solicitador
+
+
+  Portugal, felizmente, também tem despachante. E é bom logo arrumar um, porque foi Portugal que nos ensinou a burocracia. Então, imagine…
+
+
+  Sotto Mayor
+
+
+  Cuidado ao fazer trocadilhos em Portugal. É o tipo de humor a que eles não estão habituados. Há um banco chamado Banco Pinto & Sotto Mayor. Claro que num programa de televisão eu fui logo fazendo o trocadilho: e não tem o Banco Pinto Preso É Menor? E não é que o ator veio reclamar dizendo que eu não podia dizer aquilo porque não era solto e sim sotto?
+
+
+  Sumo
+
+
+  Menos o Sumo Pontífice, que continua se chamando Sumo Pontífice, todos os outros sumos são sucos.
+
+
+  
+
+
+  Tabaco
+
+
+  Tabaco ou cigarro. É a mesma coisa.
+
+
+  Tacão
+
+
+  Salto. Salto alto, salto baixo. Tacão grande, tacão pequeno.
+
+
+  Tachista
+
+
+  Ainda não apareceu nenhum governador em Portugal a fim de acabar com os tachistas. Isso porque talvez não haja tanto marajá assim.
+
+
+  Talá?
+
+
+  É o que a pessoa pergunta quando você atende ao telefone. Aí você responde Tossim e começa a conversa. Nada além do alô.
+
+
+  Talho
+
+
+  Um dia um mineirinho chegou à farmácia, lá no interior do Brasil, e pediu um popatapataio. O farmacêutico não entendeu e ele ficou na dele: popatapataio. Depois de muita conversa, descobriu-se que o mineirinho queria um pó para tapar um talho que ele tinha na perna. Ou seja, um corte que sangrava. Talho, portanto, me lembra esta história, me lembra açougue.
+
+
+  Tampão
+
+
+  Nada a ver com O.b. Simplesmente a calota de carro.
+
+
+  Tanga
+
+
+  Se você contar uma história e alguém disser Tanga!, é porque essa história é a maior mentira. Mentira é mentira mesmo em todo lugar do mundo. O brasileiro é muito mentiroso, mas os portugueses ganham da gente.
+
+
+  Tanso
+
+
+  O que pode ser um tanso senão um palerma, um sonso?
+
+
+  Tapas
+
+
+  Nada mais, nada menos que, nos coquetéis e nas refeições, os canapés, as entradas. Pãozinho com patê, azeitona, cenourinha, rabanete etc. Na Espanha também se levam tapas.
+
+
+  JB: Esta palavra é directamente importada de Espanha.
+
+
+  Taralhoco
+
+
+  Poderia existir alguma palavra mais maluca para nos explicar o que é taralhoco? Maluco. Vem de tara.
+
+
+  Tareia
+
+
+  Se alguém lhe disser que vai lhe dar uma tareia, não pense nem que é um peixe de água doce do Tejo nem muito menos um documento de imigrante importantíssimo. Tareia é surra.
+
+
+  Tartes
+
+
+  São as deliciosas tortas doces, de sobremesa. Recomendo a tarte de natas. Nas boas tascas. Coisa de francês.
+
+
+  Tasca
+
+
+  Tasca é um intermediário entre o bar da esquina e o restaurante. Há tascas famosas em Portugal. Come-se muito bem nas tascas. Bem e barato. Acho que pode ser traduzido por botequim (mas a comida é melhor).
+
+
+  Tejadilho de abrir
+
+
+  Palavra bem espanhola para designar o teto solar.
+
+
+  Telefonia
+
+
+  Eis aqui uma que eu nunca entendi. Rádio é rádio mesmo e não se fala mais nisso. Mas o rádio do carro, principalmente, se chama telefonia. E, por falar nisso, muito cuidado, porque se você deixar o rádio no seu carro eles roubam mesmo. São capazes da maior violência, quebrando vidros etc., para roubar um radinho. Esse é um problema sério de Portugal: os viciados em heroína, que fazem qualquer negócio para arrumar dinheiro para comprar a droga. É uma pena.
+
+
+  Ter a lata
+
+
+  – Como é que ele teve a lata de…?
+
+
+  – É preciso ter muita lata para…
+
+
+  – O gajo tinha uma lata…
+
+
+  Ter a lata é ter a cara de pau.
+
+
+  Terminar em água de bacalhau
+
+
+  Como todo mundo sabe, o bacalhau fica de molho ali, naquela água. Pois essa água, depois, é jogada fora, porque não serve para nada, não vai dar em nada. Então, quando alguém diz que certa coisa ou fato vai terminar em água de bacalhau, quer dizer que não vai dar em nada. Mais ou menos como um paulista dizer que tudo vai acabar em pizza.
+
+
+  JB: Diz-se, no plural, em águas de bacalhau (o bacalhau é demolhado em várias águas).
+
+
+  Tigre
+
+
+  É o camarão grande.
+
+
+  Timor
+
+
+  Se você nunca ouviu falar em Timor, é porque nunca esteve em Portugal, e não serei eu a lhe explicar uma coisa que nem os portugueses… Deixa pra lá que o assunto é muito sério. Procure se informar.
+
+
+  Tintas, estou-me nas
+
+
+  É, num português bem chulo, estou cagando e andando.
+
+
+  Tira-cápsulas
+
+
+  Parece alguma coisa espacial, mas nada mais é do que abridor de garrafas.
+
+
+  JB: Muito mais do que tira-cápsulas nós dizemos abre-garrafas. E no Brasil também dizem, como nós, que as tampinhas metálicas das garrafas são as caricas?
+
+
+  Tirar os três
+
+
+  Quer dizer, exatamente, tirar o cabaço. Nenhum português, até hoje, conseguiu me explicar a origem da expressão.
+
+
+  JB: Em gíria popular muito antiga usava-se a expressão três vinténs para designar a virgindade de uma moça. Sendo o (antigo) vintém uma moeda de cobre de pouco valor, já se vê que a ideia era desvalorizar a virgindade.
+
+
+  Tirar uma bufa
+
+
+  Ou dar uma bufa. A expressão tem cheiro disto: soltar um pum.
+
+
+  JB: Nós cá em Portugal somos muito generosos, pois nunca tiramos bufas: damos bufas (mas é acto mal-educado e mal-cheiroso).
+
+
+  Tomates
+
+
+  Numa situação de confusão, ouve-se uma mulher a gritar: aqui não tem nenhum homem? Ah, se eu tivesse tomates! Ia mostrar para esses gajos!!! Tomates, com todo o respeito, quer dizer colhões.
+
+
+  Tossim
+
+
+  Resposta telefônica: alô. Corruptela de estou sim, tou sim, tô sim, tossim.
+
+
+  Tosta
+
+
+  Tem em todo lugar. É uma torrada com alguma coisa. Tosta mista é misto quente.
+
+
+  Trânsito condicionado
+
+
+  É o que mais acontece nas grandes cidades portuguesas atualmente: trânsito congestionado.
+
+
+  Travão
+
+
+  Travão é o breque do carro. Portanto, travar é brecar.
+
+
+  Trem
+
+
+  É a nossa charrete. Nas pequenas cidades pode-se alugar um trem para passear.
+
+
+  Trepador
+
+
+  Nada disso. É apenas um ciclista bom nas montanhas, nas subidas.
+
+
+  Trincar
+
+
+  Uma dentista brasileira, assim que chegou, pedia, para sentir a oclusão, que os clientes mordessem e eles não mordiam. Ela não conseguia entender o que se passava. Até que um dia um colega disse que não se pede para os portugueses morderem. Pede-se para eles trincarem. Trincar, portanto, é morder.
+
+
+  31 de boca
+
+
+  É entrar numa fria, mentira. Origem no século XIX, ninguém sabe explicar de onde veio a expressão.
+
+
+  JB: A expressão pode ter tido origem num jogo de cartas (é o francês trenteet-un). Em gíria, trinta-e-um significa complicação ou sarilho: “Estou metido num grande trinta-e-um!”. Trinta-e-um de boca significa uma declaração não confirmada por escrito que, por esse facto, não tem validade legal.
+
+
+  Tripeiros
+
+
+  Assim como os nascidos em Lisboa são conhecidos como alfacinhas, os nascidos no Porto são chamados de tripeiros, provavelmente pela excelente qualidade das tripas servidas nos restaurantes da região. Há algumas explicações históricas para esta alcunha. Uma delas diz que uma vez a cidade do Porto precisou mandar comida para os de Lisboa que estavam em dificuldade. Mandaram as melhores partes dos porcos e ficaram com as tripas.
+
+
+  Troço
+
+
+  Você pega uma estrada e vai vendo as placas no acostamento:
+
+
+  – Troço em obras.
+
+
+  – Fim do troço em obras.
+
+
+  – Longo troço em declive.
+
+
+  – Não estacione no troço.
+
+
+  – Troço escorregadio.
+
+
+  Troço é trecho de estrada.
+
+
+  Trolha
+
+
+  Li uma manchete que dizia, em maiúsculas letras: POLÍCIA MATA DOIS TROLHAS. Achei que a polícia local estava exterminando os babacas. Nada disso: trolha quer dizer ajudante de pedreiro.
+
+
+  Trombado
+
+
+  Como diria? Assim como broche é o sexo oral feito no homem, trombado é o inverso. Cunilíngua.
+
+
+  Tubo de escape
+
+
+  Este a própria expressão já entrega: escapamento.
+
+
+  Turco
+
+
+  Tudo o que é felpudo, relativo a banho, como toalha, roupão etc. Mais uma vez, aqui, a influência árabe. Deve ter alguma relação com banho turco.
+
+
+  
+
+
+  Uísque novo, uísque velho
+
+
+  Sempre que você pedir um uísque, eles vão perguntar: novo ou velho? É simples: o uísque 12 ou 17 anos é velho; os outros são novos. E atenção, pois eles têm o hábito de tomar uísque como digestivo, após as refeições, em copo de conhaque, sem gelo. É um charme e você acaba viciando. Portanto, não se esqueça: em Portugal é um cigarro antes e um uísque depois.
+
+
+  Utente
+
+
+  É o usuário, aquele que usa. Você.
+
+
+  
+
+
+  Vai-e-vem
+
+
+  É o nome que foi dado, em Portugal, para os ônibus espaciais. Saiu no jornal: “Vai-e-vem explode no ar”.
+
+
+  Val
+
+
+  É o nosso vale. Portugal está cheio de lindos vales.
+
+
+  JB: É com certeza gralha: tal como no Brasil, um vale (com e final) é a zona plana entre montanhas.
+
+
+  Varinas
+
+
+  Gostaria de saber a origem desta palavra. Varinas são as vendedoras de peixe. Mas apenas as vendedoras de peixe de rua.
+
+
+  JB: A origem da palavra é conhecida. Antigamente, as vendedeiras de peixe em Lisboa eram quase todas da região de Ovar, uma cidade do norte de Portugal à beira-mar. As naturais de Ovar eram as ovarinas e, por aférese, o o inicial desapareceu.
+
+
+  Vazia
+
+
+  Segundo eles, a melhor carne de boi. Não sei que parte é, até hoje, porque o corte é diferente. Parece-me que é mais ou menos o nosso contrafilé.
+
+
+  Velharia
+
+
+  Não existem lojas de antiguidades. São velharias. Num país de quase vinte séculos, acha-se muita velharia incrível. Mas há também os antiquários.
+
+
+  JB: Obrigado, mas o galanteio é exagerado: Portugal não tem vinte século s, como você gentilmente afirma, mas mais modestamente nove. Mas essa de não haver aqui lojas de antiguidades é um exagero de sinal contrário. Por onde andou você? (Nas lojas de velharias vende-se coisas apenas velhas. Se quiser uma terrina de Companhia das Índias tem que ir a um antiquário).
+
+
+  Verniz
+
+
+  É o esmalte de unha.
+
+
+  Vir abaixo (o carro)
+
+
+  Quando eles dizem que o carro veio abaixo, não significa que o carro caiu no despenhadeiro. Vir abaixo significa morrer (o motor do carro).
+
+
+  
+
+
+  Xenofobia
+
+
+  Coisa de português parvo. Vivendo 45 anos no Brasil, nunca ouvi e nunca li esta palavra. Em dois anos de Portugal a ouvia e a lia na televisão, no rádio, nas ruas, nos bares, nos jornais, diariamente. Dizem que, antes de Portugal entrar para a CEE, ninguém conhecia esta palavra por lá… Schifaizfavoire, Portugal!!! Pra quem fica, tchau !!!
+
+
+  Quem é José Blanco?
+
+
+  José Blanco nasceu em Lisboa em 1934. É formado em Direito. Em 1961 ingressou nos quadros da Fundação Calouste Gulbenkian, de que foi diretor do Serviço de Projetos Internacionais e Secretário do Conselho de Adminstração. Em Setembro de 1974, foi eleito membro do Conselho até se aposentar em 2004. Paralelamente à sua actividade profissional, vem realizando desde 1983 trabalhos de investigação e divulgação da obra do poeta Fernando Pessoa. Além de ter participado em diversos congressos, conferências e seminários internacionais de estudos pessoanos, proferiu conferências sobre Fernando Pessoa na Bélgica, no Brasil, na Bulgária, na Dinamarca, nos Estados Unidos da América, na Finlândia, na Índia, em Inglaterra, no Japão, na Letónia e na Polónia. Entre as suas obras pessoanas, além de numerosos artigos em jornais e revistas portuguesas e estrangeiras, salientam-se, em volume, Fernando Pessoa. Esboço de uma bibliografia (Lisboa: Imprensa Nacional-Casa da Moeda, 1983); Pessoa en personne. Lettres et documents (Paris: Editions de la Différence, 1986) e Pessoana. Bibliografia passiva, temática e selectiva (Lisboa: Assírio & Alvim, 2008).
+
+
+  1 Atual União Européia (UE). Lembre-se de que este texto é de 1992, quando ainda era CEE.
+
+
+  
+    Podem decretar o fim do trema. Podem trocar o hífen de lugar. Mas não tem jeito. Ainda que a ortografia da língua portuguesa seja unificada, o sentido de muitas palavras continuará diferente, de um lado e outro do Atlântico. Quer ver? Linguado para você é um peixe? Na terra de Fernando Pessoa, linguado é beijo de língua. Outra: se você está no banheiro e lê uma plaquinha “Não se esqueça de carregar no autoclismo”, não se assuste. É para dar a descarga da casa de banho.
+
+
+    Neste delicioso Schifaizfavoire, Mario Prata mostra que as diferenças entre Brasil e Portugal vão muito além da língua. E é aí que está toda a graça, ora pois!
+
+
+    Agora, imagine se um exemplar desses cai nas mãos de um luso?! Caiu! E o pesquisador e autor José Blanco escreveu uma carta ao colega brasileiro, em que comenta algumas palavras, defendendo seus conterrâneos de supostas injustiças e apontando algumas gralhas (traduzindo: erros, confusões).
+
+
+    Esta nova edição de Schifaizfavoire traz, pela primeira vez, as anotações de José Blanco, o que torna este livro ainda mais divertido. É, brasileiros e portugueses concordam pelo menos em uma coisa: a piada não pode acabar, nem por decreto.
+
+
+    Mineiro de Uberaba, MARIO PRATA morou em Lins, São Paulo, Lisboa e, nos últimos dez anos, fincou pé em Florianópolis. Escreve para teatro (Cordão umbilical, Besame mucho), cinema (O casamento de Romeu e Julieta), televisão (Estúpido cupido, Helena), jornais e revistas. Entre seus best-sellers estão Diário de um magro, Minhas vidas passadas (a limpo), Minhas mulheres e meus homens, Purgatório, Cem melhores crônicas, Sete de paus e Os viúvos. Com livros publicados e peças montadas em diversos países, ganhou vários prêmios no Brasil e no exterior. Na Universidade de Sorbonne, em Paris, Schifaizfavoire é usado pelos alunos de pós-gradução em Língua Portuguesa.
+
+
+    Atualmente, dedica-se à literatura policial, pesquisando, escrevendo a respeito e criando seus próximos romances com o detetive Ugo Fioravanti Neto.
+
+  
+
+
+  
+    “O livro de Prata coleciona momentos de ótimo humor – para quem nasceu do lado de cá do Atlântico, é claro.”
+
+    – Revista Veja
+
+
+    “A obra merece ser o best-seller que rapidamente se tornou, pois é um livro muito divertido, mesmo para as vítimas do seu excelente humor – nós, os portugueses.”
+
+    – José Blanco, intelectual luso
+
+
+    • • • • •
+
+
+    Agrafador • aldrabão • ardina • autoclismo • badalhoco • bifana • bófia • borrego • buzaranha • calacear • cangalheiro • cataplana • chucha • coima • cusco • dar de corpo • dióspiro • falhanço • febra • fixe • forreta • ganda • ganga • ganza • hora de ponta • invisual • leitor de cassetes • mandrião • marialva • melgas • naifa • néria • orientar uma bóia • palop • parangona • pastilhas elásticas • pessoa coletiva • pessoa singular • pildra • piropo • pussidônia • queca • rabidante • rés-do-chão • sarilho • schifaizfavoire • seropositivo • tachista • taralhoco • ter a lata • terminar em água de bacalhau • tossim • troço • vai-e-vem • xenofobia
+
+
+    Você sabe o que significam essas palavras?
+
+
+    Depois de viver dois anos em Lisboa, Mario Prata reuniu 600 verbetes em um “dicionário de pequenas crônicas em ordem alfabética”, como ele mesmo define. Com seu humor habitual, ele expõe em Schifaizfavoire os costumes e o jeitinho português.
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Charis SIL Italic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Charis SIL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Charis SIL Bold Italic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Charis SIL Bold
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MyriadPro-It
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MyriadPro-Regular
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MyriadPro-BoldIt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MyriadPro-Bold
+

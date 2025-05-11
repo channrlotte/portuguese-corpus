@@ -1,0 +1,4604 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aqui Sentado na Lua
+
+
+  
+
+
+	 
+
+	 
+
+	 
+
+	Aqui Sentado Na Lua
+
+	 
+
+	Marinho Alves de Castro
+
+	 
+
+	 
+
+	 
+
+
+ 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Aqui Sentado Na Lua
+
+	Copyright © 2021 de Marinho Alves de Castro
+Todos os direitos reservados. Este ebook ou qualquer parte dele não pode ser reproduzido ou usado de forma alguma sem autorização expressa, por escrito, do autor ou editor, exceto pelo uso de citações breves em uma review do ebook.
+Primeira edição, 2021
+
+	
+marinhoescrita@gmail.com
+
+
+
+
+
+
+
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Dedicado a quem se sentir tocado
+
+
+
+
+Recordações
+
+	 
+
+	 
+
+	 
+
+	Saudades dos nossos corpos
+
+	Nus
+
+	Transpirados
+
+	Abraçados
+
+	Colados 
+
+	após o sexo.
+
+	A tua mão encaracolando os meus pêlos.
+
+	A tua cabeça descansando no meu peito.
+
+	Enquanto murmuras uma cançãozinha qualquer
+
+	inalo e batalho para decifrar 
+
+	a tua nova fragrância de cabelo. 
+
+	Será baunilha?
+
+	Rosas?
+
+	Jasmin?
+
+	Magnólias?
+
+	Ou um outro fruto tropical qualquer?
+
+	Nunca sei. 
+
+	Mas adoro-o. 
+
+	Amo-o. 
+
+	Um odor que está grudado na memória
+
+	como pastilhas elásticas que grudei
+
+	debaixo da mesa da escola.
+
+	Afego-te o braço.
+
+	Está gelado
+
+	(como sempre)
+
+	Cubro-te e tu páras de cantarolar,
+
+	olhas para cima e sorris.
+
+	Eu sorrio
+
+	e ambos sorrimos.
+
+	E tudo está bem
+
+	e nada mais importa. 
+
+	Tu voltas a descansar a cabeça no meu peito
+
+	e a canção recomeça.
+
+	Beijo-te na nuca
+
+	enquanto inalo e batalho para decifrar 
+
+	a tua nova fragrância de cabelo. 
+
+	Será baunilha?
+
+	Rosas?
+
+	Jasmin?
+
+	Magnólias?
+
+	Ou um outro fruto tropical qualquer?
+
+	Nunca sei. 
+
+	Mas adoro-o. 
+
+	Amo-o. 
+
+
+Galeria
+
+	 
+
+	 
+
+	 
+
+	Chorando com um misto
+
+	de tristeza e alegria. 
+
+	Apago a minha galeria. 
+
+	Recordando cada fotografia nossa. 
+
+	 
+
+
+Dar Uma Mão
+
+	 
+
+	 
+
+	 
+
+	Dei-te uma mão
+
+	quando precisaste dela.
+
+	Agora que preciso dela
+
+	não tenho mão.
+
+	Por isso, perguntei-te:
+
+	“Dás-me uma mão?”
+
+	Mas tu recusaste
+
+	dizendo que não.
+
+	 
+
+	Desde esse dia
+
+	deixei de dar mãos.
+
+	Agora dou apenas sangue
+
+	suor e o coração.
+
+	 
+
+
+Mãos Ásperas
+
+	 
+
+	 
+
+	 
+
+	As tuas mãos cortaram as minhas
+
+	depois de darmos as mãos.
+
+	As tuas mãos são ásperas, rijas
+
+	têm farpas, fagulhas, espinhos, espinhas.
+
+	As tuas mãos são mãos de trabalho
+
+	de luta, persistência
+
+	de quem segue um caminho 
+
+	ao encontro dum objetivo. 
+
+	As tuas mãos encontraram as minhas.
+
+	Mas magoaram as minhas.
+
+	Olha como ela sangra
+
+	Olha para ela. 
+
+	As nossas mãos não são idênticas.
+
+	As nossas mãos não são almas gêmeas.
+
+	 
+
+	Vai...
+
+	Vai atrás de um fulano com mãos ásperas.
+
+	Mãos que tenham farpas, fagulhas, espinhos, espinhas. 
+
+	Vai,
+
+	Deixa-me...
+
+	Deixa-me com as minhas mãos de menina. 
+
+	 
+
+
+Este Silêncio
+
+	 
+
+	 
+
+	 
+
+	Este silêncio, 
+
+	rói os laços que criámos.
+
+	Por cada momento sem fala
+
+	mais uma batalha que se trava.
+
+	E ambos sabemos que, 
+
+	guerra é uma merda. 
+
+	 
+
+
+Brincar De Fingir
+
+	 
+
+	 
+
+	 
+
+	Conta-me histórias,
+
+	engana-me mais um pouco.
+
+	Vamos fazer de conta que tudo é verdade
+
+	que não sabes a definição de fantasia
+
+	e que não sei o que realmente sentes.
+
+	Finge!
+
+	Vá, finge ser feliz!
+
+	 
+
+	Pomos uma máscara, 
+
+	seremos palhaços
+
+	Maquilhemo-nos, 
+
+	pinta-me algo colorido
+
+	Gargalhemos, 
+
+	seremos malucos num colete de forças.
+
+	Vamos fingir, 
+
+	que não nascemos quebrados 
+
+	como brinquedos defeituosos que acabam no lixo.
+
+	Vamos fingir!
+
+	Vamos fingir ser felizes!
+
+	 
+
+
+Paixoneta De Um Adolescente
+
+	 
+
+	 
+
+	 
+
+	Transtornos de uma mente envenenada
+
+	magnifica um amor inexistente.
+
+	Daquele mais bonito e alegre rosto
+
+	que, por suposto, nunca me notou.
+
+	 
+
+
+Fios E Fios
+
+	 
+
+	 
+
+	 
+
+	Compro-te fios.
+
+	 
+
+	Um fio de televisão.
+
+	Um fio de luz.
+
+	Um fio dental.
+
+	Um fio espiral.
+
+	Um fio de malha.
+
+	Um fio de nylon.
+
+	Um fio de estanho
+
+	Um fio de bronze.
+
+	Um fio de prata. 
+
+	Um fio de ouro. 
+
+	Um fio de diamantes. 
+
+	Um fio sem fio. 
+
+	 
+
+	E por fim, 
+
+	Um cortador de fios.
+
+	 
+
+
+Faca E Garfo
+
+	 
+
+	 
+
+	 
+
+	Aqui está ele
+
+	O meu coração. 
+
+	Bom apetite, querida. 
+
+	Devora-o com amor e dedicação. 
+
+	Como o vais comer? 
+
+	Ah desculpa, 
+
+	esqueci-me dos talheres. 
+
+	Aqui está,
+
+	uma faquinha e um garfinho.
+
+	Vá, bom apetite. 
+
+	Quê?
+
+	Queres que o corte? 
+
+	Claro. 
+
+	Queres pedaços grandes ou pequenos? 
+
+	O mais pequeno possível? 
+
+	Ora essa, com todo o gosto. 
+
+	Pronto, já está. 
+
+	Bom apetite, minha querida.
+
+	 
+
+
+A História Do Moço Mudo
+
+	 
+
+	 
+
+	 
+
+	Tá calado, moço.
+
+	Blá, blá, blá, blá, blá, blá, blá...
+
+	Tá calado, moço.
+
+	Blá, blá, blá, blá, blá, blá, blá...
+
+	Tá calado, moço.
+
+	Blá, blá, blá, blá, blá, blá, blá...
+
+	Tá calado, moço!
+
+	Blá, blá, blá, blá, blá, blá, blá...
+
+	Tá calado, moço!
+
+	Blá, blá, blá, blá, blá, blá, blá...
+
+	TÁ CALADO, MOÇO!
+
+	Blá, blá, blá, blá, blá, blá, blá...
+
+	TÁ CALADO, MOÇO!
+
+	Blá, blá, blá, blá, blá, blá, blá…
+
+	 
+
+	*chapada na cara*
+
+	 
+
+	E o moço calou-se.
+
+	 
+
+
+Desastre
+
+	 
+
+	 
+
+	 
+
+	És um desastre
+
+	És um bonito desastre.
+
+	O meu bonito desastre.
+
+	O meu único bonito desastre
+
+	e de mais ninguém.
+
+	 
+
+	Quem era aquele homem?
+
+	Quem era ele? 
+
+	Não era ninguém?
+
+	Sabes que mais?
+
+	Não quero saber
+
+	Não falas mais com aquele Zé-Ninguém.
+
+	 
+
+	Só te quero para mim, 
+
+	meu bonito desastre.
+
+	És minha.
+
+	Não compartilho o meu bonito desastre 
+
+	com mais ninguém. 
+
+	Muito menos com um Zé-Ninguém. 
+
+	 
+
+	És o meu bonito desastre. 
+
+	És o meu único bonito desastre.
+
+	E de mais ninguém.
+
+	És minha.
+
+	 
+
+
+Apneia
+
+	 
+
+	 
+
+	 
+
+	Prendo a respiração
+
+	e mergulho no teu mar vermelho
+
+	em busca da felicidade.
+
+	 
+
+
+Liberdade
+
+	 
+
+	 
+
+	 
+
+	Liberdade
+
+	O que isso significa? 
+
+	Sou tão livre quanto o meu cão.
+
+	Se falsa liberdade, 
+
+	não é liberdade, 
+
+	o que é então?
+
+	O que isso significa?
+
+	Sou tão livre quanto vegetação.
+
+	Se dependência, 
+
+	não é liberdade, 
+
+	o que é então?
+
+	O que isso significa?
+
+	Sou tão livre quanto o meu coração. 
+
+	Se eu não sou liberdade, 
+
+	o que sou então? 
+
+	O que significo?
+
+	 
+
+
+O Passarinho
+
+	 
+
+	 
+
+	 
+
+	Um passarinho me sussurrou
+
+	que tu eras a mais bela. 
+
+	 
+
+	Contou-me que a tua pele era inigualável,
+
+	a mais suave de se tocar.
+
+	Contou-me que a tua voz era inimitável,
+
+	a mais doce de se ouvir.
+
+	Contou-me que a tua personalidade era inabalável,
+
+	a mais completa de ...
+
+	 
+
+	Estrangulei o passarinho.
+
+	Ele era um aldrabão.
+
+	 
+
+
+O Resgate
+
+	 
+
+	 
+
+	 
+
+	Eu gritava por socorro
+
+	o bombeiro chegou
+
+	e com água apagou o fogo.
+
+	 
+
+	Bravo!
+
+	 
+
+	Só que,
+
+	o grito 
+
+	na verdade
+
+	eram risos.
+
+	E o fogo
+
+	na verdade
+
+	era água.
+
+	E o bombeiro
+
+	na verdade
+
+	era uma mulher,
+
+	que me combateu
+
+	com fogo. 
+
+	 
+
+
+Olhos Vermelhos
+
+	 
+
+	 
+
+	 
+
+	Os teus lindos olhos vermelhos.
+
+	Convidativos.
+
+	Me encantam para ruas obscuras.
+
+	Desvios.
+
+	Fazendo de mim um vagabundo.
+
+	Perdido.
+
+	 
+
+
+Mentiras Que Falo Para Mim Mesmo
+
+	 
+
+	 
+
+	 
+
+	Abro a porta sem medo de fechar.
+
+	Como sem medo de engasgar.
+
+	Falo sem medo de gaguejar.
+
+	Subo sem medo de cair.
+
+	Amo sem medo de errar.
+
+	Durmo sem medo do escuro.
+
+	Vivo sem medo de morrer.
+
+	 
+
+
+Juramentos
+
+	 
+
+	 
+
+	 
+
+	Mentiras inocentes que fazemos desde sempre.
+
+	Leves brisas transformantes de fortes correntes
+
+	emergem tornados como se de repente
+
+	destroem de todos os navios os mais inocentes.
+
+	 
+
+
+Sh!
+
+	 
+
+	 
+
+	 
+
+	Sh! 
+
+	Tá calada!
+
+	Não abras a boca.
+
+	Eu não quero ouvir. 
+
+	Sh!
+
+	Não mo digas.
+
+	Eu não preciso ouvir.
+
+	Já sei.
+
+	Eu já sei…
+
+	Shhh…
+
+	Fica caladinha
+
+	Não estragues tudo
+
+	Apenas vai
+
+	Vai…
+
+	Apenas vai 
+
+	e fecha a porta atrás de ti.
+
+	 
+
+
+Chora
+
+	 
+
+	 
+
+	 
+
+	Chora
+
+	Abre as persianas, 
+
+	deixa o sol entrar.
+
+	Arruma o espaço, 
+
+	deixa-o arejar.
+
+	E chora
+
+	O tempo vai passar.
+
+	As feridas vão sarar. 
+
+	Tudo vai mudar.
+
+	Agora chora
+
+	Chora
+
+	Chora muito…
+
+	 
+
+
+Cego/Surdo/Mudo
+
+	 
+
+	 
+
+	 
+
+	Não gosto de ti.
+
+	Sou Cego.
+
+	Não gosto de ti. 
+
+	Sou Surdo.
+
+	Não gosto de ti.
+
+	Sou Mudo.
+
+	 
+
+	Para ti não sou apenas 
+
+	Cego
+
+	Surdo
+
+	E Mudo.
+
+	Sou tudo.
+
+	 
+
+	Sou o maior defeciente 
+
+	que alguma vez verás.
+
+	Não sei o que vestes.
+
+	Não sei o que dizes.
+
+	Não sei o que te dizer.
+
+	 
+
+	Para dizer a verdade.
+
+	Nem sei se existes. 
+
+	 
+
+	O que foi isto?
+
+	Pensei ter visto um fantasma. 
+
+	 
+
+
+Coisas Da Vida
+
+	 
+
+	 
+
+	 
+
+	Arrependo-me de não ter feito 
+
+	o que deveria ter feito.
+
+	Uma sensação única do fim do mundo 
+
+	apodera-se de mim.
+
+	Sem tempo ou direito de voltar ao passado,
+
+	vivo torto, 
+
+	bêbado
+
+	sem paredes para me amparar.
+
+	Sigo em frente porque
+
+	prá frente é que é caminho
+
+	E lá à frente, 
+
+	no fim da corrida, 
+
+	recordarei a minha única e triste vida.
+
+	 
+
+
+Deixa-a Ir
+
+	 
+
+	 
+
+	 
+
+	Coberto de sofrimento
+
+	acordo ao relento
+
+	da mais profunda dor
+
+	daquele meu amor
+
+	que um dia partiu 
+
+	e não voltou. 
+
+	 
+
+
+Ressaca
+
+	 
+
+	 
+
+	 
+
+	Ressacado da noite passada
+
+	componho poesia ressecada.
+
+	 
+
+
+Era Glacial
+
+	 
+
+	 
+
+	 
+
+	Sem aquecedor
+
+	sobrevivo no frio.
+
+	Sem cobertor
+
+	ou colchão
+
+	durmo no chão.
+
+	Sem fogo
+
+	crio estalactites.
+
+	Sem panela
+
+	devoro bolas de gelo.
+
+	Sem amigos
+
+	falo com um boneco de gelo.
+
+	 
+
+
+Garrafas
+
+	 
+
+	 
+
+	 
+
+	Garrafas vazias por todo o lado.
+
+	Cacos espalhados por todo o chão.
+
+	Danço ziguezagueando ao ritmo da música 
+
+	com os pés a pingar. 
+
+	 
+
+	Eu não paro
+
+	nem que a música pare.
+
+	Eu não paro
+
+	nem que morra a sangrar. 
+
+	Pararei quando quiser parar
+
+	enquanto isso,
+
+	vou dançar com os pés a pingar.
+
+	 
+
+
+Ouvi Dizer
+
+	 
+
+	 
+
+	 
+
+	Ouvi dizer, 
+
+	que o mar é azul
+
+	a relva é verde
+
+	que a água é transparente
+
+	e que tu voltarias para mim.
+
+	 
+
+	Ouvi dizer, 
+
+	que toda a gente erra
+
+	que quem ama perdoa
+
+	que a felicidade é alcançável
+
+	e que tu voltarias para mim.
+
+	 
+
+	Ouvi dizer,
+
+	tudo e mais alguma coisa
+
+	mas foi quando te vi
+
+	abraçada a outro homem
+
+	que me lembrei
+
+	que não posso dar ouvidos
+
+	a ninguém.
+
+	 
+
+
+O Meu Castelo
+
+	 
+
+	 
+
+	 
+
+	Ergui este meu castelo com as minhas próprias mãos.
+
+	Defendi este meu castelo com o meu próprio corpo.
+
+	Morrerei neste meu castelo pela minha própria espada.
+
+	 
+
+	Faço isso e muito mais pelo meu castelo de areia.
+
+	 
+
+
+Esperantes Da Fila
+
+	 
+
+	 
+
+	 
+
+	Esperantes da fila, 
+
+	esperam o quê?
+
+	Um pedaço de carne?
+
+	Um pedaço de pão?
+
+	Uma lata de feijão?
+
+	O que será?
+
+	De que esperam vocês?
+
+	E porquê?
+
+	A loja está fechada. 
+
+	Sois malucos e esperam por esperar?
+
+	Ou esperam a morte? 
+
+	Ou será a vida que esperam?
+
+	Talvez um sinal?
+
+	Mas um sinal de quê?
+
+	Um sinal de carne? 
+
+	Um sinal de pão?
+
+	Uma sinal de feijão?
+
+	Do que esperam vocês?
+
+	E porquê?
+
+	A loja está fechada.
+
+	E ela continuará fechada.
+
+	A loja nunca abriu.
+
+	E ela nunca abrirá.
+
+	 
+
+
+Aqui Sentado Na Lua
+
+	 
+
+	 
+
+	 
+
+	Aqui sentado na lua
+
+	observo-te no mundo dos sonhos.
+
+	Satisfeita
+
+	Sossegada
+
+	Acompanhada 
+
+	por outro.
+
+	 
+
+	Aqui sentado na lua fico eu, 
+
+	sentado na lua durante toda a noite
+
+	desejando que ela fosse infinita
+
+	e tu fosses minha.
+
+	 
+
+
+Algures No Infinito Oceano
+
+	 
+
+	 
+
+	 
+
+	Navego num navio velho e esburacado.
+
+	A tempestade é monumental.
+
+	As ondas são enormes.
+
+	e o meu navio vai se destruindo.
+
+	 
+
+	Trabalho dia e noite 
+
+	tirando a água que entra neste navio.
+
+	Mas eu só tenho 24 horas por dia
+
+	e o navio tem muito mais que 
+
+	24 horas de trabalho por dia.
+
+	 
+
+	Acho que terei que aprender a viver 
+
+	num mundo molhado, esburacado e velho.
+
+	Quem sabe,
+
+	um dia, 
+
+	com os anos, 
+
+	transformar-me-ei num sereio.
+
+	E sairei desde meu navio 
+
+	para viver nas profundezas oceânica.
+
+	Quem sabe…
+
+	Eu não.
+
+	Até lá, 
+
+	vou tirando a água deste meu velho, esburacado navio.
+
+	
+ 
+
+	 
+
+
+7.  Sep., 06:19
+
+	 
+
+	 
+
+	 
+
+	Começa a chover quando saio de casa.
+
+	O pneu da bicicleta fura a meio do caminho.
+
+	Agora tenho a meia ensopada.
+
+	E eu pergunto-me: 
+
+	 
+
+	Quantos Zé-Ninguéns caminharam hoje para o trabalho à chuva com uma meia ensopada porque o pneu da sua bicicleta furou? 
+
+	 
+
+
+A Mesma Melodia De Sempre
+
+	 
+
+	 
+
+	 
+
+	Tum-tum-tum-tum tum-tum...
+
+	Tum-tum-tum-tum tum-tum...
+
+	A agulha quebrou,
+
+	Tum-tum-tum-tum tum-tum...
+
+	Tum-tum-tum-tum tum-tum...
+
+	É sempre o mesmo tom. 
+
+	Sempre o mesmo ritmo. 
+
+	Sempre o mesmo som. 
+
+	Tum-tum-tum-tum tum-tum...
+
+	Todos os minutos
+
+	Todos os dias
+
+	Todas as semanas
+
+	Todos os meses
+
+	Todos os anos
+
+	Tum-tum-tum-tum tum-tum…
+
+	E não muda.
+
+	Nunca muda.
+
+	Tum-tum-tum-tum tum-tum...
+
+	Tum-tum-tum-tum tum-tum…
+
+	Não há dinheiro.
+
+	Não tenho dinheiro para agulhas.
+
+	A melodia é, 
+
+	e será,
+
+	a mesma de sempre
+
+	para sempre.
+
+	Tum-tum-tum-tum tum-tum…
+
+	Tum-tum-tum-tum tum-tum…
+
+	 
+
+
+Os Meus Manequins
+
+	 
+
+	 
+
+	 
+
+	Os meus manequins não têm emoções. 
+
+	Os meus manequins são estáticos. 
+
+	Os meus manequins são fantásticos. 
+
+	Eu gosto dos meus manequins.
+
+	Não me batem, 
+
+	não me ralham,
+
+	não me julgam.
+
+	 
+
+
+Alma Gémea
+
+	 
+
+	 
+
+	 
+
+	Acordas, pensando em mim.
+
+	Tomas o pequeno-almoço, pensando em mim.
+
+	No metro, pensas em mim.
+
+	Enquanto trabalhas, pensas em mim.
+
+	Pensas em mim, enquanto falas com aquele homem jeitoso do trabalho.
+
+	Tens um encontro com o homem jeitoso, desejando que fosse eu.
+
+	Vais para casa com o homem jeitoso, pensando em mim.
+
+	Imaginas que sou eu, tocando no teu corpo.
+
+	Pensas em mim, enquanto o homem jeitoso te penetra.
+
+	Visualizas-me mentalmente, quando atinges um orgasmo.
+
+	Dormes à beira do homem jeitoso, pensando em mim.
+
+	Imaginas que são os meus braços, que te abraçam.
+
+	Sonhas comigo, enquanto dormes.
+
+	E tudo se repete.
+
+	Dia após dia.
+
+	Sei disso, pois também penso em ti.
+
+	 
+
+
+Dias Contados
+
+	 
+
+	 
+
+	 
+
+	Conto todos os dias
+
+	pra te voltar a ver.
+
+	Faltam só cinco dias
+
+	pra te voltar a ver.
+
+	 
+
+	A verdade é que, 
+
+	não tenho cinco dias.
+
+	A verdade é que, 
+
+	não te vou voltar a ver.
+
+	 
+
+	Porque, 
+
+	no quarto dia
+
+	vou morrer. 
+
+	 
+
+
+Já Não Está Cá Quem Falou
+
+	 
+
+	 
+
+	 
+
+	Daquela mais estridente voz
+
+	cujo o mundo nunca terá uma cópia.
+
+	Proclamas poesia de uma forma dócil
+
+	e por cada palavras que se desdobra
+
+	relembro cada aventura idiota nossa.
+
+	 
+
+	Mas tudo se foi quando
+
+	a vida te fechou a porta.
+
+	E agora trancada numa cova
+
+	nunca mais ouvi uma nota.
+
+	 
+
+
+Ao Contrário
+
+	 
+
+	 
+
+	 
+
+	Hoje estou ao contrário.
+
+	O contrário de um campo florido.
+
+	O contrário de um sorriso de uma criança.
+
+	O contrário de uma canção feliz. 
+
+	O contrário de uma cama recém-lavada.
+
+	O contrário de um sonho belo. 
+
+	 
+
+
+A Minha Peça De Roupa Preferida
+
+	 
+
+	 
+
+	 
+
+	Eras a minha peça preferida
+
+	a minha predileta.
+
+	Mas eu cresci 
+
+	e tudo mudou. 
+
+	 
+
+	Coloquei-te lá atrás
+
+	lá atrás, no fundo
+
+	junto às outras.
+
+	Onde nunca procuro
+
+	lá atrás, no escuro
+
+	igual às outras.
+
+	 
+
+	Anos depois,
+
+	decidi arrumar o armário
+
+	e foi quando cheguei no fundo
+
+	lá atrás, no beco escuro
+
+	que me lembrei delas
+
+	das belas peças do passado.
+
+	 
+
+	Foi então
+
+	que te vi, e-
+
+	pegando em ti
+
+	percebi
+
+	o erro que cometi.
+
+	 
+
+
+Abrir O Céu
+
+	 
+
+	 
+
+	 
+
+	Abri o céu
+
+	com a mão
+
+	para espreitar 
+
+	o tal mundo divino.
+
+	Reparei então,
+
+	que não passava 
+
+	de uma invenção
+
+	dum homem criativo.
+
+	 
+
+
+Astronauta
+
+	 
+
+	 
+
+	 
+
+	Explorando por aqui e ali
+
+	como se cada um 
+
+	dos quatro cantos 
+
+	do meu quarto 
+
+	fosse um universo infinito.
+
+	 
+
+
+Não Fazer Nada
+
+	 
+
+	 
+
+	 
+
+	Pessoas dizem que não faço nada,
+
+	mas faço muito em não fazer nada.
+
+	Será que sou eu que nada faço
+
+	ou eles é que fazem tudo 
+
+	e não me resta nada para fazer?
+
+	Não fazer nada é uma arte.
+
+	Não sei qual o seu segredo.
+
+	Só sei que sou excelente em não fazer nada.
+
+	Digam-me, 
+
+	escrever é não fazer nada?
+
+	ficar sentado é não fazer nada?
+
+	ouvir música é não fazer nada?
+
+	Pois se assim for, 
+
+	nada faço a triplicar.
+
+	 
+
+	 
+
+
+Nós
+
+	 
+
+	 
+
+	 
+
+	Terá sido Deus o nosso criador?
+
+	Ou seremos apenas fruto do acaso?
+
+	Será que Ele é o amor?
+
+	Se assim for, porque existe tanta dor?
+
+	Será isto obra do Diabo ou do ser humano?
+
+	 
+
+	Há quem diga que assim fomos programados.
+
+	Máquinas de ódio, 
+
+	prontos para detestar o próximo
+
+	porque ele tem melhor casa 
+
+	ou jantes do carro.
+
+	Que raio de bichos,
+
+	somos mesmo
+
+	retardados.
+
+	 
+
+
+O Bolo Bolorento
+
+	 
+
+	 
+
+	 
+
+	Tenho um bolo bolorento na mesa da cozinha.
+
+	As moscas sobrevoam e aproveitam-se dele.
+
+	Até parece que nem tem uma mancha 
+
+	branca-azulada-preta-acinzentada cobrindo-o.
+
+	Até parece que não está aqui à mais de um mês.
+
+	Até parece que não tem larvas rabiando nele. 
+
+	As moscas adoram-no.
+
+	Estariam elas aqui, 
+
+	se o bolo não fosse bolorento?
+
+	Estariam elas aqui, 
+
+	se o bolo não tivesse aquela mancha 
+
+	branca-azulada-preta-acinzentada cobrindo-o?
+
+	Estariam elas aqui, 
+
+	se as larvas não habitassem nele?
+
+	Quem sabe… 
+
+	 
+
+
+O Poio
+
+	 
+
+	 
+
+	 
+
+	Observo o meu poio atentamente. 
+
+	Faz horas que observo 
+
+	o meu poio atentamente. 
+
+	Alguém me disse que pareço um demente. 
+
+	Acho que foi a minha sombra
+
+	Ou a minha mãe. 
+
+	Podia também ter sido o meu pai. 
+
+	Não sei…
+
+	Não prestei atenção. 
+
+	Estava ocupado observando 
+
+	o meu poio atentamente. 
+
+	 
+
+	Não sei o porquê deste meu fascínio
+
+	por este meu poio.
+
+	Mas ele tem algo de especial. 
+
+	Não é igual aos milhares que já criei. 
+
+	Este é diferente. 
+
+	Será a sua forma? 
+
+	A sua cor? 
+
+	O seu odor? 
+
+	A sua religião? 
+
+	Não sei… 
+
+	Apenas sei que estou encantado 
+
+	com este meu poio de merda. 
+
+	 
+
+
+Tempestade
+
+	 
+
+	 
+
+	 
+
+	A tempestade que causaste
+
+	é irreparável.
+
+	 
+
+	Não há dinheiro que cubra tais estragos.
+
+	Não há ninguém que repare tais estragos.
+
+	Não há coração que esqueça tais estragos. 
+
+	 
+
+	É uma grave ferida
+
+	um marca de guerra
+
+	uma cicatriz profunda 
+
+	que não sara.
+
+	De quem ama e perdoa.
+
+	de quem erra e aprende.
+
+	 
+
+	Não és a mãe da tempestade
+
+	somos ambos culpados
+
+	mas quem sabe com a idade
+
+	veremos o passado
+
+	como dizente da verdade.
+
+	 
+
+
+Poema Rápido E Conciso
+
+	 
+
+	 
+
+	 
+
+	Este é um poema rápido e conciso.
+
+	É um poema rápido e conciso.
+
+	Um poema rápido e conciso. 
+
+	Poema rápido e conciso. 
+
+	Rápido e conciso. 
+
+	E conciso. 
+
+	Conciso. 
+
+	.
+
+	 
+
+
+Um Dia Especial
+
+	 
+
+	 
+
+	 
+
+	Saí com uns amigos.
+
+	Sentámo-nos num bar. 
+
+	Conversamos sobre coisas
+
+	Bebemos e Rimos. 
+
+	 
+
+
+Falar A Verdade
+
+	 
+
+	 
+
+	 
+
+	Falo sempre a verdade.
+
+	Sou o maior falador da verdade
+
+	Não.
+
+	Sou um político da verdade
+
+	Não.
+
+	Sou um Ditador da verdade
+
+	Não.
+
+	Sou um Rei da verdade
+
+	Não.
+
+	Sou um Deus da verdade.
+
+	Sim.
+
+	Eu falo a verdade.
+
+	Falo a minha verdade.
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+
+Cair
+
+	 
+
+	 
+
+	 
+
+	Todos caem a seu tempo
+
+	e eu,
+
+	já estou podre de tanto esperar. 
+
+	 
+
+
+Diário De Alguém Importante
+
+	 
+
+	 
+
+	 
+
+	Peguei no teu diário por acaso
+
+	confronto-me com tempestades de ódio.
+
+	 
+
+	Páginas e páginas dedicadas ao rancor. 
+
+	O carvão dita o volume da tua dor.
+
+	 
+
+	Rabiscos de uma flor enforcada num lenço.
+
+	Sonetos e prosas mais negros que negro.
+
+	 
+
+	O que passou?
+
+	O que perdi?
+
+	O que mudou?
+
+	O que desvi?
+
+	 
+
+
+Uma Mensagem
+
+	 
+
+	 
+
+	 
+
+	A urgência duma mente perdida na felicidade
+
+	equivale à demência despida na pura vaidade. 
+
+	 
+
+
+De Cabeça Para Baixo
+
+	 
+
+	 
+
+	 
+
+	De cabeça para baixo
+
+	vejo um sub-mundo.
+
+	Um lindo paraíso
+
+	submisso ao nosso mundo.
+
+	 
+
+	De cabeça para baixo
+
+	vejo os defeitos de um ser
+
+	mascarada de linda mulher.
+
+	 
+
+	De cabeça para baixo
+
+	é tudo melhor.
+
+	De cabeça para baixo
+
+	não sinto dor. 
+
+	 
+
+
+Soldado Morto
+
+	 
+
+	 
+
+	 
+
+	Encontrei-te nos destroços
+
+	debaixo do templo que te esmagou.
+
+	Agora morto e esquecido
+
+	serás soldado para todo o sempre.
+
+	Soldado dum outro homem 
+
+	que não te esperou.
+
+	Soldado dum outro homem 
+
+	quem não te salvou. 
+
+	Soldado dum outro homem
+
+	que nem te notou.
+
+	Encontrado por outro homem
+
+	que nem sabia
+
+	que existias. 
+
+	 
+
+
+Uma Manhã Na A31
+
+	 
+
+	 
+
+	 
+
+	Carro virado.
+
+	Sangue derramado.
+
+	Condutor embriagado.
+
+	Trânsito engarrafado.
+
+	Eu atrasado.
+
+	— ANDEM PRÁ FRENTE, CARALHO!
+
+	 
+
+
+Árvore Do Cume
+
+	 
+
+	 
+
+	 
+
+	Árvore do cume,
+
+	quantas primaveras já viveste?
+
+	E de quantas gotas foste germinada?
+
+	Árvore do cume,
+
+	quantos pássaros já abrigaste? 
+
+	E quantas vezes foste picada? 
+
+	Diz-me árvore do cume,
+
+	fala comigo
+
+	conta-me histórias.
+
+	Quantas pessoas se encostaram em ti? 
+
+	E quantas gargalhadas já ouviste? 
+
+	Árvore do cume,
+
+	quantos casais já gemeram aqui? 
+
+	E quantos choros ouviste? 
+
+	Ai, árvore do cume,
+
+	lembras-te de mim? 
+
+	Sou eu, o teu criador.
+
+	Ai, árvore do cume, 
+
+	quem me dera 
+
+	nunca me ter tornado lenhador.
+
+	 
+
+
+Formas Geométricas
+
+	 
+
+	 
+
+	 
+
+	Tudo tem a mesma forma
+
+	e
+
+	nada tem graça.
+
+	 
+
+
+O Coiso
+
+	 
+
+	 
+
+	 
+
+	Gosto de coisar o coiso. 
+
+	Sempre gostei de coisar o coiso.
+
+	E agora que coiso novamente o coiso
+
+	coiso todo o dia o coiso.
+
+	Tenho a certeza que se não fosse o coiso
+
+	não coisaria o coiso tão bem como coiso o coiso.
+
+	Até porque o coiso coisa-me coisas que coiso também. 
+
+	Quem me dera ter o mesmo coiso que o coiso tem. 
+
+	Quem me dera poder coisar da mesma forma que o coiso coisa.
+
+	Mas não sou coiso o suficiente para coisar como o coiso coisa.
+
+	Admito que já coisei melhor que coiso hoje em dia. 
+
+	Mas já não coiso bem do coiso. 
+
+	Deve ser da idade. 
+
+	Enfim, 
+
+	só quero coisar o coiso da melhor forma que conseguir coisar. 
+
+	Coisarei o meu coiso, até quinar por coisar o coiso exaustivamente. 
+
+	 
+
+
+O Outro Lado
+
+	 
+
+	 
+
+	 
+
+	Uns falam do outro lado como se ele existisse.
+
+	Outros afirmam que o outro lado é apenas uma tolice.
+
+	Quem está certo? 
+
+	Quem está errado? 
+
+	Até mesmo uma moeda tem dois lados.
+
+	Mas nem todos os lados são da mesma moeda.
+
+	Quem está certo? 
+
+	Quem está errado?
+
+	 
+
+
+Poema Para A Mulher Que Fez As Melhores Panquecas Que Já Comi
+
+	 
+
+	 
+
+	 
+
+	Estas foram as melhores panquecas que já comi.
+
+	Não sei a receita, mas notei um trave a jasmim.
+
+	Quantos homens já alimentaste além de mim?
+
+	E quantos deles deixaste só porque sim?
+
+	Assim nunca serás feliz, meu bem.
+
+	Porém, sem ninguém, não deixas de ser alguém.
+
+	 
+
+
+Não No Meu Quintal
+
+	 
+
+	 
+
+	 
+
+	O que se passa aqui!?
+
+	Amizade!?
+
+	Não no meu quintal!
+
+	 
+
+	O que se passa aqui!?
+
+	Prosperidade!?
+
+	Não no meu quintal!
+
+	 
+
+	O que se passa aqui!?
+
+	Honestidade!?
+
+	Não no meu quintal!
+
+	 
+
+	O que se passa aqui?
+
+	Ora, 
+
+	Insanidade
+
+	Iniquidade
+
+	Austeridade 
+
+	Maldade.
+
+	Apenas isso se passa no meu quintal.
+
+	 
+
+
+Contradições
+
+	 
+
+	 
+
+	 
+
+	Por mais que me denomine de Poeta
+
+	não passo de um Zé-Ninguém. 
+
+	 
+
+
+Infinito Preto
+
+	 
+
+	 
+
+	 
+
+	Perdido no infinito preto.
+
+	Infinitamente perdido no preto.
+
+	Rodeado por planetas imensos
+
+	tão longe, tão perto
+
+	milhares de estrelas
+
+	tão grandes, tão pequenas
+
+	tão longe, tão perto.
+
+	 
+
+	A imensidão do preto é assustadora.
+
+	A minha pequenez, apaziguadora.
+
+	 
+
+	Sem rumo, sem futuro
+
+	flutuo no escuro, 
+
+	no infinitamente 
+
+	infinito preto.
+
+	 
+
+
+Mundo Ordinário
+
+	 
+
+	 
+
+	 
+
+	Quero viver
+
+	num mundo ordinário.
+
+	 
+
+	Onde todos vivem perdidos
+
+	como zombies num apocalipse. 
+
+	Onde pobres e ricos
+
+	vivem juntos no lixo
+
+	e onde ninguém é feliz.
+
+	Até porque isso 
+
+	não existe. 
+
+	Onde, 
+
+	somos todos sujos
+
+	todos simples
+
+	todos tristes
+
+	todos depressivos. 
+
+	Sem luz
+
+	sem ar
+
+	sem dinheiro
+
+	sem comida. 
+
+	Porque assim, 
+
+	somente assim, 
+
+	seremos felizes. 
+
+	 
+
+
+O Que É Um Escritor?
+
+	 
+
+	 
+
+	 
+
+	Escritor não é aquele que mexe no lodo.
+
+	Escritor não é aquele que salva o povo.
+
+	Escritor não é aquele que envereda por caminhos sofisticados 
+
+	apenas para demonstrar o seu vocabulário.
+
+	Nem aquele que vive nas profundezas da alcoolemia.
+
+	Nem aquele ser superdotado de inspiração absurda.
+
+	 
+
+	Escritor é apenas um bicho que mexe com as palavras.
+
+	 
+
+
+Ralo Da Banheira 
+
+	 
+
+	 
+
+	 
+
+	O ralo da minha banheira
+
+	está sempre entupido.
+
+	Mas também não o limpo
+
+	quem se sentir na obrigação 
+
+	que o faça.
+
+	 
+
+
+Cada Um Tem A Sua
+
+	 
+
+	 
+
+	 
+
+	A razão da minha vida?
+
+	Não fazer nada
+
+	a não ser,
+
+	Arte e Poesia.
+
+	 
+
+
+Eu Não Quero O Que Tu Queres Que Eu Queira
+
+	 
+
+	 
+
+	 
+
+	Eles trabalham como escravos
+
+	Eu nem uma palha mexo.
+
+	Eles fazem de tudo por mim
+
+	E eu nem uma palha mexo.
+
+	Eles têm grandes planos para mim
+
+	Eu nada disso quero.
+
+	Eles querem que me forme e vire doutor
+
+	E eu nada disso quero.
+
+	 
+
+	Eu quero ser artista
+
+	Ele nada disso sabem.
+
+	Eu quero ser feliz
+
+	E eles nada disso sabem.
+
+	 
+
+
+Banco Do Parque
+
+	 
+
+	 
+
+	 
+
+	Sentado num banco do parque, pergunto-me:
+
+	Quantas pessoas já se sentaram neste banco?
+
+	e
+
+	Quantas delas foram realmente felizes?
+
+	 
+
+
+Sonhar É Fácil
+
+	 
+
+	 
+
+	 
+
+	Sonhar é:
+
+	Estar e não estar.
+
+	Tocar e não tocar. 
+
+	Sorrir e não sorrir.
+
+	Amar e não amar.
+
+	Sofrer e não sofrer.
+
+	Chegar e não chegar. 
+
+	Ser e não ser. 
+
+	 
+
+	Sonhar é ser feliz. 
+
+	Sonhar é fácil.
+
+	 
+
+
+Câmaras E Lentes
+
+	 
+
+	 
+
+	 
+
+	Foco.
+
+	Desfoco
+
+	no teu rosto
+
+	no teu corpo.
+
+	Tenho lentes
+
+	de todos os tipos
+
+	diferentes
+
+	ao milímetro.
+
+	Foco novamente.
+
+	E não desfoco.
+
+	Agora focado
+
+	vejo tudo
+
+	o teu rosto
+
+	o teu corpo
+
+	nu. 
+
+	 
+
+
+Esputar
+
+	 
+
+	 
+
+	 
+
+	Esputo com frequência.
+
+	Esputo de manhã
+
+	de tarde
+
+	de noite
+
+	e de madrugada também.
+
+	Esputo para ruivas
+
+	loiras
+
+	e morenas.
+
+	Esputo para homens
+
+	objetos 
+
+	animais.
+
+	Esputo para putas
+
+	donas de casa
+
+	banqueiras 
+
+	depotadas 
+
+	e presidentas
+
+	Esputo nos vivos 
+
+	nos mortos
+
+	e nos mortos-vivos.
+
+	Esputo para a sanita
+
+	para o prato
+
+	e para a almofada.
+
+	Esputo enquanto falo
+
+	e enquanto não falo.
+
+	Esputo enquanto leio
+
+	e enquanto não leio.
+
+	Esputo enquanto como
+
+	cago e passeio.
+
+	Esputo enquanto esputo.
+
+	E esputo por esputar.
+
+	Esputo pela liberdade.
+
+	E esputo pelo puro gosto de esputar.
+
+	 
+
+
+Engodar
+
+	 
+
+	 
+
+	 
+
+	Engodar é uma arte
+
+	que muitos dominam,
+
+	mas poucos admitem dominar.
+
+	 
+
+	Quem é que comeu o meu bolo?
+
+	Ninguém se pronuncia.
+
+	Claro que não.
+
+	Porque o fariam? 
+
+	O segredo 
+
+	é ficar calado
+
+	até que um outro alguém
+
+	levante o dedo.
+
+	 
+
+	E caso, 
+
+	ninguém se acusar
+
+	a dica que dou é: 
+
+	esperar.
+
+	 
+
+
+Borrifador
+
+	 
+
+	 
+
+	 
+
+	Um borrifador burro é aquele que borrifa a planta regada.
+
+	Um borrifador inútil é aquele que borrifa a planta morta. 
+
+	Um borrifador estúpido é aquele que esborrifa o candeeiro 
+
+	por não ter uma planta para borrifar. 
+
+	 
+
+	O borrifador não tem consciência. 
+
+	O borrifador não sabe o que faz. 
+
+	O borrifador faz apenas aquilo que foi feito para fazer.
+
+	 
+
+
+A Flor
+
+	 
+
+	 
+
+	 
+
+	Arranquei uma flor do Jardim
+
+	e entreguei-a à minha ex-namorada. 
+
+	 
+
+
+Sanita Sentimental
+
+	 
+
+	 
+
+	 
+
+	Tenho uma sanita sentimental.
+
+	Cago e mijo nela.
+
+	Ela diz
+
+	que eu deveria 
+
+	ser mais compreensível com ela.
+
+	Eu não a respondo.
+
+	Eu não a ouço.
+
+	Apenas cago e mijo nela.
+
+	 
+
+
+Petas
+
+	 
+
+	 
+
+	 
+
+	Todos dizem: 
+
+	não leves a vida tão a sério.
+
+	Diverte-te!
+
+	A vida é muito mais que isso.
+
+	Sê feliz!
+
+	Vamos todos ser felizes. 
+
+	Vamos dançar até cair.
+
+	Conversar até cair. 
+
+	Beber,
+
+	foder,
+
+	viver até cair. 
+
+	Então eu viro-me para a vida 
+
+	e pergunto-lhe:
+
+	“Posso ir?”
+
+	Ela olha para mim
+
+	sorri
+
+	e dá-me uma carga de porrada. 
+
+	 
+
+
+Nós, Os Prostitutos
+
+	 
+
+	 
+
+	 
+
+	Vendemos
+
+	o nosso corpo
+
+	o nosso tempo
+
+	as nossas relações
+
+	as nossas ideias
+
+	a nossa consciência
+
+	a nossa existência.
+
+	Mas ofendemo-nos, 
+
+	quando alguém nos pergunta, 
+
+	por quanto daríamos o nosso cú.
+
+	 
+
+
+Caos
+
+	 
+
+	 
+
+	 
+
+	A loiça continua na banca.
+
+	A porta continua empenada.
+
+	Os jornais continuam no chão.
+
+	E as cadeiras continuam derrubadas.
+
+	 
+
+	As garrafas ainda não se encheram.
+
+	O lixo ainda não foi levado à rua.
+
+	Os cigarros ainda não se apagaram.
+
+	E tu continuas aqui a meu lado. 
+
+	 
+
+	De olhos fechados, disfarçada de anjo
+
+	Ressonas baixinho e sorris para mim. 
+
+	Quem és tu, pequeno diabinho?
+
+	O que queres de mim?
+
+	 
+
+
+Observando Por Janelas Partidas
+
+	 
+
+	 
+
+	 
+
+	Quando te olho nos olhos
+
+	vejo uma alma miúda
+
+	perdida nos destroços.
+
+	 
+
+
+Vós
+
+	 
+
+	 
+
+	 
+
+	Prisioneiros dum mundo surreal
+
+	onde as borboletas rastejam
+
+	as árvores navegam
+
+	e as estátuas caminham.
+
+	Sois Sóis onde nem uma réstia de luz ilumina.
+
+	 
+
+	Fujam da flor que brota dentro da caixa,
+
+	ignorem as glorificações dos pirilampos apagados,
+
+	e corram pelas vossas estúpidas vidas. 
+
+	 
+
+
+Desonra
+
+	 
+
+	 
+
+	 
+
+	Não sei o que é.
+
+	Nem o que significa. 
+
+	 
+
+	Nunca o senti.
+
+	Nunca o vi.
+
+	 
+
+	Não sei o que é. 
+
+	Nem o que significa. 
+
+	 
+
+	Uma palavra inventada
+
+	por aqueles que vivem no luxo. 
+
+	 
+
+	Por isso,
+
+	não sei o que é.
+
+	Nem o que não é.
+
+	Não sei o que significa. 
+
+	Nem nunca o saberei.
+
+	 
+
+
+Condenado
+
+	 
+
+	 
+
+	 
+
+	Fui julgado e condenado
+
+	a viver comigo. 
+
+	Falam ser castigo
+
+	mas já estou habituado.
+
+	 
+
+
+O Desconhecido
+
+	 
+
+	 
+
+	 
+
+	Abraço o desconhecido 
+
+	como se fosse um velho amigo.
+
+	Um amigo de infância 
+
+	chato e atrevido 
+
+	que evito 
+
+	desde do primeiro 
+
+	coração partido. 
+
+	 
+
+	Dele não me livro.
+
+	O chato persegue-me 
+
+	até o fim.
+
+	 
+
+	Por isso, 
+
+	finjo,
+
+	não digo o que sinto, 
+
+	e sorrio, 
+
+	enquanto ele me conduz para o abismo.
+
+	 
+
+
+Sr. Henrique
+
+	 
+
+	 
+
+	 
+
+	O segurança do meu prédio
+
+	não é segurança nenhum.
+
+	Finge ser segurança
+
+	pra comer a viúva do 31. 
+
+	 
+
+
+Vida
+
+	 
+
+	 
+
+	 
+
+	A vida é tão fina
+
+	quanto uma linha perdida
+
+	pairando no espaço.
+
+	 
+
+
+Roupa Que Seca No Estendal
+
+	 
+
+	 
+
+	 
+
+	Roupas secam no estendal
+
+	enquanto como na cozinha.
+
+	Canta meu pardal, canta!
+
+	Já chegou a vizinha!
+
+	 
+
+	As roupas secam no estendal
+
+	enquanto observo a vizinha.
+
+	Canta meu pardal, canta!
+
+	As roupas não secam num temporal.
+
+	 
+
+	A vizinha recolheu as roupas do estendal
+
+	e convidou-me para um “lanchinho”.
+
+	Vou alimentar o meu pardal
+
+	e “lanchar” com a vizinha.
+
+	 
+
+
+Filósofo Burro
+
+	 
+
+	 
+
+	 
+
+	Aí filósofo burro,
+
+	quem és tu, se não um burro armado em filósofo?
+
+	O que fazes tu, se não filosofar sobre coisas burras? 
+
+	Serás um burro por filosofar sobre coisas burras? 
+
+	Ou filosofas sobre coisas burras porque és um filósofo burro?
+
+	Quem te denominou de filósofo, seu burro? 
+
+	Quem te aldrabou?
+
+	Aí filósofo burro,
+
+	és tão burro, que nem sabes o nome do aldrabão.
+
+	Ai filósofo burro,
+
+	és tão burro, que nem sabes que foste aldrabado.
+
+	Ai filósofo burro,
+
+	deixa essa vida de filosofia
+
+	e vai aprender a viver sem filosofar.
+
+	A partir de agora, 
+
+	serás apenas burro.
+
+	Um burro que aprendeu a viver a vida sem filosofar.
+
+	 
+
+
+5 Da Manhã De Uma Segunda-feira
+
+	 
+
+	 
+
+	 
+
+	5 da manhã sentado na paragem
+
+	à espera do autocarro. 
+
+	Avisto pobres com caras de enjoo.
+
+	Não os culpo
+
+	temos todos a mesma cara.
+
+	Cara de cansaço.
+
+	Cara de tristeza.
+
+	Cara de quem carrega o universo nos ombros. 
+
+	Cara de quem trabalha.
+
+	Cara de pobre. 
+
+	Cara de escravo. 
+
+	Até os graúdos têm cara de nojo.
+
+	Cara de escravo. 
+
+	De vez em vez, aparece uma cara feliz.
+
+	Mas essa é uma cara inocente
+
+	uma cara pequena e sorridente
+
+	que um dia, se Deus quiser, 
+
+	terá também uma cara de trabalho. 
+
+	Cara de pobre.
+
+	Cara de escravo.
+
+	 
+
+	O autocarro atrasou. 
+
+	O costume.
+
+	Parece que vou ficar aqui 
+
+	por mais um bom bocado.
+
+	
+ 
+
+	 
+
+
+Poema Para O Gato Aventureiro Morto Na A31
+
+	 
+
+	 
+
+	 
+
+	Quem eras tu felino? 
+
+	Quantas vidas tinhas antes de seres atropelado? 
+
+	Provavelmente uma. 
+
+	Quantos erros cometeste? 
+
+	Quantas vezes avistaste a morte? 
+
+	O que falaste com ela? 
+
+	Como lhe explicaste os teus estúpidos erros?
+
+	E como ele perdoaram tais estúpidos erros? 
+
+	Quem eras tu felino? 
+
+	Quem te pariu? 
+
+	Como te chamavas? 
+
+	Serias Rufus, 
+
+	Patusco?
+
+	Qual o nome que o teu dono humano te deu? 
+
+	Quem eras tu felino? 
+
+	Provavelmente um aventureiro. 
+
+	Os dorminhocos vivem mais tempo. 
+
+	O teu irmão deve ser um dorminhoco. 
+
+	Mas tu gostas de aventuras, não é? 
+
+	Tu gostas do perigo.
+
+	Da adrenalina.
+
+	Eu sei, já ouvi essa conversa antes. 
+
+	Tu nunca paraste, pois não? 
+
+	Não, claro que não. 
+
+	Não era da tua natureza. 
+
+	Tu eras um aventureiro! 
+
+	Um gato aventureiro morto na A31.
+
+	 
+
+
+A Pergunta Que Se Coloca
+
+	 
+
+	 
+
+	 
+
+	Um flor morta na mão direita
+
+	um poio de merda na mão esquerda
+
+	e a questão que se coloca é: 
+
+	 
+
+	Quão distintos são estes dois componentes, na verdade?
+
+	 
+
+
+Americanização
+
+	 
+
+	 
+
+	 
+
+	Americanizar é uma arte 
+
+	que o português domina. 
+
+	Americaniza-se tudo e todos
+
+	de todas as formas e feitios. 
+
+	Ora a música.
+
+	Ora os livros.
+
+	Ora os filmes.
+
+	Ora o pequeno-almoço.
+
+	Ora o almoço.
+
+	Ora o lanche.
+
+	Ora o jantar. 
+
+	Ora a política.
+
+	Ora a medicina.
+
+	Ora a engenharia. 
+
+	Ora tudo e mais alguma coisa. 
+
+	Dizemos os mesmos palavrões.
+
+	Escrevemos os mesmos textos.
+
+	Cagamos os mesmos cagalhões.
+
+	Somos mesmo bons a americanizar Portugal.
+
+	Quem sabe um dia,
+
+	seremos mais e melhores americanos
+
+	que os próprios americanos alguma vez serão.
+
+	 
+
+
+Cagar D´alto
+
+	 
+
+	 
+
+	 
+
+	Cago d’alto pra vós.
+
+	E cago d’alto duma maneira jamais vista.
+
+	Cago d’alto de bruços.
+
+	Cago d’alto de mariposa. 
+
+	E até cago d’alto a correr.
+
+	Olhem para mim, sou um maratonista de cagar d’alto!
+
+	Olhem para esta elegância.
+
+	Olhem, olhem!
+
+	Olhem para mim, sou o rei de cagar d’alto!
+
+	Tratem-me por Rei Cagalhão dos Céus I!
+
+	Ninguém fala!
+
+	Sh! 
+
+	Calado, eu mandei!
+
+	Seus arrogantes que nem cagar sabem!
+
+	Todos juntos nem constituem um terço 
+
+	de uma areiazinha do meu cagalhão!
+
+	Silêncio!
+
+	Tapem a boca e o nariz, 
+
+	sentem-se e aprendam com o vosso Deus!
+
+	 
+
+
+A Carta
+
+	 
+
+	 
+
+	 
+
+	Lá está ela-
+
+	A maldita carta.
+
+	Ela sabe,
+
+	ela sabe o que é
+
+	ela sabe que a detesto
+
+	por isso, me observa sempre que passo por ela.
+
+	 
+
+	Desde o dia que me a enviaste, não abri.
+
+	Deixei-a intocada, inaberta.
+
+	E ela sabe, 
+
+	ela sabe os meus receios
+
+	ela sabe os meus medos.
+
+	 
+
+	Ela lê-me.
+
+	E eu só a olho.
+
+	 
+
+	Ela traz sarilhos.
+
+	Não.
+
+	Ela É sarilhos.
+
+	Ela É maldita. 
+
+	 
+
+	Mas tu-
+
+	TU-
+
+	TU és pior que ela. 
+
+	 
+
+
+Abusos
+
+	 
+
+	 
+
+	 
+
+	A Desgraça beija-me à força.
+
+	— Larga-me! 
+
+	Ela não me larga. 
+
+	 
+
+	Por isso, desisto, deixo-a usar o meu corpo
+
+	e choro.
+
+	Choro todos os cinco oceanos e mais alguns. 
+
+	 
+
+	Crio o meu próprio planeta oceânico.
+
+	Onde não há terra
+
+	nem sol
+
+	apenas água, 
+
+	eu e a Desgraça.
+
+	 
+
+
+O Punk Culto
+
+	 
+
+	 
+
+	 
+
+	Uma fila do supermercado.
+
+	Um toque no ombro.
+
+	— Posso passar à sua frente, senhor?
+
+	Um rosto coberto de metais e tatuagens.
+
+	— Tá com pressa?
+
+	— Estou atrasado para a aula. 
+
+	— Passe. 
+
+	— Muito obrigado, senhor. 
+
+	— Tudo bem, também já fui universitário. 
+
+	— Universitário? Não senhor, sou professor. 
+
+	— Professor? De quê?
+— Literatura, senhor. 
+
+	— O senhor fez isso por vontade própria? 
+
+	Aponto para o rosto. 
+
+	— Fiz, senhor.
+
+	— Masochista?
+
+	— Um pouco.
+
+	— Cada um com a sua, não é verdade?
+
+	— Exato. 
+
+	Sorrisos.
+
+	— E o senhor, faz o quê?
+
+	— Literatura. 
+
+	— Professor? 
+
+	— Escritor. 
+
+	— Masochista? 
+
+	— Um pouco. 
+
+	Sorrisos.
+
+	Despedida. 
+
+	 
+
+
+Valor Do Tempo
+
+	 
+
+	 
+
+	 
+
+	Quanto vale um minuto do teu Tempo? 
+
+	1€?
+
+	10€?
+
+	E uma hora do teu Tempo? 
+
+	Uma Torradeira MOULINEX LS330D11 (1400W)?
+
+	Uma TV LG 50UN74006 (LED - 50″ - 127 cm - 4K Ultra HD - Smart TV)?
+
+	E uma década do teu Tempo?
+
+	Um Fiat 500X 1.3 FireFly S-Design 2019 - 7810 km - gasolina - 150 cv?
+
+	E todo o Tempo da tua Vida? 
+
+	Um Duplex com 90 m² em Lisboa com dois quartos de dormir e dois quartos de banho? 
+
+	 
+
+
+Espelhos
+
+	 
+
+	 
+
+	 
+
+	Há quem me pergunte:
+
+	“Não te olhas ao espelho?”
+
+	E eu digo:
+
+	“Não.
+
+	Mas a culpa não é minha.
+
+	Eles fogem de mim.”
+
+	Então, eles fazem uma careta
+
+	e fogem de mim. 
+
+	Então, eu corro atrás deles
+
+	e grito:
+
+	“Eu não os odeio!
+
+	Eu juro!
+
+	Eu gosto de espelhos!
+
+	Mas eles fogem de mim!”
+
+	Quando os perco de vista
+
+	paro e volto para minha casa.
+
+	Para o meu beco
+
+	sem espelhos
+
+	sem comida
+
+	sem saída.
+
+	 
+
+
+O Meu Espaço
+
+	 
+
+	 
+
+	 
+
+	Este é o meu espaço
+
+	aqui é onde vivo
+
+	aqui não há regras
+
+	apenas as que defino. 
+
+	 
+
+	De planeta em planeta
+
+	voou e levito
+
+	aqui sou famoso e bem-parecido
+
+	charmoso e tenho guito.
+
+	 
+
+	Foi aqui neste espaço
+
+	numa noite estrelada
+
+	que os planetas se alinharam 
+
+	e me declaram seu rei. 
+
+	 
+
+
+Eu E O Meu Urso De Estimação
+
+	 
+
+	 
+
+	 
+
+	Carrego um urso pesado
+
+	para tudo que é lado.
+
+	Todas as horas ele pede
+
+	por comida. 
+
+	Todas as horas ronca
+
+	a sua barriga.
+
+	Então, eu ando
+
+	carregando-o às costas
+
+	todo o dia à procura 
+
+	de comida. 
+
+	Depois cozinho, comemos
+
+	e seguimos caminho. 
+
+	 
+
+
+Não Ouçam A Vossa Mente
+
+	 
+
+	 
+
+	 
+
+	Não ouçam a vossa mente
+
+	ela já não vos pertence
+
+	ela foi manipulada, envenenada, enfeitiçada
+
+	ela está estragada.
+
+	 
+
+	Não ouçam a vossa mente
+
+	ela já não funciona
+
+	ela foi vendida, leiloada, comprada
+
+	ela está viciada.
+
+	 
+
+	Por favor, não ouçam a vossa mente
+
+	ela já não é o que era
+
+	ela foi adormecida, espancada, violada
+
+	ela está fraca. 
+
+	 
+
+	Não ouçam a vossa mente
+
+	ela já não é vossa. 
+
+	 
+
+
+Musicalidade Da Minha Cidade
+
+	 
+
+	 
+
+	 
+
+	Vrum! Vrum! Vrum! Vrum! Vrum…
+
+	Quá Quá Quá...!
+
+	“Mamã, podes comprar um balão?”
+
+	“Hoje não, querida.”
+
+	Buááááá...!
+
+	Smack!
+
+	“Vamos para casa!”
+
+	“Ei, a senhora não pode bater na sua filha!”
+
+	“Meta-se na sua vida!”
+
+	Buááááá…!
+
+	Pi Piii!
+
+	“Olha para onde andas, palhaço!”
+
+	Quá Quá Quá…!
+
+	“Está verde!”
+
+	Vrum! Brum!
+
+	Vrum! Vrum! Vrum! Vrum! Vrum…
+
+	Toclof! Toclof! Toclof! ...
+
+	Cof, Cof.
+
+	“O senhor está a escrever?”
+
+	“Sim, senhora.”
+
+	Quá Quá Quá…!
+
+	Vrum! Vrum! Vrum! Vrum! Vrum...
+
+	“O senhor está a escrever este diálogo?”
+
+	“Sim, senhora.”
+
+	“Esquisito. Tenha um bom dia.”
+
+	“Igualmente, senhora.”
+
+	Toclof! Toclof! Toclof! Toclof! …
+
+	Quá Quá Quá…!
+
+	Vrum! Vrum! Vrum! Vrum! Vrum!...
+
+	 
+
+
+A Rosa Que Já Não Significa Nada
+
+	 
+
+	 
+
+	 
+
+	Vês, minha filha, aquela rosa sem cor, murcha e partida?
+
+	Era a rosa da tua mãe querida.
+
+	Aquela rosa fora em tempos colorida.
+
+	Aquela rosa não era apenas uma rosa, era pura vida.
+
+	A escuridão da noite e a luz do dia.
+
+	A extensão da prosa e a pureza da poesia.
+
+	A mentira da verdade e a verdade da mentira.
+
+	A questão pervertida e a resposta proibida.
+
+	A chata rotina e a erótica fantasia.
+
+	 
+
+	Mas já não é nada disso,
+
+	agora é apenas uma rosa sem cor, murcha e partida.
+
+	 
+
+
+Poema Vulpino
+
+	 
+
+	 
+
+	 
+
+	Presságios e não-obstantes características do meu ser
+
+	gracejam uma causa de culpa por cada palavras proferida pelas marés.
+
+	Almejam todos os pertences invisíveis por razões oscilantes nascente de natura.
+
+	Que tortura ocultar os superlativos mais numerosos por causas menos nobres. 
+
+	Quem se atreve a reivindicar uma colmeia de catástrofes aproximantes de níveis inalcançáveis? 
+
+	Criatura improvisada de tecidos orientais descendentes daqueles que mais te torturam,
+
+	porque usais um fardo negativo ao meu?
+
+	 
+
+	Tanto palavreado e eu não faço puto de ideia o que escrevi. 
+
+	(Seja um bom leitor e esclareça-me, por favor.)
+
+	 
+
+
+Artista No Palco
+
+	 
+
+	 
+
+	 
+
+	Celebra artista, celebra!
+
+	Este é o teu momento!
+
+	Sorri!
+
+	Aprecia-o!
+
+	Capta-o!
+
+	Hm, palmas que bom! 
+
+	Agarra-os e guarda-os para mais tarde. 
+
+	Vais precisar. 
+
+	Aceita os elogios que te dão.
+
+	Deixa-os massagear o teu triste ego. 
+
+	Fizeste um excelente trabalho! 
+
+	Parabéns!
+
+	És o melhor artista do mundo!
+
+	Salvaste muitas vidas!
+
+	É um herói!
+
+	Que maravilhoso momento que é este!
+
+	Aprecia cada segundo e sê feliz.
+
+	Sente a adrenalina. 
+
+	Estavas mesmo a precisar dela.
+
+	Vá, faz amor com ela
+
+	Tu mereces!
+
+	Ahhhh…!
+
+	Pronto acabou.
+
+	Sai do palco e enfia-te novamente no quarto. 
+
+	Deixa a tristeza e as dúvidas guiar-te novamente.
+
+	Deixa as horas passarem...
+
+	E os dias...
+
+	E as semanas...
+
+	E os meses...
+
+	E os anos...
+
+	Tristeza e dúvidas
+
+	Que amigas divinas!
+
+	É tão bom tê-las de volta. 
+
+	Mas já sabia bem uma dose da droga, não?
+
+	Nem por mais pequena que ela seja. 
+
+	Terás uma montanha de adrenalina daqui a nada
+
+	Não te preocupes.
+
+	Quando deres por ti acabaste mais um trabalho. 
+
+	Um excelente trabalho
+
+	Um magnífico trabalho
+
+	Muito bem, artista!
+
+	Bom trabalho! 
+
+	És o melhor do mundo mais uma vez!
+
+	Agora volta para o quarto!
+
+
+Café Estrangeiro
+
+	 
+
+	 
+
+	 
+
+	O café do Ferreiro
+
+	é uma atração turística.
+
+	E como turista que sou
+
+	entrei no café do Ferreiro.
+
+	 
+
+	“O costum, senhr Henriq?”
+
+	“O costum, senhr Ferreir.”
+
+	Então, ele trouxe-me o costume
+
+	que não era costume nenhum.
+
+	 
+
+	“Que raio de café é est!?”
+
+	“Ora, o costum, senhor Henriq.”
+
+	“Ist nã é o café d´ costum!”
+
+	“Ist nã é fort, nem frac…”
+
+	“Nã é azed, nem doce…”
+
+	“Nã tê borr, nem espum”
+
+	“Ist nã é o café do costum nenhum!”
+
+	 
+
+	“Tem razã” disse o Ferreiro.
+
+	“Iss é café do estrangeir.”
+
+	 
+
+
+Um Segundo
+
+	 
+
+	 
+
+	 
+
+	00:00
+
+	Um comboio
+
+	Duas linhas
+
+	Um corpo
+
+	00:01.
+
+	 
+
+
+X-ato
+
+	 
+
+	 
+
+	 
+
+	A polícia apareceu à minha porta
+
+	interrogaram-me sobre um tal ato x
+
+	disse-lhes que nada sabia sobre o tal ato x.
+
+	Então o policia disse:
+
+	“E o boato?”
+
+	“Que boato?”
+
+	“O boato do ato x!”
+
+	Então eu disse:
+
+	“Eu não sei nada sobre esse tal ato x!”
+
+	“E o X-ato?”
+
+	“Que X-ato?”
+
+	“O do boato!”
+
+	“Eu não tenho nenhum X-ato!”
+
+	“Não é isso que diz o boato.”
+
+	“Não me interessa o que diz esse tal boato inventado!
+
+	Eu não fiz esse tal ato X, nem tenho nenhum X-ato!”
+
+	“Podemos revistar o seu quarto?”
+
+	“Claro.”
+
+	Então eles revistaram o quarto.
+
+	“De fato, não há nada neste quarto que prove o boato.
+
+	Nesse caso, vamos andando.”
+
+	E eles saíram.
+
+	 
+
+
+A Ilha E O Náufrago
+
+	 
+
+	 
+
+	 
+
+	Depois da tempestade
+
+	e o navio derrubado
+
+	ele nada até ti, desesperado
+
+	magoado, agarra-se a ti
+
+	como se fosses a sua única esperança.
+
+	Tu,
+
+	que viveste tempos solitários
+
+	durante todos estes anos
+
+	rodeada de desastres
+
+	águas bravas e salgadas
+
+	solicitas sorridente o aventureiro
+
+	que se arrasta pela tua areia.
+
+	Ele beija-te e tu o beijas
+
+	sois fervorosos amantes
+
+	à procura duma escapatória
+
+	do mundo que vos rodeia.
+
+	E assim vivereis felizes para sempre
+
+	tu bela eternamente
+
+	ele desfazendo-se em areia.
+
+	 
+
+
+Libertação Depois Da Escravidão
+
+	 
+
+	 
+
+	 
+
+	Eles tratam-nos como se nos estivessem a fazer um favor.
+
+	Prometem-nos tudo e mais alguma coisa, sem tirar nem pôr.
+
+	Depois bulas de madrugada até o sol se pôr.
+
+	Chupam a tua honra e o teu dispor.
+
+	Matam a tua alma e o teu valor.
+
+	Sanguessugas que vivem no luxo 
+
+	com o teu sangue e suor. 
+
+	Esses filhos da puta 
+
+	não serão derrotados com abraços e amor.
+
+	Pega na adaga
+
+	apanha esse manipulador.
+
+	Pega na adaga
+
+	mata esse usurpador.
+
+	Agarra a tua honra.
+
+	Agarra o teu dispor.
+
+	Recupera a tua alma
+
+	Recupera o teu valor.
+
+	Vai ser feliz
+
+	Vai viver sem dor.
+
+	Vai ser feliz
+
+	Vá, andor!
+
+	 
+
+
+Poema Para A Minha Drogada Favorita
+
+	 
+
+	 
+
+	 
+
+	Sempre que vou ao parque 
+
+	lá estás tu
+
+	com um chupa na boca
+
+	mini-saia torta
+
+	e o cabelo descabelado.
+
+	Que fizeste tu esta noite?
+
+	Por onde andaste? 
+
+	Quantos caralhos chupaste esta noite? 
+
+	Quantas vezes choraste? 
+
+	Essa maquiagem desbotada não engana ninguém
+
+	muito menos a mim
+
+	e esse mundo alucinado em que vives, 
+
+	não daria nem um vintém.
+
+	Mas tu és tu, 
+
+	e eu sou eu.
+
+	 
+
+	Sentas-te a meu lado e choras a meu ombro
+
+	Eu fico calado e afego-te o cabelo.
+
+	Se não fosse esse teu vício,
+
+	seríamos um par perfeito.
+
+	Se não fosses tu o meu vício,
+
+	seria um homem perfeito.
+
+	 
+
+
+Rachadura No Pára-brisas
+
+	 
+
+	 
+
+	 
+
+	— Porque não consertas o pára-brisas? 
+
+	— Não tenho dinheiro. — minto. 
+
+	 
+
+	Já tenho a rachadura há anos
+
+	e não será agora que a vou consertar. 
+
+	Sempre que olho para ela
+
+	recordo-me delas
+
+	das suas últimas palavras
+
+	dos seus últimos berros
+
+	do seu sangue escorrendo 
+
+	pelos seus esbeltos rostos abaixo.
+
+	 
+
+	— Aonde vamos? 
+
+	— A um sítio especial. — digo.
+
+	 
+
+
+Ideias
+
+	 
+
+	 
+
+	 
+
+	Tenho muitas ideias
+
+	mas são apenas ideias.
+
+	 
+
+	Algumas vão e voltam
+
+	por vezes só vão
+
+	e não voltam. 
+
+	 
+
+	As que voltam
+
+	só vão uma vez. 
+
+	e se voltarem
+
+	é porque gostaram de mim
+
+	e eu gostei delas.
+
+	 
+
+
+Aspirador
+
+	 
+
+	 
+
+	 
+
+	Aspira, aspira aspirador
+
+	Aspira o meu quarto.
+
+	Aspira o pó.
+
+	Aspira os lenços amarrotados.
+
+	Aspira os líquidos derrubados.
+
+	os invisíveis, os vermelhos, os verdes e os brancos.
+
+	Aspira, aspira aspirador
+
+	Aspira já agora, 
+
+	todas as fotografias do passado e-
+
+	os presentes que já nada me dizem.
+
+	Aspira as aranhas que aqui habitam 
+
+	e as formigas que já habitaram. 
+
+	Aspira a roupa.
+
+	Aspira os quadros. 
+
+	Aspira a escuridão 
+
+	E aspira a luz. 
+
+	Aspira tudo o que quiseres
+
+	menos as canetas e as folhas.
+
+	 
+
+
+O Último Poema
+
+	 
+
+	 
+
+	 
+
+	Chegando ao topo
+
+	trepei o tronco
+
+	peguei na corda
+
+	atei-a ao ramo
+
+	cerquei o pescoço
+
+	…
+
+	 
+
+	Saltei pro nada
+
+	e balançando no nada
+
+	curti a vista
+
+	…
+
+	 
+
+	Morri.
+
+	 
+
+
+Fantasma
+
+	 
+
+	 
+
+	 
+
+	Queria voltar
+
+	para o meu antigo eu.
+
+	Poder saltar, sentir,
+
+	tocar, masturbar,
+
+	amar, existir.
+
+	Deixar este mundo 
+
+	onde nada é real
+
+	e tudo é translúcido.
+
+	Deixar de ser mudo.
+
+	Deixar de ser nada
+
+	e tornar-me um tudo.
+
+	 
+
+	Apenas - 
+
+	mais uma vez.
+
+	 
+
+
+ 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Fim.
+
+	 
+
+
+Sobre o Autor
+
+	 
+
+	Marinho Alves de Castro nasceu no ano de 1999, em Famalicão. 
+
+	No ano de 2012, descobriu uma das suas grandes paixões, a leitura. 
+
+	Pouco mais tarde, dedicou-se a escrever textos e poesias, originando assim o “Aqui Sentado Na Lua.”
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Sigam-me:
+
+	 
+
+	Instagram: @marinhoescritor
+
+
+

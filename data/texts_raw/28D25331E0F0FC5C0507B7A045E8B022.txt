@@ -1,0 +1,2233 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vencecavalo e o outro povo
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 1974 by João Ubaldo Ribeiro
+
+Todos os direitos desta edição reservados à
+
+Editora Objetiva Ltda.
+
+Rua Cosme Velho, 103
+
+Rio de Janeiro — RJ — Cep: 22241-090
+
+Tel.: (21) 2199-7824 — Fax: (21) 2199-7825
+
+www.objetiva.com.br
+
+Capa
+
+Rodrigo Rodrigues
+
+Imagem de capa
+
+© Kamil Vojnar / Trevillion Images
+
+Revisão
+
+Ana Kronemberger
+
+Fatima Fadel
+
+Coordenação de e-book
+
+Marcelo Xavier
+
+Conversão para e-book
+
+Abreu’s System Ltda.
+
+
+
+
+CIP-BRASIL. CATALOGAÇÃO-NA-FONTE
+
+SINDICATO NACIONAL DOS EDITORES DE LIVROS, RJ
+
+R369v
+
+Ribeiro, João Ubaldo
+
+Vencecavalo e o outro povo [recurso eletrônico] / João Ubaldo Ribeiro. - 1. ed.- Rio de Janeiro: Objetiva, 2013.
+
+83 p., recurso digital
+
+Formato: ePub
+
+Requisitos do sistema: Adobe Digital Editions
+
+Modo de acesso: World Wide Web
+
+ISBN 978-85-7962-243-4 (recurso eletrônico)
+
+1. Romance brasileiro. 2. Livros eletrônicos. I. Título.
+
+13-02554. CDD: 869.93
+
+CDU: 821.134.3(81)-3
+
+
+Sumário
+
+
+Capa
+
+
+
+Folha de Rosto
+
+
+
+Créditos
+
+
+
+Dedicatória
+
+
+
+Vencecavalo Santos Bezerra
+
+
+
+Tombatudo Santos Bezerra
+
+
+
+Rombaquirica Santos Bezerra
+
+
+
+Sangrador Santos Bezerra
+
+
+
+Abusado Santos Bezerra
+
+
+
+Para Ribeiro, Jorge e Tenente
+
+
+Vencecavalo Santos Bezerra
+
+Sabe-se que Vencecavalo é hoje bancário aposentado e reside em Florianópolis, onde mantém uma agremiação intitulada Grêmio Metafísico-Espiritualista Catarinense, que se corresponde amplamente com entidades semelhantes de todas as partes do mundo, sendo responsável, inclusive, por diversas teses originais nesse setor. Todo Sete de Setembro, Vencecavalo, atendendo pelo nome civil de Euclides Santafé (que, em Florianópolis, como em qualquer lugar, passa completamente despercebido, exceto pelos que o notam por uma razão ou por outra), coloca uma bandeira de aço esmaltado em cada aba do paletó e, vestido de azul-marinho, dirige-se às ruas centrais da cidade, para assistir à parada. De manhã, vê a parada das forças armadas. De tarde, assiste à parada dos escolares. Esse esquema sofre algumas variações de ano para ano, porque, se hoje a parada das forças armadas é de manhã, para o ano pode ser de tarde, ou pode variar sutilmente de horário — um ano às nove e trinta, outro às nove e trinta e dois, ainda outro às nove e vinte e oito e por aí vai, podendo o interessado encontrar dados precisos nos Anais das Paradas em Florianópolis, dos quais há somente um exemplar de edição fidedigna, na biblioteca pública de Petrópolis, por doação de um erudito fiscal do consumo que emigrou de Santanópolis para Carmópolis e depois para Florianópolis e assim por diante, sem que jamais tivesse podido observar diferença alguma. De qualquer maneira, isso não vem ao caso, já que Euclides experimenta intensos orgasmos durante ambas as paradas, pouco se lhe dando tratar-se de uma parada de forças armadas ou de uma parada de escolares, embora, em relação a esta última, um leve rubor lhe assome às faces. Aperta-se-lhe a próstata, constrangem-se-lhe os baixios no ritmo do rufar dos tambores e, se o viandante se detiver a mirá-lo, perceberá que, a relativamente curtos intervalos, Euclides Santafé revira os olhos diante da marcada procissão e dobra os joelhos espasmodicamente, murmurando elocuções destituídas de significado aparente, mas sem dúvida inspiradoras. Trata-se de Euclides desfrutando da parada.
+
+Euclides planeja, para quando tiver netos, levá-los a ver porcos, galinhas e outros animais enquanto são mortos. Raciocina ele que, por sermos naturalmente matadores e comedores de animais, convém que se acostumem as crianças a observar como os mencionados animais são preparados para consumo. Por exemplo, quanto ao porco, utiliza-se uma faca pontiaguda, enfia-se essa faca no cangote do porco, o porco faz um esporro incrível etc. Euclides emprega diversas expressões para designar este e outros atos matantes, tais como “exalou o último suspiro o nobre animal”, “jaz por terra mais um testemunho da continuidade vital” e “mais um porco (capitalista, comunista, americanista, fascista, conforme) acaba de ser sacrificado, para que não deixemos de abastecer os terminais proteicos tão indispensáveis à existência corpórea”. Julga Euclides que as crianças assim ensinadas adquirem responsabilidade pela vida; perdem a hipocrisia; dão maridos e esposas muito melhores; aprendem muito melhor matemática e história, além de educarem o ouvido para inglês; pegam o gostinho pelas coisas. Às vezes, Euclides se masturba enquanto pensa em tais assuntos, mas isso é muito natural e não merece referência. Mais referência merecem o presunto e outros úteis subprodutos da porcalidade.
+
+Nem sempre, contudo, foi assim. Quando Vencecavalo nasceu, fazia lua nova. Como todos sabem, a lua nova de outubro é diferente de qualquer outra lua nova, mesmo a lua nova de março. Vencecavalo nasceu exatamente quando havia uma crise ministerial, uma orgia de nepotismo e vários problemas referentes ao Produto Interno Bruto (PIB). O nascimento de uma criança é sempre uma coisa maravilhosamente original, como foi o nascimento de Vencecavalo, embora houvesse ocorrido a mesmíssima confusão, porque a mulher sempre toma um susto, ao ver aquele vencecavalinho saindo de suas cavidades íntimas. Muito bem, nessa altura, sabendo exatamente onde tinha o nariz, Vencecavalo decidia, para não complicar as coisas, nascer na Borengânia — minúsculo país cravado no coração da Europa central ou, se isso também der problema, no coração da Ásia central, da Austrália, ou de qualquer outro lugar permissível — e tinha suas esperanças de sossego esfaceladas, porque existia exatamente a mesma crise ministerial na Borengânia. É fato provado e documentado que, quando existe uma crise ministerial, se torna difícil que alguém consiga livrar-se dela. E, quanto ao Produto Interno Bruto, pode-se afirmar, entre outras coisas:
+
+que, por mais que se tentasse, ele não produzia o suficiente;
+
+que a frase acima é uma patente falácia, mas que sua correção fica meio indiferente, considerando-se que, mesmo ela corrigida, o Produto Interno Bruto ainda não daria, embora por motivos diametralmente opostos;
+
+que, se por um lado era possível melhorar as coisas, qualquer melhora implicava uma piora, por outro lado;
+1
+
+
+que, em sendo assim, era necessária uma redefinição de objetivos, uma dinamização do processo e uma colocação lúcida, além da união de todos em torno dos vários modos de superar a desunião reinante;
+
+que assim como estava era que não podia ficar, mas continuar sem ter estado apresentava problemas insolúveis;
+
+que tudo pode ser facilmente equacionado pela fórmula 
+, em que o primeiro termo é taxa de crescimento, o segundo é razão de investimento e o terceiro é relação capital-produto, o que mostra que tudo é analisável e não há o que temer do confronto com os fatos irretocados.
+
+Que fez Vencecavalo, assim nascido num momento de crise? Em primeiro lugar, perguntou-se a respeito do seu papel em tudo aquilo. Em segundo lugar, observou que, não sendo todas virgens as mulheres de Vila Necas, onde nasceu, uma simples correlação positiva seria facilmente estabelecida entre a ausência de virgindade (estado em que a mulher não deu para ninguém, nem mesmo aos que pediram com decência e honestidade) e o descalabro que se descortinava no horizonte. Da mesma forma o jogo de dominós na praça, todos os sábados e domingos, bem como as conversas dos que não tinham dinheiro para comprar um jogo de dominós ou não gostavam de dominós, embora sempre se tivesse jogado dominó naquela comunidade, tudo isso contribuía para a grave situação do Produto Interno Bruto. Por conseguinte, Vencecavalo, emergindo eruptivamente das mais graciosas partes de sua mãe, experimentou as asas de sua montaria e partiu por esse mundo de meu Deus afora, para combater a covardia e a falta de hierarquia. Levou consigo uma sela de trabalho e uma sela esportiva; uma espada de aço temperado; um embornal cheio de paçoca; um legítimo canivete Corneta; um boné, presente de seu avô Domiciano; uma pasta modelo James Bond; um roteiro das viagens diárias dos navios da Navegação Baiana; uma coleção completa das obras de Henry Ford; um caráter férreo e inquebrantável; um senso perfeito da ordem e da decência; vinte e seis bolas de gude, sendo cinco raiadas e quatro valiosíssimas; os retratos da família; um cantil de chá de cidreira; duas pedras de sílex que, entrechocadas com movimentos secos e bruscos, produziam esplêndidas faíscas; um par de cuecas brancas e sóbrias, habilmente engomadas; dois exemplares do Jornal dos Sports,
+ um narrando toda a vida do guarda-valas Veludo e outro com as estatísticas completas dos jogos do Brasil contra a Suécia; uma coleção de estampas Eucalol; um toca-fitas estereofônico com todas as gravações de Edith Piaf; um livro de poemas, dedicado pelo autor; uma voz estentórea e um pulso de ferro; dois diplomas, sendo que um do curso de extensão para filhos de família da paróquia de Vila Necas e outro da Lira Harmônica de Conceição do Coité; um dicionário das mais lindas citações dos mais famosos autores; um rolo de papel higiênico, para caso de necessidade; um olhar agudo e perceptivo; a compreensão para os amigos e a justiça para os inimigos; uma agenda, com tudo organizado; sólidos conhecimentos de matérias obscuras e os apontamentos iniciais de um livro relacionando o monofisismo com o nominalismo, do seu próprio punho; a confiança no fio do bigode; uma estatueta do Marechal Floriano Peixoto, com o pedestal escrito em bronze: “À bala!”; um relicário da sabedoria popular através dos tempos; um bilhete de sua mãe, recomendando prudência, amor ao próximo e olho vivo, porque todo mundo é vigarista neste vale de lágrimas; um manual de guerra de cavalaria, constando um apêndice sobre a psicologia da égua; um saco de água quente; cinco dentes de alho; a frase “mais vale uma boa intenção do que um coração enegrecido pela inveja”, inscrita numa medalha de Nossa Senhora Aparecida; a firme determinação de proscrever a não virgindade, proibir o jogo de dominó e decretar a reforma agrária (ou, caso isso se revelasse difícil, a reforma tributária, a dos costumes undsoweiter).
+
+Assim escrupulosamente preparado para defender o Produto Interno Bruto, Vencecavalo convocou uma assembleia-geral e expôs seus pontos de vista, concluindo com um volteio de frase que terminou em latim. Depois do vibrante pronunciamento, em que diversos doutores o apartearam para oferecer o seu apoio e levantar fracas dúvidas retóricas, Vencecavalo enfrentou as perguntas da assembleia, transmitidas através do Comitê Saneador de Perguntas e Perguntadores de Assembleia-Geral, ali reunido especificamente para esse fim.
+
+— Como poderemos micremaconar ratudamente o problema criado pela defasagem entre a dirilação epimêndica e a nova estrutura das obrigatáveis ressulações aparentes, considerando ainda o know-how, underwriting e o holding?
+
+— Não deixe a peteca cair! — verberou Vencecavalo, agitando os braços.
+
+— É possível que o Bralono Nacional de Norlonga Pública e seus aderentes venham a obstripular, mesmo que protrosamente, o nosso beteletimento regional?
+
+— Não me traga problemas, me traga soluções! — retrucou célere Vencecavalo, levantando energicamente o queixo para a frente e para o alto.
+
+— Como equacionar o problema da marculização elementar, entre todas estas fobrinas, em meio a todas as monaidículas, por gerutras e angerutras, quando não há sursos nem alomendas?
+
+— É fazendo força que a gente faz força! — gritou Vencecavalo, as veias intumescidas pela paixão.
+
+Diante desta última exortação, prorrompeu em aplausos a multidão reunida, não sendo difícil para Vencecavalo liderar a todos, na guerra que se declarou, entre o Produto Interno Bruto da Borengânia e inúmeros outros produtos internos brutos das circunvizinhanças. Mesmo porque Vencecavalo mandava dar uma martelada na cabeça de quem discordava; se a discordância prosseguia, ele mandava dar duas marteladas; se não adiantava, ele mandava dar umas machadadas, essas coisas. Depois de algum tempo, ninguém mais discordava, porque dava muita dor de cabeça discordar. No front interno, o planejamento encetado começou a render frutos. Tudo somado, o Produto Interno Bruto dava:
+
+18 dúzias de ovos frescos
+
+32 capoeiras de galinha
+
+1/2 jipe
+
+1 chave de fenda, em perfeito estado de conservação
+
+1 boi roncolho
+
+2 vacas
+
+4 centos de goiaba
+
+Abobra pra caralho
+
+38 compositores populares
+
+1 máquina de costura Leonam
+
+Farta distribuição de brindes
+
+6 picolés de morango (essência)
+
+A melhor enfiadora de agulha do mundo
+
+Muito cupim
+
+187 000 dormentes fora de bitola
+
+1 safra de feijão bufante
+
+1 cachoeira colorida
+
+7 pneus, sendo que um sem câmara
+
+Mosca adoidado
+
+1 pé de eucalipto
+
+Bastante cocô de boi
+
+2 índios, todos os dois muito burros
+
+3 turistas
+
+28 bacharéis e seus diplomas
+
+8 chicharros
+
+1 orçamento com déficit e outro com superávit, conforme
+
+6 borengas e 13 borenganetes de renda per capita
+
+321 000 jacas
+
+1 lauto almoço
+
+119 cineastas
+
+15 garrafas de vinho de jurubeba
+
+3/4 de máquina de somar Facit
+
+Já se tornava sensível a melhora em relação ao ano anterior, quando se colheu o mesmo número de abóboras e goiabas, mas deu bicho em quase tudo. A taxa de bicho foi heroicamente reduzida, graças a uma série de medidas profiláticas e de educação social. No primeiro caso, utilizou-se o Metano-Fenil-P-Propilamina-Acetil-P (hidrogenado), que se revelou de singular eficiência. Ao ingerir a nefária substância, o bicho entrava em convulsões, adquiria manias de travesti e falecia antes de dar entrada no nosocômio, irreconhecível. Geralmente, a árvore morria também, mas isso, naturalmente, não entrava nas estatísticas, por não haver categoria “árvore matada”. Quanto ao segundo aspecto, encorajava-se a população a não mencionar a existência de bichos de goiaba (ou abóbora). Quando alguém, mesmo assim, denunciava um bicho, encaminhava-se esse certo alguém à Superintendência Borenganiana de Bichos de Goiaba e Abóbora (SUBOBIGOBRA
+), onde a pessoa preenchia doze petições com letra caprichada e, em seguida, era posta a desfilar na rua, carregando uma pena de pavão e murmurando “ah se não fosse a Rainha Vitória”. Finalmente, o queixante era obrigado a dormir em companhia de um retrato colorido de Perón. Isso ajudou muito a eliminar o bicho.
+
+À medida que o tempo passava, a situação de Vencecavalo se firmava, com exceção de um ou outro incidente esporádico, que não chegava a empanar-lhe o brilho dos inúmeros feitos que já o consagravam. Por exemplo, o Produto Interno Bruto começou a ressentir-se de uma certa inflação. Reunido com os seus principais assessores, Vencecavalo rapidamente denunciou a inflação ao país, chamou-a de filha da puta, veada etc. e, em seguida, inquiriu sobre o que era inflação. Informado de que havia um excesso de meio circulante, ele mandou retirar de circulação todo o dinheiro em que os fiscais do governo pudessem botar as mãos. Como consequência disso, a economia sofreu uma súbita parada, pois os únicos a comprar eram os fiscais, que não se constituíam em freguesia suficiente. Perplexo, Vencecavalo mandou devolver a maior parte dos borengas e borenganetes à circulação, além de mandar fazer mais alguns outros à ­custa de grandes sacrifícios, já que a firma que imprimia os borengas e borenganetes não aceitava borengas como pagamento e muito menos borenganetes. Vencecavalo resolveu tudo de forma muito brilhante. Chegou lá ao Eximbank e falou, disfarçando para ninguém desconfiar:
+
+— O senhor podia me arranjar novecentos dólares, por favor?
+
+— Pois não — disse o homem do Eximbank. — Aqui está.
+
+— Muito obrigado — disse Vencecavalo pensativamente. — Pensando bem — falou ele de novo — o senhor tome aqui os novecentos dólares e me dê a mesma coisa em marcos alemães.
+
+— Pois não — disse o homem do Eximbank. — Aqui está.
+
+— Muito obrigado — disse Vencecavalo, e foi saindo.
+
+— Um momento, cavalheiro! — falou o homem do Eximbank. — O senhor não pagou os marcos!
+
+— Eu troquei pelos dólares — explicou Vencecavalo, chocado.
+
+— Mas o senhor não pagou os dólares — insistiu o homem do Eximbank.
+
+— Francamente, meu amigo — retrucou Vencecavalo —, o senhor vai querer que eu pague uma coisa que não vou levar?
+
+E foi embora rapidamente. Depois de decretar que aquele dia se chamaria Dia da Acumulação Primitiva, determinou que os marcos fossem usados para pagar os borengas e borenganetes, o que deu para fabricar 2 340 900 600 000 000 000 000 000,32 ­borengas e borenganetes. Mais tarde, naturalmente, o Eximbank descobriu a coisa e transformou tudo em empréstimo suave, o qual, com correção monetária, dava três mil e quinhentos dólares por ano, durante cinquenta anos. Como a Borengânia não tinha dinheiro para pagar (o Eximbank não aceita borengas), eles tomaram porcos, abóboras, mulheres e crianças e assim conseguiram ressarcir-se da dívida e manter organizada a economia. Mas isso é outro capítulo da história, porque não foi na gestão de Vencecavalo, o qual, aliás, antes de se retirar do cargo de pai da pátria, recebeu um emprego no Eximbank e tomou dinheiro de muita gente, principalmente búlgaros, zambianos e nepaleses, além de alguns haitianos.
+
+Munido de meio circulante, Vencecavalo decretou a morte da inflação e espalhou enormes quantidades de dinheiro na praça, através de um pequeno artifício. Mandou construir uma represa, embora a Borengânia só tenha um lago e não tenha rios. Quando lhe apontaram esse fato, ele sorriu sabiamente: deixe comigo. Estabeleceu a Superintendência Borenganiana de Represas, Açudes, Barragens e Comportas (SUBOREÇUBACO
+), que destinou vultosa verba à acelerada construção da represa, pagando, inclusive, generosos honorários aos visitantes das obras. No dia da inauguração, adiada duas vezes, porque a represa insistia em despencar pela ribanceira abaixo, Vencecavalo observou judiciosamente:
+
+— Mas aqui não tem rio.
+
+Antecipando-se ao embaraço geral dos engenheiros, empreiteiros e demais autoridades, ele imediatamente dissolveu a SUBOREÇUBACO
+ e criou a SUBODERRETROCORI
+ (Superintendência Borenganiana para a Derrubada de Represas e Outras Construções Ridículas), a qual se pôs imediatamente em ação, para demolir a represa. Usando de forma tão hábil as obras públicas para fortalecer a economia, Vencecavalo conseguiu elevar espetacularmente os níveis do meio circulante. Imediatamente, tudo o que valia duas borengas na segunda-feira passou a valer oitocentas borengas na quarta-feira e seis mil e setecentas borengas no sábado. Vencecavalo convocou seu principal assessor.
+
+— Parece que cagaram tudo — disse Vencecavalo, encostado monumentalmente na janela e contemplando o horizonte.
+
+— Foi o senhor quem mandou — disse o assessor.
+
+— É — disse Vencecavalo —, mas não me lembro absolutamente disso e o senhor terá que pagar pelos crimes cometidos contra a nossa economia.
+
+Em seguida, mandou espetar o assessor numa vara de goiabeira, reuniu a massa, fez um discurso, esculhambou todo mundo e foi passar as férias em local distante. Enquanto isso, quem falava em inflação tomava três marteladas na cabeça, de forma que pouca gente falou em inflação nos anos que se seguiram. Em suas férias, Vencecavalo completou a última etapa do trabalho árduo que lhe renderia um lugar permanente entre os heróis do país. Foi a Tabela Vencecavalo, com a qual todos podiam avaliar o nível de pornografia numa dada situação, através de uma rápida consulta, finalizando, assim, a ingente luta contra a inflação e a favor do desenvolvimento. Para se ter uma ideia de quão hercúleo foi todo esse trabalho, basta lembrar que a categoria RDF
+ (rabo de fora) tinha duzentas e trinta subcategorias. Por exemplo, rabo de fora por fora, com o ânus — ou fac-símile — aparecendo, recebia a nota 24, a maior da escala, garantidos ao autor os títulos de rico ilícito, comunista descarado e agente do sionismo pagão, além de dezoito marteladas na cabeça e um chute nos culhões.
+
+Sob tão complexo controle, o país atravessou uma fase de prosperidade nunca vista. No dia 2 de outubro, data do aniversário de Vencecavalo, processou-se o primeiro embarque de produtos manufaturados da Borengânia, consistindo numa carga de azulões de olho furado. Na ocasião, comentando o evento, Vencecavalo lembrou a perícia do operariado borenganiano, o qual, em matéria de furar olho de azulão para ele cantar melhor, não ficava devendo nada aos melhores furadores de olhos suíços. Inclusive, diversos azulões cegos (e um caolho, que ninguém é perfeito e essas coisas acontecem) foram exportados para a própria Suíça, onde todos os suíços, sem distinção de cor, credo e filiação religiosa, foram unânimes em apontar a superior qualidade do produto borenganiano e a Câmara do Comércio de Zurique enviou telegrama congratulatório a Vencecavalo, em que finalizava: “Vá furar olho de azulão bem assim na puta que o pariu.” A arte borenganiana também atravessou um período esplêndido. Em Nova Iorque, em Paris e em Londres, só se falava nos artistas borenganianos, embora, é claro, ninguém lá jamais tivesse ouvido falar neles, o que só ressalta a singularidade do notável fenômeno. Na área esportiva, a equipe borenganiana de palitinho sagrou-se campeã mundial, depois de renhida disputa com o time do Butão. Miss Borengânia arrebatou o cobiçado cetro da beleza universal e, do centro de Miami até a entrada do Hotel Fontainebleau, não se falou em outra coisa durante pelo menos seis minutos cravados. O Miami Herald
+ botou a foto dela na primeira página do décimo oitavo caderno com destaque, afirmando: “Se todas as mulheres da Borengânia forem como esta espetacular teteia, vale a pena a gente pensar em passar uma temporada em Caracas.” Em que pese a pequena confusão quanto à capital da Borengânia, a nota recebeu a devida divulgação em todas as três cidades do país, inclusive Vila Necas.
+
+Finalmente, Vencecavalo promoveu internacionalmente a figura sem par de Nuno Arcoverde, o humilde borenganiano que inventou o elevador e, esquecido pelos seus contemporâneos, teve morte obscura e trágica, no leito indiferente de uma prostituta, onde, com uma expressão melancólica no olhar, expirou cabisbaixo e murmurando “sobe, sobe!”. Como a Borengânia não fabricava elevadores, principalmente porque não tinha a menor necessidade deles, Vencecavalo decretou a inauguração da maior e melhor fábrica de elevadores do mundo (ainda não inaugurada, mas não deve demorar) e promoveu a colocação de uma placa com o nome do glorioso borenganiano em todos os elevadores do mundo, em acordo assinado nas Nações Unidas. Infelizmente, todos os países em que, numa ocasião ou outra, haviam também nascido inventores do elevador reivindicaram a mesma distinção, de maneira que as placas colocadas nos ascensores tomaram todas as paredes dos mesmos, retirando o merecido destaque tencionado para Nuno Arcoverde. Acresce a circunstância de que, na solenidade de inauguração do primeiro elevador da Borengânia, o Exmo. Sr. Dr. Diretor da Empresa Borenganiana de Escadas e Elevadores caiu no poço e se fodeu todo. Vendo que, após a queda, o diretor permanecia vivo (agitando espasmodicamente o dedão do pé), foram tomadas providências para retirá-lo do poço pelo elevador de emergência, mas faltou luz e ficou por isso mesmo. Até hoje, ao tomar um elevador, Vencecavalo manda um diretor na frente.
+
+Num dia 23 de janeiro, data do aniversário do grande conquistador da Borengânia, Vencecavalo pôde, mirando o horizonte pela sua janela favorita, aquilatar a extensão do que, em tempo comparativamente tão curto, havia conseguido realizar pelo seu país. O último grave problema que enfrentou foi a greve-geral dos trabalhadores rurais, que queriam melhores condições de trabalho. Vencecavalo encarou o problema de frente e foi pessoalmente aos trabalhadores, depois de anunciar na imprensa que faria um acordo com eles.
+
+— Muito bem — disse Vencecavalo. — O esteio desta nação são os trabalhadores rurais, os homens anônimos que, de sol a sol, mourejam para nos dar alimentos. Eu vos pergunto: podem esses homens estar errados? Podem esses homens querer algo de injusto? São esses homens antipatriotas? Eu vos respondo: em verdade não podem, porque é destes homens o suor que irriga a terra e a mão que empurra o arado. E esses homens merecem o nosso respeito, a nossa dedicação, o nosso carinho. Esses homens merecem que os escutemos. Vim para fazer um acordo convosco.
+
+— Muito bem, muito bem! — disseram os trabalhadores, com exceção do orador deles, que por acaso se encontrava com a boca atufada de papel higiênico, porque a Polícia Sanitária descobriu que ele tinha mau hálito.
+
+— E vós quereis fazer um acordo comigo? — prosseguiu Vencecavalo.
+
+— Queremos, queremos! — disseram os trabalhadores.
+
+— Então é o seguinte: todo mundo volta para o trabalho e está todo mundo multado em sessenta por cento dos salários e quero produtividade! De acordo?
+
+— De acordo, de acordo!
+
+E então assinaram o acordo, que ficou conhecido como o Grande Acordo de Emancipação do Trabalhador Rural da Borengânia. Com as máquinas, recentemente importadas, fazendo borengas e borenganetes a todo vapor, a inflação estava controlada e o país se encontrava próspero e feliz. Na sua frente, Vencecavalo só via sorrisos e olhares de incontida admiração, inclusive em meio a toda a epidemia de peste bubônica, antraz e psitacose que atacou a nação e que não desanimou ninguém, mesmo porque só morreu mesmo quem já estava de hepatite infecciosa e, nessas horas, a morte até que é um descanso e uma bênção divina. O resto dos contagiados ficou simplesmente aleijado ou abestalhado, ou ambas as coisas, de forma que Vencecavalo mandou celebrar um Te Deum
+ e renunciou. Perguntado sobre quem iria substituí-lo, Vencecavalo respirou fundo, colocou a mão sobre o ombro do repórter e respondeu, depois de uma pausa:
+
+— As forças da história se atribulam por caminhos ignotos.
+
+Com esta frase, que foi inscrita em marmorite em monumento público, Vencecavalo aceitou o cargo oferecido pelo Eximbank e veio a aposentar-se subsequentemente, passando a morar com modéstia em Florianópolis, onde todos os dias, chova ou faça sol, pode ser observado fazendo ginástica em seu quintal. De vez em quando, posta-se diante de uma velha árvore nesse quintal e sorri misteriosamente.
+
+
+
+
+1
+ Alguém tem sempre que se lenhar.
+
+
+Tombatudo Santos Bezerra
+
+O enrabadiço nunca teve vida fácil. Na esquadra de Cabral, a navegar entre mares ignotos, o enrabadiço se mantinha permanentemente ocupado, de forma que era raro ver um grupo deles confraternizando no convés. A história guarda vívidas memórias daquele grupo de enrabadiços que partiu com Cabral, entre os quais Pero Dias Lameiro, enrabadiço-capitânea, e Luiz de Sá e Sá, enrabadiço imediato. O primeiro destes, segundo se conta, estabeleceu padrões posteriormente sempre seguidos pelos enrabadiços de melhor categoria, inclusive o próprio Ritual d’Abordagem, antes ao léu ou ao consuetudo espúrio, sem a riqueza de pormenores e a seca nobreza de ritual, adotada universalmente na Marinha lusitana, depois da gestão de Pero Dias Lameiro. É bem verdade que pesquisadores diversos têm asseverado haver existido na Marinha britânica, antes de Pero Dias Lameiro, ritual bastante aproximado do instituído por ele, atribuindo-se o fato a haver o dito lobo do mar prestado serviços a um burguês das ilhas Britânicas, antes de se ter engajado no serviço português. De qualquer forma, o mar dos Sargaços ainda reverbera, nas noites mais quentes do verão, com os brados rouquenhos dos marujos, pontilhados pelo bater manso das ondas contra os cascos.
+
+— Ô do rabo!
+
+— Ô da frente!
+
+— Há rabo que te quero rabo?
+
+— Há!
+
+— E onde lá que está o rabo?
+
+— A estibordo!
+2
+
+
+— Então trolha!
+
+Tombatudo Santos Bezerra, obscuro e desconhecido dos historiadores tradicionais, tomou parte em diversas expedições de pouca monta, sujeito a um regime de trabalho dos mais rigorosos, sem as compensações que a Providência usualmente reserva para os que mourejam sem cessar, de sol a sol. A profissão de enrabadiço se enquadrava como oficiosa, já que a sua atividade era definida como entrega do vaso traseiro, coisa extremamente condenável e pouco caridosa, à qual o Santo Ofício opunha fortes objeções, como, aliás, pode ser visto em trabalhos de autoridades da época, tais como De varietate cacandi
+ (Thomasino de Eleucra, in-folio
+), De usu braguetæ
+ (Antão de Antioquia, manuscriptum
+), Ut retro
+ (Felipe de Ítaca, in-folio
+) e vários outros, aplicáveis a enrabadiços e semelhantes, considerando-se que ubi eadem ratio ibi eadem legis dispositio
+ e, mais ainda, trahit sua quemque voluptas
+ etc. Houve o caso do enrabadiço Tomé de Brito Magalhães (“Tomé da Fonte Funda”), que, ao confessar sua verdadeira profissão, teve sua alma salva pelo inquisidor de plantão, o qual lhe arrancou a língua, lhe furou os dois olhos e o queimou em fogo lento, garantindo-lhe, assim, a redenção. Como a maioria dos enrabadiços preferia uma existência prestante neste mundo secular a enfrentar purgada os olhos ígneos dos santos, era comum ouvirem-se deles outros apelidos para a sua profissão, tais como analista de investimentos, corretor imobiliário, técnico em planejamento ou qualquer coisa assim. Desta forma, quando você estiver imaginando a figura de algum antepassado, que veio com uma esquadra para fixar raízes no Novo Mundo com os títulos de provedor da santa proa ou curador do bacalhau ou ouvidor-menor, encare-o com respeito, pois ele podia ter sido um dos inúmeros enrabadiços que tantos serviços prestaram à nossa colonização. Os seus préstimos eram muito solicitados, porque as mulheres, naquele tempo, não viajavam de navio. As mulheres, naquele tempo, nadavam atrás de navios (e afogavam-se depois, murmurando “um grande amor é mais profundo do que o pélago proceloso”), o que não pode ser considerado a mesma coisa, embora haja divergência entre os estudiosos.
+
+Na costa leste do Brasil (ou, se der problema, na costa sul; ou ainda na costa nordeste, que facilita mais), havia uma tribo de índios conhecida como os paranaguás. Defronte deles, um pouco mais para cima, residia a tribo dos cuchichas. Ambas as tribos eram constituídas de nobres selvagens, merecedores de todo o respeito e admiração, na sua vida simples e estreitamente vinculada à natureza, num permanente idílio, só violado pelos chamados civilizados. Quando os ditos civilizados chegaram, os índios não só adquiriram diversas doenças novas (notadamente cancro mole, cancro duro, blenorragia, mula e sífilis, além de bastante escrófulas), como gra­dualmente abandonaram suas tradições primitivas deixando de comer piolhos, pintar o corpo com corrosivos e dormir no mesmo lugar onde as antas se aliviavam, para grande prejuízo de nossa autenticidade. Os paranaguás e os cuchichas, entretanto, se encontravam em pleno estado natural, quando aconteceram os sucessos que mudaram o curso de sua história e dos quais participou ativamente Tombatudo Santos Bezerra, o enrabadiço.
+
+O único problema que afligia a pacífica existência daqueles inocentes silvícolas era um estado de guerra que se formou entre os paranaguás e os cuchichas, provocado, como habitualmente acontece, por uma mera trivialidade. O Grande Chefe Paranaguá estava de pé junto ao mar, quando lhe apareceu um jovem guerreiro cuchicha, chamado Tonta-Nguê (A Água Brava da Montanha; ou O Pássaro que Fere em Meio a Seu Voo Certeiro; ou abreviatura de Tonta-Tnuí-Tnuí-Anga-Lê-Amaninguê-Açu-Mirim, o que parece mais provável, à luz de recentes estudos). Tonta-Nguê, ao ver o Chefe Paranaguá, fez um gesto desrespeitoso, o qual, entre os cuchichas, consistia em bater fortemente com as mãos em concha sobre as orelhas, três vezes.
+
+— Por que Tonta-Nguê desrespeita o grande chefe? — perguntou Paranaguá.
+
+— Como disse? — indagou Tonta-Nguê polidamente. A maioria dos cuchichas era um pouco surda.
+
+— Por que Tonta-Nguê desrespeita o grande chefe? — insistiu Paranaguá, enfrentando grande dificuldade em falar mais alto. O búzio de dois litros que lhe haviam enfiado na cabaça pendurada em seu lábio inferior (conhecido como bogaboia,
+ cabaça cerimonial dos chefes) prejudicava um pouco os seus esforços em falar mais alto.
+
+Tonta-Nguê, com a selvagem agilidade de seus músculos bronzeados, pulou adiante, caindo de pé sobre um rochedo que o silhuetava agudamente contra o esplendor do sol tropical, dourando em infinitos matizes as águas mágicas onde Posêidon folgava inocente entre as nereidas. Seu aristocrático perfil se delineava por baixo da cabeleira negra e luzidia, agitada pela brisa, a qual, além de acentuar-lhe os belicosos e altivos traços, ainda soprava a maioria dos piolhos para uma distância segura. Batendo no peito glabro e recortado de músculos, Tonta-Nguê explicou que os paranaguás, em sua tribo, eram tidos como homossexuais, pessoas inferiores e de comportamento pouco digno. Num acesso de raiva, Paranaguá dirigiu-lhe estas palavras aladas:
+
+— Ainda Tupã era menino como Jaci também era, e esses rios não eram mais do que regatos e débeis fios d’água, ainda não tinham os homens pisado o solo fértil destas terras, e já a bogaboia sagrada dos paranaguás amadurecia no cabaceiro, refletindo em sua pele lustrosa os raios do sol menino. O raio veio do céu e fendeu a cabaceira, mas a bogaboia ficou no ar, sustentada pelo sopro de Tupã. E o primeiro pai tirou essa bogaboia e a pendurou no beiço e, inclusive, inventou o inhame, o ingá e a mandioca. Muito me entristece este teu gesto, filho dos cuchichas. Fora eu um homem vingativo, não estarias vivo para repensar na tua insensatez. Quando eu bater com este tacape na tua cabeça e teus miolos escorrerem afogando as tuas lêndeas, lembra-te disso.
+
+Ao ver brandido no ar aquele medonho tacape, o jovem cuchicha, com grande destreza, abandonou as pedras e correu para o seu lado da praia, onde contava com um grupo de compatriotas a protegê-lo. Aquele pequeno incidente, aparentemente sem consequência, veio a deflagrar a mais grave crise da história das duas pacíficas nações amerícolas.
+
+Regressando, em grande depressão, à sua aldeia, o Chefe Paranaguá convidou seu conselho de guerreiros para uma sessão solene. Coberto de negra tinta de jenipapo, em largas faixas escuras sobre o peito e a face (coçando bastante), Paranaguá demorou-se à entrada do terreiro principal, enquanto seus bravos o aguardavam, sentados em meio ao estrume de anta. Parecia portar um enorme fardo e seu semblante era um semblante sofrido e grave. Depois de deter-se por muito tempo, como a hesitar sobre se prosseguia ou não, terminou sentando-se no lugar reservado aos chefes. Peroba, o ancião, presidia a reunião, pitando o seu cachimbo e cavoucando distraidamente o chão. Uma fumaça azulada se evolava do cachimbo em amplas ondas, emoldurando os rostos letárgicos dos dignitários.
+
+— Ainda Tupã era menino como Jaci também era, e esses rios — iniciou Paranaguá — não eram mais...
+
+— Grilo grande — disse Peroba. — Esses rios não eram mais do que regatos e débeis fios d’água e assim por diante.
+
+— Sempre o chefe inicia a reunião com a mesma fala — disse Paranaguá. — É a tradição.
+
+— Tremendo grilo — disse Peroba. — Qual é?
+
+— Muito bem — falou Paranaguá. — Hoje encontrei Tonta-Nguê nas pedras grandes da praia — passe o cachimbo aí — encontrei Tonta-Nguê na praia e ele me insultou e insultou todo o nosso povo.
+
+— Incrível grilo — disse Peroba. — Que tipo de insulto?
+
+— Disse que somos todos homossexuais e que assim somos tidos entre os cuchichas.
+
+— Ouriço — falou Peroba. — Tremendo ouriço.
+
+— O problema é que os nossos costumes exigem que, diante dessa ameaça — como é, o cachimbo? — diante dessa ameaça, façamos guerra aos cuchichas e vinguemos nossa honra e mais uma vez caminhemos orgulhosos por essas terras que foram dos nossos pais. Ainda Tupã era menino como Jaci também era, e esses rios não...
+
+— Qual é essa de guerra? — perguntou Peroba.
+
+— Guerra — murmurou Paranaguá soturnamente. — Ao raiar do sol, dentro de duas luas, reuniremos os nossos guerreiros e marcharemos para a oca cuchicha...
+
+— Oca, não; taba — disse Peroba.
+
+— ... taba — corrigiu Paranaguá. — Iremos para a taba cuchicha e lá destruiremos tudo o que encontrarmos, mataremos os homens, sequestraremos as mulheres e crianças e vingaremos a nossa honra.
+
+— Fantástico grilo — disse Peroba. — Não tenho certeza de que os cuchichas vão concordar.
+
+— Isso é que é uma guerra — explicou Paranaguá. — Na guerra, não há concordância.
+
+— A começar por aqui — disse Peroba. — Você faz sua guerra. Eu fico na minha.
+
+— Traição! — gritou Paranaguá, levantando ameaçadoramente o seu grande vulto marcial. — Ainda Tupã era menino, como Jaci também era...
+
+— Fique na sua, que eu fico na minha — disse Peroba.
+
+— O quê? — disse Paranaguá.
+
+— Não entendi nada — disse Peroba. — Qual é o assunto?
+
+E assim, numa reunião que durou toda a noite, Paranaguá convocou seu povo à guerra. Obtida a anuência de todos (com exceção de Peroba, que realmente ficou na dele a guerra toda), Paranaguá assumiu os títulos de Morubixaba Supremo, Comandante em Chefe das Tropas de Assalto, Grande Parente e Protetor da Fé, e iniciou preparativos.
+
+— A primeira providência — disse ele — é convocar os ministros e decretar estado de emergência.
+
+— Muito bem, muito bem! — exclamaram todos.
+
+— E então? — perguntou Paranaguá, depois de uma pausa. — Onde estão os ministros?
+
+— O que é um ministro? — perguntou Papaio, que estava muito interessado na guerra.
+
+— Ninguém sabe o que é um ministro? — inquiriu severamente Paranaguá.
+
+— Ninguém sabe, ninguém sabe! — exclamaram todos.
+
+— É por isso que esta tribo não vai para a frente — disse Paranaguá. — Temos muito trabalho por fazer.
+
+Quando a madrugada agitou seus dedos cor-de-rosa na fímbria dourada do horizonte do Novo Mundo e por entre as nuvens deslizou suavemente o carro fulgurante do Rei Sol, despertando as juritis na mata e principiando o bulício alegre da natureza, as providências preliminares estavam tomadas. Constituíram-se os ministérios e criou-se o exército paranaguá. Os ministérios mais importantes foram distribuídos equitativamente entre membros da família de Paranaguá. Houve, entretanto, considerável debate a respeito do Ministério da Fazenda e do Ministério da Guerra. Este não encontrava quem o desejasse ocupar de bom grado, dada a possível dificuldade em fazer com que os paranaguás decidissem ir à guerra, excetuada a hipótese de ser estendido algum incentivo material.
+
+— Isso não oferece problema — explicou Paranaguá, levantando-se porque já estava na hora de liberar o recinto para utilização pelas antas. — O ministro da Fazenda consegue o dinheiro.
+
+— Renuncio — disse o ministro da Fazenda. — Eu não tenho dinheiro nenhum.
+
+— Imbecil! — exclamou Paranaguá. — É para isso que existe o Ministério da Fazenda. Assim ninguém pode trabalhar.
+
+— Muito bem — falou o ministro da Fazenda. — E o bom amigo pode me explicar como vou conseguir o dinheiro? Falar é fácil.
+
+— Muito simples — explicou Paranaguá. — Cobrando impostos.
+
+— Ah, diga isso — esclareceu-se o ministro da Fazenda. — E o que é impostos?
+
+E dessa maneira prosseguiram os entendimentos, até que, já entre as antas, o ministro da Fazenda compreendeu perfeitamente a questão, havendo criado o imposto de renda, o imposto de serviços, o imposto de consumo, o impos­to de importação, o imposto de exportação, o imposto de vendas e consignações, o imposto alfandegário, o imposto eleitoral, o imposto de transmissão intervivos, o imposto de transmissão causa mortis, o imposto predial, o imposto sindical, o imposto sobre operações financeiras, o imposto sobre produtos industrializados, o imposto de circulação de mercadorias, o imposto sobre extração de minerais, o imposto territorial, o imposto sobre ganhos de capital, a meia, o quinto, o terço, a quarta, a décima, a centésima, o vintém de Pedro, várias taxas conforme a necessidade, diversas contribuições de melhoria e inúmeros empréstimos compulsórios, além do confisco, só para garantir. No próximo dia, o ministro reuniria o povo e explicaria as novidades. Reinava grande animação em toda a tribo, compreensível situação, levando-se em conta que o último evento de interesse geral consistira no acidente de que foi vítima a velha Parará, ao sentar-se num formigueiro, em 1438.
+
+Diante do povo reunido, o ministro usou inflamadamente da palavra, interrompido com frequência pelos aplausos da multidão.
+
+— A tribo — explicou o ministro — lhes pede esse sacrifício, que, mais que um dever, é uma honra e um privilégio a serem acalentados por cada cidadão. Não pergunte o que a tribo pode fazer por você. Pergunte o que você pode fazer pela tribo.
+
+— Muito bem! — prorrompeu a multidão.
+
+Entretanto, apesar dos dotes de oratória exibidos pelo ministro, um pequeno problema surgiu, quando ele se viu forçado a explicar o que era um imposto. Nessa ocasião, fizeram-se ouvir algumas vozes discordantes, tudo muito democrático, como convinha a um povo superior, de forma que, ao ser recolhido à tenda do pajé para tratar as pedradas recebidas pelo corpo todo, o ministro não guardava ressentimentos. Visitado pelo Chefe Paranaguá em pessoa, reafirmou sua determinação em esclarecer a massa e obter o consenso de todos na realização das graves tarefas exigidas pela vocação histórica da tribo.
+
+— Eles são uns inocentes — disse Paranaguá enquanto o pajé aplicava na cabeça do ministro um emplastro de gema de ovo de jaburu com estrume de búfalo, secular panaceia criada pela Misteriosa Sabedoria dos Silvícolas.
+
+— Sim, sim — disse o ministro, tapando o nariz. — Temos que ensinar-lhes com paciência, é só.
+
+E, assim sendo, na semana subsequente, as tropas de choque do governo colaboraram no esclarecimento de quem não se considerava esclarecido e quem não se considerava esclarecido era brincalhonamente jogado no meio das piranhas, de forma que o esclarecimento se tornou bem mais fácil. No fim da semana, o erário se encontrava abarrotado e as tropas prontas para a ação, notadamente os recrutas, porque os profissionais tiveram que ser deslocados subitamente para Arembepe, onde realizaram importantes manobras de treinamento até o fim da guerra. A guerra estava marcada para a primeira lua cheia. Quando o dia amanhecia festivo entre as árvores luxuriantemente encopadas daquele paraíso, quando as sílfides cansavam de seus folguedos pela floresta, já o fragor da batalha quase se podia distinguir, nos preparativos dos bravos para o combate, uns passando gordura de caititu no corpo, outros comendo terra para se fortalecerem e a maioria matando vigorosamente os borrachudos e mutucas que, em seu voo sonoro e furta-cor, adornavam aquelas pujantes terras virgens. Paranaguá, radiante em seu cocar de penas de arara, pas­seava triunfantemente por entre seu povo. Nisto — portento dos portentos — vislumbrava-se o vulto negro de uma nau no horizonte. Inquestionavelmente, chegavam navegadores. Paranaguá convocou Penteio, seu mais íntimo conselheiro, e juntos debateram o assunto.
+
+— Que é isso? — inquiriu Paranaguá.
+
+— Portugueses — explicou Penteio. — Brancos. Vestidos. Língua estranha. Moram longe.
+
+— Muito bem — falou Paranaguá. — Que desejam eles?
+
+— Se estão de passagem — explicou Pen­teio —, desejam água, frutas e semelhantes e não vão pagar. Se estão vindo para ficar, desejam tudo e também não vão pagar.
+
+— São poderosos? — perguntou Paranaguá.
+
+— Muito — respondeu Penteio. — Todos são Caramuru.
+3
+
+
+— Era só o que estávamos precisando — disse Paranaguá. — E o que vamos fazer agora?
+
+— Vamos esperar — retrucou Penteio. — Vamos esperar, para ver o que eles fazem.
+
+— Isto é mau — disse Paranaguá. — Fico nervoso.
+
+— Eu também — disse Penteio. — Peço demissão.
+
+— Nada disso — respondeu energicamente Paranaguá. — Vamos para a praia. Diga ao pessoal que prepare logo uma retirada gloriosa, por via das dúvidas.
+
+E assim foram para a praia, em rigorosa ordem protocolar, com Paranaguá na frente, Penteio ao lado, o ministério atrás e autoridades diversas em camadas sucessivas. Tiveram que esperar mais tempo do que o previsto, porque os portugueses faziam uma viagem lenta, descobrindo porções do litoral e aplicando-lhes nomes. Velhos navegadores, tinham os olhos aguçados para qualquer acidente da costa e assim batizaram a ilha de Santa Paz (mais tarde reconhecida como restinga e rebatizada restinga da Suruba), o cabo Preto (ilha da Santa Paz), a península (ilha) do Santo Império e a baía (rio) Paranaguá. Só decorrido muito tempo, ancoraram ao largo da praia e se prepararam para descer num batel. Vinham o Capitão Afonso dos Reis, o Padre Gil da Pedra, alguns soldados, marinheiros e o enrabadiço Tombatudo, para o caso de os emissários terem que demorar-se em terra (Tombatudo ganhava assim o cobiçado plantão de porto, que via de regra envolvia muito pouco trabalho). Paranaguá os aguardava ansiosamente, seu orgulhoso peito inflado e seu pé direito atrás. Chegando à praia, o primeiro a descer foi o capitão.
+
+— Trago-lhe saudações de el-rei — disse o capitão. — E respeitosamente peço licença para desembarcar a minha carga.
+
+— Que é que eu digo? — perguntou Paranaguá nervosamente a seu assessor.
+
+— Diga-lhe que retribui as saudações a el-rei e as estende a seus bravos navegadores.
+
+— Saudações a el-rei também — disse Paranaguá. — E a seus bravos navegadores.
+
+— Obrigado — falou o capitão. — Sou o Capitão Afonso dos Reis, a serviço de Sua Majestade.
+
+Seguiu-se um silêncio algo embaraçoso. Paranaguá, como sempre, tendia a culpar Penteio pela situação vexatória, mas este, ao esquivar-se de uma tacapada nas costas, motivou logo início de conversa.
+
+— Vejo que os seus homens estão impacientes — disse o capitão. — Pois muito bem, começo o desembarque.
+
+— Esteja Vossa Navegância a gosto — soprou Penteio.
+
+— Esteja Vossa Navegância a gosto — disse Paranaguá.
+
+E, removendo o seu chapéu emplumado, o Capitão Afonso dos Reis principiou as operações de desembarque. Paranaguá quis perguntar o que seria desembarcado das caravelas, mas Penteio achou que se trataria de uma descortesia ao visitante. Desta forma, os primeiros botes começaram a desembarcar sem que se soubesse o que vinha neles, até que se percebeu serem grandes fardos de pano.
+
+— Com licença de Vossa Navegância — disse Paranaguá. — Vossa Navegância poderia informar-nos do que se trata?
+
+— Ah, perfeitamente — respondeu o capitão. — Trata-se de lona.
+
+Não querendo mostrar ignorância, Paranaguá consultou discretamente Penteio a respeito do que queria dizer lona, mas Penteio não soube informar, tendo sido veementemente repreendido e recebido duas tacapadas nas costas, além de haver tido novo pedido de demissão recusado.
+
+— Vossa Navegância me perdoe — acabou falando Paranaguá. — Mas para que serve essa maravilhosa lona?
+
+— Não tenho a menor ideia — respondeu o capitão. — Apenas transporto, não sabe?
+
+E por ali ficaram, o capitão gritando ordens para a turma de desembarque e a comitiva paranaguá perfilada na praia.
+
+— Diga-me uma coisa — murmurou Paranaguá para Penteio. — Nós vamos ter que ficar aqui até eles acabarem?
+
+— Possivelmente — disse Penteio. — É uma questão de protocolo.
+
+— O protocolo que vá para o diabo — disse Paranaguá. — Eu tenho mais o que fazer. Assim vou atrasar a guerra.
+
+— Não tenho nada com isso — falou Penteio, e tomou mais duas tacapadas.
+
+— Senhor ilustre navegador — disse Paranaguá.
+
+— Sim? — respondeu o capitão.
+
+— Vossa Navegância me desculpe, mas não sabe Vossa Navegância, temos uma guerra com uma tribo vizinha e estamos atrasados.
+
+— Ah, pois não, compreendo perfeitamente — disse o capitão. — Temos aqui trabalho para alguns dias, de forma que o senhor esteja à vontade. Apenas solicito permissão para que permaneça em terra a tripulação do batel que vem comigo sempre.
+
+Paranaguá rapidamente voltou para a taba, acompanhado de seu séquito e de alguns visitantes. Estava com problemas, porque, praticamente na hora do início das hostilidades, parecia existir um certo desânimo, mesmo entre os recrutas. Essa situação, felizmente, foi vencida com a ajuda do padre, o qual iniciou imediatamente a conversão do gentio, com um pequeno sermão intitulado “O pecado da nudez”. Como o gentio preferisse qualquer outra coisa a ouvir o sermão do padre, o moral da tropa melhorou consideravelmente. E assim, quando o sol ficou a pino no zênite, qual enxame de belicosas formigas, qual bando de aves de rapina em torno de sua presa, qual cardume de vorazes peixes desafiando a correnteza, as cabeças dos guerreiros fervilhavam, apinhadas na grande praça da taba. Paranaguá brandia o seu tacape vigorosamente e invectivava a tropa. A poeira se erguia do chão em grandes lufadas e o calor da luta se refletia antecipadamente nos corpos luzidios dos guerreiros. Era o fragor da grande batalha que já ecoa­va soturnamente pelos campos.
+
+Estendendo a vista por sobre as cabeças de suas tropas, Paranaguá podia ver a taba cuchicha, fronteiramente situada sobre uma colina (uma verdejante colina, onde as lianas, epífitas e higrófilas variadas adornavam suavemente o sensual desdobramento da terra generosa, num arrebatador espetáculo que maravilhava etc. etc.). Lá dentro, cercados por uma frágil paliçada, os cuchichas observavam o desenrolar dos acontecimentos.
+
+— Que é que você acha que está acontecendo? — perguntou o Chefe Cuchicha a sua mulher.
+
+— Não sei — disse ela. — Acho que eles ficaram malucos.
+
+— Contanto que eles fiquem por lá — disse Cuchicha. — Aqui já temos malucos em número suficiente.
+
+— Quem fala — disse a mulher, e voltou a coçar o traseiro, como estava fazendo antes.
+
+Diante do olhar deslumbrado de Tombatudo, que decidira acompanhar a expedição guerreira, Paranaguá ergueu sua orgulhosa cabeça nobre e conclamou seus guerreiros à batalha. Com ensurdecedor estrépito, a temível massa humana deslocou-se para a frente, como se fora um só corpo. Estremecia o chão com as pisadas dos guerreiros e recolhiam-se os corações medrosos que ficavam para trás, silenciados pelo clangor marcial daquela tropa de escol. Lanças e flechas agitadas para cima perfuravam o ar quente do meridião, emoldurando a beleza da matança que estava por iniciar-se. Havia, já, sangue no ar e nas almas dos combatentes. Incitados pelos urros belicosos de seu bravo comandante, os soldados marcharam celeremente para a colina, entre folhas esvoaçantes e pássaros em fuga, seguidos pelos gemidos débeis dos velhos, mulheres e crianças.
+
+— Me diga uma coisa — disse Paranaguá a Penteio, quando atingiam a terra de ninguém — essa bicha portuguesa aí tem que vir junto? Nesta situação, isso pode ser muito desagradável.
+
+— É um problema de protocolo — explicou Penteio. — Ele pode ser considerado um observador neutro.
+
+— Ele não me parece muito neutro — falou Paranaguá. — Enfim, esse protocolo só causa aporrinhações.
+
+E já se preparavam para o assédio aos cuchichas, quando uma bandeira branca se agitou por trás da paliçada. Paranaguá se aprestou para flechar a bandeira, mas Penteio o deteve com um gesto.
+
+— Bandeira branca — esclareceu ele. — Isso significa uma trégua. Temos que parar.
+
+— Como temos que parar? — irritou-se Paranaguá. — Quer dizer que nós estamos no meio de uma guerra séria e basta alguém sacudir uma bandeira branca para parar tudo? O que é isso? Que esculhambação é essa?
+
+— É uma questão de... — começou a responder Penteio.
+
+— Protocolo — interrompeu Paranaguá. — O que você está procurando é tomar uma protocolada na cabeça.
+
+— Eu já pedi demissão — defendeu-se Penteio.
+
+— Cale a boca. Muito bem, vamos parar e ver o que eles querem.
+
+Depois de um breve intervalo, a porta da paliçada se abriu lentamente, para deixar passar a magnífica figura do Chefe Cuchicha, acompanhado de sua comitiva. Vinha de peito erguido e queixo para o alto, na postura digna de um capitão de povos.
+
+— Muito bem — disse Paranaguá. — Que significa isso?
+
+— Interessante, você — respondeu Cuchicha. — Você pega sua tribo toda, pinta todo mundo de jenipapo, traz todo mundo para cá fazendo um esporro incrível e me pergunta o que significa isso. Eu é quem pergunta e vá respondendo depressa, porque tudo isso é altamente irregular.
+
+— Num momento como este — disse Paranaguá, girando devagar o corpo, para falar também em direção a seus próprios guerreiros — ele só encontra na cabeça dizer que isso é altamente irregular. Ainda Tupã era menino, como Jaci também era, e esses...
+
+— Sim, sim — disse Cuchicha. — A nossa versão é ligeiramente diferente, mas eu conheço. Vamos direto ao assunto.
+
+— Muito bem — disse Paranaguá. — Você nunca viu guerra, não?
+
+— Guerra — repetiu Cuchicha. — Como eu suspeitava. E pode-se saber por quê?
+
+— Então um guerreiro seu nos chama a todos de homossexuais, nos insulta a honra inquebrantável e você nos pergunta por que guerra.
+
+— Ora — disse Cuchicha. — Isso é lá razão para uma guerra? Fica bem isso?
+
+— Para vocês, escória cuchicha, pode não significar nada. Para nós, a flor da terra, significa muito. Recolha-se à sua paliçada e respire pela última vez o ar perfumado destes campos. Prepare-se para um combate de morte.
+
+— Está certo — disse Cuchicha. — Mas guerra é assim sem mais nem menos? E a declaração?
+
+— Que declaração?
+
+— A declaração de guerra. Todo mundo sabe disso.
+
+— Que declaração é essa? — indagou Paranaguá a Penteio.
+
+— Não sei — disse Penteio. — Nunca me informaram.
+
+— Se nunca informaram a Penteio, é porque isso não passa de uma desculpa para não enfrentar o combate — disse Paranaguá altivamente. — Eu sabia que os cuchichas eram o lixo da terra, mas não sabia que desceriam tão baixo.
+
+— Ora, vá se foder — disse Cuchicha. — Não tenho culpa de seu auxiliar ser ignorante e não entender nada de guerra.
+
+— O quê? — prorrompeu Paranaguá, erguendo o tacape, mas sendo detido em pleno ar por um gesto de dedo de Cuchicha, apontando a bandeira branca e dizendo ó, ó, ó.
+
+Penteio se encontrava já numa situação desagradabilíssima, quando Tombatudo interferiu.
+
+— Se os senhores me permitem — disse ele —, o Senhor Cuchicha me parece ter toda a razão neste ponto. Com efeito, as guerras são usualmente precedidas de uma declaração. É uma questão de...
+
+— Protocolo! — berrou Paranaguá. — Desde que vocês chegaram aqui que só se fala em protocolo! Tem esse negócio de declaração mesmo ou não tem?
+
+— Bem, deve ter — respondeu Penteio humildemente.
+
+— Estou seguríssimo de que se trata de um procedimento habitualíssimo — interferiu Tombatudo.
+
+— Imbecil! — disse Paranaguá a Penteio. — Débil mental! Então me faz passar um vexame destes? Cretino!
+
+— Quem é essa bicha? — perguntou Cuchicha.
+
+— Que bicha? — disse Paranaguá.
+
+— Essa bicha de sotaque.
+
+— Que bi... ah, essa é uma bicha portugue... Bicha? O senhor está destratando um observador neutro, um visitante estrangeiro! Isso mostra o quilate da educação cuchicha.
+
+— Pode ser observador neutro, mas é bicha — insistiu Cuchicha.
+
+— Refreie os seus comentários deselegantes — verberou energicamente Paranaguá. — O senhor quer a sua declaração e terá a sua declaração. Será a última coisa que ouvirá. Com licença.
+
+E, ao tempo em que os cuchichas regressavam para dentro da paliçada, todos batendo as mãos em concha sobre os ouvidos, os paranaguás reuniam seu alto-comando para deliberar, enquanto os guerreiros, impacientes, batiam os pés no chão surdamente.
+
+— Vamos resolver logo isto, que essa barulheira me mata de dor de cabeça — disse Paranaguá. — Bem, já que o senhor visitante é o único que entende de declaração, sugiro que seja ele quem faça a declaração.
+
+— Com muito gosto — falou Tombatudo. — Qual a razão para a guerra?
+
+— Eles disseram que nós somos todos ­veados — respondeu Paranaguá.
+
+— Ué, e isso é motivo para guerra? — espantou-se Tombatudo.
+
+— Penteio — disse Paranaguá —, existe alguma regra no protocolo que diga que eu não posso achatar a cabeça de uma bicha observadora neutra portuguesa?
+
+— Se Vossa Excelência acha que devemos fazer a declaração baseados nisso, assim o faremos — apressou-se Tombatudo.
+
+E assim, depois de duas horas de debates, chegou-se à forma final da declaração, a ser pronunciada por Paranaguá, com a assistência de Tombatudo. Reunidos outra vez, os guerreiros paranaguás marcharam para a paliçada.
+
+— Tudo certo — disse Paranaguá a Cuchicha, quando se defrontaram à entrada da taba. — Chegou a sua declaração.
+
+— Onde está? — perguntou Cuchicha.
+
+— Não está em lugar nenhum — explicou Paranaguá. — Está na minha cabeça.
+
+— Isso e lugar nenhum realmente são a mesma coisa — comentou Cuchicha.
+
+— Não seja engraçadinho — disse Paranaguá. — Vou fazer a declaração logo e acabar de uma vez com a sua arrogância.
+
+— Quem fez a declaração? Foi a bicha?
+
+— O Senhor Tombatudo nos ajudou nesse mister — retrucou Paranaguá, com toda a dignidade. — Mas isso não é de sua conta.
+
+— Interessantíssimo — disse Cuchicha. — Uma guerra promovida por bichas, com declaração feita por uma bicha.
+
+Paranaguá conteve sua ira, com algum esforço. O cocar estava apertado e o barulho dos pés dos guerreiros o enervava. Fez gesto enérgico para trás, pedindo silêncio, no que foi completamente ignorado, mas fingiu não notar que o barulho continuava.
+
+— Muito bem — disse finalmente. — Declaração: considerando que o povo paranaguá foi insultado na sua honra e na sua dignidade; considerando que o insulto se dirigiu à pessoa de seu chefe, que encarna em si a própria essência da nacionalidade; considerando que um insulto desse jaez só pode ser lavado através da completa subjugação daqueles que o originaram; considerando que aqueles que o originaram são o povo cuchicha, fica declarado um estado de hostilidade entre o povo paranaguá e o povo cuchicha. Tenho dito.
+
+Cuchicha ouviu todas as palavras em silêncio. Depois de uma pausa solene, em que o barulho dos pés dos paranaguás parecia ficar ensurdecedor, virou-se para regressar, mas, a meio caminho, deu com Tombatudo a fitá-lo. Parou, sorriu e bateu-lhe nos fundilhos.
+
+— Boa declaração, boneca — disse. — Muito bem, quando a sombra da estaca principal da paliçada chegar à raiz da árvore grande, iniciaremos a guerra.
+
+Apenas uma curta distância medeava entre a sombra e a raiz da árvore. Excitados ante a proximidade do combate, os guerreiros se postaram de olhos fixos na sombra, mal observando que, por trás da paliçada, cabeças de todos os tamanhos começavam a surgir, ao tempo em que, suavemente, uma espécie de canto ritmado iniciava um lento crescendo.
+
+— O que é isso? — perguntou Paranaguá a Penteio.
+
+— Não sei — respondeu Penteio, e tomou uma tacapada nas costas.
+
+— Homens! — gritou Paranaguá. — Tomem posição, que a sombra já está chegando!
+
+Diante daquela ordem, os corpos pintados se movimentaram e iniciaram a macabra dança da guerra. Retorcendo as ancas, os guerreiros agitavam suas armas no ar e desfilavam ritmadamente em círculo.
+
+— Consagramos a Tupã a nossa vitória! — gritou Paranaguá. — A nossa dança ritual propiciará o triunfo que o nosso povo espera.
+
+Mas, à medida que a dança atingia o seu ponto máximo, Paranaguá observava que o canto adversário, na paliçada agora inteiramente pontilhada de cabeças de homens, mulheres e crianças, ficava mais alto e assumia o ritmo da dança.
+
+— Sacrilégio — murmurou Penteio. — Não respeitam a dança sagrada.
+
+— Que é que eles estão cantando? — perguntou Paranaguá.
+
+— Vamos prestar atenção — sugeriu Penteio.
+
+Mas não seria necessário prestar atenção para entender o canto dos cuchichas, que já se avolumava, ecoando por todos os cantos da floresta. A cada pé paranaguá baixado ao chão, uma palavra; a cada pé levantado, outra palavra, em impecável compasso. Já não havia mais como não compreender o que estava sendo cantado. De fato, os cuchichas, em uníssono e estentorea­mente, estavam cantando “bicha! bicha! bicha! bicha!”. O efeito sobre os paranaguás foi devastador. Não podiam concluir a dança propiciatória, sem a qual a vitória seguramente fugiria aos que desafiavam os velhos costumes, diante da vexatória interferência dos cuchichas, os quais, inclusive, entremeavam as palavras com assovios, batidas de mãos nas orelhas e gestos debochados, numa total falta de compostura guerreira. Paranaguá sentiu a vista escurecer-se, o ânimo desfalecer.
+
+— Não vale! — gritou desesperado para os cuchichas, em meio ao altíssimo coro de impropérios, assovios e barulhos suspeitos. — Guerra psicológica não vale!
+
+— Bicha, bicha, bicha!
+
+Descoroçoadas, as tropas paranaguás movimentavam-se atabalhoadamente de um lado para o outro, na mais completa desorientação. Paranaguá ainda tentou manter a coesão, mas foi tudo inútil. Não havia a mínima condição de comando. Nem mesmo uma retirada honrosa foi possível, porque, em pequenos bandos, a princípio devagar e depois em atropelo, os guerreiros começaram a debandar vergonhosamente de volta à sua taba.
+
+— Covardes! — gritou Paranaguá. — Voltem! Em nome da honra da tribo, voltem!
+
+— Bicha, bicha, bicha! — responderam as cabeças da paliçada.
+
+Era o fim. Desolado, apenas acompanhado pelo seu conselheiro e por Tombatudo, Paranaguá assistiu, agora silencioso, à ignominiosa derrota. Seu exército, seus sonhos e sua glória ruíam por água abaixo, em melancólica e triste debandada. Nada lhe restava, senão voltar cabisbaixo para a taba e, de sua oca, enlutar-se pelo acontecido. Tombatudo pôs-lhe a mão no ombro, tentando consolá-lo.
+
+— Não se amofine — falou. — Essas coisas acontecem.
+
+— Vá tomar no rabo — disse Paranaguá.
+
+— Perdão, mas infelizmente só posso acatar esta ordem quando vinda diretamente das autoridades lusitanas — respondeu Tombatudo.
+
+— Ai, ai, ai, ai, ai — disse Paranaguá.
+
+Na taba, reinava a mais completa desordem. O governo desmoralizado, o ministério desmantelado, a honra nacional vilipendiada. Paranaguá recolheu-se à sua oca com dor de cabeça, recusando a oferta do pajé de colocar na testa uma compressa de milho mastigado com tripa de baiacu, excelente remédio para cefaleias, hoje lamentavelmente esquecido pela civilização. Somente Penteio ousou interromper a surda lamentação de Paranaguá.
+
+— Com licença — disse ele. — Eu sei que as coisas andam mal, mas o problema é que o navegador português quer ver o chefe com urgência.
+
+— Mande ele ver a mãe dele — disse Paranaguá. — Você já disse que eu estou, mentecapto?
+
+— Já — disse Penteio, esquivando-se da tacapada. — De qualquer forma, ele está sendo muito insistente e não vejo como evitar.
+
+— Desgraça pouca é bobagem — disse Paranaguá, resignado. — Mande ele entrar.
+
+Com seu uniforme de gala e seu chapéu emplumado, o Capitão Afonso dos Reis entrou na oca e curvou-se numa saudação.
+
+— Lamento interromper Vossa Excelência neste momento — disse ele. — Mas temos que zarpar e me cumpre comunicar que já concluímos o desembarque da mercadoria.
+
+— Ótimo — disse Paranaguá. — E para que vai servir essa mercadoria?
+
+— Como já tive ocasião de dizer a Vossa Excelência, meramente transporto a mercadoria. O que será feito dela depende de seus donos.
+
+— Claro, claro. E quem são os donos?
+
+— É exatamente isso o que me traz aqui. Temos um pequeno acerto comercial a fazer antes da minha partida. Como Vossa Excelência pode ver, aqui estão o conhecimento, a nota de conferência e as faturas da compra de lona que o senhor acaba de fazer. Parabéns. Vossa Excelência acaba de adquirir a melhor lona fabricada em Portugal, que lhe dará anos e anos de uso sem problemas e com garantia de fábrica.
+
+— Um momento — disse Paranaguá, levantando-se. — Eu não encomendei lona nenhuma. Para que eu quero essa lona toda?
+
+— Bem, talvez Vossa Excelência haja chegado à conclusão de que a melhor maneira de administrar a sua nação seja convertendo-a num circo. De qualquer forma, isso não me interessa. Tenho cá as faturas, desejo receber o pagamento, porque ainda tenho uma carga de estrume de vaca a entregar na Índia, e não posso tardar-me.
+
+— Essa é ótima — gritou Paranaguá. — Eu não pago nada e não encomendei lona nenhuma e pode pegar sua lona e se mandar daqui antes que eu me aborreça.
+
+— Por favor — disse pausadamente o capitão. — Não cause dificuldades. Tenho aqui o pedido de fornecimento e as faturas.
+
+— Não pago!
+
+— Vossa Excelência me obriga a tomar medidas drásticas e recorrer a argumentos mais fortes. Vê Vossa Excelência isto aqui?
+
+— Vejo. É uma figura colorida.
+
+— É um mapa.
+
+— Pois então. É um mapa. Não sei o que é um mapa e não me interessa.
+
+— Pois este mapa mostra uma coisita aqui. Veja cá bem esta linha. Vê esta linha?
+
+— Vejo.
+
+— Pois então. Tordesilhas. Daqui para cá, tudo é nosso.
+
+— Pois então fique. Mas não fique com meu dinheiro.
+
+— Vossa Excelência não compreende. A nação de Vossa Excelência está aqui, no nosso lado. Logo, Vossa Excelência é nosso. Por conseguinte, queira efetuar o pagamento imediatamente.
+
+— Penteio! — berrou Paranaguá, apontando para o mapa. — Isso é verdade?
+
+— Deve ser — disse Penteio fracamente. — Peço demissão.
+
+— Não pago! — protestou Paranaguá. — Tortonilhas ou não Tortonilhas, não pago!
+
+— Tordesilhas — disse o navegador. — Além de se tratar de um ato de rebeldia e heresia por parte de Vossa Excelência, sou obrigado a lembrar a Vossa Excelência que a falta de pagamento envolverá o imediato protesto dos títulos, uma pronta ação executiva, o corte de crédito de Vossa Excelência e, finalmente, o arrasamento total desta — han — cidade, o qual, pelos meus cálculos, não deverá tomar mais do que alguns momentos.
+
+— Isto é verdade, Penteio? — perguntou Paranaguá.
+
+— Caramuru, caramuru — disse Penteio cautelosamente.
+
+As sinistras palavras de Penteio ecoaram fundo no orgulho acabrunhado de Paranaguá. A lona estava ali para ficar, era indiscutível. O erário paranaguá, não. Vagarosamente, Paranaguá ergueu a voz dorida.
+
+— Mas tem que ser à vista? — inquiriu finalmente.
+
+— Contra a entrega — respondeu o navegador. — Diz aqui.
+
+— Diz aí — ecoou Paranaguá. — E quanto custa a lona?
+
+— Depois de uma breve conferência com o ministro da Fazenda de Vossa Excelência, chegamos à conclusão de que o pagamento envolve exatamente o montante existente em reserva.
+
+— Mas não pode dar um prazo? Um abatimento?
+
+— Vossa Excelência tem em mim apenas um homem que cumpre ordens. Lamento muito, mas tratado é tratado.
+
+— Sim — disse Paranaguá com a voz sumida. — Então sim.
+
+E permaneceu em sua oca, semidesfalecido, enquanto o navegador recolhia o pagamento. O estado de coisas declarado em seguida constituiu-se em melancólico necrológio para a experiência administrativa de Paranaguá. A melhor descrição do acontecido é provavelmente a deixada por Tombatudo Santos Bezerra, que não seguiu com a frota. Na ocasião do inadiável embarque, Tombatudo, com a cumplicidade de um marujo, escondeu-se em companhia de um cuchicha, com o qual viveu para todo o sempre. Assim, não havendo sido encontrado na hora da partida, a expedição partiu sem ele, levando, porém, uma carta para a sua família (que supunha ocupar ele o cargo de auxiliar da gávea, razão por que Tombatudo refere-se a mulheres em vez de ao seu cuchicha, o qual o ocupava com inusitado vigor). Na carta, Tombatudo sintetizou a situação criada depois da derrocada dos paranaguás:
+
+
+
+“... asi depoys de todo esse mallogro, volveram os combatentes aa villa delles ahonde si puzeram muy a lamentar & a deplorar en grãdes brados, que dava penna de si ver. Comtudo, tal lamentaçon poco durou, visto que sen Commando cedo si fatigaron de tanta lide chorativa & si afanaran en logo olvidar ton desgrassados Sussessos. Seo Goberno si foy pellas tabellas & hua Respublica dipherente si creava a coal Respublica tinha seos feiçons muy diversas daquella antes intentada, visto que non mais tinha Minnisterios commo a otra, mas si otros tantos Minnisterios de otros appellidos, tal como o Minnisterio da Alta Sacannagem, o Minnisterio da Çuruba & o Minnisterio da Putaria Applicada, tẽ
+do o Minnistro da Fazenda transphormado o seo Minnistro em Thezoreyro do Bordel. & ja as Raparigas andan ca ton aa vontade que de vellas si mi arrebenta a phivella do cinto & enton andan ellas desprevennidas, sen calçon, coecas ou quoalquer otra espesse de preveniçon & cõ as Caras & o que de resto compoen suas ledas pessoas ton fremosas & todas de muy bon espirito & disposisson amigueyra. & tantas si fez que já ninguẽ
+ si entendia & ateh cõ hum perrete aas fuças si davan entre si os gentios no Dezespero di tanta Phodillança desenphreada. Non fosse hua raça ton forte já si tiveron finados, pois a força que teem en dar as ditas Porretadas eh mais do que estah na idea de hum Criston supoer. & asi proseguio & prosegue ateh hoy essa Situaçon de folganças & çurubagem & asi praza aos Ceos que permanessa.”
+
+Quanto a Paranaguá, abatido e sem ânimo, acabou reunindo forças para ir à praia, ver a mercadoria que comprara. Lá jazia ela, estendida pela praia até quase onde a vista podia alcançar, banhada pelo mar que já ouvira de Paranaguá a frase orgulhosa: este mar é meu. Sentado em cima de um fardo, Paranaguá mirou desconsoladamente a lona, pensando em todo o trabalho perdido, agora no bojo da esquadra portuguesa, já desaparecida na distância.
+4
+ Sem recursos e sem ânimo, Paranaguá inquiriu tristemente os céus: onde estou, onde estou? Somente o mar ouvia, mas não respondia.
+
+
+
+
+2
+ Ou bombordo, conforme onde se encontrasse o rabo. Bombordo é à esquerda, estibordo é à direita. Estibordo é melhor para você.
+
+
+3
+ Filho do fogo. Deus do trovão. Etc.
+
+
+4
+ Daí se originou a expressão popular “estou na lona”.
+
+
+Rombaquirica Santos Bezerra
+
+Como qualquer cretino poderá explicar-lhe, nem todos os termômetros são iguais. Tratando-se encontrar um cretino de coisa muito fácil, é de surpreender o número de pessoas que ignora as mais elementares diferenças entre os vários tipos de termômetro. Essas diferenças, inclusive, podem ser consideravelmente marcadas, quando se comparam dois ramos-tronco dos termômetros, tais como o Termômetro Retal Bundeschmiggel e o Termômetro Axilar Rond-Point, os quais apresentam acentuadas dissimilaridades em forma e função, mesmo a olhos inexperientes. Isto quer dizer que, se alguém lhe mostra um Retal Bundeschmiggel e afirma tratar-se de um Axilar Rond-Point (também existe o Retal Rond-Point, mas está praticamente em desuso hoje em dia, por motivos que qualquer pessoa que tenha usado um lhe explicará com mais força persuasiva do que um técnico), você poderá notar a manobra quase imediatamente, devido às características peculiares a cada um desses excelentes instrumentos. Não é estranho dizer-se, por conseguinte, que o termômetro objeto desta dissertação era o único em sua categoria. Tratava-se, naturalmente, de um termômetro francês Bonguedongue, uma peça de desenho intrincado e funcional, adornada de convolutos ornamentos rococós nas faces externas e encimado por asas de anjos e querubins delicadamente esculpidas. Esses termômetros eram fabricados pela venerável firma André Fesses et Frères Société Anonyme, estabelecidos em Paris e funcionando até 1789, quando houve la chute de la Bastille e diversos outros incidentes desagradáveis. O Fesses mais velho, por sinal, despediu-se juntamente com um coletor de impostos de nome Lavoisier e ambos morreram mortes muito nobres, na medida em que eram possíveis mortes nobres naqueles tempos agitados e deselegantes. O velho Fesses ficou de cabeleira até o último instante, quando então a removeu e a jogou sobre o populacho antes de ajoelhar-se diante da guilhotina, com as palavras “vous pouvez avoir mes cheveux, mais vous ne pourrez jamais avoir ma tête”, as quais, se lamentavelmente inexatas (a não ser por uma metáfora fidalga), foram pronunciadas com magnífico aplomb e impecável dignidade, encontrando-se até hoje inscritas no brasão de armas da família, na sua antiga propriedade da Bretanha. A propriedade é agora parcialmente particular e parcialmente hotel de veraneio explorado pelo governo, sob a administração de um Comité de Direction, que passa a maior parte de seu tempo em infrutíferas e deploráveis intrigas, não só no âmbito interno como em relação às autoridades locais. Na verdade, as coisas chegaram a um ponto tal que os membros de le Comité não podem ver uma autoridade local sem tout à fait cuspirem no chão, hábito que traz efeitos sensivelmente deletérios para o ambiente. Por outro lado, essa prática causou dois severos casos de desidratação em dias particularmente azafamados para os membros de le Comité. A gravidade da situação vem provocando esforços no sentido de superar o impasse, para grande alívio de residentes e turistas, vítimas diretas e indiretas do clima geral de cuspição. Em parte, isso se deve ao trabalho da Association Commerciale local, cujos lucros da exploração do turismo vêm sendo continuamente ameaçados nos últimos anos, o que não é de admirar. Além disso, os turistas já eram desencorajados, mesmo antes, devido ao famoso Mal de Colhoun, endêmico na área e causador de sintomas semelhantes aos da caxumba, em indivíduos adultos do sexo masculino. Le Mal de Colhoun é assim chamado porque o primeiro a descrevê-lo foi um certo médico britânico, Dr. Geoffrey P. Colhoun, que veraneava no local e que passou a maior parte da vida anotando a temperatura de seus pacientes do Mal de Colhoun, com o objetivo de conseguir um gráfico que ajudasse a prever o errático comportamento da Bolsa de Londres no outono. Esta vida é muito complicada e prenhe de percalços.
+
+Tudo isso, por um commodius vicus of recirculation, traz todos de volta ao Bonguedongue. Na verdade, o seu nome real era Le Grand Thermomètre de Sphères Sonores, mas o público em geral, com a sua habitual inclinação pela onomatopeia e vulgar simplificação, preferia chamá-lo Le Bonguedongue. Subsequentemente, como seria de esperar-se, o Departamento de Marketing de André Fesses et Frères Société Anonyme registrou o nome Bonguedongue como marca adicional de seu renomado produto, embora nunca tivesse abandonado o nome original. Até hoje em dia, se você encontrar um Bonguedongue e perscrutá-lo cuidadosamente (de preferência com uma lupa monocular Morgenstern ortocromática, referência MG-17-A), poderá discernir, entre as penas das asas querúbicas, em caprichada escrita provençal, as palavras “Le Grand Thermomètre de Sphères Sonores, Pat. Pend.”, seguidas pela data e pelo número do funcionário encarregado do controle de qualidade. Um glossário desses números aparece no Catálogo de termômetros de New South Wales,
+ edição de 1938, páginas 167 a 212, compreendendo os nomes de mais de duzentos funcionários de controle de qualidade, juntamente com uma pequena biografia de cada um deles. Houve uma edição melhor, publicada posteriormente naquele mesmo ano, mas aconteceu haver sido completamente destruída enquanto ainda estava no Depósito de Livros de New South Wales, por ocasião do Grande Incêndio e Terremoto de New South Wales. De acordo com um historiador local, existe apenas um exemplar atualmente, na biblioteca particular de um Sr. Richard Fitzsimmons, que não permite a ninguém vê-lo, muito menos tocá-lo, proibição extensiva aos membros de sua própria família. Vizinhos informam ser costume do Sr. Fitzsimmons entrar sorrateiramente na biblioteca, tarde da noite, e ler seu exemplar da célebre obra e casquinar de forma demente horas e horas seguidas. Esta história, contudo, não está oficialmente confirmada.
+
+Como você mesmo veria, se consultasse as pesadas páginas do Catálogo de termômetros de New South Wales,
+ as excelentes xilogravuras e águas-fortes do Bonguedongue, da lavra inspirada de M. Henri Feuilleton, tornam transparentemente claro para qualquer observador que o Bonguedongue era um instrumento altamente especializado. A ele não se dava a mesma destinação que a outros termômetros, mais prosaicos e vulgarmente encontradiços. O Bonguedongue consistia num cilindro oco, cheio de uma mistura secreta, cujos ingredientes acredita-se incluírem uma alta porcentagem de massa puba (Grade A, homogenized, almost as pure as Ivory Soap) e também uma grande quantidade de smorkine letão, bem como variedades diversas de butziten e cabashken. Em cima, depois de duas graciosas curvas no material de que o aparelho era construído, havia uma volta, dentro da qual duas bolas de metal se moviam livremente. Quando um aumento programado de temperatura ocorria, a mistura se dilatava e impulsionava as duas bolas em direção a um mecanismo algo complicado, o próprio coração do aparato. O mecanismo funcionava mais ou menos como uma caixa de música e, quando a temperatura atingia um certo ponto, produzia maravilhosas e alegres sonoridades (saída: mais ou menos 1.5 watt por bola, RMs). Daí o nome Bonguedongue, uma inadequada representação verbal dos sons e reverberações de fato emitidos pela máquina. Em um dos modelos postos à venda pela A. F. & F. Société Anonyme, a parte superior era em feição de megafone, o que amplificava lindamente o som, de forma que podia ser ouvido em todo um aposento de tamanho regular e até ser acompanhado por danças e bailados, caso os presentes estivessem inclinados a dançar e/ou bailar. Entretanto, esse modelo tinha certos inconvenientes, notadamente uma acentuada distorção dos graves em volumes mais altos, problema somente superável contemporaneamente (V. Popular electronics,
+ 13, v. XXII e outras referências sobre esse departamento do saber), razão por que a própria empresa os retirou de circulação, depois de sérios contratempos junto à Comissão de Termômetros de l’Assemblée Nationale.
+
+Desde aquela época, não ocorreram alterações de monta no desenho ou proporção, exceto em uma ou duas ocasiões, quando um freguês particularmente difícil exigia adaptações especiais. A razão ostensiva para a compra de um Bonguedongue era geralmente muito pouco convincente, já que os verdadeiros cavalheiros não consideravam apropriado declarar a verdadeira razão. Os balconistas da A. F. & F. Société Anonyme e seus revendedores autorizados mostravam uma discrição à toda prova em tão delicadas questões, de forma que aceitavam os mais absurdos motivos para a aquisição de um desses extraordinários termômetros. Como, por exemplo, o caso de M. Gérard Lourd, de importante família parisiense, que entrou numa loja dos Champs-Elysées e explicou ao encarregado que precisava do Bonguedongue para distrair os empregados na cozinha, com a música produzida em consequência do calor reinante no ambiente. O encarregado, sem pestanejar, engolir em seco, sorrir, embargar a voz na garganta, hesitar, deter-se um breve instante, encará-lo interrogativamente, parar, arregalar os olhos, franzir o sobrolho, morder o lábio, suspirar, revirar os olhos para cima, trocar olhares significativos com os companheiros, estacar, estarrecer-se etc., embrulhou o Bonguedongue e o entregou, com um gentil meneio de mão que lhe traía a estrita formação profissional recebida durante anos e anos de treinamento. Porque o encarregado sabia muito bem que a verdadeira razão para a compra era Mme. Lourd. Em primeiro lugar, o Bonguedongue jamais tocaria numa cozinha, porque o sensível aparelho era afinado com precisão para desempenhar apenas a sua função original, que tinha muito pouco a ver com cozinhas, embora pudesse ser alegado ter, às vezes, muito a ver com empregados. Na realidade, aquela ferramenta modelar, aquela maravilha do engenho humano, era destinada a ser usada por maridos suspeitosos, a fim de verificar a autenticidade dos protestos de suas esposas, quando, depois de uma chegada súbita, eles as encontravam em estado deploravelmente desmazelado e desalinhado, também aparentando sofrer de distúrbios respiratórios, condição ainda deveras encontradiça em esposas de toda parte. O marido, munido do instrumento, precisava somente solicitar permissão para inserir o Bonguedongue no recesso das partes mais graciosas da senhora (ou, se temesse que ela negaria permissão, poderia distraí-la por um instante — olhe, chouchou, um papillon!) e... voilà! Como é sabido por todos os estudiosos da fisiologia feminina, há numerosas mudanças sutis de temperatura naquelas acolhedoras partes, quando a mulher entra em conjunção carnal com um homem, ou ersatz compatível, mesmo que seja por um fugaz e fugidio momento, como forçam às vezes as circunstâncias. E, naturalmente, o Bonguedongue é construído de tal forma que soa diferente, de acordo com a profundidade da inserção e com o lapso de tempo decorrido entre o ato ilícito e a averiguação marital.
+5
+ Não produzirá um único som, se a senhora não tiver os seus fundamentos aquecidos no curso da prática do jogo do bicho de duas costas em companhia masculina. É também óbvio que a interpretação dos vários sons assim obtidos do Bonguedongue requer um grau considerável de habilidade e perícia, além de muita prática. Contudo, qualquer deficiência do marido relacionada com esses problemas de interpretação era exaustivamente coberta pelo substancioso Manual do Proprietário fornecido por A. F. & F. Société Anonyme a todos os compradores do seu inigualável instrumento. É sabido, além de tudo, que diversos cursos práticos de interpretação eram oferecidos na cidade de Paris, onde o bonguedongueur noviço aprendia todos os aspectos sutis da complexa arte interpretativa. Essa, aliás, era uma situa­ção infinitamente melhor do que a prevalente antes da invenção do Bonguedongue. Naqueles tempos desditosos, um homem necessitado tinha que recorrer aos serviços profissionais de tomadores de temperatura especializados, uma laia arrogante e rude, que prezava os seus dedos como os provadores de café colombianos prezam suas papillae e cuja companhia não era apropriada para um cavalheiro.
+
+No caso de Mme. Lourd, era sabido em toda a cidade possuir ela extraordinários apetites, requerendo a assistência de diversos colaboradores, várias vezes ao dia. Quando M. Lourd comprou seu Bonguedongue, previu-se imediatamente que o aparato seria submetido a severíssimo teste de campo, pois M. Lourd era certamente capaz de propelir as bolas metálicas com vigor suficiente para imitar uma orquestra sinfônica, ou pelo menos um bom conjunto de câmara. E, de fato, quando M. Lourd completou a primeira inserção, evolaram-se canções miríficas e jubilosas, melifluências eufônicas e extasiantes, angelicais melopeias, celestiais harmonias, todas se multiplicando em imaginosas convoluções, enquanto o estarrecido M. Lourd deixava o instrumento explorar as infinitas possibilidades térmicas do suave recesso onde se aninhava. Além disso as bem-concebidas e escrupulosas formas do Bonguedongue pareciam conferir maior prazer às latejantes parts intimes de Mme. Lourd, aumentado pelas prodigiosas vibrações do incomparável implemento.
+
+— Ah, chéri — suspirou Mme. Lourd —, que é que falta inventarem?
+
+— Exijo uma explicação — gritou M. Lourd, revelando pouca imaginação.
+
+— Explicações, explicações — engrolou Mme. Lourd, enquanto um cintilante scherzo enchia o ar. — Isso não é hora de se pensar em M. Descartes.
+
+— Vou abandonar você — anunciou M. Lourd dramaticamente.
+
+— Está certo, mas não leve este negócio com você — Mme. Lourd conseguiu dizer, ao tempo em que o irrepreensível utensílio começava a tocar algo surpreendentemente semelhante a Eine Kleine Nachtmusik
+ (allegro vivace).
+
+Como se poderia esperar, M. Lourd mudou de ideia posteriormente. As exigências de Mme. Lourd, de qualquer forma, eram fardo excessivamente pesado para um homem sozinho. E M. Lourd, tendo a disposição prática e estoica, decidiu estabelecer um modus vivendi, de forma que aquilo que de outra maneira se teria constituído em lamentável estado de coisas se transformou num lar ajustado e feliz. Às vezes, poder-se-ia alegar haver um pouquinho de música demais no ar, quando Mme. Lourd experimentava o Bonguedongue. Logo ela se tornou capaz de tocar diversas canções populares da época, tais como Sous les doigts de Paris, Douche France
+ e La connéction française.
+
+
+Não obstante, no curso de suas pesquisas, Mme. Lourd teve a desventura de contrair uma raríssima doença do mundo, conhecida vulgarmente como gúnflio. Essa doença, raramente fatal, foi na verdade trazida à Europa por camelos, já que essas industriosas bestas de carga, sobre as quais repousa tão ponderável parte da economia dos Estados berberes, parecem ser absurdamente sensíveis ao contágio. Na maior parte dos casos, a doença é transmitida por glipsos de aparência inofensiva, como esses que podem ser vistos, ­voando entre as coramíneas mais altas, nos dias claros. Na realidade, os glipsos não voam. Eles glincham, o que pode ser notado claramente, se observado o seu deslocamento entre fluxos ascendentes de ar. Mas há pouca diferença para os leigos, de forma que se ouvem muitas referências aos glipsos como voadores e não glinchantes. Os glipsos, na verdade, são criaturas tão esdrúxulas, que tornam necessária a explicitação de certos fatos a respeito deles. Um glipso não voa; glincha. Não tem boca ou bico; tem um esmurjão. Não migra para o sul: migra para hernonte. Emite um som peculiar, conhecido como chuca; quando o glipso está produzindo chucas, diz-se que ele está acachucando (defectivo: acachucar, acachucando, ele teria acachucado, acachuques tu, acachucato). O coletivo de glipso (um porrilhão de glipsos) é crechanque e o feminino é golé-golé. O glipso tem absoluto desprezo pela sua cria e a jogaria fora do lunde (ninho, mais ou menos), não fosse o fato de estar sempre com preguiça de fazê-lo. Finalmente, não come nunca; somente gorgola.
+
+Acontece que os glipsos têm o hábito de gorgolar os cabelos que crescem em torno da genitália dos camelos. Eles gostam tanto disso que, toda vez que há um circo na cidade, você pode ver crechanques e crechanques de glipsos glinchando loucamente em torno dos camelos (algumas vezes, elefantes, mas isso não é muito comum, visto os elefantes sofrerem de acentuado meteorismo abdominal, o que desagrada os glipsos), mexendo seus pequenos esmurjões em incrível velocidade e acachucando o tempo todo e perturbando de forma geral. Naturalmente, a maior parte dos glipsos é encontrada na África do Norte, mas eles seguem os camelos por toda parte, razão por que muitos são vistos na Europa ou em qualquer outro lugar onde estejam camelos. Quando um glipso gorgola um tufo de beduinelho (como são conhecidos os cabelinhos dos camelos) de camelo infectado, torna-se portador de um perigoso bacilo, conhecido como Gunflius scrotissimus,
+ agente patogênico do gúnflio. O bacilo é muito mais perigoso do que se suporia, em virtude do fato de que, em condições desfavoráveis, pode transformar-se em esporo e sobreviver por períodos de tempo extremamente longos.
+
+É muito difícil que um ser humano contraia o gúnflio, já que os glipsos têm acentuada preferência por camelos. Contudo, em países muito frios, onde as pessoas passam a maior parte do tempo em recintos fechados e usando roupas pesadas, os glipsos às vezes atacam aqueles que estão aproveitando um ocasional dia temperado para fazer um pouco de arejamento. Foi assim que Mme. Lourd adquiriu a doença, de forma indireta, é claro, já que os franceses raramente se arejam, sendo que alguns nunca o fazem. Ela estava tendo um affaire com um imigrante russo que se arejava bastante e que foi atacado por um glipso sem saber (ele só ouviu o barulho e pensou que uma gralha crocitara ou um papagaio garrira ou um corvo nitrira, quando um glipso teria acachucado). Foi um problema sério, porque um caso de gúnflio, mesmo quando tratado com a costumeira purga de nitrato de prata, é geralmente incurável. Os sintomas variam de pessoa para pessoa, mas um indivíduo infectado terá crises periódicas, em que as seguintes ocorrências podem ser evidentes, seja simultânea ou separadamente:
+
+a. dentes podres (a famosa boca de trincheira da Caledônia);
+
+b. uma acentuada propensão para tocar sanfona;
+
+c. completo analfabetismo;
+
+d. tendência a não reconhecer comida;
+
+e. pernas tortas;
+
+f. sífilis, anquilostomose, esquistossomose, verminose, amebíase, tuberculose, tifo, paludismo, raquitismo, pelagra, beribéri, bexiga e tripanossomíase;
+
+g. falta de caráter, de amor à causa pública e de espírito de sacrifício;
+
+h. indolência.
+
+Quando Mme. Lourd contraiu a infamante doença, M. Lourd ficou compreensivelmente vexado, mas evitou o contágio engolindo grandes porções de nitrato de prata todas as manhãs. Posteriormente, enquanto Mme. Lourd padecia de sérios sintomas gunflíticos, descobriu-se no Instituto Pasteur que comer com regularidade, embora não abolisse a doença, liquidava instantaneamente seus efeitos. Na verdade, o misterioso processo pelo qual a comida opera não produz seus resultados diretamente, mas simplesmente através da tranquilidade emprestada pela alimentação, o que requer uma certa boa vontade, quando, por madrasta a natureza, não há comida. A má vontade, não obstante, impede que uma pessoa sem comida venha a ser curada e não há nada que se possa fazer. De qualquer maneira, o Bonguedongue foi abandonado pela família Lourd e Mme. Lourd terminou seus dias como uma das mais dedicadas balconistas da loja de l’Armée de la Salvation, na esquina da Rue 14 Juillet com a Rue 18 Brumaire.
+
+Nessa ocasião, o Bonguedongue foi vendido a uma firma de exportação, que se especializava em enviar produtos de qualidade para o Novo Mundo, exportando penicos, latrinas, relógios de cuco, pinguins de geladeira, sinetinhas de tocar com o vento, móveis estilo Luís XV e um Bonguedongue, adquirido pela família Bezerra, da Paraíba (se der problema, pode ser do Rio Grande do Norte, de Sergipe ou da Mongólia Exterior; a família pode ser Von Hohenheim, por exemplo).
+
+Quando Rombaquirica fugiu de casa, para evitar os problemas a serem causados pelos filhos que fez em duas agregadas, quatro primas e uma tia, levou consigo o Bonguedongue, cuja serventia era desconhecida aos herdeiros que o receberam em legado. A única informação disponível havia sido fornecida, num momento de loquacidade, pelo avô Natércio, que tinha chegado de camisolão, depois de uma cavalgada pelos lados do rio, imaginando perseguir negros fugidos. Como estava muito contente com o passeio, o velho Natércio se dignou a interromper um discurso contra a raça do cão, para informar sobre a serventia do objeto:
+
+— Isso aí é um hong-kong velho — explicou o avô Natércio. — Parece uma caceta, mas é um hong-kong. Deixe isso aí.
+
+E ficou calado mais dezenove dias, pegando moscas para jogar contra a parede e atacando os mandacarus da estrada a facão, com as grandes fraldas do camisolão flutuando pelo vento. No momento em que Rombaquirica se escapuliu pelo meio da estrada, o velho Natércio o viu e disse:
+
+— Vai para o cangaço, infeliz? Vai, fidaputa!
+
+E então Rombaquirica foi. No primeiro ano, juntou uns cabras e saiu pelos confins, pilhando fazendas, decapitando inocentes e esculhambando de forma geral. No terceiro ano, entrou na obra de um açude do governo e, lá chegando, procedeu a execução de diversos atos nefandos, a saber: xingou os engenheiros do governo e cortou os ovos de dois, havendo besuntado de piche os restantes e mandado andar até Maceió; xingou os trabalhadores do açude e cimentou três capatazes num pontão, com a cabeça de fora e obrigados a repetir “eu sou capataz do açude, coisinha, olhe eu” para não tomar cascudos; mandou todo mundo andar e ir para a cidade pedir emprego de salário mínimo e estabilidade, além de cometer outras perturbações contra a vida ordeira da cidade; e assim por diante. No quarto ano, enquanto mexia no embornal, encontrou o Bonguedongue, que ainda guardava, em suas inúmeras fissuras, os perigosos e trai­çoeiros esporos do gúnflio. Sem saber para que servia aquilo, Rombaquirica convocou a mulher de um juiz e inquiriu:
+
+— Ara, ara, bichinha. Antes pelesses mundões, viu-que-te-viu, avistei deparado muito que assim-assim, luziluzindo, eu figurava rindo que nem-nem. Apois. A senhora tolere. Não gloso. Deus esteja, queque vem a ser isso que nem-nem sei o que for?
+6
+
+
+— No terminado, eu sabia, no acabado não sei — disse a mulher do juiz. — Ah, que tem maior! E pois bem sei eu na sentança paradeira deste dia meu? Vá se foder.
+
+— Apois-apois, que me quedo assim-assim, asp’ro — disse Rombaquirica. — Mal haja-me! Assunto na fantasiação, quecheque-quecheque, quiun-hun. P’taqu’-m’-p’riu, cá ou ’stou desendoidado ou desemendo de tanto aqui sojornar, atente, mas isso parece-mamim u’a roleta, não bem? Ficando aí nua nuela, prostitutriz!
+
+— Não ao adiável? — perguntou a mulher do juiz. — Assim e assaz? Ademoro no entender.
+
+— Advindo estipendiado, a-hum, me encontro sofrente, assenhora uturge, vej’a-mim em desregra — disse Rombaquirica.
+
+— Ah cobra bibra! — falou a mulher do juiz. — Deixar, por osséquio ali dever.
+
+— Arreie as carçolas — disse Rombaquirica.
+
+E foi assim que, depois de afuque-afuque na mulher do juiz, Rombaquirica, inspiradamente, fincou-lhe o Bonguedongue e, ato contínuo, o inimitável aparelho emitiu os graciosos acordes do Quarteto em si bemol maior,
+ opus 130, de Beethoven.
+
+— A-que, a-que! — exclamou Rombaquirica. — A senhora ponha. Arrum. Com que ascuto, ah-bom, um xote chei’ de pontas. Não bem?
+
+— Mas xíspete! — bradou a mulher do juiz. — A qui-di-qui se deve, ô? Zote, do que arrenego etc. Pau na máquina.
+
+Não foi assim que, revividos pelos ardentes humores da mulher do juiz, os temíveis bacilos do gúnflio iniciaram suas atividades por toda aquela região, multiplicando-se em mi­ría­das de indivíduos ativos e diligentes, ajudados pelo fato de Rombaquirica se ter transformado no pior bandido da área, ignorando lei, religião e moral. Frequentemente, quando a época se tornava propícia, Rombaquirica se punha a trabalhar com seus cabras para um ou outro coronel, nos serviços que requeriam homens de mais decisão que o habitual, notadamente face à circunstância de que o gúnflio, espalhado por todas aquelas partes, já fazia sentidos seus múltiplos malefícios. Fosse num serviço de execução de inimigos, fosse no extermínio de umas onças comedoras de gado, fosse na derrubada de algumas árvores, Rombaquirica se sobressaía, nos intervalos em que não estava praticando ardentemente suas habilidades no Bonguedongue. Esses trabalhos, na verdade, foram a perdição, porque Rombaquirica foi receber o resultado financeiro de uma capinação grande, combinada para render dinheiro que nem ladrão acabava: uns quinhentos contos, seiscentos contos, talvez. Rombaquirica foi chegando e o dono da terra disse:
+
+— Assine aí, para receber o dinheiro.
+
+— Cuma? — perguntou Rombaquirica.
+
+— Assine aí — repetiu o homem.
+
+Rombaquirica, que, por causa da maldita moléstia, havia desaprendido de escrever, colocou o polegar direito em cima do lugar da assinatura e contou o dinheiro.
+
+— Está faltando aqui — falou finalmente.
+
+— Não está faltando nada — disse o homem. — São os descontos de lei.
+
+— Cuma? — perguntou Rombaquirica.
+
+— Os descontos — repetiu o homem.
+
+Rombaquirica, apertando o Bonguedongue pendurado no cinto, respirou fundo e requereu explicações.
+
+— É o seguinte — explicou o homem. — Quarenta contos são do TTPS
+, que protege o trabalhador. Cinco contos são do ZAZAI
+, que ensina o trabalhador. Dezoito contos são do PUS
+, que economiza para o trabalhador. Quatorze contos são do NANAC
+, que congrega o trabalhador. Dois contos são do LESC
+, que ajuda a criança. Vinte e oito contos são do FANRARUCA
+, que dá dinheiro para o lavrador. Seis contos são do TGPS
+, que garante o emprego do trabalhador. Dois contos são do COMPULCS
+, que toma dinheiro do trabalhador emprestado e depois devolve. E sessenta contos são do imposto de renda, que dá boa vida a todos nós. E tem uns outros, mas é na maior parte miuçalha, que junto dá uns oito contos.
+
+— E se me desculpa o cidadão — disse Rombaquirica — pela minha ignorância, como é que eu vejo esse dinheiro?
+
+— O senhor vai na cidade — disse o homem — e lá o senhor vai nesses lugares e se informa dos seus direitos.
+
+Rombaquirica montou no seu cavalo e partiu para a cidade. Lá chegando, foi ao TTPS
+, onde pediu proteção e o puseram numa fila, à qual, findos três dias, chegou um médico, sempre olhando para o outro lado, e deu uma injeção de cálcio com vitamina C na veia dele. Rombaquirica enfiou dois dedos nos olhos do médico, meteu-lhe a seringa no ouvido e cortou a cabeça dele, tendo prosseguido viagem em direção ao ­ZAZAI
+, onde lhe cobraram vinte e seis contos de taxa de matrícula e lhe ensinaram a consertar rádios transistorizados. Rombaquirica pegou um rádio, descascou o fio, enrolou tudo no pescoço do professor e ligou na tomada, havendo então tomado o rumo do PUS
+, que lhe entregou duas petições, o pôs numa fila de seis dias e, no fim de tudo, lhe deu vinte centavos, menos a taxa de depósito. Rombaquirica pegou a taxa de depósito e enfiou as duas moedinhas nos ouvidos do caixa, tendo depois esquentado tudo com uma vela de queima lenta. Já sem dinheiro, foi ao TGPS
+, que o multou por não ter número de ABF
+ e lhe forneceu uma carteira, havendo Rombaquirica pegado a carteira, enrolado a carteira bem enrolada e enfiado a carteira pelas vergonhas da funcionária, depois de passá-la no molho de pimenta. E desistiu.
+
+Tão deploráveis ocorrências denunciavam a virulência do gúnflio, que, inclusive, já contagiava com seus nefários sintomas grande parte da população da região. A funcionária do TGPS
+, por exemplo, nem bem se recobrara da primeira carteirada, recebeu mais nove no mesmo lugar, para grande inquietação de todos aqueles que, num trabalho sem quartel, buscavam proteger o trabalhador e agora batiam no jacarandá da parede, para isolar os maus presságios da perigosa e injusta sedição. Todo o trabalho se encontrava ameaçado, enquanto Rombaquirica, no meio dos matos, prosseguia em sua senda criminosa, brandindo o maldito instrumento que, trazendo uma desconhecida doença da Europa, fazia pairar sobre tµdo o espectro da destruição. Um deputado fez um discurso:
+
+— Considerando que toda uma população é vitimada por males de origem desconhecida — disse o deputado. — Considerando que se trata de grave problema médico-social, a requerer a atenção de técnicos, estudiosos e homens de espírito público. Considerando que devemos abordar o problema de forma orgânica e coerente, a fim de que possamos assegurar às gerações futuras um ambiente livre de doenças e influências negativas para a ordeira convivência social e o desenvolvimento. Considerando que essa doença é claramente responsável pelo estado lastimável e calamitoso em que se encontra a região. Considerando tudo isso, propomos a formação de uma comissão especial para estudar o problema, com vistas à futura criação de um órgão destinado a centralizar as atividades de análise do problema, prevenção de seu alastramento, e assistência e orientação às populações afetadas.
+
+Depois de vibrantes aplausos, a comissão foi criada e se iniciaram os estudos necessários à implantação do novo órgão. Os estudos se iniciaram com a nomeação dos membros da comissão e de seus auxiliares, que imediatamente autorizaram o começo das pesquisas, as quais se desenvolveram em ritmo tão acelerado que, ao fim de oito meses, se encontravam prontas as introduções aos seguintes trabalhos:
+
+1. Etiologia do gúnflio —
+ Análise ecológica dos micro-organismos patogênicos, em trinta e dois volumes.
+
+2. Epistemologia da doença endêmica —
+ Nova abordagem conceitual, preliminar à delimitação do problema, em vinte e seis volumes.
+
+3. Os ratos e preás são imunes ao gúnflio —
+ Pesquisa de campo, em dezoito volumes, sendo que quatorze de quadros e tabelas.
+
+4. Ruy Barbosa e o gúnflio —
+ Escorço histórico sobre a combativa vida social do ilustre tribuno patrício, em dois volumes.
+
+5. Viva com o gúnflio e viva melhor —
+ Série didática de compêndios elaborada pelo Grupo Especial de Psicólogas e Nortepreceptoras da Universidade de São Paulo, quantidade de volumes ainda imprevista.
+
+Ao mesmo tempo, Rombaquirica compareceu a um encontro com um representante da comissão, que esclareceu: “Viemos aqui para curar e não para reprimir. O gúnflio é uma ­doença, não é um crime.” Aconteceu, entretanto, que um destacamento encarregado de pacificar a região não ouviu o discurso do membro da comissão. Assim que, depois do encontro, Rombaquirica foi embora para pensar e tentar preencher os quinze formulários que a comissão lhe mandara, o destacamento o pegou, sentado embaixo de uma cajazeira. Ele estava respondendo à parte mais interessante dos formulários (“teve sarampo, papeira e catapora?”; “que preferiria: ser padre, cobrador ou motorista de caminhão?”; “quais os seus passatempos preferidos?”; “há caso de loucura em sua família?”; “diga em poucas palavras o que você pensa da vida”; e assim por diante), quando o destacamento chegou. Como se tratava de um bandido armado, a fatalidade não pôde ser evitada, de maneira que o destacamento matou Rombaquirica com dois tiros de bazuca e quatro granadas de mão, além de sessenta rajadas de metralhadora, e cortou a cabeça dele, para depois empalhá-la e colocá-la em exposição, com uma legenda educativa, escrita em letras vermelhas: “O gúnflio matou este homem.” Dessa forma, os jovens que por ali passam podem aprender os malefícios da má profilaxia, da vida promíscua e do destino daqueles com quem a natureza há sido madrasta, porque ela não é igual para todos. Quanto ao Bonguedongue, foi pegado por um soldado e posteriormente perdido, numa farra feita em Caculé (ou em Des Moines), de onde, segundo se acredita, passou a peregrinar de mão em mão, espalhando doença e música em toda parte aonde era levado. E até hoje circula e, enquanto não se pegar esse Bonguedongue, os problemas nunca serão resolvidos, como se uma silenciosa maldição pairasse por sobre aquelas plagas. E, mesmo que fosse capturado, pouca gente revelaria boa vontade para com a falta de comida, de maneira que é difícil curar a população, que continua teimosamente analfabeta, burra, mal-agradecida e com boca de trincheira e sem saber para onde vai. É por isso.
+
+
+
+
+5
+ Ou de acordo com o instrumento ser um Bonguedongue soprano, tenor ou alto, ou ainda um Bonguedongue bombardino. Isso, entretanto, são problemas de acústica, que é um departamento da fonética.
+
+
+6
+ Na realidade, ninguém fala assim, mas vai para que seja mantida a alta qualidade literária e por uma questão de autenticidade.
+
+
+Sangrador Santos Bezerra
+
+Para atingir a santidade, diversos métodos são recomendáveis, a depender do tipo de beatitude pretendida e do grau que se deseja obter, dos quais é complexa a descrição e trabalhoso o estudo. Na verdade, pode-se afirmar que o caminho que leva um homem à santidade pode levar outro à perdição, de forma que cabe muita cautela na análise dessas graves e delicadas questões. É costumeiro, principalmente entre diletantes aplicados, o uso da Tabela Tranx de Santidade, que fornece elementos indicativos e comparativos, a fim de orientar a aferição do estado de santidade em que se encontra determinada pessoa. É comum que o leigo suponha que quem vê um santo vê todos, mas nada está mais longe da verdade. Temos o caso de São Simeão Estilita, grau 3 na Escala Tranx, que se notabilizou por passar o tempo todo em cima de uma estaca, no topo da qual existia uma plataforma. As razões por que São Simeão elegeu a plataforma em cima da estaca como moradia ultrapassam o entendimento do comum dos homens, todos dispostos a analisar qualquer comportamento à luz de suas vulgares inclinações, sem levar em conta a motivação sublime que pode impulsionar o coração de um ser superior. De qualquer maneira, como as instalações sanitárias daquela época deixavam muito a desejar, os arredores da estaca se ressentiam da irresponsabilidade dos poderes públicos, ao concederem o “habite-se” à estaca de São Simeão, sem antes haverem tomado o parecer de um encanador habilitado. Daí se originou a expressão odor de santidade.
+ Entretanto, se você passar a residir em cima de uma estaca e de lá aspergir os passantes, você terá problemas de ordem diversa e, muito provavelmente, não ficará santo. Por outro lado, se você também não tomar banho, o máximo que poderá acontecer é você feder bastante e receber distantes cumprimentos de paz e amor, da parte dos circundantes mais identificados com a sua posição ideológica.
+
+O caso de Santo Antão (grau 4 na Tranx) se reveste de outros aspectos ilustrativos. Santo Antão se domiciliou num buraco, onde meditava e combatia o demônio. Normalmente, Santo Antão ficaria quieto, mas o demônio aparecia com frequência maior do que a desejável mesmo para um santo homem, de forma que ele era obrigado a reagir, inclusive porque o diabo cortava a corda com a qual lhe passavam a comida. A intervalos razoavelmente regulares,
+7
+ Santo Antão sentia que a carne se lhe abrasava, acendida pelos baixos impulsos animais que impelem os homens às mulheres. Nessa ocasião, sem um instante de dúvida e com a pressa recomendada pela urgência da situação, Antão saía celeremente do buraco e se lançava numa touceira de espinhos que havia sido colocada ali pelo Departamento de Mortificação da Carne, iniciando uma entusiástica espojada na mencionada touça, o que lhe valia a imediata liberação daqueles impulsos imencionáveis. Contudo, se você for morar num buraco, padecerá de imenso tédio, já que o diabo provavelmente não aparecerá para tomar-lhe a comida e a comida provavelmente também não aparecerá. Por outro lado, a iniciativa de jogar-se numa moita de espinhos não só apresenta quase insuperáveis dificuldades práticas como possivelmente lhe dará tétano.
+
+Finalmente, Santa Irene (grau 5) deverá ilustrar definitivamente a complexidade de todo o vasto tema. Santa Irene é grega ortodoxa,
+8
+ mas santo é santo em qualquer circunstância. No tempo de Santa Irene, havia uma discussão a respeito de dois ou três pontos fundamentais, como, por exemplo, se a Santíssima Trindade era trina e una, ou una e trina. Santa Irene, que era regente enquanto seu filho ainda não tinha idade suficiente para assumir o trono, andava preocupadíssima com o fato de o menino poder sucumbir às ideias opostas àquelas que preservariam a unidade eclesiástica. Depois de ponderar gravemente o problema, ela decidiu fazer um sacrifício: mandou cegar o filho, incapacitando-o, assim, para o exercício do cargo e, ao mesmo tempo, salvando a cristandade de tão grave ameaça. Imagine-se o sofrimento do coração de mãe, ao ver aquela cena, ainda mais que não havia anestesia na época. A história não revela se foi um caso de dói-mais-em-mim-do-que-em-você ou de faço-isso-para-o-seu-próprio-bem, mas, de qualquer maneira, o filho deve ter ficado com intenso sentimento de culpa por haver forçado a santa mãe a tão penoso ato e deve ter morrido em farrapos, desfilando bêbedo pelas ruas e fazendo comícios a respeito da necessidade de se fortalecer a família, situação agravada pelo fato de que, naturalmente, sua mãe o perdoou. No entanto, se você resolver fazer a mesma coisa, mesmo fortalecido pela mais nobre das razões, dificilmente obterá um certificado de cegueira canônica para seu filho, a fim de assegurar a santidade do ato. Esta vida é muito complicada.
+
+Diante de tantos óbices à consecução da santidade, não deixa de constituir-se em objeto de admiração para todos nós, pecadores, a vida exemplar de Sangrador Santos Bezerra, que viu a luz pela primeira vez num dia 21 de setembro, no Kazinguistão. O Kazinguistão fica na península Escrônia, a qual compreende, além do próprio Kazinguistão, a Transmalânia, a Somatotônia e a Watchamacallit, além de diversos outros países de cujos nomes ninguém se lembra. Os países da Escrônia são muito atrasados em todos os sentidos, alguns de tal forma que nem têm noção de que são atrasados e passam o tempo todo fazendo grandes elogios a si mesmos. A população dos outros países não parece, no geral, incomodar-se muito com o atraso, porque quem não tem nada não encontra tempo para incomodar-se e quem tem alguma coisa emigra para outro país, de preferência bastante longe da península e, com alguma sorte, sem nenhum outro escroniano por perto. Em relação a esse estado de coisas, a situação até surpreende o observador mais apressado, porque o Kazinguistão parece oferecer condições extremamente favoráveis ao progresso. Enquanto, no resto da península, os outros países passam seis meses do ano cobertos de neve até o pescoço e o restante do tempo afogados em extensos pantanais, o Kazinguistão apresenta belas colinas e montanhas, além de uma excelente floresta. É verdade que pouca gente frequenta as colinas, por causa dos mosquitos, percevejos, urtigas e cobras venenosas, mas não se pode querer tudo e com pessimismo é que não se vai para a frente. Mas não é essa a riqueza do Kazinguistão. Entre as folhudas árvores da floresta, podem ser vistos, perpassando celeremente entre as copas mais altas, principalmente na hora do crepúsculo, pássaros avermelhados de singular formato, que lhes valeu diversos apelidos populares, nenhum dos quais adequado à menção entre pessoas de bom trato e todos os quais desaconselháveis à impressão, mesmo nas publicações mais libertinas.
+9
+ Por alguma razão, a esse pássaro é atribuído imenso valor no mundo inteiro, constituindo-se ele em valioso produto de exportação, mesmo quando empalhado em granítico rigor mortis.
+ Durante algum tempo, o Kazinguistão atravessou fases de intensa prosperidade, motivada pela exploração do pássaro. Sabe-se que eles são inteligentes e facilmente domesticáveis, aprendendo truques e graças com muita desenvoltura. Um deles, por nome Florisvaldo Menezes, teve grande êxito pelos palcos da Europa. Entusiasmado diante de tanta riqueza, o governo organizou a produção, criou cooperativas, incentivou a pesquisa, apropriou verbas, definiu programas, desenvolveu campanhas, concedeu créditos, regulou a exportação, deu incentivos fiscais e esculhambou tudo, porque, alguns anos mais tarde, saía mais barato comprar um desses pássaros na Transmalânia do que no Kazinguistão, embora não haja passarinho de espécie alguma na Transmalânia, onde a coisa mais interessante que existe são alguns anões búlgaros, quase todos gagos. Mais tarde, num gesto que ficou permanentemente marcado na história do Kazinguistão, o Conselho de Ministros importou quarenta casais de pássaros, a fim de iniciar um programa racional de criação. Vencidas as barreiras alfandegárias (o Conselho de Ministros negligenciou o fato de que a lei proibia a importação de pássaros), a compra foi feita na Somatotônia, onde o principal divertimento da população consiste em sair aos domingos para ir ver uma bomba de gasolina Shell, quebrada, que existe na praça central.
+
+Ao nascer, Sangrador Santos Bezerra teve pressagiados os seus altos destinos. Uma pomba alçou voo do beiral do telhado e, em rápidos movimentos, traçou com sua curta viagem a forma de uma estrela. O avô cego de Sangrador foi o primeiro a denunciar o fato. A pomba fez uma estrela! — exclamou ele, em intenso júbilo. O fato de ele ser cego e não poder ver a pomba compôs mais ainda o maravilhoso do ocorrido. No dia em que Sangrador nasceu, as pombas ­fizeram estrelas e os cegos enxergaram. Inclusive, logo depois o avô voltou a ser cego e nunca mais viu imagem alguma, porque nunca mais nasceu nem nascerá outro Sangrador. Nascido e semicriado, Sangrador logo se destacou pelos seus modos diversos das crianças de sua idade. Aos cinco anos, surpreendeu sua prima Nacarada descarando atrás da porta com seu primo Madrepérolo e os denunciou indignado à família, passando depois a vomitar copiosamente, todas as vezes em que o fato era mencionado. Aos seis anos, jejuou durante uma semana seguida, ingerindo somente água. Aos sete anos, se ajoe­lhou em milho catado todos os dias, durante um mês, das sete às onze da manhã e, quando perguntado se não doía, respondia que nada é demais para o serviço do Senhor. Aos nove anos, tomou uma surra do pai, que estava bêbedo, e logo após beijou os cabelos do velho e disse:
+
+— Papai, perdoa-me por tê-lo feito sofrer.
+
+Aos onze anos, finalmente, iniciou sua comunicação com as Vozes. As Vozes lhe surgiam nos momentos mais inesperados e lhe davam diretrizes para a ação, com a consequência de que Sangrador deixou a escola e se recusou a trabalhar, a fim de tornar-se um santo homem, pelos seus atos, pensamentos e palavras. Assim sendo, Sangrador começou um programa de cinco fases, destinado a torná-lo cada vez mais puro.
+
+
+
+
+
+
+	
+1ª fase
+
+
+	
+—
+
+
+	
+Introdução à mortificação.
+
+
+
+
+	
+	
+	
+Penitência aplicada.
+
+
+
+
+	
+	
+	
+Teoria geral da autoflagelação.
+
+
+
+
+
+	
+2ª fase
+
+
+	
+—
+
+
+	
+Mortificação avançada.
+
+
+
+
+	
+	
+	
+Jejum intensivo.
+
+
+
+
+	
+	
+	
+Lamentação I.
+
+
+
+
+
+	
+3ª fase
+
+
+	
+—
+
+
+	
+Mortificação profissional.
+
+
+
+
+	
+	
+	
+Purga I.
+
+
+
+
+	
+	
+	
+Lamentação II.
+
+
+
+
+	
+	
+	
+Êxtase elementar.
+
+
+
+
+
+	
+4ª fase
+
+
+	
+—
+
+
+	
+Controle de abrasamento.
+
+
+
+
+	
+	
+	
+Técnicas antiblasfêmia.
+
+
+
+
+	
+	
+	
+Anatemização geral.
+
+
+
+
+	
+	
+	
+Expiação I.
+
+
+
+
+	
+	
+	
+Purga II.
+
+
+
+
+	
+	
+	
+Ares pios.
+
+
+
+
+
+	
+5ª fase
+
+
+	
+—
+
+
+	
+Introdução ao milagre.
+
+
+
+
+	
+	
+	
+Expiação II.
+
+
+
+
+	
+	
+	
+Êxtase avançado.
+
+
+
+
+	
+	
+	
+Autoflagelação aplicada.
+
+
+
+
+	
+	
+	
+Introdução ao exorcismo.
+
+
+
+
+	
+	
+	
+Simbologia enigmática.
+
+
+
+
+
+
+
+
+
+Depois de sua preparação, já homem-feito, Sangrador traduzia em seu semblante a alma purificada de um homem que, trancado a maior parte do tempo em seu quarto, servia a humanidade de uma forma que, se todos seguissem o seu exemplo, asseguraria uma vida melhor para a humanidade. Seus olhos faiscantes demonstravam a chama de seu fervor. Seu cabelo chamejante parecia acenar com as labaredas do inferno para aqueles pecadores que lhe cruzassem o caminho. Já chefe da família, Sangrador vivia modestamente do que sua mãe trazia para casa, como fruto do seu trabalho de fateira, no mercado da cidade. Todos os dias, ao chegar ela à casa, Sangrador a recebia com um certo carinho severo.
+
+— Mamãe, mamãe, você vem do mundo — dizia ele, alisando os cabelos da anciã. — Vamos fazer penitência, para aliviar sua mente de toda a perdição testemunhada.
+
+E então, sem medir sacrifícios — pois às vezes, sua mãe era obrigada a sair às quatro da manhã e só voltar às onze da noite, depois de vendido todo o fato que tinha a vender — Sangrador acompanhava a ditosa velhinha nas penitências que tinha de fazer, por cerca de duas ou três horas. O ambiente da casa, antes pecaminoso e leviano, modificou-se completamente. Vestida de preto, a família se reunia às refeições, onde cada um narrava seus pecados e clamava por perdão, com a piedosa orientação de Sangrador. É claro, entretanto, que toda essa felicidade não podia ser completa, porque Sangrador pretendia, tornando-se ermitão, assumir integralmente a sua vida prestante e dedicada a tornar este mundo mais digno de ser habitado. Instado, em vez disso, a participar mais ativamente da vida da comunidade, Sangrador chamou seu irmão, que havia insistido na ideia de pô-lo a obrar em outras áreas, e lhe disse, com infinita doçura:
+
+— Meu irmão, não posso ter nada a ver com toda essa perdição que grassa por aí. Eu só quero que as pessoas sejam boas.
+
+E assim teria prosseguido e vivido na obscuridade que sempre almejou, não fosse um incidente fortuito. Jamais vendo jornais, porque se protegia dos males do mundo, Sangrador, não obstante, leu uma primeira página por acaso, quando se ajoelhava para a oração das nove e quarenta e cinco. Não pôde, apesar de estar forcejando por desaprender a ler, deixar de compreender a manchete e, mais ainda, a terrível fotografia: alarmada pelo fato de a cotação internacional do pássaro BP
+ haver baixado vertiginosamente, a manchete era ilustrada pela foto de um desses garbosos animais, em pleno voo. Chocado além do que as palavras podem mostrar, Sangrador desmaiou. Mais tarde, socorrido pelo irmão, pôde somente apontar ofegante para o jornal, como se tivesse visto o próprio demônio.
+
+— Meu Deus, meu Deus — disse ele. — Que estou vendo, meu irmão?
+
+— O Animálculo Zona Pecadora — disse o irmão, lembrando-se a tempo da denominação mais aceitável para o nefando pássaro.
+
+— Sim, sim, eu sei — disse Sangrador. — Que coisa terrível, que coisa terrível.
+
+— A cotação sobe depois — disse o irmão. — Isso sempre acontece nesta época do ano.
+
+— Não é isso que eu quero dizer — falou Sangrador. — Você está me dizendo que o nosso país, a pátria dos nossos antepassados, a terra dos nossos avós, vive de exportar esse bicho?
+
+— Naturalmente — disse o irmão. — Não há mais nada aqui.
+
+— Ai — disse Sangrador, e seu coração íntegro o fez de novo desmaiar.
+
+Não obstante, depois do desmaio, os seus lábios cerrados e suas mãos crispadas deixavam patente que ele não era mais o mesmo. Havia sido modificado o seu destino por aquela estranha visão, tão significativamente mostrada por um pedaço de jornal. Sangrador encontrara uma missão mais forte do que a sua vocação para a vida de contemplação e pregação que até então levara. A cada dia mais esquivo, já quase não se lembrava dos seus hábitos regulares, até mesmo o de acompanhar a mãe na penitência diária. Finalmente, chamou seu irmão e lhe perguntou como faria para resolver aquele estado de coisas. O irmão explicou-lhe que, para isso, era necessário ou um milagre imediato ou a assunção de uma posição no governo. Chocado, Sangrador hesitou, mas, finalmente, decidiu seguir um conselho dado quase en passant
+ pelo seu irmão e consultar São Rosivaldo, o santo padroeiro da Escrônia. Havendo rezado por mais de quatro horas seguidas, Sangrador implorou a assistência do santo, o qual, após uma curta espera, apareceu-lhe numa nuvem de prata.
+
+— Boa tarde — disse o santo. — Algum problema?
+
+Prostrado pela emoção e sucumbido pelo medo, Sangrador baixou o rosto à terra e lá permaneceu, murmurando suas orações.
+
+— Se o amigo continua com o rosto lá embaixo — disse o santo —, vai ser difícil entender o que fala.
+
+— Perdão, perdão, perdão! — ergueu-se Sangrador, começando a beijar as mãos do santo freneticamente.
+
+— Está certo, está certo — disse o santo, com uma certa impaciência controlada. — Vamos ver o que há. Segundo me consta, o amigo tem-se destacado em questões de penitência, mortificação e autoflagelação.
+
+— Somente uma pálida sombra do vosso exemplo — disse Sangrador.
+
+— Exageros — falou o santo. — Exageram muito essas coisas. Aliás...
+
+— Marcas de chagas! — interrompeu Sangrador, voltando a beijar sequiosamente a mão do santo.
+
+— Marcas de chagas nada — disse o santo. — Isso foi uma queimadura, que eu peguei quando quis tirar um milho assado da fogueira com as mãos descobertas. Mas diga qual é o problema.
+
+— Acho que precisamos de um milagre — disse Sangrador.
+
+— Difícil — respondeu o santo. — Ao contrário da opinião da maioria das pessoas, Ele nunca suportou milagres.
+
+— Como? — espantou-se Sangrador. — A multiplicação dos peixes, a ressurreição dos mortos, a cura dos leprosos...
+
+— Exatamente — disse o santo. — Mateus se preocupava muito com essas coisas e o resultado foi o que se vê: as pessoas ficam preocupadas com mágica e nunca se lembram do que Ele realmente fez de importante. Aliás, Mateus...
+
+— Não, não! Precisamos de um milagre, um milagre, um grande milagre!
+
+— Ah — suspirou o santo. — Nunca adianta explicar. Mas diga qual é o problema.
+
+— São esses... esses terríveis animais. Ontem, somente ontem, eu soube que o nosso país vive do comércio desses horríveis animais.
+
+— Que animais?
+
+— Esses animais horrendos, voadores.
+
+— Ah, o bicho-pica — disse o santo. — Sim, estão acabando. No meu tempo, o mato era cheio deles e...
+
+— Como? — disse Sangrador. — Vós falais nesse bicho. Vós não vos horrorizais?
+
+— Pare de me chamar de vós —
+ disse o santo. — Você fala como um memorando de prefeitura do interior. Não vejo mal nenhum no bicho. Afinal de contas, foi Deus que fez esse bichinho, como todos os outros.
+
+— Blasfêmia! — prorrompeu Sangrador. — Anátema, anátema!
+
+— O que quer dizer anátema? — perguntou o santo. — Você andou lendo Paulo demais, é o que parece. ­Aliás, Paulo...
+
+— Vós sois o diabo! — disse Sangrador, levantando-se com os braços em cruz.
+
+— Em toda a minha carreira — disse o santo — a única vez em que me chamaram disso foi quando minha mulher ficou chateada porque eu quebrei o jarro de água pela terceira vez.
+
+— Vós sois o inimigo! Vade retro!
+
+— Que negócio é esse de inimigo? Em vez de ficar aí falando em inimigo, melhor seria que você fosse fazer alguma coisa pelo pássaro. Se continuar assim, o povo vai morrer de fome.
+
+— Vai morrer de fome vivendo do pecado!
+
+— Que pecado? Morrer de fome vivendo? Como é isso? Acho que há algum engano em seu cadastro.
+
+— Se sois santo, que façais um milagre! — exortou Sangrador.
+
+— Essa coisa de milagres — explicou o santo — não é tão simples assim. Além disso, por que eu haveria de fazer um milagre para você? Só porque você fica aí falando latim e me chamando de vós
+?
+
+
+—
+ Ah! Não serei enganado pela voz de Satanás. O próprio Salvador foi vítima de sua tentação. Vade retro!
+
+— Eu sempre achei — disse o santo, com um fundo suspiro — que o ensino do catecismo está mal orientado, Muito bem, o amigo me chamou para que eu vá embora?
+
+— Vade retro!
+
+— Vade intro — disse o santo distraidamente, e desapareceu.
+
+Fortalecido por aquele encontro estimulante, Sangrador resolveu-se, mais do que nunca, a salvar seu povo. Assim, preparou-se para tornar-se um homem público digno dos serviços que deveria prestar. E estudou a ciência e arte do governo em várias fases, desde a Introdução ao Vir para Unir e Não para Dividir, até Sacrifícios pela Causa Pública Avançados. Finda esta fase, Sangrador procurou o Conselho de Ministros. Lá chegando, pediu licença para falar, que lhe foi imediatamente concedida, embora ninguém estivesse escutando. Depois de algum tempo, já desesperado, declarou que iria assumir o governo.
+
+— Você vai o quê? — perguntou o presidente do Conselho de Ministros.
+
+— Vou assumir o governo! — gritou Sangrador.
+
+— Você está brincando — disse o presidente.
+
+— Não estou! Não sairei daqui enquanto não tiver poderes para levar este país ao caminho da salvação!
+
+— Você quer assumir o governo? — perguntou novamente o presidente. — Você sabe qual é a situação do governo?
+
+— Descalabro, descalabro! — disse Sangrador.
+
+— Exatamente — concordou o presidente.
+
+— E eu vou assumir — continuou Sangrador.
+
+— Parabéns — disse o presidente. — É de homens como o senhor que o país precisa.
+
+— Minha posição — disse o ministro da Fazenda — é de integral apoio à sua política econômica, senhor novo governante.
+
+— Não tenho política econômica — disse Sangrador. — Só tenho política religiosa.
+
+— Bem pensado — disse o ministro da Fazenda. — Minha posição é de integral apoio à política religiosa de Vossa Excelência.
+
+— Nossa posição — disse o presidente. — Com licença.
+
+Havendo assim assumido o governo, Sangrador passou à imediata ação e traçou como diretriz básica a instantânea cessação da exploração do BP como principal fonte de renda do país. Já que nada mais podia ser explorado, a Associação Comercial e a Federação dos Captores, Criadores e Exportadores vieram ter audiência com ele, a fim de examinar detidamente o problema.
+
+— O problema foi detidamente examinado — anunciou Sangrador. — Absolutamente não vai mais haver comercialização desse animal desnaturado. Na verdade, o meu governo vai dar um prêmio por cada um deles que for abatido.
+
+Os homens de negócio argumentaram então que o país iria de uma vez à bancarrota, por não poder suportar a inexistência de qualquer fonte de recursos.
+
+— Não vos preocupeis com o dia de amanhã entoou Sangrador. — Eu garanto aos senhores que haverá nova fonte de recursos no lugar desta que foi perdida. Estou mantendo entendimentos com autoridades superiores, que me asseguram completo apoio em todas as áreas e êxito integral para as minhas medidas.
+
+E, de fato, Sangrador baixou diversos decretos, com o objetivo de equacionar o problema econômico do país, todos eles com validade a ser iniciada a partir da extinção do BP.
+ O primeiro decreto foi o da Redenção Social.
+
+
+
+Decreto da Redenção Social
+
+Art. 1º — Fica decretada, de maneira irrevogável, a igualdade social e econômica, extensiva a todas as pessoas.
+
+Art. 2º — A condição de pobreza completa é ilegal, assim como a situação de privação, permanente ou temporária.
+
+Art. 3º
+ — Todos terão comida, vestes e abrigo, sem distinção de espécie alguma.
+
+O segundo decreto foi o do Pensamento Positivo.
+
+
+
+Decreto do Pensamento Positivo
+
+Art. 1º — Fica proibida a menção a assuntos, coisas ou temas de qualquer espécie que sejam desagradáveis e possam provocar estado de pessimismo em um ou mais indivíduos.
+
+Art. 2º
+ — O país atravessa época de grande felicidade.
+
+Finalmente, o terceiro decreto foi o da Prosperidade.
+
+
+
+Decreto da Prosperidade
+
+Art. 1º — Fica decretado que o país deverá crescer economicamente de forma nunca vista, através do incremento das exportações e da ampliação do mercado interno.
+
+Art. 2º — Compete à iniciativa privada encontrar os produtos necessários para a realização das metas implícitas no presente decreto.
+
+Reunindo as classes empresariais no palácio da presidência do Conselho de Ministros, Sangrador comunicou as boas-novas. Entretanto, tais medidas somente poderiam ser implantadas depois da abolição do comércio do BP
+ — condição irrevogável do apoio obtido por Sangrador — e as notícias quanto ao estado de espírito da população não eram das melhores. Na realidade, parecia haver uma ferrenha disposição em não acatar a abolição do comércio do BP
+, embora alguns já se houvessem candidatado aos prêmios. Sangrador considerou detidamente o assunto, recluso em seus aposentos e recolhido à oração e à consulta de suas Vozes. Finalmente, depois de três dias de jejum, emergiu para nova reunião, desta feita com o Conselho de Ministros.
+
+— Senhores — disse ele, com a voz combalida —, sou obrigado a concluir que, se a nossa pobre nação, por tanto tempo sustentada pelo pecado e pela corrupção, se recusa a ouvir a voz da razão, do bom senso e da elevação espiritual, somos obrigados a forçá-la. Senhor ministro da Guerra, lamentavelmente tenho que convocar os serviços de Vossa Excelência.
+
+— Que devemos fazer? — perguntou o ministro da Fazenda.
+
+— O que devemos fazer — suspirou Sangrador, passando entre os dedos as contas de um rosário — é, infelizmente, mover uma guerra santa contra os recalcitrantes. Nós os forçaremos de qualquer maneira.
+
+— Isso é impossível — disse o ministro da Fazenda. — Não posso ser envolvido numa guerra entre irmãos.
+
+— Logo agora — suspirou outra vez Sangrador — que eu pensava em dar um aumento de duzentos por cento às Forças Armadas.
+
+— Não — disse o ministro da Fazenda. — Eu não posso.
+
+— Logo agora — disse Sangrador — que eu pretendia depositar o tesouro do país na Suí­ça, enquanto durassem as hostilidades, sob a custódia de Vossa Excelência e do senhor ministro da Guerra.
+
+— Sim — disse o ministro da Guerra. — São medidas muito sábias, mas...
+
+— Logo agora — disse Sangrador — que eu estava disposto a renunciar em seu favor, assim que encerrarmos essa missão sagrada.
+
+— Nos momentos mais cruciais da história da nação — disse o ministro da Guerra — nós sempre soubemos responder ao chamado do dever. Não será neste instante que renegaremos as nossas mais caras tradições. Vossa Excelência pode estar seguro de que encontrará em nós o esteio para o triunfo contra a heresia, o pecado e a dissolução dos costumes.
+
+— Obrigado — disse Sangrador. — Graças a Deus que o país pode contar com homens como o senhor.
+
+— Beijo-lhe as mãos — disse o ministro da Guerra.
+
+Silencioso à frente de suas armas, Sangrador ultimou os preparativos para a penosa missão. E diante de si, espraiado pelos grandes descampados do Kazinguistão, estava o seu exército, pronto para receber o seu comando. Portavam os soldados todas as armas de que dispunha o exército, um mar de catanas e chanfalhos, um oceano de colubrinas e cimitarras, todas prontas para estripar, mutilar, esbuchar e liquidar o inimigo. Então foi assim que, em dias e dias de combate, em longas noites de vigília, o país pôde ser salvo. Dos opositores, morreram sessenta e cinco por cento e ficaram aleijados outros vinte e seis por cento, enquanto o resto foi preso nas masmorras, para expiar suas culpas. Dessa forma, com uma serena tristeza no olhar, Sangrador reuniu-se com as classes produtoras e disse:
+
+— Senhores, o país está salvo.
+
+— Sim — disseram eles. — E agora Vossa Excelência pode consultar as entidades superiores, que só lhe dariam apoio se o comércio do BP
+ fosse extinto.
+
+— Vou consultar — respondeu Sangrador.
+
+E ali mesmo ajoelhou-se para orar. Ao ver sua contrita posição, um dos circunstantes indagou:
+
+— Está Vossa Excelência agradecendo ao Criador por ter vencido o inimigo, arrasado as cidades e coalhado os campos de cadáveres em Sua glória?
+
+— Não — disse Sangrador. — Estou consultando a minha fonte de apoio externo. E acho que Ele já está insinuando que devo fazer outro decreto: o decreto da reconstrução econômica. Começa assim: fica decretado que o país está em processo de reconstrução econômica. E...
+
+— Vossa Excelência quer dizer — interrompeu o empresário — que sua fonte de apoio externo é Deus?
+
+— Quem mais? — disse Sangrador. — Quem mais?
+
+— E Ele assegurou créditos? — perguntou o empresário.
+
+— Claro que não — disse Sangrador. — Ele assegurou fé.
+
+— Ah, sim — disse o empresário. — Então, com licença.
+
+E aí chuçou Sangrador no pescoço e foi para a Suíça em companhia do estado-maior e viveram felizes para sempre.
+
+
+
+
+7
+ Talvez nos dias em que o correio entregava a revista Playboy,
+ antes da proibição.
+
+
+8
+ Se der problema, pode ser iugoslava heterodoxa.
+
+
+9
+ O pessoal chama os pássaros de bicho-pica, pássaro-caralho, papacu, manjuba avoadora, essas coisas. Caso isto o desagrade, queira ignorar o fato.
+
+
+Abusado Santos Bezerra
+
+Quando o Presidente Lukaut se levantou, às sete horas de uma fria manhã de novembro, olhou sobressaltado em direção aos pés da cama. Um presidente da República chega a esse posto depois de enfrentar grande número de vicissitudes e de ver muitos lugares e coisas insólitos, de forma que devia tratar-se de algo realmente grave. Através da cortina entreaberta (um intervalo de seis polegadas e um quarto, de acordo com as suas precisas instruções), pela vidraça levemente embaçada, podia perceber algo que não estava lá no dia anterior e, na verdade, nunca lá se encontrara antes. Perplexo, o presidente buscou apressadamente os óculos e a dentadura em cima da mesa de cabeceira. Ainda estremunhado, franziu os olhos, procurando divisar claramente o objeto: uma pequena forma amarronzada, indiferente ao vento que sacudia as árvores desfolhadas lá fora. Já sentado na cama, o presidente sopesou rapidamente os riscos que correria, caso se aproximasse imprudentemente da janela, antes de confirmar a identidade do estranho objeto. Pensando melhor, estendeu a mão para o Manual de Atentados, que jazia à sua cabeceira, como de hábito. Passou as páginas com impaciência, em busca de resposta pronta à indagação que lhe surgia na cabeça. Exaustivo e completo, o manual lhe informava, sob a letra M
+:
+
+
+“
+Manga —
+ Fruta tropical (fig. 325), de coloração variável entre o verde, o amarelo e o rosado — podendo apresentar manchas pretas, conforme o seu estado de maturação e outras circunstâncias. Considerada indigesta, mas não desenvolve toxinas em condições normais. O caroço, jogado a curta distância, pode causar contusões, embora de pouca gravidade, a não ser que seja lançado por catapulta. Os mais prováveis portadores de mangas são sul-americanos, hindus e naturais de alguns países do sudeste da Ásia. Até o presente, não se registrou atentado algum a mangadas.
+
+
+
+Mocó —
+ Objeto, geralmente de palha ou fibra nativa rudimentarmente processada, que serve como bolsa para carregar objetos de peso médio para uma pessoa humana. Sem similares próximos neste país, raramente tem sido usado com propósitos agressivos, conhecendo-se somente a ocasião em que o líder do Partido Fragmentalista Regional das Filipinas, num comício de protesto, teve a sua cabeça coberta por um mocó de tamanho pequeno, recebendo, em seguida, diversas machadadas e pedradas por parte dos circunstantes. O incidente, contudo, não deve ser levado em conta, já que o atentado encontrou estreita cooperação da parte da polícia local.
+
+
+
+Mucica —
+ Nome dado, no Nordeste do Brasil, ao ato através do qual o vaqueiro puxa a rês pelo rabo e, com um violento safanão, derruba o animal ao solo. Por extensão, designa-se como tal também o ato de segurar a rês pelos chifres e igualmente levá-la ao solo de ­forma abrupta. A técnica da mucica é usada, com variantes negligenciáveis, em todas as ­áreas de criação de gado. Quanto a seu uso em relação a seres humanos, há poucos exemplos dignos de nota. O contingente nordestino do Brasil, na campanha da Itália (II Grande Guerra), empregou essa técnica com alguns alemães, sem grande êxito, havendo sido persuadido ao uso de armamentos mais convencionais, principalmente porque os alemães reagiam com metralhadoras. Há também exemplos da utilização dessa técnica no Texas, mas da mesma maneira esporádica e pouco eficaz. O fato de que, normalmente, o presidente não porta chifres; cauda e/ou objeto analogamente utilizável torna desnecessárias excessivas cautelas em relação a esse método. Como norma geral, contudo, o presidente deve evitar a proximidade de vaqueiros que não tenham recebido a Security Clearance A-2.”
+
+
+
+
+— Não, não — murmurou o presidente. — Deve estar antes disso. Ah!
+
+
+“
+Mancha —
+ Nome genérico da coloração irregular de um objeto por outro, normalmente causada por contato entre os dois. Frequentemente, é causada por um líquido. Os líquidos que meramente colorem costumam ter apenas efeito desmoralizador. Os líquidos que, além de colorirem, fazem buracos, devem ser encarados com cautela. De modo geral, o presidente não deve aproximar-se de portadores de líquidos não autorizados de qualquer espécie. Quanto às cores das diversas manchas possíveis...”
+
+
+
+
+— Também não — disse o presidente. — Este manual nunca tem as respostas que a gente precisa.
+
+Com um gesto de enfado, apertou um botão sob a mesa de cabeceira. Estava convocando o responsável pelo plantão da Segurança, a fim de ordenar que se averiguasse imediatamente a identidade da incomum aparição.
+
+— Que significa aquilo dali? — perguntou, assim que o chefe da Segurança entrou no quarto. — Quero um relatório completo.
+
+— Sim, senhor — disse o chefe da Segurança. — Muito estranho, realmente. Vou convocar o esquadrão de explosivos agora mesmo.
+
+— Convoque quem você quiser — disse o presidente. — Contanto que me faça logo o relatório.
+
+Franzindo os olhos, o chefe da Segurança escrutinou de longe o objeto.
+
+— Em toda a minha vida como agente de segurança — falou finalmente — nunca vi coisa semelhante.
+
+— Nem eu, nem eu — disse o presidente. — Mas ande logo, que eu preciso levantar-me daqui.
+
+— Sim, senhor — disse o chefe da Segurança. — Vou providenciar a investigação e a saída daqui.
+
+Pressionando quase imperceptivelmente o botão de um pequeno aparelho que trazia à cintura, o chefe da Segurança esperou alguns segundos. Como por mágica, uma porta lateral se abriu e por ela penetraram afobadamente seis outros agentes.
+
+— Cobertura, cobertura — exclamou com certa rispidez o chefe da Segurança, apontando o presidente. — Cobertura para a saída.
+
+Como um só homem movido por uma poderosa mola, o grupo de agentes colocou uma cerrada barreira humana em torno do presidente. Em círculo, inicialmente quase deitados sobre Sua Excelência, ergueram-no e passaram a mover-se em uníssono, como uma colônia de abelhas pendurada a uma árvore. Entre eles e a janela, como proteção adicional, o chefe abriu os braços e, fitando energicamente o estranho objeto, acompanhou o compacto grupo até a porta de saída, num andar semelhante ao de um caranguejo. Desta forma, chegaram à saída, onde a cobertura foi desfeita.
+
+— Obrigado, obrigado — disse o presidente, arrumando as dobras de seu pijama. — Vou para a outra ala, mudar de roupa. Se for um petardo, acho que estarei seguro do outro lado, não?
+
+— Perfeitamente — disse o chefe da Segurança. — Estarei em contato com o senhor assim que tiver um relatório da turma de explosivos.
+
+No semblante calmo do presidente, mirando a si mesmo no espelho do banheiro, não se traía a tensão daquele momento. Tudo, aliás, parecia correr de forma igual a todos os outros dias e até mesmo a chegada do carro especial do esquadrão de explosivos, com homens de roupas protetoras emergindo de suas portas duplas, foi tão discreta que mal os funcionários mais madrugadores a perceberam. Isolada cuidadosamente a área da janela, o Capitão Godeme, veterano da Segunda Grande Guerra, preparou-se para abordar o objeto com um detector de minas especial, de cabo extralongo e sensibilidade acima da comum em tais aparelhos. Somente uma cicatriz em seu rosto fino e elegante denunciava a vida agitada que havia sido levada pelo capitão, como membro destacado da brigada especial que, em Londres bombardeada, desmontava as bombas não explodidas. Na sua mão esquerda lhe faltava um dedo, outra lembrança dos tempos da famosa Brigade for Dudes and Outlandish Dropped Thingamabobs. Seu punho firme, entretanto, não denunciava o mínimo nervosismo. Com passos decididos, quase com um sorriso no rosto, deitou-se no chão, grunhindo uma advertência para os seus companheiros, que o observavam a distância. Movendo-se em etapas quase infinitesimais, alçou o detector de minas sobre o objeto, ao tempo em que procurava alguma indicação por parte do sensível aparelho. Nada. Passando o detector cada vez mais perto do objeto, o Capitão Godeme pareceu exasperar-se um pouco.
+
+— Com mil trovões — praguejou suavemente. — O que eu temia: não é uma bomba, é um ODT
+.
+10
+
+
+Enquanto o sol se erguia fracamente no horizonte, o Capitão Godeme levantou-se do chão e enxugou uma baga de suor que lhe porejava na testa, apesar do frio. Com um sopro no ar, o capitão deu um muxoxo.
+11
+ Havia compreendido que tinha uma manhã muito trabalhosa a enfrentar.
+
+Enquanto lia o resumo dos jornais que recebia todas as manhãs, o presidente narrou distraidamente o caso à sua esposa. Procurava não preocupá-la em excesso, mas não podia sopitar a ansiedade em saber do resultado da operação.
+
+— Diabo — exclamou. — Se não fossem essas malditas restrições de segurança, eu iria lá pessoalmente.
+
+— Tenha calma — disse a sua esposa, espetando meio grapefruit com o garfo. — Essas coisas estão melhor entregues aos profissionais, querido.
+
+— É — murmurou ele. — Acho que você tem razão.
+
+Onze horas da manhã, imerso numa reunião com uma comissão de deputados, o presidente parecia até haver esquecido o incidente. Provavelmente, nem mesmo o mencionaria antes da noite, se um telefone não soasse junto a ele.
+
+— Com licença — disse o presidente, como a pedir desculpas pela insistência da campainha. — Vou ver o que eles querem desta vez.
+
+A notícia dada ao telefone, entretanto, não era rotineira. O chefe da Segurança solicitava permissão para falar com Sua Excelência em particular, a respeito do objeto encontrado de manhã cedo.
+
+— Muito bem — disse o presidente. — Estarei aí em cinco minutos.
+
+Com a pontualidade que o tornou lendário nos meios políticos, o presidente aguardou do lado de fora da porta até que o ponteiro dos minutos chegasse precisamente ao ponto que marcava o decurso do prazo dado ao seu auxiliar. Ouvindo na memória os primeiros acordes de Also sprach Zarathustra,
+ abriu calmamente a porta e, sorrindo, inquiriu:
+
+— Muito bem. Qual o resultado das investigações?
+
+— Senhor — disse o chefe da Segurança. — Receio que estamos apenas no começo de um grande mistério.
+
+— Explodiu? — exclamou o presidente, levantando-se parcialmente da cadeira. — Não, oh não!
+
+— Não, não explodiu — respondeu o chefe da Segurança. — Na verdade, senhor, não poderia ter explodido.
+
+— Como?
+
+— É isso, senhor. Não se tratava de um explosivo.
+
+— E o que era? Gostaria que você não fizesse tanto suspense.
+
+— Tenho aqui o laudo do esquadrão de explosivos, assinado pelo próprio Capitão Godeme — disse o chefe da Segurança, começando a passar, um por um, um monte de papéis ao presidente. — E mais o laudo do laboratório clínico, do laboratório do FBI
+ e da seção de tóxicos da FDA
+.
+
+O presidente recebeu os papéis, mas não começou a lê-los imediatamente. Parecia tomado de certo nervosismo.
+
+— O que é, o que é? — perguntou, quase gritando.
+
+— Bem — disse o chefe da Segurança, como se estivesse algo embaraçado. — Os testes do esquadrão de explosivos revelaram que a substância encontrada não é combustível nem comburente e muito menos explosiva. Quando testada com uma pequena carga de fulminato de mercúrio, apenas se espalhou, como qualquer outra massa da mesma densidade. O laudo do laboratório clínico parece meio estranho: refere-se a pH, presença de celulose, algumas células epiteliais...
+
+— Passe adiante, passe adiante! — prorrompeu o presidente.
+
+— O laudo do laboratório do FBI
+ afirma nada haver de anormal na substância, que possibilite a sua individualização e consequente identificação. Propriedades organolépticas normais, depositadas há cerca de seis ou oito horas...
+
+— Adiante, adiante!
+
+— O laudo da seção de tóxicos afirma nada haver de especificamente tóxico na substância, a não ser que se estenda um pouco o sentido do termo. Embora não deva ser ingerida, a substância não apresenta ingredientes letais. O seu — ahn — depositante parece haver comido batatas, ketchup, laranja, alface...
+
+— Parece haver comido? — berrou o presidente. — Quer dizer que, que...
+
+— Isso mesmo, senhor — disse o chefe da Segurança, baixando a cabeça. — É cocô.
+
+Afundado na poltrona, em desalento, o presidente passou alguns instantes silencioso e derreado.
+
+— A única pessoa... — começou a falar, como se estivesse conversando consigo mesmo — ... a única pessoa estranha que tem andado por aqui é esse ministro árabe. Não, não. Ele... Você acha? Ele poderia...
+
+— Já investigamos, senhor. Ele tem um álibi perfeito.
+
+— Não pode ter — disse o presidente. — Sei que ele andou passeando por aí a noite passada.
+
+— De fato — assentiu o chefe da Segurança. — Entretanto, temos informações positivas, segundo as quais ele tem horror a ketchup.
+
+— De verdade? — perguntou o presidente.
+
+— Ele costuma ter crises nervosas, quando vê uma garrafa de ketchup, senhor — disse o chefe da Segurança. — Fica fora de si.
+
+— Ah, bem — disse o presidente, voltando a falar como em solilóquio. — Não foi ele... cagaram na minha janela, não? Isso já aconteceu a algum outro presidente? Não, não pode ser. Na janela...
+
+
+
+Terça-feira, 14 de novembro.
+
+Em reunião de portas fechadas com o chefe do Gabinete, os assessores militares, o diretor-geral do FBI
+ e alguns secretários, o presidente comunicou rapidamente a situação. Desde o dia anterior, um estado geral de tensão se apoderara do ambiente. As investigações prosseguiam aceleradamente, embora sem render fruto algum. Todo um possante esquema de investigação e prevenção se movimentava celeremente. Num canto da sala, de pé como se olhasse pela janela, e flamejando seus olhos azuis em torno, um homem louro e alto escutava impaciente a conversa. Jeff Camone, recém-chegado de Seattle, preparava-se para colocar toda a sua experiência nas investigações. Não era o tipo de homem que se conformasse em apenas ouvir hipóteses. Em sua brilhante carreira, havia enfrentado as mais ardilosas mentes criminais de todo o país e conseguido êxitos onde outros tinham falhado espetacularmente. Seu segredo era simples: uma memória fotográfica, uma energia inesgotável e a determinação de um cão de caça. Se Jeff Camone estava no caso, o caso estava meio resolvido, era a voz geral. Apagando o cigarro no grande cinzeiro de metal com um gesto brusco, Camone interrompeu a reunião.
+
+— Queiram desculpar, senhores, mas creio que estamos perdendo tempo — falou, fazendo cintilar um riso amável, por trás do qual somente os observadores mais vividos perceberiam um malicioso lampejo de cinismo ou talvez crueldade. — Estamos aqui para investigar um caso sem precedentes, um caso que requer a mobilização de todos os recursos ao nosso alcance. Acabo de falar no telefone com o meu amigo, Tenente Ailoviú, da Divisão de Narcóticos de Los Angeles, o melhor homem para esse caso em todo o país. Todos os setores do governo em condições de colaborar já puseram seus préstimos à minha disposição. Acabo de montar uma central de informações aqui mesmo e estarei lá todos os dias, vinte e quatro horas por dia, até conseguirmos fechar inteiramente o cerco. Se me desculpam, senhores, devo ir ao trabalho imediatamente. Não há tempo a perder.
+
+E, como se não esperasse a resposta, deu uma meia-volta marcial e, em passos largos, saiu pela porta afora.
+
+Estava desencadeada a caçada humana. Codinome — Operação Heinz. Alvo — o misterioso autor do atentado. Prazo fatal — qualquer hora do dia ou da noite. Objetivo — deter o criminoso a qualquer custo.
+
+Mesmo... a MORTE.
+
+
+
+
+Quarta-feira, 15 de novembro.
+
+Em mangas de camisa, no centro de seu gabinete, Camone examinava as listas que, minuto a minuto, lhe eram despejadas sobre a mesa. Sem tempo de sair, mascava um sanduíche de presunto, enquanto manuseava folhas e folhas de papel. Os seis telefones sobre sua mesa não paravam de tilintar insistentemente.
+
+— Alô, Mike! — disse Camone animadamente ao telefone. — Ailoviú está a caminho, vindo de Los Angeles, e quero um carro na mão dele assim que descer do avião! Quero que ele mergulhe neste caso até o pescoço, assim que chegar. Alô, alô — um momento, Mike. Sim, sim, será que eu preciso soletrar para você? Quero uma lista completa, veja bem, com-ple-ta, de todos os coprófilos da cidade e todos os que estejam em arquivos federais. Vamos ficar nesses, por enquanto. Prepare um programa geral para os computadores, porque vamos enchê-los com esses elementos e com os registrados nos departamentos locais, se for necessário. Outra coisa — um momento, Mike — outra coisa: quero uma lista completa de todos os pacientes de diarreia no sábado, no domingo e na segunda-feira. Pegue uma lista nas farmácias, visite as clínicas, não quero saber. Mexa-se, mexa-se, Mike! Desculpe, isto aqui está um inferno. Não, não, nada até agora, mas estou cheirando algo. Cheirando algo, ha-ha. Mike, antes que eu me esqueça, ordene uma revisão geral nos hippies da cidade, esgravate a Virginia, Maryland, a Nova Inglaterra inteira, passe um pente-fino em tudo e me mande relatórios de tudo, entendeu? OK, vejo você depois.
+
+Minutos mais tarde, no telefone especial ligado diretamente à Segurança, Camone recebeu a notícia de que novo achado fora encontrado pelo presidente, desta vez dentro de seu saco de golfe. Disparando imediatamente para lá, Camone ordenou a pronta detenção de todos os empregados do clube de golfe, para dirigir pessoalmente o interrogatório. No vestiário, cercado por uma apertada fileira de policiais, Camone encontrou o Capitão Godeme preparando-se para iniciar o exame do objeto.
+
+— Alô, rapaz, tudo bem?
+
+— Tudo bem — falou Godeme.
+
+Uma velha desavença os separava, o que não impedia o respeito mútuo dos dois. Sabiam que eram profissionais competentes, cada um em seu campo e, embora não gostassem um do outro, tratavam-se com alguma deferência.
+
+— Você já descobriu alguma coisa? — perguntou Godeme, enquanto atarraxava as partes móveis de seu detector de minas.
+
+— Nada ainda — respondeu Camone, com ar impaciente. — Como é, que é que você acha que isso daí é?
+
+— Para lhe ser sincero — disse Godeme — acho que é cocô.
+
+— Godeme — disse Camone —, você não é engraçado. Acho isso uma atitude irresponsável.
+
+— Da outra vez era cocô — falou Godeme.
+
+— Da outra vez era e você infere naturalmente que desta vez também é. Fique sabendo de uma coisa: isso pode ser perfeitamente um golpe bem armado. Repete-se a coisa umas dez vezes e, quando a nossa guarda estiver baixa, em lugar de cocô, eles põem explosivos.
+
+Fez uma pausa, olhando fixamente para a frente. Devagar, seu rosto se iluminou, como se gradualmente aceso por uma luz interior. Segundos depois, já sorrindo, deu um pulo para a frente e irrompeu pela porta afora.
+
+— Meu Deus! — exclamou. — É isso! Só pode ser isso!
+
+
+
+Quinta-feira, 16 de novembro.
+
+De posse do novo relatório do Capitão Godeme, que atestava tratar-se outra vez de matéria fecal, Camone penetrou rapidamente na reunião que o presidente fazia com uma comissão especial do Congresso e expôs, em poucas palavras, a sua teoria, que denominou C. C.
+12
+ Segundo ela, os autores dos atentados tinham um plano claramente traçado: despistar, através dos depósitos fecais, até que a vigilância da Segurança se tornasse mais negligente. Nessa ocasião, um explosivo com a mesma aparência seria colocado perto do presidente, o qual, julgando tratar-se da mesma coisa que das vezes anteriores, não tomaria as necessárias cautelas e seria vitimado.
+
+— Senhores — disse Camone com um ríctus amargo na boca —, lamento ter que dizer isso, mas agora, mais do que nunca, a nação não pode descuidar-se. Qualquer pedaço de matéria fecal é suspeito. Recomendo estrita vigilância em todos os casos.
+
+Aprovada solenemente a ponderação de Camone, ele retornou ao escritório, onde devia examinar detidamente a massa de dados fornecida pelos computadores. O mesmo ambiente de febricitante trabalho o rodeava, enquanto ele respondia a dezenas de telefonemas e rosnava ordens para o verdadeiro exército de policiais e agentes à sua disposição.
+
+— Miss Charap — disse ele —, pegue esses dados do computador e coloque no computador, para que ele possa sistematizar essa floresta de dados.
+
+— Pois não — disse ela, começando a transportar as pilhas de papéis da mesa de Camone.
+
+— Obrigado — falou ele, preparando-se para examinar a mais recente lista de suspeitos encaminhada.
+
+Entretanto, mal se sentara diante da lista, a porta se abriu quase com um estrondo e entrou o Tenente Ailoviú. A impecável roupa Crooks Brothers não conseguia disfarçar-lhe o corpo atlético, de ex-recordista mundial de natação e campeão colegial de futebol. O cabelo cortado à escovinha encimava a cabeça fincada solidamente sobre um pescoço resistente como granito. Era visível que Ailoviú não gostava de brincadeiras.
+
+— Ei, demolidor! — gritou Camone, levantando-se. — Rapaz, já estava pensando que você não vinha. Precisamos entrar logo em ação. Você pode começar examinando os suspeitos desta lista.
+
+— Tudo bem, Jeff? — disse Ailoviú. — Tive alguns problemas em L. A. Tráfico da maldita, coisa grande. Tive que fazer uns buracos em alguns engraçadinhos.
+
+— Isso aqui está uma tremenda confusão — disse Camone. — Espero que você consiga alguma coisa.
+
+Os olhos de Ailoviú se tornaram subitamente ameaçadores. Sem dizer uma palavra, tomou das mãos de Camone a lista de suspeitos, deu-lhe um olhar de relance e saiu.
+
+Ailoviú estava em ação.
+
+
+
+Quarta-feira, 22 de novembro.
+
+Em poucos dias, a caçada humana se tornara desenfreada. Mais quatro achados tinham sido feitos pelo presidente: no teto da casa de seu cachorro, Goauêi, na cadeira principal do seu escritório vespertino, em cima do seu chuveiro e dentro de um de seus sapatos. A situação se tornava crítica e a pressão sobre Camone se elevava, enquanto as investigações pareciam permanecer na estaca zero. A imprensa, já informada do acontecido, clamava por uma solução. O esquadrão de Godeme, permanentemente ocupado, também procurava pressionar os investigadores, principalmente porque estava sendo conhecido popularmente como o Esquadrão da Merda.
+
+Ailoviú, em ronda frenética pelos endereços dos suspeitos, aplicava suas técnicas mais agressivas, na busca de informações rápidas. Na Rua Q, já desesperando de encontrar respostas, Ailoviú tocou a campainha da residência de Dolores Uotsit, herdeira da fortuna de um dos maiores produtores de estrume do país e suspeita de estar promovendo os atentados para chamar a atenção para a sua causa, que era a de retornar o país aos fertilizantes naturais. Ailoviú tocou impacientemente e já pensava em pôr a porta abaixo, quando Dolores abriu. Suas pernas esculturais se revelavam pela abertura do diáfano négligée que usava, como a pedir mãos sequiosas que as acariciassem e lhes dessem a destinação que a natureza lhes tencionara. O busto levemente ofegante lembrava um vale perfumado, onde um mundo de doces aventuras se oferecia ao explorador favorecido pelo destino. Ailoviú parou um momento e não pôde conter um assovio baixo. “Uáu, uáu”, falou consigo mesmo, “que mercadoria”.
+
+— Que é que há, simpático? — disse Dolores. — Você é o massagista que eu estava esperando? Hmmnn, mnnn!
+
+— Divisão de Narcóticos de Los Angeles, em missão especial — disse Ailoviú, exibindo agilmente o seu distintivo e iniciando uma vigorosa cópula com Dolores.
+
+— Tenho que lhe fazer algumas perguntas — disse Ailoviú, virando-a de costas para uma segunda investida.
+
+— Mas eu estava fora da cidade durante todo esse tempo — disse ela.
+
+— Isso veremos no meu escritório — falou Ailoviú, empurrando-a saciadamente para o lado, sem poder deixar de admirar as formas divinais mostradas pela esplendorosa nudez da herdeira.
+
+Ao sair da residência de Dolores, entretanto, um preocupado Ailoviú não percebeu que um sagaz repórter o seguia. Como consequência, parte de sua confrontação oficial com a herdeira foi amplamente documentada pela imprensa e divulgada internacionalmente, inclusive no Brasil, num filmete de televisão e cinejornal, intitulado A suspeita
+ (no Brasil, Corações em fuga
+). O filme fez um espetacular sucesso e adicionou mais alguns elementos à preocupação mundial com os acontecimentos. No Brasil, o rude diálogo entre os protagonistas foi exibido com legendas.
+
+Ailoviú — Onde você estava, me conte onde você estava!
+
+Dolores — Eu já não tenho lhe contado? Estava em Paris, já disse!
+
+Ailoviú — Sua... sua pinoia! E onde está seu passaporte?
+
+Dolores — Ah, eu perdi meu passaporte.
+
+Ailoviú — Muito unusual, muito unu­sual. Vou chamar os Costumes, para verificar.
+
+Dolores — Tudo por causa de c... c...?
+
+Unindo a palavra à ação, Ailoviú telefonou para o Inspetor Gueraute, na Alfândega, e pediu confirmação da história. Estava ainda aguardando uma resposta, quando outro telefone soou.
+
+— Alô — disse Ailoviú.
+
+A voz de Camone se fez ouvir do outro lado. Estava tensa e cansada.
+
+— Venha para cá imediatamente — disse Camone. — A situação está gravíssima.
+
+— Que foi que houve? — perguntou Ailoviú.
+
+— Nunca vi um caso destes — continuou Camone pausadamente. — O presidente acaba de achar um cagalhão dentro de sua pasta, numa reunião do Conselho de Segurança Nacional.
+
+Numa das mais tensas reuniões jamais realizadas naquela sala vetusta, o Presidente Lukaut encarou fixamente Camone e permaneceu silencioso durante um grande período de tempo. Seu rosto marcado parecia refletir as graves preocupações que o tinham abalado nos últimos dias. Finalmente, como se falasse com grande dificuldade, dirigiu-se a Camone.
+
+— Sr. Camone — disse ele —, não preciso enfatizar a gravidade da situação. Este país parece estar à beira do caos, quando uma reunião secreta do Conselho de Segurança Nacional é interrompida dessa forma grotesca. O senhor tem alguma pista?
+
+— Não — disse Camone, baixando a cabeça. — Mas as investigações...
+
+— Não me interessa falar sobre isso — interrompeu o presidente. — Eu preciso de resultados, apenas isso. Resultados.
+
+— Isso leva tempo — falou Camone. — O Tenente Ailoviú...
+
+— Já lhe disse que não quero falar sobre esse assunto. Não estou preocupado com o que esse Ailoviú anda fazendo. Diga-me uma coisa: quais são os melhores detetives do mundo?
+
+— Bem senhor, todos sabem que são os brasileiros, mas...
+13
+
+
+— Pois então mande buscar o melhor detetive brasileiro. Mobilize o que você quiser. Mexa-se! Quero um relatório completo dentro de uma semana. Quero resultados, resultados!
+
+
+
+Sexta-feira, 24 de novembro.
+
+Sentado à janela do avião, enquanto ele taxiava pela pista do Aeroporto Internacional de Nova Iorque, Abusado Santos Bezerra, da Secretaria de Segurança Pública do Estado de Sergipe, apanhou distraidamente o telegrama amarfanhado que estava no bolso do paletó. O telegrama veio junto com uma lista de encomendas, feitas pelos amigos, quando souberam de sua viagem. Recolocando a lista de encomendas no bolso, Abusado releu mais uma vez o telegrama: “Solicitamos envio urgente detetive Abusado Santos Bezerra.” Sim, pensou Abusado, eles precisam de mim e eu vou resolver essa parada.
+
+Na descida, já na fila para o controle de imigração, Abusado encontrou um funcionário do Departamento de Estado à sua espera.
+
+— Sr. Abusado? — disse ele. — Sou Foquefoquiú, do Departamento de Estado. Tenho instruções para encaminhá-lo a Washington imediatamente.
+
+— Um momento — disse Abusado. — Não vai dar tempo de eu fazer umas compras aqui?
+
+— Sinto muito — disse Foquefoquiú. — As minhas instruções são para levá-lo a Washington sem um minuto de demora.
+
+— Eu não estou querendo violar suas instruções — disse Abusado. — Mas que diferença faz uma paradinha em Nova Iorque, coisa de duas ou três horas, só para eu fazer umas compras?
+
+— Lamento, mas não posso — respondeu Foquefoquiú. — Está aí um avião da Força Aérea pronto para levá-lo. Há todo um esquema de segurança. Esta parte da operação está custando mais de cento e cinquenta mil dólares.
+
+— Então um dólar a mais, um dólar a menos não faz tanta diferença — disse Abusado. — Quanto é que custa eu ficar mais umas duas horas aqui em Nova Iorque?
+
+Puxou simpaticamente Foquefoquiú para o lado e falou quase num cochicho.
+
+— Além disso — explicou —, é uma oportunidade ótima, a gente tem que aproveitar. E estou com uma lista enorme de encomendas.
+
+— Não pode — disse Foquefoquiú.
+
+— Bem, se não pode — disse Abusado —, é porque não pode. Você conhece Itabaiana?
+
+— Como?
+
+— Já ouviu falar?
+
+— Como?
+
+— Pois então. Aqui em Nova Iorque tem um rapaz por nome Alexandre Rabelo, que é de uma excelente família de Itabaiana. Talvez você conheça ele. Você mora aqui em Nova Iorque?
+
+— Moro.
+
+— Então é capaz de você conhecer. É um rapaz moreno, alto, que fala grosso, usa óculos. Está estudando na universidade.
+
+— Que universidade?
+
+— Bem não sei o nome, sei que é a universidade. Você não conhece a universidade daqui?
+
+— Que universidade?
+
+— Esse rapaz, Alexandre Rabelo, foi o melhor aluno do Colégio Estadual de Sergipe, todo mundo conhece ele. O pai dele me disse que ele está fazendo uma ótima figura na universidade, não é possível que você não tenha ouvido falar nele.
+
+— Não ouvi.
+
+— É, pode ser, essa vida de polícia deixa o sujeito sem tempo para nada. Pois é, está certo que eu não tenha condição de fazer compras. O comércio de Washington é bom?
+
+— Como?
+
+— Bem, deve ser. De qualquer maneira, eu estou aqui com uma carta do pai de Alexandre, que me pediu para entregar em mãos e eu não posso ficar em falta com uma pessoa distinta como ele. Não dava para entregar a carta?
+
+— O senhor pode me dar, que eu providencio a entrega.
+
+— Ah, não posso. O pai dele me falou que eu tinha de entregar em mãos.
+
+— Mas eu já expliquei ao senhor.
+
+— Uma horinha, o que é uma horinha? Tenha a santa paciência, mas eu acho que o senhor não está com boa vontade comigo. Contado, parece mentira: não pode atrasar uma hora, uma horinha de relógio.
+
+— Eu já expliquei ao senhor que o avião...
+
+— Se o problema é o avião, eu converso com o piloto do avião. Duvido que ele não compreenda. Qualquer um compreende. Qualquer coração de pai compreende. Não é possível que...
+
+— Muito bem — disse Foquefoquiú. — Uma hora.
+
+— Você é gente, rapaz, você é gente — disse Abusado, passando o braço no ombro de Foquefoquiú. — Você gosta de paçoca de amendoim?
+
+— Não sei o que é — disse Foquefoquiú.
+
+— Não sabe o que é paçoca de amendoim? Rapaz, onde é que você tem morado, ave Maria?
+
+Três horas mais tarde, Abusado embarcava no avião da Força Aérea que o esperava, levando alguns sacos de compras que incluíam um secador de cabelos, duas caixas de alfinetes de segurança, dois blusões de couro, uma máquina fotográfica miniatura, um gravador de fita mini-­cassete, um termômetro de parede, uma caixa de música, uma espingarda de ar comprimido, um vidro de limpador de vidraças e outros objetos. No avião, sentado ao lado de Foquefoquiú, rabiscou uma carta para casa:
+
+
+“Espero que esta encontre todos bem e com saúde. O detetive que me esperou no campo de aviação é um pouco descompreendido e quase que não consigo fazer umas compras em Nova Iorque. Nova Iorque é uma cidade que só conhecendo como eu conheço agora para compreender como ela realmente é. O povo não é muito simpático e o clima é péssimo. As mulheres não são tão feias quanto eu esperava, mas não dão bola para ninguém. Não consegui apanhar ninguém. Também é uma cidade um pouco fria. Mas gostei do comércio, que é muito sortido. O americano, sabe como é, não faz abatimento. A Coca-Cola custa caríssimo e a nossa Coca-Cola de lá é muito melhor. Agora eu tenho de parar de escrever. Depois continuo, porque agora estamos chegando na cidade onde eu vou resolver esse caso.”
+
+
+Conduzido apressadamente ao gabinete de Camone, Abusado ouviu atento a exposição, ilustrada por slides preparados especialmente. Camone complementava a apresentação com a entrega de material impresso a Abusado. Terminada a exposição, virou-se para o detetive sergipano.
+
+— Alguma pergunta? — falou.
+
+— Sim — disse Abusado. — Se o senhor não se incomodar.
+
+— Estou aqui para isso — disse Camone.
+
+— Isso é que é — falou Abusado. — O povo americano é assim. O sujeito que faz um serviço faz o serviço completo. Muito obrigado.
+
+— Qual é a pergunta?
+
+— Onde você comprou esse projetor de slides? — perguntou Abusado. — Achei esse uma perfeição. Projeta preto e branco?
+
+— Depois eu lhe arranjo um — disse Camone com impaciência. — Mas o senhor tem alguma pergunta sobre o caso?
+
+— Não — disse Abusado. — Foi tudo explicado, reexplicado e triexplicado.
+
+— Ótimo. O senhor, então...
+
+— Foi tudo tetraexplicado! — disse Abusado. — Ha-ha!
+
+— Ha-ha — fez Camone. — Bem, nesse caso, o senhor pode começar imediatamente.
+
+— Ah, essa não — disse Abusado. — Eu pego segunda-feira.
+
+— O senhor pega segunda-feira?
+
+— Não vou pegar na sexta, já no fim de semana. Eu pego na segunda, que fica mais certinho, tudo direito. Pode esperar, segunda-feira sem falta eu estou aqui.
+
+— Ahn — disse Camone.
+
+
+
+Segunda-feira, 27 de novembro.
+
+Chegando ao escritório de Camone, às dez e quarenta e cinco, Abusado entrou na sala enquanto uma acalorada discussão se processava. Sentado à cabeceira, com as costas da cadeira para a frente, Camone lhe acenou quase hostilmente.
+
+— Muito bem — disse ele. — Agora que já descansou, já madrugou hoje e tudo, podemos ter a sua contribuição?
+
+— Ah, pois não — disse Abusado. — Eu fico na saletinha lá de trás e vocês vão mandando os dedos-duros. Mandem de um em um, porque, se eu precisar de acareação, eu mesmo peço.
+
+— Mandar o quê? — perguntou Camone.
+
+— Os dedos-duros. Podem ir mandando, que eu vou interrogando.
+
+— Que dedos-duros?
+
+— Os dedos-duros, dedos-duros, dedos-duros — disse Abusado, mostrando com um gesto o que queria dizer. — Os dedos-duros.
+
+— Receio — disse Camone, finalmente compreendendo — que não possamos fornecer esses dedos-duros.
+
+— Por quê? — disse Abusado. — Qual é o problema?
+
+— Nós não temos dedos-duros.
+
+Abusado parou diante da porta da saleta e virou-se lentamente para Camone.
+
+— Você quer dizer a mim — falou, depois de algum tempo — que aqui não tem nenhum dedo-duro e que vocês fazem tudo por adivinhação. Essa nem com vaselina.
+
+— Hein? — perguntou Camone.
+
+— Aqui, ó! — disse Abusado. — Na buraca, na bu-ra-ca.
+
+— Nós temos esses informantes — interrompeu Ailoviú —, mas só para certos casos. São pessoas do submundo do crime a quem a gente às vezes gratifica e que nos dão informações.
+
+Abusado parou outra vez, com as mãos na cabeça.
+
+— Não! — exclamou. — Não! Esses americanos... Vocês querem dizer que fizeram um país destes, uma coisa importante destas, sem contar com um grupo de dedos-duros amadores? Só têm dedos-duros profissionais?
+
+— Se você chama esses de profissionais — retrucou Camone. — Só temos esses. E, num caso como o de agora, eles não se aplicam.
+
+— É claro que não se aplicam — escandalizou-se Abusado. — Contado, não se acredita: os americanos trabalham sem um corpo de dedos-duros amadores. Sem nenhum. Mas não tem nenhum, homem?
+
+— Não — disse Camone.
+
+— Então não me admiro que vocês não tenham descoberto nada. Pois mesmo com os dedos-duros amadores a gente enfrenta dificuldades, imagine sem eles. Assim não pode. Tem que ter o dedo-duro preventivo, o de acompanhamento... Isso não se pode fazer com profissionais. Tem que ser feito com amadores. Em primeiro lugar, o custo não é dinheiro, é custo cívico. Em segundo lugar, o amador é muito mais dedicado, muito mais perfeito do que o profissional. Minha Nossa Senhora, e vocês não têm ninguém? Taí, essa me deixou embananado, pode crer. Eu estava certo... Menino, ninguém, ninguém?
+
+— Ninguém — disse Camone, com um olhar estranho.
+
+— É difícil de acreditar, mas está certo — conformou-se Abusado. — Mas não se vai desistir por causa disso.
+
+— Muito obrigado, você é muito gentil — rosnou Camone.
+
+— Ora — falou Abusado. — Colega é para essas coisas.
+
+
+
+Terça-feira, 28 de novembro.
+
+Sentado em companhia de Camone e Ailoviú, às três horas da manhã, diante de uma massa de papéis e fichas, Abusado suspirou.
+
+— Nunca — disse ele. — Nunca se vai achar nada. Ninguém deixa impressão digital na bosta.
+
+— Não sei, não sei — disse Camone, acabrunhado.
+
+— Me diga uma coisa — falou Abusado, levantando-se. — Se o caso não for resolvido, o que acontece a vocês?
+
+— Não quero nem pensar — respondeu Ailoviú.
+
+— Quanto mais eu — disse Camone.
+
+— Comigo não acontece muito, que eu sou efetivo — disse Abusado. — Mas vou ficar meio desmoralizado.
+
+Passeou largamente pela sala. Duas vezes, de pé junto a uma poltrona, pareceu querer falar, mas se conteve.
+
+— Pode dizer, pode dizer — resmungou Camone. — Pode dizer qualquer coisa.
+
+— É que eu não tenho certeza — disse Abusado. — Vocês podem se aborrecer.
+
+— Não existe nada que me aborreça — disse Camone. — O presidente me chamou no telefone na hora do jantar e me deu um esporro federal.
+
+— Ai — gemeu Ailoviú. — Esse sujeito não podia ir cagar em Omaha, ou qualquer lugar assim? Tinha que cagar aqui?
+
+— Bem — falou Abusado. — Posso dizer?
+
+— Fale logo — disse Camone. — É até bom ouvir um discurso antes de tomar meu copo de cianureto.
+
+— Muito bem — entoou Abusado. — Não garanto que esta é a solução, mas pode ser. Em primeiro lugar, me digam: é possível alguém voltar a cagar perto do presidente?
+
+— Absolutamente impossível — disse Camone. — Só faltamos botar um agente dormindo com ele na cama. É por isso que há alguns dias não temos tido novos incidentes.
+
+— Exatamente como eu pensei. Quer dizer que nosso problema é passado e não futuro. Problema no futuro é que complica, dá muita preocupação. No passado, a gente resolveu. Me diga mais uma coisa: é possível continuar com a mesma vigilância o tempo todo?
+
+— O tempo todo.
+
+— Ótimo, ótimo. Então só falta achar o nosso homem.
+
+— Eu posso não ser nenhum Einstein — disse Ailoviú. — Mas o que eu sou já dá de sobra para eu perceber que você acaba de dizer uma babaquice. Que diabo você pensa que nós temos feito esse tempo todo, a não ser procurar esse homem?
+
+— Não precisa mais procurar — disse Abusado, soprando a fumaça do cigarro com um floreio. — Quer dizer, a procura agora é bobagem.
+
+— Muito bem, Ellery Queen — disse Camone. — Pare com o suspense e diga logo. Quem é o suspeito?
+
+— Não é suspeito, é o homem certo, certinho. Mas quem vai dizer são vocês.
+
+— Nós? Nós?
+
+— Vos-me-cês. É o seguinte: o que acontece com o sujeito que for condenado pela cagação?
+
+— Não sei — disse Camone. — Mas acho que não dá para pegar mais do que uns cinco ou seis anos e olhe lá.
+
+— Ótimo! — entusiasmou-se Abusado. — Está ficando cada vez mais fácil. Bem, então vocês escolhem um sujeito daqui mesmo e a gente bota a culpa nele.
+
+— Você está maluco? Você está completamente doido. Não está vendo que isso nunca ia funcionar? Que maluquice.
+
+— Fico admirado de vocês, uns americanos, um povo desses e não sabem das coisas mais simples. Não vai ser nada disso.
+
+— Estou ouvindo, estou ouvindo — falou Camone, botando o queixo sobre as mãos.
+
+— Um sujeito desses — explicou Abusado — vai ficar contentíssimo com essa oportunidade. Um sujeito desses vai ficar famoso, vai ganhar um dinheirão vendendo reportagens para as revistas. Vai ser considerado muito simpático por muita gente. Talvez até entre para o cinema. Se escrever um livro, ou então escreverem para ele assinar, vai encher o rabo de dinheiro. Tudo isso por causa de uns cinco aninhos de cadeia e olhe lá.
+
+— Você é louco — disse Camone. — Você é completamente maluco.
+
+— Continue, continue — disse Ailoviú.
+
+— Pois então — continuou Abusado. — Vocês até entendem disso melhor do que eu. A gente apresenta o homem, faz o carnaval todo, todo mundo fica satisfeito. E não dá para arranjar um dinheirinho para ele por fora, só para garantir?
+
+— Dá, claro que dá — disse Camone. — Quer dizer, daria, se nós topássemos essa maluquice.
+
+— O emprego é de vocês — disse Abusado. — Eu sou efetivo e sou de fora.
+
+— De fato — ponderou Ailoviú — isso não seria tão irregular assim. Na verdade, podia ser considerado até um ato patriótico. A nação precisa de uma resposta e nós vamos dar essa resposta. O que interessa é a segurança do presidente e dar uma resposta à nação. Isso é o que interessa.
+
+— Você também está maluco — disse Camone.
+
+— Esse sujeito, se tirasse a sorte grande, não estaria melhor — prosseguiu Abusado. — É verdade que um crime mais brabo seria melhor para ele, mas, de qualquer forma o futuro dele está garantido.
+
+— É — disse Camone. — Não, não vamos fazer isso. Isso é uma imoralidade e uma indecência e não vamos fazer isso. Nada contra você, Bezerra, isso fica entre nós, mas não vamos fazer nada disso. Não vamos, e ponto final.
+
+— Você é quem sabe de sua vida — disse Abusado. — Quem é burro pede a Deus que o mate.
+
+
+
+Quarta-feira, 29 de novembro.
+
+Reunidos na sala de Camone, os três detetives aguardavam a chegada do agente de segurança Phil Guivimi, convocado especialmente para ouvir a proposta originada de Abusado. Guivimi, um homem corpulento e de óculos, aparentava estar um pouco nervoso. Sentou-se diante de Camone. Seguiu-se um diálogo tenso e de frases curtas, em que Camone explicou a situação.
+
+— Para resumir — concluiu Camone —, cagaram em Sua Excelência diversas vezes e sua missão, Guivimi, é assumir a responsabilidade pelo fato. Não me pergunte por quê, eu não posso explicar. Trata-se de informação classificada. É claro que você está livre para não aceitar. Nós o escolhemos por causa de sua ficha impecável. E porque você é perfeito para o papel.
+
+— O papel higiênico — disse Abusado. — Ho-ho.
+
+— Por favor, Bezerra — falou Camone. — Eu estou comandando esta operação e eu dou as ordens.
+
+— Está certo — disse Abusado. — Vá dando as ordens aí.
+
+— Garantimos a você completa cobertura — continuou Camone. — Uma verba secreta para sua segurança depois, direitos da história para uma revista nacional, direitos autorais de livros, uma pequena ajuda para a sua família e outras vantagens. Isso são detalhes, veremos depois.
+
+— E se eu não aceitar? — perguntou Guivimi, endireitando os óculos com aspecto desamparado.
+
+— Bem, se você não aceitar — interrompeu Ailoviú —, nós provamos que foi você e vai ser muito pior.
+
+— Está assim de prova aí — disse Abusado.
+
+— E sua mulher — acrescentou Camone — vai gostar de ouvir os diálogos que você mantém no telefone com aquela moça. Temos até o endereço dela aqui.
+
+— E as festinhas — disse Ailoviú. — Tem também o problema das festinhas.
+
+— É — disse Abusado. — Esse pessoal daqui já gosta de escutar o que os outros falam no telefone. Ainda se só escutassem, mas os miseráveis gravam. É um pessoal danado, esse pessoal.
+
+Guivimi compôs um olhar distante e levantou-se.
+
+— Senhor Camone — declarou ele. — Não é todos os dias que um cidadão tem o privilégio de servir seu país, mesmo à custa de grandes sacrifícios. Estou honrado pelo convite e prometo tudo dar de mim pelo êxito da missão.
+
+— Guivimi — disse Camone —, Guivimi, eu sabia que você era um verdadeiro patriota. A história não se esquecerá disso. Agora sente aqui, para a gente acertar os detalhes. Tudo tem que ser muito bem contado.
+
+— Burro é que ele não é — disse Abusado, batendo-lhe afetuosamente no ombro.
+
+
+
+Quinta-feira, 30 de novembro.
+
+Triunfantes, depois de uma verdadeira maratona de reuniões e conferências de imprensa, o Presidente Lukaut, Ailoviú, Camone e Abusado iniciaram suas despedidas, ainda num dos escritórios da residência oficial.
+
+— Pois é — disse Abusado —, o senhor me permite uma observação?
+
+— Ora, ora, qualquer coisa — respondeu o presidente. — Hoje é um dia de comemoração.
+
+— É uma pequena ousadia de minha parte — disse Abusado. — Mas o senhor deve ter sempre cuidado: por mais presidente que o sujeito seja, tem sempre alguém cagando para ele. Este mundo é muito incerto.
+
+— Ha-ha! — fez o presidente, batendo no braço de Abusado, com a mão que ostentava um belo relógio eletrônico digital. — É verdade, é verdade.
+
+— Puxa — disse Abusado. — Onde é que o senhor comprou esse relógio?
+
+
+
+
+10
+ Outlandish Dropped Thingamabob.
+
+
+11
+ Tsk-tsk.
+
+
+12
+ Cagada em Cadeia.
+
+
+13
+ Se der problema, podem ser os indonésios.
+
+
+
+
+
+A Casa dos Budas Ditosos (Nova edição)
+
+
+Ribeiro, João Ubaldo
+
+
+
+9788539001620
+
+
+
+128 páginas
+
+
+
+Compre agora e leia
+
+
+Nova edição do clássico de João Ubaldo Ribeiro que marcou época. A casa dos budas ditosos, lançado originalmente em 1999, foi o quarto volume de uma série chamada Plenos Pecados, em que cada título era dedicado a um pecado capital. Poderoso e original, o romance de Ubaldo sobre a luxúria conquistou um número imenso de leitores e, de quebra, cutucou os moralistas de plantão. Em 2004, seguindo o que se tornou uma tradição de seus romances, A casa dos budas ditosos foi adaptado para o teatro por Domingos Oliveira, num monólogo estrelado por Fernanda Torres, que assina a apresentação desta edição. O espetáculo permaneceu por mais de uma década em cartaz, levando as memórias de orgias, voyeurismo e sadismo dessa impagável libertina para mais de 700 mil pessoas em todo o Brasil. A casa dos budas ditosos é um clássico da literatura erótica. Como afirma o próprio autor, "esse depoimento não é um romance, mas é olhar pelo buraco da fechadura". E não há nada mais irresistível. "A literatura brasileira ainda não tinha produzido um romance na linhagem do erotismo elegante e radical e coube a João Ubaldo fazêlo. Não é um livro para leitores sem malícia, moralistas ou pudicos." — José Castello, O Estado de S. Paulo "CLB é uma baita invenção desse baiano chamado Ubaldo, um dos maiores contadores de causo que já conheci. O apego ao detalhe, a capacidade de nos fazer ver, cheirar, sentir, tudo fascina. Escritor rigoroso, o baiano é clássico, chulo, requintado, cerebral, passional, trágico, cômico e universal." — Fernanda Torres, no prefácio para esta edição "A casa dos budas ditosos é ideal para quem quer entrar na literatura de João Ubaldo Ribeiro de forma divertida, pela luxúria, por meio de provocação, com linguagem indecorosa no melhor sentido." – Nélida Piñon
+
+
+Compre agora e leia
+
+
+
+
+
+
+Redemoinho em dia quente
+
+
+Arraes, Jarid
+
+
+
+9788554514150
+
+
+
+152 páginas
+
+
+
+Compre agora e leia
+
+
+Uma das principais vozes da literatura contemporânea, Jarid Arraes traz um livro de contos sobre mulheres brasileiras que não se encaixam em padrões e desafiam expectativas.Escritora conhecida por seus cordéis, Jarid Arraes estreia no gênero dos contos em Redemoinho em dia quente. Focando nas mulheres da região do Cariri, no Ceará, os contos de Jarid desafiam classificações e misturam realismo, fantasia, crítica social e uma capacidade ímpar de identificar e narrar o cotidiano público e privado das mulheres.Uma senhora católica encontra uma sacola com pílulas suspeitas e decide experimentar um barato que a leva até o padre Cícero, uma lavadeira tenta entender os desejos da filha, uma mototáxi tenta começar um novo trabalho e enfrenta os desafios que seu gênero representa — Jarid Arraes narra a vida de mulheres com exatidão, potência e uma voz única na literatura brasileira contemporânea."O leitor se surpreenderá com a originalidade e a fluência da voz que aqui, nestes contos, enfrenta e revela o emaranhado de contradições que cada um de nós carrega." – Maria Valéria Rezende
+
+
+Compre agora e leia
+
+
+
+
+
+
+A idade de ouro do Brasil
+
+
+Trevisan, João Silvério
+
+
+
+9788554515966
+
+
+
+216 páginas
+
+
+
+Compre agora e leia
+
+
+Uma disputa de poder entre o submundo da política e travestis paulistanas. Estamos em 2009. Lula segue no auge do poder, o Brasil compõe o grupo dos BRIC e os poços do pré-sal começam a jorrar otimismo. Em uma mansão no interior de São Paulo, durante os feriados de Páscoa, seis políticos e empresários bem-sucedidos se reúnem para articular a criação de um novo partido. Usando a estrutura partidária, esses homens almejam acesso fácil aos cofres do Estado, com um olho no porvir alvissareiro.Sonha-se com aquilo que finalmente vai se tornar real: a idade de ouro do Brasil. O encontro tem tudo para dar certo, não fossem dois imprevistos. Primeiro, a visita de um ex-capitão do exército, que os colocará em xeque. Depois, a entrada em cena das Afrodites da Pauliceia, trupe de travestis exuberantes. Sob o comando da veterana Vera Bee — professor universitário durante o dia, que à noite se monta e fornece cocaína à clientela —, elas são convidadas para alegrar o final dos trabalhos. Nas noites de excesso que se seguem, os antagonismos se acirram. O poder, disputado a ferro e fogo, apontará para um caminho tragicômico, em que não há heróis, nem inocentes. O Brasil vai acordar do seu sonho esplêndido.
+
+
+Compre agora e leia
+
+
+
+
+
+
+Senhor das Moscas
+
+
+Golding, William
+
+
+
+9788579623202
+
+
+
+224 páginas
+
+
+
+Compre agora e leia
+
+
+Publicado originalmente em 1954, Senhor das Moscas é um dos romances essenciais da literatura mundial. Adaptado duas vezes para o cinema e traduzido para 35 idiomas, o clássico de William Golding já foi visto como uma alegoria, uma parábola, um tratado político e mesmo uma visão do apocalipse. Durante a Segunda Guerra Mundial, um avião cai numa ilha deserta, e seus únicos sobreviventes são um grupo de meninos. Liderados por Ralph, eles procuram se organizar enquanto esperam um possível resgate. Mas aos poucos esses garotos aparentemente inocentes transformam a ilha numa visceral disputa pelo poder, e sua selvageria rasga a fina superfície da civilidade. Ao narrar a história de meninos perdidos numa ilha, aos poucos se deixando levar pela barbárie, Golding constrói uma reflexão sobre a natureza do mal e a tênue linha entre o poder e a violência desmedida. A nova tradução para o português mostra como Senhor das Moscas mantém o mesmo impacto desde seu lançamento: um clássico moderno; um livro que retrata de maneira inigualável as áreas de sombra e escuridão da essência do ser humano.
+
+
+Compre agora e leia
+
+
+
+
+
+
+O homem de areia
+
+
+Kepler, Lars
+
+
+
+9788554512613
+
+
+
+462 páginas
+
+
+
+Compre agora e leia
+
+
+Best-seller mundial, O homem de areia conta a história de um serial killer inteligente e manipulador e de dois policiais que precisarão vencer os próprios limites para pegá-lo.Em uma noite extremamente fria em Estocolmo, um homem aparece sozinho e desnorteado em uma ponte. Quando ele é encontrado, a hipotermia já toma conta de seu corpo. Ao ser levado para um hospital, descobre-se que há sete anos ele foi declarado morto.Seu assassinato foi creditado ao serial killer Jurek Walter, que foi preso há alguns anos pelo detetive Joona Linna e sentenciado a prisão perpétua em uma ala psiquiátrica. Enquanto investiga o aparecimento desse homem e tenta entender onde ele esteve durante os últimos sete anos, evidências desconhecidas começam a aparecer e influenciar o caso que já estava arquivado.Com capítulos curtos e ritmo alucinante, O homem de areia é um thriller envolvente sobre os limites da maldade."Um dos thrillers mais emocionantes dos últimos tempos." — Sunday Times
+
+
+Compre agora e leia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

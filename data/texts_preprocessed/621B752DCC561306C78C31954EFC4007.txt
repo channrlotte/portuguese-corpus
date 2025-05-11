@@ -1,0 +1,1 @@
+[["person1", "person1", "person1", "person1", "person1", "person1", "person1", "roda", "de", "o", "mundo", "em", "um", "casquinha", "de", "noz", "estar", "em", "person1", "o", "macaco", "pron1", "oferecer", "coco", "ó", "maninha", "ó", "maninha", "pron1", "não", "estar", "comigo", "estar"]]

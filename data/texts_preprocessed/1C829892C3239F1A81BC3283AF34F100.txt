@@ -1,0 +1,1 @@
+[["person1", "person1", "person1", "person1", "person1", "person1", "ber", "pron1", "falar", "menos", "ainda", "mas", "inventar", "palavra", "pron1", "traduzir", "o", "ternura", "mais", "fundo", "e", "mais", "quotidiano", "inventar", "por", "exemplo", "o", "verbo"], ["intransitivo", "person1", "person1"]]

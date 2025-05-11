@@ -1,0 +1,1023 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Ética da Traição
+
+
+  
+    
+  
+
+
+  
+
+
+
+  A Ética da Traição
+
+
+  
+
+
+
+  Gerson Lodi-Ribeiro
+
+
+  Capítulo I
+
+
+  Movimento Forçado
+
+
+  O lado brasileiro do posto fronteiriço de Itararé foi provavelmente palco de uma atividade frenética. Os agentes do Despacho General de Infor-mación infiltrados na polícia federal brasileira disseminaram a notícia de minha tentativa de evasão através daquela cidade. Como resultado, centenas de policiais de elite, trajados à paisana e recém-chegados de seus comandos regionais, devem estar até agora patrulhando as ruas, estações ferroviárias, terminais de turboônibus e hotéis daquele município. O treinamento que lhes fora ministrado na Academia do Rio de Janeiro e o aparato técnico de que dis-punham lhes garantia que minha fuga teria uma probabilidade de êxito muito reduzida.
+
+
+  Teria sido assim, é claro, caso tivesse optado por aquela rota de fuga.
+
+
+  Orientado pelo próprio cônsul da República guarani em São Paulo e munido com a documentação falsa e o disfarce que ele graciosamente mandou confeccionar, consegui embarcar incógnito na barcaza nuclear, que fazia o transporte regular de carga e passageiros pelo trecho navegável do Paranapanema.
+
+
+  A Espírito Santo aproveitava a correnteza favorável, vogando lentamente para oeste, com as turbinas gêmeas girando bem abaixo da potência nominal. A embarcação fora construída havia cerca de trinta anos, por encomenda do governo brasileiro, num estaleiro paraguaio de Montevidéu. Tecno-logicamente obsoleta, embora ainda operativa e confiável.
+
+
+  Debruçado na amurada, observei a margem esquerda do rio. Um consórcio paraguaio-brasileiro havia retificado aquela parte do leito do Paranapanema no início do século, ampliando o trecho navegável. Como limite natural entre os dois países mais desenvolvidos do hemisfério sul, o rio possuía uma importância econômica considerável. Através dele se fazia o escoamento da produção cerealífera do norte do Paraguai.
+
+
+  À margem direita, meu país, onde em muito breve eu seria considerado o traidor mais pusilânime desde D. Pedro II. Sorri diante do paralelo. Ele tampouco tivera outra opção.
+
+
+  Lembrei-me daquela pintura a óleo no alto da escadaria da embaixada guarani, na Quinta da Boa Vista. Retratava um velho alquebrado, cuja barba alva bem-cuidada contrastava com o olhar amargurado e o ar de quem se sentia extremamente cansado. Ao lado do último imperador brasileiro estava um homem de meia-idade portando as insígnias de marechal da Grande República sobre um rude uniforme de campanha. Ele era moreno e não muito alto, apenas um pouco curvado sobre uma mesa imponente, para assinar a declaração de paz. A cena dera-se na própria embaixada; então palácio imperial.
+
+
+  Voltei o olhar para bombordo. A partir daquela margem se estendiam os solos da nação mais poderosa da Terra. O país no qual eu residira durante meus anos de doutorado e pós-doutorado. A liberdade.
+
+
+  Traidor... Talvez pudesse realmente ser assim designado. Afinal, por um ato de vontade, evitei que meu país se transformasse na maior potência da América do Sul. Em minha defesa, não alego ignorância ou desconhecimen-to. Estive em pleno domínio de minhas ações quando destruí definitivamente as esperanças do secretário da Guerra, e dos poucos pesquisadores que co-mungavam de seus ideais de grandeza.
+
+
+  Nem ao menos posso afirmar sentir algum remorso. Apenas tristeza, pela certeza de que, amanhã ou depois, meu nome será usado como sinônimo de traição. Meus compatriotas jamais saberão que me devem até o futuro de seus filhos e netos por nascer. Um dia, ou pouco mais, para a ruína completa da minha reputação como homem de ciência e como ser humano. Os colegas e amigos, parentes e entes queridos, todos se envergonharão de terem comi-go convivido.
+
+
+  No entanto, eu faria tudo novamente. Uma, dez, um milhão de vezes.
+
+
+  Não houve como proceder de maneira diversa. No xadrez, chamamos isso de movimento forçado.
+
+
+  Em nome de um patriotismo insano, aquele louco propusera outro tipo de movimento forçado. Um absurdo que, se levado avante, destruiria a civilização, modificando-a para além de qualquer possibilidade de reconhecimento.
+
+
+  Havíamos observado os hologramas das alterações. Um mundo con-turbado e injusto. Não a nossa velha Terra, mas um planeta sob muitos aspectos mais alienígena que o Marte que paraguaios e alemães estão começando a colonizar. Uma Terra diferente; habitada por pessoas fisicamente idênticas a nós, mas com pensamentos e atos estranhamente irracionais. Um planeta repleto de conflitos, intolerâncias e desigualdades, que levavam centenas de milhões à miséria e à inanição.
+
+
+  Mesmo conhecendo esse quadro, o secretário da Guerra pretendeu tornar a nossa Terra naquele mundo.
+
+
+  Movimento forçado! Tive vontade de gargalhar. Minha fuga desesperançada, deixando minha terra natal para trás, e nela os amigos e tudo o quanto amei... isso sim, é um movimento forçado!
+
+
+  Era o tipo de pensamento que me assolava o espírito por aqueles dias.
+
+
+
+  Procurei consolo no argumento (irrefutável?) que era preferível a infelicidade à inexistência. Sempre nutrira dúvidas de caráter filosófico a esse respeito.
+
+
+  Metafísica repentinamente transformada em pragmatismo: talvez tenha sido isso que forçara minha mão quando finalmente adquiri coragem para programar o computador do Projeto para emitir os sessenta e poucos quilogramas de água clorada.
+
+
+  
+
+
+
+  A maioria da população brasileira nutre um misto de ódio e inveja pela República guarani. Afinal, ela vencera a guerra contra a Tríplice Aliança e frag-mentara o Império brasileiro em duas nações soberanas distintas, além de um protetorado bem maior que o nosso território remanescente. Essa vitória possibilitou a continuação da Revolução Industrial paraguaia, e a ascensão desse país como a maior potência da América já à época da Guerra Mundial, no início do século.
+
+
+  Sempre julguei que, se fosse de fato necessário atribuir alguma culpa, que não a nós mesmos, pelos fracassos militares do Império, essa deveria re-cair sobre o capitalismo britânico. A Guerra da Tríplice Aliança foi fomentada— como é atualmente de conhecimento público — pelos ingleses, temerosos da concorrência potencial representada por um Paraguai militarmente forte, politicamente independente e voluntarioso, industrializado e dotado de um sistema econômico já essencialmente capitalista.
+
+
+  Um de meus bisavôs pelo lado materno, filho de ex-escravos brasileiros radicados na República guarani, foi oficial do exército paraguaio. Serviu nas tropas de ocupação que estiveram aquarteladas em várias das principais cidades brasileiras, desde a queda do Império até a primeira década do nosso século. Costumava passar seus períodos de licença na cidade do Rio de Janeiro.
+
+
+  Numa dessas ocasiões, conheceu uma jovem carioca de uma família de negros já alforriados antes da guerra e cujas atividades agrocomerciais prosperaram bastante com a Abolição em 1876 — minha bisavó Lucinda.
+
+
+  Com tais antecedentes, é compreensível que não estivesse sujeito à onda de preconceitos antiguaranis que são inculcados ainda hoje nas mentes dos jovens brasileiros.
+
+
+  A Espírito Santo levava pouca carga em sua viagem para noroeste. Algumas toneladas em sacas de café fino, bastante apreciado pelos cidadãos da República guarani. Muito pouco em comparação com os cereais e a carne frigorificada de procedência paraguaia. Isso sem mencionar as micropastillas de silício de penúltima geração já liberadas pelo Despacho de la Ciência, avidamente importadas pelas indústrias montadoras de supermicros paulistas e mineiras.
+
+
+  O mesmo não se podia dizer quanto à lotação de passageiros. Mais de uma centena de turistas regressava a seu país de origem, junto com cerca de uma dúzia de executivos das filiais brasileiras das multinacionais estatais paraguaias. Esses profissionais retornavam às matrizes em férias, ou para se submeter a ciclos de atualização. Havia cerca de duas dezenas de brasileiros a bordo, em sua maioria turistas abastados. E um jovem casal alemão em lua--de-mel.
+
+
+  Contudo, dois de meus compatriotas não conseguiriam se passar facilmente por turistas, mesmo se se esforçassem para tal. Eram altos e bem musculosos. Ambos na casa dos trinta, e com cortes de cabelo em estilo tipi-camente militar. O branco era mais alto e corpulento, com mais de dois metros de altura. O mulato era quase tão escuro quanto eu, usava óculos espelhados e agia como se fosse mais graduado.
+
+
+  Estavam invariavelmente juntos. Mantinham-se sempre próximos do pequeno industrial paulista que eu fingia ser. A porta do camarote deles dava para a do meu.
+
+
+  Verifiquei com o comandante da barcaza, um velho oficial reformado da Marinha paraguaia, que eu e os dois nos sentaríamos à mesma mesa durante o almoço. Teríamos ainda a companhia do casalzinho alemão e, felizmente, do meu contato.
+
+
+  O mayor Herrera era um oficial do DGI. Estava travestido como executivo da Companía de Petróleo del Paraguay, a poderosa multinacional que ex-traía óleo cru tanto em território venezuelano quanto nas areias da península arábica, na província pernambucana do Recôncavo baiano ou, mais recente-mente, na plataforma continental brasileira da Bacia de Campos.
+
+
+  Mal tive oportunidade de trocar meia dúzia de palavras com meu contato, quando esse percebeu a presença dos federais brasileiros e me alertou para a conveniência de nos mantermos afastados, a fim de não despertar suspeita. De qualquer forma, era reconfortante saber que havia um oficial, treina-do no melhor e mais forte serviço secreto do mundo, designado para a missão de me fazer chegar incólume em território paraguaio.
+
+
+  Diante da afobação enérgica de Herrera, não houve tempo para lhe relatar o comportamento estranho do casal de alemães. Particularmente, a atitude de Inga Hoffmann.
+
+
+  Primeiro, para um casal em lua-de-mel, eles passavam demasiado tempo fora do camarote. Lembrando-me do quão puritana é a moral alemã,concluí que dificilmente teria havido muitas oportunidades para intimidades sexuais, enquanto solteiros. Ao contrário dos casais latino-americanos, não é hábito para os alemães fazer amor antes da noite de núpcias.
+
+
+  Segundo: ela vinha me focalizando com a câmera holográfica, de modo sub-reptício, julgando provavelmente que eu não percebia isso. Uma jovem alemã saudável, em viagem de núpcias no continente sul-americano e com uma câmera na mão, deveria se preocupar em filmar o marido ou, ao menos, a fauna e a flora da região, jamais um estranho. Afinal, mesmo com meu disfarce, não me considerava tão atraente assim, principalmente levando-se em conta os ideais de beleza física alemães.
+
+
+  A não ser que o jovem casal fosse exatamente o que aparentava.
+
+
+  Senti que estava começando a me tornar paranóico. Provavelmente ela estava apenas mirando o aparelho em minha direção para ajustar o foco, sem ativar o disparador.
+
+
+  Estava com os nervos à flor da pele. Julgava existir uma eficiente espiã da Confederação germânica onde, ao que tudo indicava, só parecia haver uma jovem entusiasmada com seu brinquedo novo. Certamente, o presente de ca-samento de um parente riço.
+
+
+  Capítulo II
+
+
+  Un Ratón en El Almuerzo de Los Gatos...
+
+
+  A barcaza era um retângulo de cento e dez metros de comprimento, por dezoito de boca e três de calado. O casco de fundo chato, sem quilha, era bastante apropriado à navegação fluvial. Possuía três conveses: o convés principal, onde ficavam os camarotes dos passageiros, os restaurantes, as salas de jogos, o cinema, a biblioteca e outros aposentos dedicados à recreação dos viajantes; o convés superior, onde se localizavam os alojamentos da tripulação, as amuradas interna e externa, e o passadiço; e o convés inferior (“cobertas abaixo”, segundo os marujos fluviais), recondicionado para o transporte de carga perecível e abrigando os sistemas de propulsão nuclear e auxiliar.
+
+
+  Soou a sirene que anunciava o início do horário de almoço. Soube por intermédio de Herrera que o comandante da Espírito Santo se sentaria à nossa mesa.
+
+
+  Caminhei pelo convés superior, ao longo da amurada interna de bombordo, em direção à popa.
+
+
+  Enquanto rumava para o pequeno restaurante da primeira classe, observei os campos cultivados da região ribeirinha na margem paraguaia. Vi umcamponês alto e mulato, com um chapéu de aba larga que a distância pareceu de couro autêntico. Estava sozinho e a pé no meio daquela vasta extensão de campo cultivado, comandando com voz firme, audível mesmo na barcaza, vários tipos de tratores e colheitadeiras automáticos. Obedientes, as máquinas iam e voltavam, algumas semeando a safra futura, outras preparando os solos com fertilizantes bacterianos, e outras ainda, fazendo colheita atual.
+
+
+  Milho, feijão e algodão tornados mais resistentes graças às técnicas de manipulação genética. Mais ao sul, na campanha gaúcha, os agricultores paraguaios produziam o trigo exportado a preços subsidiados para muitos dos países africanos e asiáticos. Nas províncias do Rio Grande del Sur e Uruguay produzia-se as uvas finas, transformadas nas pequenas vinícolas particulares da região no melhor vinho tinto do planeta. Do outro lado do Paranapanema, os brasileiros ainda praticavam a monocultura cafeeira, entremeada aqui e ali pelo cultivo da soja.
+
+
+  Já próximo à popa, seguindo as indicações luminosas assinaladas nas anteparas do convés superior, desci uma escada em espiral que desembocou no átrio do restaurante da primeira classe.
+
+
+  Das quatro mesas compridas de oito lugares, duas estavam guarne-cidas com pratos, copos e talheres. Avistei o casal Hoffmann sentado a uma delas e me dirigi para lá. Sentei-me no lugar indicado, em frente a Hans Hoffmann. Um garçom vindo da copa retirou da mesa o cartão com o nome da minha identidade falsa. Os agentes, que me haviam seguido de perto, senta-ram-se pouco depois. O mais robusto, Sr. Pereira segundo o cartão, sentou-se a meu lado direito e em frente a Inga. Seu amigo, o Sr. Silva, posicionou-se à sua direita e em frente ao assento vago sobre o qual a jovem alemã depositara sua indefectível holocâmera.
+
+
+  O mayor do DGI, que utilizava o mesmo nome com que se apresentou a mim, chegou alguns minutos mais tarde, salvando-me de uma conversa maçante com o casal de alemães versando sobre a diversidade da flora remanescente da região do Paranapanema. O assunto, confesso, estava longe de ser o meu forte. Os alemães articulavam um castelhano tão bom quanto o meu, o que não me causou surpresa, considerando a maciça influência cultural paraguaia também presente na Europa, pelo menos desde o término da Guerra Mundial em 1921 e o conseqüente plano de auxílio econômico empreendido por Assunción às nações européias do pós-guerra. Com um sorriso cativante aos alemães, Herrera se sentou à cabeceira mais distante, tendo o atlético Sr.Silva à sua esquerda.
+
+
+  O comandante foi o último a chegar, cerca de dez minutos depois deHerrera. Sentado à cabeceira à minha esquerda, o tenente-de-corbeta Ruiz Daross me pareceu tão pouco paraguaio quanto Hans Hoffmann. Ao longo da refeição, soube que o oficial reformado nascera na cidade guarani de Blu-menau, uma colônia de imigrantes alemães radicados na província de Santa Catarina algumas décadas após o término da Guerra da Tríplice Aliança. Louro, alto e de compleição robusta, o comandante aparentava ter mantido o vigor inato durante a meia-idade. Articulava o alemão, o castelhano, o português e, como descobri mais tarde, o guarani, com igual fluência. Mostrou ser um homem extremamente simpático, expansivo, e de temperamento extroverti-do. Contou-nos que o avô lutara na Guerra Mundial pela Marinha paraguaia, protegendo os comboios que transportavam alimentos e armamento para a prática de seus antepassados e para seus aliados austro-húngaros.
+
+
+  Degustamos nossos aperitivos, enquanto os garçons serviam-nos os apetitosos filetes da boa carne bovina paraguaia. A jovem alemã dirigiu-me uma pergunta em castelhano:
+
+
+  — E então, quais são as novidades no Brasil?
+
+
+  Lembrei-me que o casal embarcara na Espírito Santo no porto fluvial de Itararé, após duas horas de viagem no turboônibus expresso. Haviam toma-do aquele expresso no interior do Aeroporto Internacional do Rio de Janeiro, minutos depois de desembarcar de um vôo procedente de Berlim. Deveriam realmente estar curiosos para saber o que havia de novo pelo Brasil afora.
+
+
+  Decidi evitar qualquer menção a assuntos de caráter científico ou técnico e não me atrevi a arriscar comentários sobre política. Afinal, os Hoffmann deviam acreditar piamente que os brasileiros nada entendiam do assunto.
+
+
+  Não importava que fôssemos a quinta economia do mundo, na opinião dos alemães seríamos sempre — e apenas — o “País do Futebol”. O estereótipo não me irritava, ao contrário do que ocorria com a maioria de meus conterrâneos.
+
+
+  — Rodrigues é o novo técnico da nossa seleção. A lista dos convocados para a copa do Japão deve sair dentro de um mês.
+
+
+  Herrera assentiu quase imperceptivelmente e aproveitou a deixa.
+
+
+  — Ainda estamos em 91, quase dois anos para o Mundial.
+
+
+  Hans Hoffmann riu e olhou para a esposa com um ar de triunfo de quem acabara de vencer uma aposta. Existe um lado ruim em sermos penta-campêos mundiais de futebol, enquanto tanto o Paraguai quanto a Confederação Germânica possuíam apenas dois títulos cada. Os paraguaios, nossos vizinhos e grandes fregueses, já estavam acostumados com aquilo. Mas, aos olhos embevecidos dos alemães, todos os brasileiros eram especialistas norude esporte bretão.
+
+
+  O comandante, atencioso, pareceu perceber que meu conhecimento futebolístico se limitara à afirmação sobre Rodrigues. Infelizmente, portou-se como um verdadeiro cavalheiro portenho e decidiu me tirar daquela dificuldade, atendendo ainda à curiosidade dos alemães.
+
+
+  — A última grande novidade do Brasil, minha bela jovem, foi o desa-parecimento de um físico importante, que chefiava um projeto secreto que o governo brasileiro desenvolvia na Universidade de São Paulo.
+
+
+  A notícia seria a grande sensação do almoço. Senti meu sangue gelar.
+
+
+  Meus olhos procuraram os de Herrera, mas esse insistiu em cofiar o bigode lustroso enquanto examinava minuciosamente seu bife, como se ali houvesse uma saída para a situação perigosa na qual nos encontrávamos.
+
+
+  Pereira se mostrou indignado:
+
+
+  — Isto ainda não saiu nos jornais!
+
+
+  Por um momento, o comandante Daross analisou a fisionomia do agente, como um estrategista de um exército invasor procurando uma falha nas muralhas da cidadela sitiada. Depois, relaxou e sorriu, comentando em tom de confidencia:
+
+
+  — Ainda não. Recebi a notícia há cerca de uma hora pelo tele-fax. Estão mantendo um certo sigilo, pois parece ser o tipo de caso facilmente capaz de assumir os contornos de uma crise diplomática. Há insinuações de que o cientista tentará fugir para o nosso país. De qualquer modo, amanhã provavelmente toda a história já estará nos jornais.
+
+
+  — O señor por acaso se lembra do nome desse físico? — O jovem alemão se mostrou interessado demais para o meu gosto. Herrera lançou-me um breve olhar de advertência.
+
+
+  — Claro. Trata-se do professor Júlio César de Albuquerque Vieira. De acordo com o fax, ele se graduou pela Universidade de Campinas, fez o mestrado no Instituto de Astronomia e Geofísica da USP, o doutorado no Instituto de Física Avanzada de Assunção, tendo sido durante vários anos professor ti-tular do Centro de Pesquisas Cosmologicas de la Ciudad de López. É o mesmo homem que recebeu o prêmio Nobel de Física em 1985.
+
+
+  Hoffmann arregalou os olhos e assobiou.
+
+
+  — Albuquerque, o grande teórico das dobras espaçotemporais! Não sabia que estava trabalhando num projeto secreto...
+
+
+  — Se todos soubessem, não seria secreto — brincou Herrera, demons-trando um sangue-frio admirável.
+
+
+  Sem dúvida, trabalhar naquilo fora uma péssima idéia. Entretanto, hácinco anos, quando o governo me ofereceu um laboratório completo para tes-tar minhas teorias, uma equipe de físicos experimentais de gabarito internacional e verbas virtualmente ilimitadas, sentime como se estivesse ganhando um segundo Nobel. As condições não eram piores que aquelas que me seriam colocadas, caso aceitasse trabalhar na República guarani, na Confederação germânica ou no Império nipônico. Uma tonelada e pouco de orgulho e como-dismo idiota, mesclada com uma pitada de patriotismo mal aplicado, quase fez com que eu compactuasse involuntariamente com a obliteração do mundo conhecido.
+
+
+  Desde o mestrado no IAG, venho me dedicando a tentar compreender a estrutura das dobras espaçotemporais.
+
+
+  As equações que utilizo na descrição dessa estrutura prevêem a possibilidade teórica do rastreamento do fluxo de perturbação puramente temporal de uma dobra de quarta espécie. Em termos leigos, isto significa a possibilidade de visualização de um conjunto de eventos passados nas proximidades de um objeto massivo. No caso de um sólido com a massa da Terra, a persis-tência máxima do fluxo é de cerca de trezentos e oitenta anos.
+
+
+  Quando regressei à USP para assumir a coordenação científica do Projeto Cronos, não esperava construir uma máquina do tempo. Ao menos, não uma no estilo vitoriano proposto pelo cientista fictício inglês Herbert Wells.
+
+
+  Julguei, contudo, que fôssemos talvez capazes de fabricar uma espécie de“televisor temporal”. Um dispositivo capaz de proporcionar a visualização de eventos históricos pretéritos; uma ferramenta tecnológica poderosa, não apenas como instrumento auxiliar para as pesquisas do Departamento de Historiografia Aplicada da universidade, mas, principalmente, para, através de aplicações ainda sequer imaginadas, modificar a sociedade humana como um todo, tornando a civilização atual mais cônscia do cotidiano complexo das culturas passadas e, por comparação, dos caminhos possíveis para um futuro melhor.
+
+
+  Ingenuidade. Idealismo pueril e incrivelmente tolo.
+
+
+  Realmente — após mais de quatro anos de cálculos, simulações com-putacionais, soluções numéricas e fabricação de componentes, alguns desses implicando o desenvolvimento de tecnologias específicas inteiramente novas— o rastreador ficou pronto. Levamos mais oito meses ajustando o equipamento para a obtenção de hologramas nítidos, e três semanas para graduar a profundidade de penetração temporal do feixe de rastreio. Só então compreendemos que havia algo errado.
+
+
+  O rastreador funcionara perfeitamente. A programação fora corretatanto em nitidez quanto em graduação de profundidade. Entretanto, os hologramas, os próprios hologramas, eram falhos.
+
+
+  Não que houvesse alguma falha de projeto. Apenas os hologramas, a partir de determinado ponto, não retratavam os eventos históricos tal como sabemos que ocorreram.
+
+
+  — Señor Oliveira, está se sentindo bem? Mal tocou em seu filete. A comida não está do seu agrado?
+
+
+  — Está deliciosa — assegurei ao comandante, cujo semblante mostra-va um misto de preocupação e curiosidade. — Estou apenas um pouco indisposto. Enjôo de viagem, creio.
+
+
+  — Passemos à sobremesa, então.
+
+
+  Senti alívio por não ser mais o centro das atenções. A sensação des-vaneceu-se tão logo percebi o cuidado velado com que os dois agentes, praticamente calados durante todo o almoço, examinavam meu comportamento e reações. Procurei disfarçar o melhor possível o calafrio de medo que me percorreu medula acima.
+
+
+  Pensei no que aconteceria caso fosse capturado e levado de volta ao Brasil. O julgamento e a execução não me atemorizavam tanto assim. Muito pior seria a execração pública. Os milhões de rostos irados que, ignorando o propósito que guiara meus atos, pronunciariam apenas aquela mesma palavra odiosa com que o velho imperador fora brindado na partida para o exílio na Europa — “Traidor!”.
+
+
+  Depois da sobremesa, o comandante provou ser um anfitrião de gostos requintados ao mandar que servissem um licor de amêndoas simplesmente soberbo. Infelizmente, fui obrigado a cometer o mais ingrato dos sacrilé-
+
+
+  gios, ao tomar aquele digestivo de qualidade superior sem a apreciação e o prazer gustativo devidos. Engoli o conteúdo do cálice minúsculo num único gole, mal sentindo o bouquet ou o sabor.
+
+
+  Levantei-me, desculpando-me com os demais, e rumei para o camarote com passos rápidos. Não me importei nem um pouco se o Sr. Silva ou Pereira seguia meus movimentos.
+
+
+  
+
+
+
+  Capítulo III
+
+
+
+  Um Mapa Muito Estranho
+
+
+  Senti-me um pouco menos inseguro no camarote. Julguei que os agentes provavelmente não ousariam instalar equipamentos de escuta ali. De qualquer modo, não me arrisquei a ponto de remover a máscara de materialbiossintético que me recobria o rosto.
+
+
+  Liguei o microcomputador do camarote, colocando-o no modo teletexto. Acessei as manchetes dos principais jornais paraguaios e brasileiros.
+
+
+  Ainda não havia notícias sobre a fuga. As edições jornalísticas em teletexto são atualizadas, segundo ouvira falar, a cada três horas. Trinta minutos após a próxima atualização, pensei, se tudo corresse bem, eu estaria desembarcando no porto fluvial de Barranquilla, no lado paraguaio do rio.
+
+
+  Desativei o micro e girei na poltrona do console, passando a fitar a antepara oposta. Havia um mapa fixo num quadro, protegido com vidro e moldura. Reparara que se tratava de um quadro antiquado na ocasião em que estivera brevemente no camarote, antes da partida da barcaza, para guardar meus objetos pessoais no armário.
+
+
+  Observando-o com mais atenção, percebi que o mapa era consideravelmente elaborado. Um trabalho de artista; feito a mão e, ainda assim, per-feito em seus mínimos detalhes e tonalidades, como se houvesse sido execu-tado por computador.
+
+
+  Um mapa da América do Sul. Bem delineado, mostrando o relevo, os principais rios, ilhas e lagos, e as cidades. Como todos os brasileiros, estava acostumado desde a infância aos mapas geopolíticos do subcontinente. É o primeiro a ser apresentado pelos hologramas gerados nos programas educa-cionais — bem no início do módulo de geografia — que os pais comumente alugam para rodar nos micros dos filhos em idade escolar. Uma figura bastante familiar e, no entanto, estranha.
+
+
+  Aquilo, ao menos, mudara pouco desde os meus tempos de menino.
+
+
+  Ultimamente, ouvi dizer que havíamos começado a programar holo-mapas da América do Sul nos quais as cidades e acidentes geográficos das regiões paraguaias, conquistadas durante a Guerra da Tríplice Aliança, apa-reciam designadas em castelhano, e não mais em português, pelos nomes que os paraguaios lhe haviam dado. Cidade de López, no lugar de Porto Alegre? Não sei se gosto disso... Mas, um dia, mais ano menos ano, a sociedade brasileira vai ter de encarar a história de frente: perdemos uma guerra que nossos antepassados consideraram ganha. Uma guerra na qual dispúnhamos aparentemente de todos os trunfos. Não precisamos nos envergonhar pela incompetência dos generais do Império, mas temos de reconhecer os fatos históricos, e parar de nos esconder atrás das desculpas do ‘ ‘poderia-ter-sido--se-tivéssemos-ganho-a-Guerra’’.
+
+
+  Parei de filosofar sobre a “política de avestruz” mantida há mais de um século pela cultura brasileira e fixei a atenção no trabalho do artesão. Creioque foi uma espécie de mecanismo de fuga, algo capaz de me fazer esquecer momentaneamente a crise que culminou em minha fuga no Brasil, após a sabotagem do Projeto.
+
+
+  A Grande República del Paraguay merecia a designação. Numa tonalidade vinho rosado, destacava-se como a maior nação da América do Sul —mesmo sem levar em conta o Protetorado del Mato Grueso, sob o controle econômico e político paraguaio. O território estendia-se, em vermelho-claro, até a margem sul do Amazonas. Apesar de rebatizado em castelhano, o português ainda era, a despeito do esforço das autoridades guaranis, o idioma mais falado na região.
+
+
+  A leste, banhado pelo Atlântico, os dois únicos estados remanescentes do outrora vasto e orgulhoso Império brasileiro, da época anterior à Guerra da Tríplice Aliança. Maior e mais ao norte, em azul-cobalto, escuro a fim de não se confundir com o tom mais claro do oceano, estavam nossos vizinhos de língua portuguesa, a República de Pernambuco, a única ditadura militarista remanescente no subcontinente. Ao sul, menor, porém rico e industrializado— em parte, reconheço a contragosto, graças às reformas econômicas impos-tas durante a Ocupação — está o Brasil. Em verde-claro, o nosso território, antigamente ocupando quase metade do subcontinente, reduzira-se a pouco menos de 1.000.000 km2.
+
+
+  Lembrei-me novamente do outro mapa. Uma figura bidimensional composta por computador a partir de holografias geradas pelo rastreador temporal. Uma América do Sul diferente. O Brasil com um território ainda maior que nos tempos do Império. Um país com as dimensões de continente e, mesmo assim, fraco. Habitado por um povo predominantemente faminto e ignorante. Um país cruel, cujo sistema econômico era o capitalismo sob uma forma ainda mais selvagem que a do Império britânico do século XIX. Um Brasil cujas riquezas estavam concentradas em pouquíssimas mãos, numa situação sem paralelo em qualquer país atual do nosso mundo. O Brasil de uma Terra que não fora beneficiada por quase setenta anos de Pax Paraguaya.
+
+
+  Minhas divagações foram interrompidas por um estalido seco vindo da porta. Eu a trancara e, entretanto, a maçaneta girava.
+
+
+  Mal tive tempo de me erguer da poltrona, quando Silva e Pereira in-gressaram no camarote sem a mínima cerimônia. Silva portava uma pequena pistola-metralhadora, enquanto o outro mantinha as mãos ocupadas com um aparelho minúsculo, certamente o que permitira o desarme da fechadura eletrônica. Pareceu desabilitar o dispositivo e o guardou no bolso da calça.
+
+
+  Comentou em tom de conversa:
+
+
+  — Essas fechaduras antiquadas dão sempre mais trabalho. Imagine, quase dez segundos para desarmar!
+
+
+  Silva lançou-lhe um breve olhar de repreensão. Desviou o cano da arma ligeiramente, de minha cabeça para a antepara alguns centímetros à direita, num gesto calculado cujo objetivo talvez fosse o de me tranqüilizar.
+
+
+  — Permaneça calmo, Sr. Oliveira. Não há o menor motivo para temor.
+
+
+  Somos policiais federais. — Com a mão livre, mostrou um distintivo de plástico metalizado, com as armas nacionais em relevo e sua fotografia colorida com as platinas de oficial sobre os ombros. — Pretendemos apenas revistá-lo e examinar seus documentos.
+
+
+  — Mera questão de rotina — explicou Pereira, dando uma piscadela, enquanto estendia a mão para trás a fim de fechar a porta.
+
+
+  Não reparei o momento em que Herrera entrou no camarote. Sei apenas que deve ter atravessado o pórtico com um salto, antes que Pereira fe-chasse a porta. Num instante eu estava sozinho com os dois agentes, no outro, o oficial do DGI já estava no centro do aposento. Dotado de uma agilidade que eu jamais lhe atribuiria, saltou sobre o maciço Pereira, como um Davi contra Golias. Com um chute aplicado em cheio na face do gigante, derrubou-o no carpete do camarote, onde o agente permaneceu estirado.
+
+
+  O paraguaio não dispôs de muito tempo para colher os louros de sua vitória parcial. Os décimos de segundo que me dispensou, quando procurou, com um breve sorriso, assegurar que tudo estava sob controle, foram bem aproveitados por Silva, que, com um golpe seco com a coronha de sua arma, o colocou desacordado, caído por sobre Pereira.
+
+
+  — Um falso executivo de uma estatal paraguaia vindo em socorro de um industrial brasileiro. — O agente não tentava simular qualquer simpatia.
+
+
+  O cano da pistola voltou a apontar para o meu crânio. — Isto é muito estranho. Creio que minhas suspeitas talvez não sejam tão infundadas assim, não é, professor?
+
+
+  — Não sei do que o senhor esta falando. Irei me queixar ao comandante por sua conduta injustificável! — Reconheço que como blefe minha ameaça fora hilária. Mas, pelo menos, consegui manter o sangue-frio diante das cir-cunstâncias; o que, por si só, já se mostrou muito difícil.
+
+
+  — Certamente irá. — O tom de voz do agente revelou todo o menos-prezo que sentia. — Colaboracionista!
+
+
+  Mesmo oitenta e poucos anos após o término da Ocupação, aquela ainda era considerada uma ofensa grave. Senti o sangue me subir às faces, por baixo da máscara do disfarce.
+
+
+  — Gostaria de apresentar sua reclamação agora, meu caro?
+
+
+  Silva e eu olhamos ao mesmo tempo em direção à porta.
+
+
+  O comandante ingressara em silêncio no aposento. Na mão direita portava uma pistola semi-automática de fabricação paraguaia. Apontava-a de forma inequívoca para o peito do agente. Atrás dele, e também armados, estavam Hans e Inga Hoffmann.
+
+
+  Surpreso e furioso, Silva esteve prestes a reagir. Mas também deve ter notado os outros dois, e o ar de determinação sob a expressão calma de Daross.
+
+
+  Com um palavrão abafado, atendeu ao gesto do comandante e soltou a arma. Inga se aproximou, abaixou-se e recolheu rapidamente a pistola-metralhadora. Hans retirou um rolo de fio sintético de um dos bolsos. Em menos de um minuto, Silva se encontrava imobilizado, bem atado na poltrona.
+
+
+  Hans e o comandante tiveram um trabalho considerável para remover Pereira debaixo do oficial do DGI e colocá-lo sobre a cama, na qual foi amarrado. Durante aquela manobra árdua, Inga manteve-me sob a mira de um revólver minúsculo.
+
+
+  
+
+
+
+  Quando Hans pensou que o trabalho com os fios de neoilo havia terminado, o comandante apontou para Herrera, ainda inconsciente, e emitiu uma ordem em alemão.
+
+
+  Aquilo dissipou qualquer resquício de dúvida. Qualquer pessoa poderia imaginar que Ruiz Daross seria capaz de trair meu país em prol do Paraguai.
+
+
+  Afinal, era a sua pátria. Mas jamais pensaria que estivesse traindo a ambos, em favor dos germânicos. Deveria, contudo, ser bastante graduado nas fileiras do serviço de espionagem alemão, a ponto de estar habilitado a comandar agentes naturais da própria Confederação Germânica.
+
+
+  Hans trouxe uma poltrona de um camarote vizinho. O oficial paraguaio também foi amarrado.
+
+
+  — Pode retirar a máscara, professor Albuquerque. — Daross ainda me parecia simpático e sincero, ainda que eu o considerasse um traidor. Teria ele os seus próprios motivos éticos? — O senhor está entre amigos.
+
+
+  Arranquei o disfarce com cuidado, aliviado, não só pelo desconforto que provocava, como também pelo fato de que não seria mais obrigado, como me parecera minutos antes, a regressar ao Brasil para ser julgado por alta traição.
+
+
+  — Vocês pretendem me seqüestrar?
+
+
+  — Não, é lógico que não! — A indignação da alemã, Inga Hoffmann, ouqualquer que fosse seu nome, pareceu-me autêntica. — Desejamos somente que o senhor esclareça alguns detalhes a respeito do Projeto Cronos. Depois disso, caso concorde, tentaremos levá-lo para a Confederação. Não será um empreendimento fácil ou desprovido de riscos, podemos lhe assegurar. Po-rém, se conseguirmos, o senhor encontrará todas as facilidades imagináveis para voltar a trabalhar em física teórica.
+
+
+  — E que detalhes são esses? — Procurei não me sentir esperançoso.
+
+
+  Abstraindo o problema do idioma, a Confederação talvez se tornasse uma pátria adotiva melhor que a República guarani. Além da perspectiva de viver na mais próspera das potências capitalistas, meus compatriotas não me conside-rariam um colaboracionista.
+
+
+  — Vamos começar do princípio. — O comandante voltou-se para a jovem alemã e pediu em castelhano: — Heidl, por favor, mostre-lhe a fotografia do mapa.
+
+
+  Inga retirou lentamente um envelope pequeno do bolso do casaco.
+
+
+  Passou-o às minhas mãos. Relutante, retirei a radiofoto de seu invólucro.
+
+
+  Um mapa da América do Sul. Levantei rapidamente os olhos ao trabalho artístico fixo na antepara e baixei-os novamente à foto.
+
+
+  As divisões políticas estavam erradas. Faziam com que o subcontinente deixasse de se assemelhar àquele que de fato existe em nosso mundo. OBrasil ocupava metade da área emersa, mantendo as Guianas, o Suriname, a Venezuela e a maior parte da Colômbia, ao norte da linha do equador. Mantidas também foram as terras ao sul de São Paulo e a região ao sul do Protetorado del Mato Grueso anexadas pela República guarani após a Guerra da Tríplice Aliança.
+
+
+  Naquele mapa o próprio Paraguai parecia insignificante. O Protetorado, bem como a República de Pernambuco, não existiam. Em compensação, havia um Uruguai soberano ao sul daquele Brasil gigantesco. Como aspectos secundários, percebia-se que a República do Peru perdera quase metade de seu território para nosso país (território esse que os peruanos não conse-guiram tomar após o fim da guerra); a Colômbia estava sem a sua extensão centro-americana, que se tornara um país independente, segundo um historiador associado ao Projeto. Já a Bolívia e a Confederación Argentina pareciam consideravelmente maiores. Essa última se estendia do sul da Bolívia, onde em nosso mundo é solo paraguaio, até a Tierra del Fuego, que parecia ter conseguido de algum modo compartilhar com o Chile.
+
+
+  Os serviços de espionagem germânicos haviam feito um bom trabalho. Não deveria ter sido fácil obter aquela radiofoto a partir de um hologramado rastreador. Conheci bem o esquema de segurança que cercava as instalações do Projeto.
+
+
+  — Sabemos que o senhor orientou a construção de uma espécie de televisor temporal, professor Albuquerque. — A voz de Daross continuava tão pausada e agradável como sempre. — Um aparelho de grande porte, capaz de exibir eventos passados, de acordo com o que nossos agentes infiltrados nos informaram.
+
+
+  — Não compreendemos, entretanto, a origem desta fotografia. Segundo os relatórios transmitidos, o holograma fotografado retratava o interior de uma sala de um colégio brasileiro onde, há cerca de trinta anos, era ministrada uma lição de geografia. O senhor poderia explicar as discrepâncias existentes no holograma?
+
+
+  — Alguns de nossos pesquisadores levantaram a possibilidade da holografia representar uma película de ciência fictícia, com um enredo de Terra Alternativa. — O jovem alemão era certamente partidário da hipótese que acabara de enunciar.
+
+
+  Touché! Quando garoto devorava os gibis paraguaios de ciência fictícia. Os enredos baseados em Terras Alternativas — onde a divergência quanto a um ou vários eventos históricos pretéritos transformava inteiramente o presente — eram de fato muito interessantes. Haviam sido, sem dúvida, os meus favoritos. Ainda me lembro de uma história na qual os paraguaios e alemães haviam perdido a Guerra Mundial, possibilitando a expansão do Império britânico, até que este englobasse a totalidade do continente afro-eurasiano.
+
+
+  Infelizmente, a realidade superou de longe as imaginações prodigiosas dos mais brilhantes autores de ciência fictícia do modo menos esperado.
+
+
+  Capítulo IV
+
+
+  Interferência Destrutiva
+
+
+  Soltando um longo suspiro, iniciei a explicação:
+
+
+  — O rastreador temporal não conseguia sintonizar os eventos passados na nossa realidade. Do ponto de vista do multicontinuum, era como se essa outra realidade emitisse sinais de fluxo temporal de maior intensidade.
+
+
+  Embora tenha tentado analisar o fenômeno, não possuo uma explicação definitiva da causa que o motivou.
+
+
+  — O senhor não teria uma idéia da razão dessa... interferência? — Otermo utilizado pelo comandante funcionava como analogia, embora estivesse distante do rigor científico mínimo desejável.
+
+
+  — Uma idéia, eu tenho. Aparentemente, por mais estranha que a julguemos, essa realidade alternativa teria uma probabilidade de ocorrência muito maior que a nossa própria realidade.
+
+
+  O jovem Hoffmann, esquecendo grande parte do treinamento científico ao qual certamente fora submetido, inflamou-se, enunciando um argumento falacioso que eu já cansara de ouvir da boca de três ou quatro físicos brilhantes na USP.
+
+
+  — Mas a nossa realidade é a única verdadeira!
+
+
+  — Isto é verdade. — Suprimi o sorriso irônico tão logo me surgiu aos lábios. — Do nosso ponto de vista, é claro. Os cidadãos daquela realidade alternativa também se consideram bastante reais...
+
+
+  — E o são, não é?
+
+
+  Quantas vezes eu próprio não fizera aquela mesma pergunta pertinen-te, agora formulada por Inga/Heidl?
+
+
+  — Tanto quanto nós. Não sabemos quantas realidades diferentes existem, mas todas são indubitavelmente reais em suas próprias estruturas espaçotemporais. Através do rastreador não conseguíamos visualizar nenhuma delas, sequer a nossa, com exceção dessa realidade alternativa em especial.
+
+
+  Tal se dava pelo fato de ela ser, mesmo em relação a nosso próprio continuum, extremamente mais provável. Além de estar consideravelmente próxima, por assim dizer, da realidade que habitamos.
+
+
+  — Compreendo. — Daross respirou fundo e fitou o teto como se estivesse passando uma inspeção no camarote. Soltou o ar e me olhou intensamente. — Este mapa esquisito representa o subcontinente sul-americano como realmente é, em sua própria realidade, não é?
+
+
+  — Exato. Não se trata de ciência fictícia. Se lhes serve de consolo, até consultamos alguns autores, críticos e estudiosos desse gênero literário.
+
+
+  “É apenas um mapa escolar. Verificamos que era utilizado numa sala de aula prosaica, de um colégio de uma cidadezinha do interior da província de Minas Gerais, num ano de 1964 pertencente àquela realidade.
+
+
+  — E em que pontos essa outra realidade difere da nossa?
+
+
+  — São exatamente idênticas, até um determinado ponto crucial, onde ocorreu a divergência, A coincidência total entre as duas linhas históricas em épocas anteriores ao evento-chave foi exaustivamente checada, vasculhando diretamente o passado, e através da leitura indireta dos registros históricos alternativos. Tudo estava era seus devidos lugares, O Antigo Império egípcio; as guerras greco-pérsicas; Roma e Bizâncio; o Renascimento; a expansão ma-rítima ocidental; a independência das colônias americanas; a Revolução Francesa, a Era Napoleônica e o Congresso de Viena; o imperialismo capitalista britânico e todo o resto. Tudo igual. Ao menos, até a Guerra da Tríplice Aliança.
+
+
+  — Lieber Gott! — Hans Hoffmann finalmente compreendera o signi-ficado do mapa de uma maneira visceral. — A Tríplice Aliança derrotou o Paraguai!
+
+
+  Assenti. A alemã não se mostrou satisfeita e pediu detalhes históricos.
+
+
+  — Não sou um historiador profissional. Temo não poder atender sua curiosidade quanto aos pormenores. Mas creio que vocês já devem ter ouvido falar na Batalha Naval do Riachuelo, logo no início da guerra.
+
+
+  Eu próprio lera bastante a respeito nos últimos meses.
+
+
+  Em nossa realidade, o Paraguai impôs uma derrota fragorosa à Armada Imperial, embora suas forças estivessem em inferioridade numérica, graças ao emprego de uma estratégia semelhante à utilizada pelos atenienses para destroçar a esquadra persa na Batalha de Salamina. As chatas paraguaias, pequenas e ágeis, armadas com canhões, atraíram as naus brasileiras para as águas rasas próximas a uma das margens. Ali, encurralados entre o fogo cer-rado das chatas, os bancos de areia e a artilharia guarani instalada em ambas as margens, os navios maiores acabaram encalhando e se tornando presas fáceis.
+
+
+  — Não foi essa vitória que permitiu ao Paraguai manter sob controle o acesso fluvial ao Atlântico? — a pergunta de Ruiz Daross era meramente retó-
+
+
+  rica. Como oficial de Marinha que fora, deveria conhecer os grandes eventos da história militar naval muito melhor do que eu. — Se bem me lembro, meses mais tarde, chegaram os cem mil fuzis de último modelo, fabricados na Europa, e os canhões de grande calibre encomendados por Solano López à Krupp.
+
+
+  Assenti. O comandante da Espírito Santo considerou meu gesto como um estímulo para prosseguir com a “lição”.
+
+
+  — O exército paraguaio jamais foi tão numeroso quanto os estrategistas do seu Império alegaram. Mas eram as tropas mais bem treinadas da América do Sul. O moral era alto, o que era, aliás, compreensível. Afinal, eram homens livres e bem-nutridos que lutavam por sua pátria, enfrentando exércitos de escravos esfarrapados e conscritos famintos. Com o decorrer da guerra, mais soldados foram engrossando as fileiras do exército guarani. Os próprios ex-escravos alistados nas forças do Império desertavam para o lado inimigo.
+
+
+  Os veteranos paraguaios já eram experientes o bastante para treiná-los de forma eficaz.
+
+
+  Os olhos do germano-paraguaio brilhavam intensamente. Ele poderia ser um traidor, mas venerava as proezas militares dos exércitos de López comoo melhor dos patriotas guaranis. Parecia cada vez mais empolgado.
+
+
+  — Rifles de repetição norte-americanos e munição francesa foram adquiridos a preços subsidiados, graças a acordos comerciais feitos às pressas com os governos de Washington e Paris, logo após o final da Guerra Civil Norte-Americana.
+
+
+  “Mas, o mais importante, foi o surgimento no Paraguai de uma classe dirigente forte e fiel a López, oriunda das fileiras militares e cujo florescimento se deveu exclusivamente à Guerra.
+
+
+  — Tudo aconteceu como o senhor expôs, comandante. Em nossa Terra. Porque, nessa realidade alternativa, a esquadra comandada por Taman-daré e Barroso obteve a vitória em Riachuelo, isolando o governo guarani do auxílio externo de que ele tanto necessitava e que de outro modo obteria.
+
+
+  “O Paraguai, entretanto, não se entregou sem luta. Foi necessário quase meia década para que fosse inteiramente derrotado. Seu parque industrial foi metodicamente desmantelado sob supervisão inglesa. Três quartos de sua população foram exterminados durante o conflito, numa autêntica operação de genocídio levada a cabo pelos militares brasileiros.
+
+
+  — Inacreditável! — Depois de todos aqueles meses, eu ainda compar-tilhava da incredulidade e da repulsa contidas na fisionomia da alemã. — Opaís mais progressista da América do Sul, a pátria da revolução industrial humanizada, inteiramente arrasado!
+
+
+  — Arrasado é um eufemismo que não descreve corretamente a situação paraguaia do pós-guerra. Despopulado, despojado de vastas porções de seu território e ocupado militarmente de uma maneira cruel, completamente diferente da ocupação paraguaia ao Brasil que conhecemos, aquele Paraguai jamais se recuperou, como nação e como povo.
+
+
+  — É estranho tentar imaginar um mundo sem a influência paraguaia.
+
+
+  — O comandante parecia prestes a disparar uma saraivada de perguntas. Mas acabou se limitando a uma única. — O Império brasileiro tornou-se uma su-perpotência, ou continuou presa do capitalismo britânico?
+
+
+  — Embora passasse a república duas décadas após a vitória na Guerra com o Paraguai, o país manteve-se até os dias de hoje subordinado aos interesses do capitalismo externo, primeiro do inglês, e depois do norte-americano. Acreditem, é um mundo infinitamente pior que o nosso.
+
+
+  Pensei na situação em que viviam as camadas mais pobres daquela população brasileira. Lembrei as imagens holográficas das famílias miseráveis, residentes em barracos frágeis, quase diáfanos, nas encostas dos morros cariocas. Da fome crônica de centenas de milhares de cidadãos, graças à insensibilidade de um governo que se finge incapaz de eliminar a seca que ainda assola os sertões da vasta região brasileira, que em nosso mundo corresponde à República de Pernambuco.
+
+
+  Meu Deus, eles não se satisfizeram com o genocídio da nação paraguaia... Não! Destruíram também as culturas autóctones, insistindo na prática nefanda de tentar “civilizar” as tribos indígenas através do trinômio religião--álcool-prostituição.
+
+
+  Como explicar tais horrores a terceiros, se eu próprio deles duvidaria, caso não os houvesse presenciado?
+
+
+  Com um nó na garganta, continuei:
+
+
+  — Nessa realidade alternativa, o Brasil é a oitava economia mundial, num planeta onde mesmo os Estados Unidos da América do Norte e o Japão, as maiores potências capitalistas, possuem rendas per capita inferiores à do país onde nasci.
+
+
+  “As riquezas estão tremendamente concentradas nas mãos de uns poucos poderosos, a maioria dos quais serve... conscientemente ou não... a interesses econômicos estranhos ao bem-estar da população e ao desenvolvimento do país. Grande parte dos cidadãos passa necessidade.
+
+
+  Suspirei e retomei o fôlego, bem como um pouco de coragem para re-velar meu pior trauma com aquela realidade alternativa. O fato que em muito me ajudou em minha decisão de arruinar o Projeto.
+
+
+  — Os cidadãos negros e mulatos são bastante discriminados nesse outro Brasil. Recebendo salários ínfimos, eles são relegados à marginalidade, sendo compelidos a viver sob condições de saúde, moradia e educação subumanas, impermeáveis mesmo às pequenas quantidades de bem-estar social que um Estado imoral lhes tenta impor. Um Estado dotado de um sistema econômico muito diferente daquele que fomos obrigados a aceitar por um Paraguai vencedor da Guerra da Tríplice Aliança.
+
+
+  “Aliás, lá eles denominam esse conflito como Guerra do Paraguai.
+
+
+  Silva permanecera calado durante toda a explicação. Não reagira com as ameças esperadas à revelação de seus preciosos segredos de Estado aos espiões alemães. Imerso num mutismo deprimido, ele esteve atento às informações que transmiti aos agentes. Parecia assustado e inteiramente esgo-tado, vazio do propósito que até então o animara. Seus olhos estavam muito abertos, como se estivesse submetido a um pânico paralisante.
+
+
+  Pereira ainda estava desacordado. Já o oficial paraguaio recuperara a consciência. Ensaiou uma censura severa à revelação do segredo do Projeto aos alemães e a Daross. Esse último voltou-se em direção a Hoffmann e emitiuuma ordem lacônica:
+
+
+  — Amordace-o.
+
+
+  — Se praticamente não existia uma República guarani à época da Guerra Mundial, quem auxiliou a Alemanha e o Império austro-húngaro, con-trabalançando a influência do apoio dos norte-americanos ao inimigo? — A garota tinha a presença de espírito para atinar com o óbvio sempre antes dos outros.
+
+
+  — Ninguém.
+
+
+  — A Alemanha deve ter perdido a guerra. — O comandante sentia--se tão arrasado como se aquilo houvesse ocorrido em nossa realidade. Sabia exatamente como era a sensação. — E a Confederação Germânica?
+
+
+  — A Alemanha foi derrotada na Primeira Guerra Mundial. A Confederação jamais chegou a ser criada.
+
+
+  — Primeira Guerra Mundial? — Havia consternação sincera na voz de Hans Hoffmann. — Quer dizer que ocorreram várias?
+
+
+  — Houve uma Segunda Guerra. Com a derrota da Alemanha na Primeira Guerra, o país entrou numa grave crise econômica. Essa crise propiciou o surgimento de um ditador, que reconstruiu a nação e o orgulho de seu povo, remilitarizando-a para levá-la a um novo conflito, muito pior que o primeiro.
+
+
+  Dezenas de milhões de pessoas sucumbiram.
+
+
+  — E a Alemanha atual?
+
+
+  — Paupérrima pelos nossos padrões, embora seja uma das nações mais ricas dessa Terra de pesadelo. Está novamente unificada sob um único governo, após quarenta e cinco anos dividida em dois países distintos.
+
+
+  — E quanto ao resto do mundo? — indagou Hoffmann, mas não iria prestar atenção na resposta. Estava aparentemente aliviado pelo fato de seu país alternativo ter seguido por um caminho comparativamente mais suave que o de seu aliado tradicional.
+
+
+  Respondi apenas para aplacar minha própria necessidade de falar aquilo com alguém.
+
+
+  — Existem os países ricos e os extremamente pobres, divididos por um fosso de incompreensão mútua profundo e crescente. Não há tratados que preconizem a unificação política planetária, mais um sintoma da ausência da Pax Paraguaya. Ocorrem presentemente vários conflitos armados de proporções regionais. Até bem pouco tempo, havia ainda a perspectiva de um conflito termonuclear global, que certamente extinguiria a espécie humana.
+
+
+  Ruiz Daross fitou-me de um modo incrédulo e desesperançado.
+
+
+  — Eles não seriam tão tolos assim. Apenas as colônias selenitas e asbases marcianas sobreviveriam.
+
+
+  — Não existem seres humanos fora da Terra, nessa realidade alternativa. Estão bastante atrasados em termos de tecnologia espacial e áreas correlatas.
+
+
+  O comandante andava de um lado para outro. Parou em frente ao mapa emoldurado, olhando-o como se quisesse se assegurar de sua realidade.
+
+
+  Estava com um ar pensativo quando se voltou para mim e comentou:
+
+
+  — Ainda não compreendo uma coisa. É claro que a descoberta dessa alternativa distorcida o deixou intensamente traumatizado. O mesmo está ocorrendo conosco, ainda que não tenhamos presenciado pessoalmente os eventos descritos. Seria perfeitamente aceitável se o senhor abandonasse o Projeto. Mas, por que fugir de seu país dessa maneira? E, por que a alta cúpula militar brasileira o considera um traidor?
+
+
+  Fitei o piso acarpetado do camarote, não tendo coragem de encarar meus interlocutores. Minha voz saiu num murmúrio.
+
+
+  — Pelo fato de lhes ter frustrado os planos de regressar ao passado para alterá-lo, de modo a permitir que o Brasil vencesse a Guerra da Tríplice Aliança.
+
+
+  
+
+
+
+  Capítulo V
+
+
+
+  Abordagem Direta
+
+
+  — Como? — Daross mostrou-se atônito. — Mais ciência fictícia? Pelo que entendi dos relatórios, a viagem no tempo é impossível. O próprio rastreador só nos permite visualizar o passado.
+
+
+  — Não exatamente impossível. O rastreador não pode ser usado para visualizar um futuro que ainda não existe. Em compensação, poderia funcionar após poucas modificações em seu projeto original como máquina do tempo para viagens em direção ao futuro.
+
+
+  “Viagens ao passado são um assunto diferente. Como se provou há vários anos, voltar ao passado é uma impossibilidade física. A prova dessa impossibilidade é denominada Princípio dos Infinitos Paradoxos.
+
+
+  — A Lei de Albuquerque! — lembrou-se Hoffmann.
+
+
+  Sempre detestei aquela designação.
+
+
+  Não me julgando, de forma alguma, um pedante, desde o início de minha vida acadêmica, fiz questão de pertencer à escola de homens e mulheres de ciência que acreditam ser profundamente constrangedor, além de muito pouco ético, batizar princípios naturais com nomes de pessoas, vivasou falecidas.
+
+
+  — Contudo, existe um caso especial em que uma viagem ao passado seria em tese possível. Isso se daria sempre que houvesse a superposição entre duas realidades alternativas muito próximas. Segundo alguns cálculos, a superposição que detectamos permitiria a transposição de uma realidade para a outra, de uma quantidade de energia equivalente à massa de sessenta e três quilogramas.
+
+
+  “Se essa transposição se tivesse dado do nosso presente para o passado da realidade alternativa, isso não teria representado uma violação do PIP, por se tratar de continua espaçotemporais distintos. Seria necessário, porém, a construção de um rastreador a poucos milhões de quilômetros do Sol, pois o campo gravitacional terrestre é muito fraco para produzir a ruptura de impedância temporal essencial às transposições para o passado. Uma vez no passado, um corpo material decairia forçosamente da outra realidade para a nossa.
+
+
+  — Não estou certa de ter compreendido o processo.
+
+
+  Então, nem todos os agentes alemães recebiam conhecimentos nas áreas das ciências físicas e eram fãs de ciência fictícia... De algum modo, senti--me feliz com a deficiência da Confederação no treinamento de seus agentes.
+
+
+  Mas seu pretenso marido, veio em seu socorro:
+
+
+  — É mais ou menos como se as duas realidades fossem estradas para-lelas. Uma delas está interditada. Mesmo assim, é possível ir de um ponto A até um outro, B, dessa estrada. Para isso, basta que saiamos dela no ponto A, tomando a outra estrada, não interditada, e seguindo por ela até a altura do ponto B. Ali, retornaríamos à estrada original.
+
+
+  Fitei o jovem alemão admirado. Eu não teria conseguido estabelecer uma analogia melhor.
+
+
+  — Você deve ter tido uma formação física e tanto antes de ingressar no serviço secreto germânico...
+
+
+  — Não em ciências físicas, professor. — Pela primeira vez, desde a invasão de meu camarote, via Ruiz Daross sorrir abertamente. Reação histéri-ca? — Hans Hoffmann, ou melhor, Marcel Klein, possui doutorado em ciência fictícia, além de ser um escritor bem estabelecido dentro do gênero, sob o pseudônimo de Daniel Alvarez.
+
+
+  Claro que ouvira falar em Daniel Alvarez. Apreciava seus enredos en-genhosos e originais. Estranho, sempre supus que fosse paraguaio... Bem, o mercado editorial tem razões que a própria razão ignora.
+
+
+  Mas Heidl ainda não estava satisfeita.
+
+
+  — Não compreendo por que o governo brasileiro deseja alterar a nossa realidade. A humanidade permaneceria, é lógico, mas todos os indivíduos provavelmente deixariam de existir, sendo substituídos por outros, diferentes.
+
+
+  — O nosso secretário da Guerra estava perfeitamente ciente disso. É, entretanto, um patriota fanático. Um louco, sob alguns aspectos, ainda pior do que o Hitler de vocês.
+
+
+  — Quem?
+
+
+  — Esqueçam. Era o ditador que levou a Alemanha alternativa à Segunda Guerra Mundial.
+
+
+  — O fato é que muitos brasileiros estariam dispostos a sacrificar suas existências, e a de seus descendentes nascidos e futuros, para transformar o país na maior potência do subcontinente.
+
+
+  — Absurdo! Isto é irracional... — Como germano-paraguaio, o comandante Daross jamais teria uma compreensão emocional plena do quão amarga fora para a nossa nação a derrota na Guerra da Tríplice Aliança.
+
+
+  O brasileiro comum acreditava piamente que, caso houvesse vencido o conflito, seu país ocuparia exatamente o lugar do Paraguai como potência hegemônica no cenário mundial.
+
+
+  — Sei que é um absurdo. Presenciei o que ocorria naquele Brasil e não tive o mínimo desejo de transformar meu país naquela nação de ignorantes e famintos. Um país governado há cem anos, ora por ditadores militares, ora por políticos corruptos e megalômanos, intimamente comprometidos justamente com os interesses que juraram combater.
+
+
+  Observei as fisionomias dos germânicos para verificar se eles haviam compreendido. Olhei para Silva, que permanecia calado, com um ar de derrota na final da Copa estampado na face. Herrera estava calmo. Seus olhos brilhavam, avaliadores, fixos em mim, mesmo quando eu não estava falando.
+
+
+  Mas foi o agente brasileiro quem solicitou que eu prosseguisse. Assenti, surpreendido:
+
+
+  — O secretário da Guerra e seus seguidores não enxergam o óbvio.
+
+
+  Só conseguem pensar num país de idioma português ocupando mais de oito milhões de quilômetros quadrados. Estavam nadando em sonhos de grandeza; prestes a afogar tudo que a civilização humana conseguiu nestes últimos cento e vinte anos.
+
+
+  — Iremos alertar os líderes da Confederação. — Ruiz Daross parecia saído de um transe. — Devemos evitar que o Brasil lance espaçonaves capazes de atingir a órbita de Mercúrio.
+
+
+  — Não há motivo para a pressa. A superposição entre as duas realidades não existe mais. Foi definitivamente destruída, quando emiti mais desessenta quilos de água da piscina do centro esportivo da universidade para o futuro alternativo.
+
+
+  “O rastreador ficou em frangalhos. Cinco pessoas morreram durante a explosão que se seguiu ao processo de transmissão. Algumas delas eram minhas amigas. Sinto bastante por elas, mas não me arrependo do que fiz.
+
+
+  — Eles podem construir outro aparelho... — A queixa da alemã se as-semelhou ao muxoxo de uma criancinha amuada.
+
+
+  — Caso o façam, focalizarão apenas o bom e velho passado da nossa realidade. Como já disse, a superposição foi eliminada. Não importa o sentido da emissão dessa energia equivalente aos sessenta quilos de massa: uma vez emitida, as duas realidades tornaram-se inteiramente impermeáveis uma à outra.
+
+
+  Hoffmann/Klein/Alvarez explicitou o óbvio, afirmando:
+
+
+  — Para a nossa própria realidade, vale o PIP, tornando impossível qualquer tentativa de manipulação do passado.
+
+
+  Silva suspirou aliviado. Os três agentes da Confederação ficaram em silêncio durante um bom tempo. Pareciam estar digerindo lentamente as informações que lhes transmitira. Após alguns minutos, os dois jovens olharam para o comandante, e este assentiu. A seguir, dirigiu-me a palavra num tom de desculpas:
+
+
+  — Espero que compreenda, professor. Por uma questão de segurança, seremos obrigados a submeter os dois policiais federais de seu país a uma lavagem cerebral. Sofrerão uma amnésia permanente em relação aos últimos dois ou três dias.
+
+
+  — Isso é realmente necessário? Parece-me tão bárbaro.
+
+
+  — Uma solução drástica, não há dúvida. Mas, preferível a eliminá-los pura e simplesmente. — Daross sabia ser persuasivo.
+
+
+  — E quanto ao mayor Herrera?
+
+
+  — A República guarani e a Confederação têm sido aliadas leais há mais de oitenta anos. E, neste caso em particular, não possuímos interesses conflitantes. — Fez um gesto para Hoffmann, ordenando-lhe que soltasse o paraguaio.
+
+
+  Herrera levantou-se da poltrona desconfortável, exercitando as articulações e os músculos adormecidos. Gemeu um pouco, sem perder a pose ou a dignidade.
+
+
+  Herrera estalou os dedos das mãos. Preparou-se para falar algo, mas foi interrompido por um gesto do comandante, pedindo silêncio a todos.
+
+
+  Daross pareceu tentar escutar alguma coisa. Quase poderíamos ouviras batidas suaves das rodas de pás nas águas do Paranapanema...
+
+
+  — O motor não está virando! — Havia tensão na voz do comandante.
+
+
+  Ele fitou o agente brasileiro com um ar inquisitivo e se voltou para o alemão.
+
+
+  — Marcel, verifique o que está havendo.
+
+
+  — Isto está parecendo estratégia à brasileira, señor comandante —opinou Herrera, alisando calmamente o bigode. — Eu não duvidaria nada se já houvesse fuzileiros navais a bordo.
+
+
+  Daross fitou-o como se o paraguaio fosse o responsável pela súbita parada do barco. Mas Herrera estava certo.
+
+
+  Menos de um minuto mais tarde, Klein regressou. Viera escoltado por dois homens com o uniforme vinho tinto dos taifeiros da Espírito Santo e uma mulher travestida de arrumadeira. Portavam pistolas Taurus 7,65mm decididamente apontadas para nós. Prestaram uma respeitosa continência ao agente amarrado, sem se descuidar durante um só segundo de nós cinco. Os três possuíam uma postura militar rígida, estranhamente destoante de seus cabelos molhados.
+
+
+  A mulher empurrou Klein para a frente, fazendo-o tropeçar. Ordenou em português:
+
+
+  — Larguem as armas. Não adianta tentar resistir. Temos a situação sob controle. Existem soldados no passadiço, na sala de propulsão e nas cobertas de boreste e bombordo.
+
+
+  Os alemães olharam para Daross, que assentiu em silêncio. Os três depositaram cuidadosamente as pistolas e o revólver sobre o carpete do camarote.
+
+
+  A “arrumadeira” gesticulou a seus comandados. Um dos “taifeiros” recolheu o armamento dos agentes germânicos, armazenando-o dentro de uma mochila em completo desacordo com o resto de seu disfarce. Apontou para o alemão e em seguida para Silva.
+
+
+  Klein se voltou para o comandante, que piscou quase imperceptivelmente em assentimento.
+
+
+  Quando Silva finalmente ficou de pé, os três recém-chegados se per-filaram em sentido, mantendo, porém, as armas apontadas. A mulher falou em tom ríspido:
+
+
+  — Saudações, capitão Gonçalves. Primeiro-tenente Ferret, sargento Avelar e cabo Moura, do Corpo de Fuzileiros Navais, apresentando-se e a seu comando.
+
+
+  — Obrigado, tenente Ferret. — Silva respondeu à continência, relaxa-do. Aceitou uma pistola alemã que um dos fuzileiros lhe passou, e se voltoupara nós, pedindo num tom cansado. — Sr. Oliveira e Señor Herrera, por gen-tileza, soltem o tenente Marques.
+
+
+  Eu e Herrera nos entreolhamos sem entender nada. Silva, Gonçalves, ou como quer que se chamasse, continuava a empregar os nossos nomes falsos. Enquanto desamarrávamos o agente desacordado, a tenente fuzileira apresentou um breve relato da situação a seu superior.
+
+
+  — Estamos com o submarino Tietê atracado a meio-navio pelo bordo de boreste, um metro abaixo da linha-d’água. Temos todos os postos importantes da embarcação sob controle. O comandante Barbosa solicitou que o senhor conduzisse o traidor para bordo o mais rápido possível.
+
+
+  Chegara a minha hora. No fundo, sempre julguei que seria capturado e levado de volta ao Brasil. Lá, antes do julgamento, eu seria certamente submetido à execração pública. Era como se eu devesse pagar pela salvação de nossa civilização não apenas com minha existência, mas com a própria honra.
+
+
+  Uma honra que deveria ser muito em breve degradada.
+
+
+  Entretanto, o capitão da polícia federal se limitou a me fitar demora-damente. Percebi em sua fisionomia a expressão de quem se esforçava para tomar uma decisão importante.
+
+
+  — Excelente, tenente. — Sua voz aparentava calma e tranqüilidade.
+
+
+  Mas seus olhos contavam outra história. — Houve, no entanto, um engano.
+
+
+  Este homem não é o professor Albuquerque Vieira.
+
+
+  Eu mal acreditei no que ouvi.
+
+
+  — Mas, senhor, ele se parece muito com as fotografias que examina-mos antes do início da missão...
+
+
+  — De fato. Foi precisamente isso que me levou a transmitir a mensa-gem, dizendo que julgávamos ter encontrado o traidor.
+
+
+  — Senhor! Seu relatório afirmava que o suspeito utilizava um disfarce. — A fuzileira estava bastante confusa. O que o capitão dizia não batia com as informações que recebera. As declarações de um oficial da polícia federal estavam, contudo, acima de qualquer suspeita. — Quem são essas pessoas?Porque elas amarraram o senhor e o tenente Marques?
+
+
+  — Os dois alemães pertencem ao serviço secreto germânico. O comandante da barcaza é um agente duplo a soldo da Confederação. Tivemos uma pequena escaramuça neste camarote e, como vocês mesmos puderam constatar, nós levamos a pior. Os outros dois são o Sr. Oliveira, um industrial paulista, a quem deveríamos pedir desculpas pela confusão, e o señor Herrera, um executivo da Companía de Petróleo del Paraguay. Verifiquei que eles são exatamente o que parecem.
+
+
+  — Muito bem, senhor. Devemos eliminar os espiões confederados?
+
+
+
+  — Em hipótese alguma. Isso chamaria uma atenção indevida para a nossa operação, e provavelmente atrapalharia a caçada ao verdadeiro traidor.
+
+
+  — O senhor tem razão, capitão. Mandarei subir o lavador de cérebros para apagar-lhes a lembrança de nossa estada aqui.
+
+
+  — Negativo, tenente. Já desperdiçamos tempo demasiado nesse barco. Tranquem os cinco no banheiro do camarote. Antes que consigam sair, es-taremos a bordo do seu submarino. Vamos deixar os problemas diplomáticos que porventura surjam a cargo do Itamarati.
+
+
+  — Sim, senhor. — A tenente ordenou a seus homens que nos condu-zissem ao acanhado banheiro do aposento. Ainda consegui ouvir seu tom de comando. — Moura, chame alguém para ajudá-lo a levar o tenente Marques ao Tietê.
+
+
+  Antes que nos trancassem no banheiro, Silva se aproximou de mim e, fingindo me empurrar para dentro, colocou-me a mão sobre o ombro e sussurrou em meu ouvido, de modo que nossos compatriotas não pudessem ouvi-lo:
+
+
+  — Cuide-se bem, professor. E jamais regresse ao Brasil.
+
+
+  — Obrigado por tudo! — balbuciei emocionado para uma porta fe-chada.
+
+
+  
+
+
+
+  Herrera conseguiu forçar a porta com uma apara de aço que Klein e Daross haviam arrancado do armário do banheiro. Novamente no camarote, Heidl não resistiu mais e perguntou:
+
+
+  — E então, professor? Creio que o Señor Herrera não se oporá, caso decida vir conosco para a Confederação.
+
+
+  Pensei novamente naquele Brasil horroroso. Lá, um negro ou mulato seria sempre considerado um cidadão de segunda classe.
+
+
+  Na Confederação Germânica, eu receberia um tratamento excelente.
+
+
+  São insuportavelmente racistas, é certo. Mas, modéstia à parte, tenho uma reputação sólida o bastante para me abrir a maioria das portas, tanto no meio científico-acadêmico, quanto no social.
+
+
+  Deveria, é claro, compactuar com o preconceito que eles nutriam contra os outros negros. Não tinha a mínima dúvida que me tratariam com o respeito devido. Não por me considerarem um ser humano igual a eles e, como tal, merecer um tratamento condigno. Mas apenas por me julgarem um gênio.
+
+
+  Um gênio?
+
+
+  Se fosse tão inteligente quanto as pessoas alardeavam, não teria memetido naquela confusão toda.
+
+
+  Depois do que presenciei nos hologramas do rastreador, algo se rom-pera dentro de mim. Não consigo mais ignorar a discriminação racial e as outras formas de preconceito que também existem em nossa própria realidade.
+
+
+  Mas as pessoas não são, nem jamais foram, aqui ou lá, obrigadas a fechar os olhos.
+
+
+  A República guarani aceitara em seu território, ampliado após a vitória na guerra, todos os negros que para lá desejaram imigrar após a abolição da escravatura que impusera ao inimigo derrotado. Uma vez no país adotivo, os ex-escravos receberam títulos de propriedade em terras agricultáveis e, junto com eles, todos os direitos e deveres inerentes ao status da cidadania plena.
+
+
+  Sim. Eu tomara a minha decisão. Não me importava mais se meus compatriotas me considerassem um traidor. Em meu favor, ao menos, vou poder dizer sempre que me mantive fiel aos meus ideais, à minha ética pessoal.
+
+
+  — Sinto muitíssimo, cavalheiros e senhorita. Estou bastante honrado, mas não posso aceitá-lo.
+
+
+  Os alemães e o comandante receberam minha recusa com uma re-signação fleumática. Já Herrera sorria, radiante, e não parava de me aplicar tapinhas nas costas, atitude que, presumo, considerava amigável.
+
+
+  — Está bem, Herrera. Vamos para Porto Alegre.
+
+
+  — Ciudad de López! — corrigiu ele, rindo.
+
+
+  — Que seja. — Acho que os paraguaios têm uma certa dose de razão quando afirmam que nós temos dificuldades em aceitar uns poucos fatos históricos consumados. O secretário da Guerra é apenas um caso agudo dessa moléstia que atinge, em maior ou menor grau, todos os brasileiros da nossa realidade. — Já estou antevendo que terei de orientar a construção de outro rastreador, antes que o seu governo me deixe sossegado, com as minhas equações de dobras espaçotemporais...
+
+
+  — Começo a perceber que sua vasta perspicácia e decantada capacidade intelectual não se limitam à física teórica, meu caríssimo professor.
+
+
+  — Você sabe muito bem onde deve enfiar essa decantada capacidade, não é?
+
+
+  — Ah, o insuperável senso de humor brasileiro! De que vale uma vitória na Guerra da Tríplice Aliança diante dessa dádiva?
+
+
+  Tive certeza de que aquela seria uma viagem muito longa.
+
+
+  
+
+
+
